@@ -23,7 +23,7 @@ email: info@balzadelsole.com
 description: >- # this means to ignore newlines until "baseurl:"
   Guida ambientale escursionistica. Giri, sentieri, itinerari, rifugi, trekking, escursioni, montagna.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://marcotriches.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: balzadelsole
 facebook_username: balzadelsole
 permalink: /:categories/:title:output_ext
