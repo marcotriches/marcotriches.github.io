@@ -1,0 +1,46 @@
+<div id="grid">
+  {% for post in site.posts %}  
+  {% if post.category != "diari" and post.category != "radio" %}  
+    <div class="media-box  {% for category in post.categories %} {{category}} {% endfor %} ">
+        <div class="media-box-image {% for category in post.categories %} {{category}} {% endfor %} ">
+            <div data-width="320" data-height="214" data-thumbnail="{{site.url }}/img/{{post.image }}"></div>
+            
+            <!--<div class="thumbnail-overlay">
+              <a href="#" class="btn btn-sm btn-default"><span class="fa fa-shopping-cart"></span>&nbsp; Add To Cart</a>
+                  <a href="#" class="mb-open-popup btn btn-sm btn-default" data-src="gallery/img-37.jpg" data-title="Dolor sit amet">
+                    <span class="fa fa-search"></span>&nbsp; View Larger
+                  </a>
+            </div>-->
+        </div>
+
+        <div class="media-box-content">
+            <div class="media-box-title">
+              <a href="{{ post.url | relative_url }}">
+                <h3>{{ post.title | escape }}</h3>
+              </a>
+            </div>
+            
+            <div class="meeting">
+              <span>Data:</span> <span>{{post.day }}</span><br>
+              <span>Ritrovo ore:</span> <span>{{post.meeting }}</span><br>
+              <span>Difficoltà:</span> 
+                {% if post.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
+                {% if post.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
+                {% if post.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+                {% if post.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+                {% if post.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
+              <div class="prenota">
+                <a>Prenota</a>
+              </div>
+            </div>
+        </div>
+    </div>
+  {% endif %} 
+  {% endfor %}      
+</div>
+
+{% if page.layout == 'home' %}
+    <div class="view-more">
+      <a href="/escursioni">Vedi tutte le escursioni</a>
+    </div>
+{% endif %}

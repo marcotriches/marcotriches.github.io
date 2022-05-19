@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+  <body>
+
+    {% include header.html %}
+    {% if page.layout == 'home' %}
+      {% include home-bg.html %}
+    {% endif %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper main-wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% if page.layout == 'home' %}
+      {%- include gallery.html -%}
+    {% endif %}
+   
+    {%- include footer.html -%}
+
+    {% if page.layout == 'home'%}
+     <!-- jQuery 1.8+ -->
+    	<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
+	
+     <!-- Media Boxes JS files -->
+    	<script src="../plugin/components/Isotope/jquery.isotope.min.js"></script>
+    	<script src="../plugin/components/imagesLoaded/jquery.imagesLoaded.min.js"></script>
+    	<script src="../plugin/components/Transit/jquery.transit.min.js"></script>
+    	<script src="../plugin/components/jQuery Easing/jquery.easing.js"></script>
+    	<script src="../plugin/components/jQuery Visible/jquery.visible.min.js"></script>
+    	<script src="../plugin/components/Modernizr/modernizr.custom.min.js"></script>
+    	<script src="../plugin/components/Magnific Popup/jquery.magnific-popup.min.js"></script>
+    	<script src="../plugin/js/jquery.mediaBoxes.dropdown.js"></script>
+    	<script src="../plugin/js/jquery.mediaBoxes.js"></script>
+
+    	<script>
+        $('#grid').mediaBoxes({
+          filterContainer: '#filter',
+          search: '#search',
+          columns: 3,
+          horizontalSpaceBetweenBoxes:25,
+          verticalSpaceBetweenBoxes:35,
+          boxesToLoadStart: 6,
+          boxesToLoad: 0,
+          deepLinkingOnFilter: false,
+          LoadingWord: 'Caricamento...',
+          loadMoreWord: '',
+          noMoreEntriesWord: ''
+        }); 
+       </script>
+    {% endif %}
+
+    {% if page.layout == 'escursioni'%}
+     <!-- jQuery 1.8+ -->
+    	<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
+	
+     <!-- Media Boxes JS files -->
+    	<script src="../plugin/components/Isotope/jquery.isotope.min.js"></script>
+    	<script src="../plugin/components/imagesLoaded/jquery.imagesLoaded.min.js"></script>
+    	<script src="../plugin/components/Transit/jquery.transit.min.js"></script>
+    	<script src="../plugin/components/jQuery Easing/jquery.easing.js"></script>
+    	<script src="../plugin/components/jQuery Visible/jquery.visible.min.js"></script>
+    	<script src="../plugin/components/Modernizr/modernizr.custom.min.js"></script>
+    	<script src="../plugin/components/Magnific Popup/jquery.magnific-popup.min.js"></script>
+    	<script src="../plugin/js/jquery.mediaBoxes.dropdown.js"></script>
+    	<script src="../plugin/js/jquery.mediaBoxes.js"></script>
+
+    	<script>
+        $('#grid').mediaBoxes({
+          filterContainer: '#filter',
+          columns: 3,
+          boxesToLoadStart: 6,
+          boxesToLoad: 6,
+          horizontalSpaceBetweenBoxes: 45,
+          verticalSpaceBetweenBoxes: 45,
+          LoadingWord: 'Caricamento...',
+          loadMoreWord: 'Carica altro',
+          noMoreEntriesWord: ''
+        }); 
+       </script>
+    {% endif %}
+    
+    
+
+
+  </body>
+
+</html>

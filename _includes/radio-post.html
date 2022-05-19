@@ -1,0 +1,12 @@
+<div>
+    {% for post in site.categories.radio %}
+    <div>
+        {{ post.title }}
+    </div>  
+    <div>
+        <audio controls>
+            <source src="{{ site.url }}/audio/{{ post.audio }}" type="audio/mpeg">
+        </audio>
+    </div>  
+    {% endfor %}
+</div>

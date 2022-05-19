@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2 class="page-heading">{{page.title | escape}}</h2>
+
+{%- include escursioni-description.html -%}
+
+<h2 class="page-heading">In programma</h2>
+
+{%- include escursioni-filter.html -%}
+
+{%- include escursioni-loop.html -%}
+
+{{ content }}

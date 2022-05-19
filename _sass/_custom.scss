@@ -1,0 +1,512 @@
+// VARIABLES
+$color-primary: #d69e2e;
+$color-primary-darker:#775818;
+$color-link: #4a5568;
+$grayishBlue: hsl(229, 6%, 66%);
+$color-appennino: hsl(0, 78%, 62%);
+$color-dolomiti: hsl(34, 97%, 64%);
+$color-erborista: hsl(180, 62%, 55%);
+$color-misto: hsl(212, 86%, 64%);
+
+// GENERAL
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+a{
+    color:$color-link;
+    font-weight: 700;
+}
+
+a:hover{
+    color:black;
+}
+
+a:visited {
+    color: $color-link;
+}
+
+.page-heading{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.smaller{
+    font-size: 80%;
+}
+
+.main-wrapper{
+    min-height: 100vh;
+}
+
+// HEADER
+.site-header{
+    background-color: $color-primary;
+    color:white;
+    
+    .page-link, .site-title{
+        color: white
+    }
+
+    .site-nav{
+        background-color: $color-primary;
+    }
+}
+
+
+// FOOTER
+
+.site-footer{
+    background-color: $color-primary;
+    color:white;
+    
+    a,p,li {
+        color: white;
+    }
+    .svg-icon {
+        fill:white;
+    }
+    ul .social-media-list{
+        margin-top: 1rem;
+        li{
+            width: 40px;
+            display: inline;
+        }
+    }
+    
+}
+
+// HOME PAGE
+
+.full-bg{
+  padding-top: 3rem;
+  height:70vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  h1,h2{
+      color: white;
+  }
+  h1 {
+    font-family: 'Prata', serif;
+  }
+}
+
+.view-more{
+    padding: 0.4rem 0.9rem;
+    margin:2rem;
+    text-align: center;
+    width:180px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: $grayishBlue;
+    border-radius: 5px;
+    a{
+        color: $grayishBlue;
+    }
+}
+
+.view-more:hover{
+    background: $grayishBlue; 
+    a{
+        color:white;
+    }
+}
+
+
+
+//escursioni description
+.esc-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .appennino {
+        border-top: 3px solid $color-appennino;
+    }
+    .dolomiti{
+        border-top: 3px solid $color-dolomiti;
+    }
+    .erborista{
+        border-top: 3px solid $color-erborista;
+    }
+    .misto{
+        border-top: 3px solid $color-misto;
+    }
+}
+.esc-header {
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    img {
+        height: 200px;
+        width: 200px;
+        object-fit: cover;
+        margin-top: 1rem;
+        border-radius: 50%;
+    }
+}
+
+.esc-desc{
+    border-radius: 5px;
+    box-shadow: 0px 30px 40px -20px $grayishBlue;
+    padding: 3rem;
+    margin: 2rem;  
+    flex-basis: 30%;
+ 
+
+    p {
+        color: $grayishBlue;
+    }
+    
+    h2{
+        color: black;
+        text-align: center;
+        line-height: 1;
+        font-weight:700;
+        margin-bottom: 2rem;
+    }
+
+}
+
+
+
+
+// FILTER BAR
+ 
+ .filters-container{
+   margin-bottom: 25px;
+ }
+
+ .filters-container:after {
+   content: " ";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+ }
+
+.media-boxes-filter{
+   font-size: 0px;
+   list-style: none;
+   margin: 0;
+   padding: 0px;
+   text-align: left;
+   text-align: center;
+}
+
+ .media-boxes-filter>li{
+   display: inline-block;
+   margin: 0 10px 5px 0;
+
+   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+      -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+           box-sizing: border-box;         /* Opera/IE 8+ */
+ }
+
+ .media-boxes-filter>li:last-child{
+   margin-right: 0 !important;
+ }
+
+ .media-boxes-filter>li a{
+   -webkit-box-sizing: content-box !important; /* Safari/Chrome, other WebKit */
+      -moz-box-sizing: content-box !important;    /* Firefox, other Gecko */
+           box-sizing: content-box !important;         /* Opera/IE 8+ */
+
+   vertical-align: top;
+   font-weight: 700;
+   display: block;
+   cursor: pointer;
+   color: $color-link;
+   font-size: 16px;
+   height: 38px;
+   line-height: 38px;
+   text-decoration: none;
+   margin: 0px;
+   padding: 0 15px;
+
+}
+
+.media-boxes-filter>li a:hover{
+    text-decoration: overline;
+}
+
+.media-boxes-filter>li a.selected{
+    text-decoration: underline;
+}
+
+
+.media-box{
+
+    .appennino {
+        border-top: 3px solid $color-appennino;
+    }
+    .dolomiti{
+        border-top: 3px solid $color-dolomiti;
+    }
+    .erborista{
+        border-top: 3px solid $color-erborista;
+    }
+    .misto{
+        border-top: 3px solid $color-misto;
+    }
+}
+
+.media-box-image{
+    border-radius: 5px;
+}
+
+.media-box-container{
+   
+}
+
+.media-box-title{
+    margin-top:20px;
+    min-height: 60px;
+}
+
+.meeting{
+     padding-bottom:2rem;
+     hr{
+       
+        margin-bottom:1rem;
+        height:1px; border:none; color:#000; background-color:#000;
+     }
+     img{
+         width: 90px;
+     }
+}
+
+.prenota{
+    width:90px;
+    border-color:$color-primary;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 0.4rem 0.9rem;
+    text-align: center;
+    margin-top: 2rem;
+    
+    a{
+        color:$color-primary;
+    }
+}
+
+.prenota:hover {
+    background-color:$color-primary;
+    
+    a{
+        color:white;
+    }
+}
+
+// GALLERY
+.gallery{
+    margin-top: 2rem;
+    ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    }
+
+    li {
+    height: 40vh;
+    flex-grow: 1;
+    }
+
+    li:last-child {
+    // There's no science in using "10" here. In all my testing, this delivered the best results.
+    flex-grow: 10;
+    }
+
+    img {
+        max-height: 100%;
+        min-width: 100%;
+        object-fit: cover;
+        vertical-align: bottom;
+    }
+}
+
+// ADVANCED
+      
+      // Portrait
+      
+      @media (max-aspect-ratio: 1/1) {
+        .gallery li {
+          height: 30vh;
+        }
+      }
+      
+      // Short screens
+      
+      @media (max-height: 480px) {
+        .gallery li {
+          height: 80vh;
+        }
+      }
+      
+      // Smaller screens in portrait
+      
+      @media (max-aspect-ratio: 1/1) and (max-width: 480px) {
+        .gallery ul {
+          flex-direction: row;
+        }
+        .gallery li {
+          height: auto;
+          width: 100%;
+        }
+        .gallery img {
+          width: 100%;
+          max-height: 75vh;
+          min-width: 0;
+        }
+      }
+
+//BLOG
+
+.blog{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.blog-first{
+    width: 70%;
+}
+
+.blog-main{
+
+}
+
+.blog-second{
+    width: 30%;   
+}
+
+.diari{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-block: 2rem;
+    gap: 2rem;
+
+    .card {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        overflow: hidden;
+        box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
+        border-radius: 0.4em;
+    }
+
+    .card__header{
+
+        img{
+            max-width: 100%;
+            height: 200px;
+            display: block;
+            object-fit: cover;
+        }
+    }
+
+    .card__title{
+        padding: 1rem 1rem 0rem 1rem;
+        min-height: 70px;
+    }
+
+    .card__body {
+        padding: 0rem 1rem 1rem 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: .5rem;
+    }
+      
+      
+    .card__footer {
+        display: flex;
+        padding: 0rem 1rem 1rem 1rem;
+        margin-top: auto;
+    }
+    
+    .user {
+        display: flex;
+        gap: .5rem;
+    }
+      
+    .user__image {
+        border-radius: 50%;
+        width:50px;
+        height:50px;
+        display: block;
+        object-fit: cover;
+    }
+    
+    .user__info {
+        margin-bottom:0;
+
+        .user__author{
+            margin-top:0.2rem;
+            display: block;
+        }
+       
+        small {
+            color: $grayishBlue;
+            margin: 0;
+        }
+
+    } 
+      
+}
+
+@media (max-width: 700px) {
+    .blog-first{
+        width: 100%;
+    }
+
+    .blog-second{
+        width: 100%;   
+    }
+    
+  }
+
+  // POST
+.post-info{
+    width:30%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    span{
+       font-size: large;
+    }
+}
+
+
+.post-content{
+    width:70%;
+    margin-left: 30%;
+    margin-top: -190px;
+}
+
+.main-img{
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    img{
+        width: 100%;
+    }
+
+}
+

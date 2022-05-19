@@ -1,0 +1,23 @@
+---
+layout: default
+
+---
+
+
+<h2 class="page-heading">{{page.title | escape}}</h2>
+
+<div class="blog">
+  
+  <div class="{% if page.title == 'Diari' %} blog-first {% endif %}">
+    <div class="blog-main">
+      {% include blog-post.html %}
+    </div>
+  </div>
+
+  {% if page.title == 'Diari' %}
+      <h3 class="page-heading left">Fatti di Montagna</h3>
+  {% endif %}
+
+  {{ content }}
+
+</div>

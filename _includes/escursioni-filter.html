@@ -1,0 +1,13 @@
+<div class="filters-container">
+
+    <ul class="media-boxes-filter" id="filter">
+      <li><a class="selected" href="#" data-filter="*">Tutte</a></li>
+      {% for category in site.categories %}
+        {% unless category contains 'diari' or category contains 'radio' %} 
+            <li class="tooltip"><a href="#" data-filter=".{{ category | first }}">{{ category | first }}</a></li>
+        {% endunless %}
+      {% endfor %}
+     
+    </ul>
+
+</div>

@@ -1,0 +1,42 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"><strong>{{ site.title | escape | markdownify }}</strong></h2>
+
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col footer-col-3">
+        <p ><i>{{ site.description | escape | markdownify }}</i></p>
+      </div>
+
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+            <li>
+              {%- include social.html -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+       <div>Newsletter</div>
+      </div>
+    </div>
+    
+    <div> 
+      <p>© {{ 'now' | date: "%Y" }}, &nbsp;
+      {%- if site.author -%}
+      {{ site.author | escape }}
+        {%- else -%}
+        {{ site.title | escape }}
+      {%- endif -%}
+      </p>
+    </div>
+
+  </div>
+  
+</footer>
