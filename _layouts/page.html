@@ -5,9 +5,14 @@ layout: default
 
   <header class="post-header">
     <h2 class="page-heading">{{page.title | escape}}</h2>
-
   </header>
 
+  {% if page.title == 'About' %}
+  <div class="main-img">
+    <img class="main-img" src="/img/{{page.image}}"/>
+  </div>
+  {% endif %}
+ 
   <div class="post-content">
     {{ content }}
   </div>

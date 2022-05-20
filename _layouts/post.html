@@ -11,7 +11,9 @@ layout: default
       {% else %}
       {% endif %}
     </p>
-    <img class="main-img" src="/img/{{page.image}}"/>
+    <div class="main-img">
+     <img class="main-img" src="/img/{{page.image}}"/>
+    </div>
   </header>
   {% if page.category == "diari" %}
     {{page.content }}
@@ -30,7 +32,7 @@ layout: default
       </div>
     </div>
 
-    <div class="post-content e-content" itemprop="articleBody">
+    <div class="post-content-esc e-content" itemprop="articleBody">
       {{ content }}
     </div>
   {% endif %}

@@ -64,7 +64,9 @@ a:visited {
 
 
 // FOOTER
-
+.logo-footer{
+    width: 50px;
+}
 .site-footer{
     background-color: $color-primary;
     color:white;
@@ -494,7 +496,7 @@ a:visited {
 }
 
 
-.post-content{
+.post-content-esc{
     width:70%;
     margin-left: 30%;
     margin-top: -190px;
