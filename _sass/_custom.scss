@@ -90,7 +90,7 @@ a:visited {
 // HOME PAGE
 
 .full-bg{
-  flex:0 0 100%;
+  width:100%;
   padding-top: 3rem;
   height:70vh;
   -webkit-background-size: cover;
@@ -516,6 +516,9 @@ a:visited {
 // RADIO
 
 .radio-main{
-    text-align: center
-    ;
+    text-align: center;
+}
+
+.radio-title{
+    margin-bottom:0px;
 }
