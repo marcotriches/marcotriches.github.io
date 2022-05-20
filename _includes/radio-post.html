@@ -1,7 +1,9 @@
 <div>
     {% for post in site.categories.radio %}
     <div>
-        {{ post.title }}
+        <h2 class="bold">{{ post.title }}</h2>
+        <small> {{post.date | date: "%d/%m/%Y"}}</small> 
+        {{ post.content }}
     </div>  
     <div>
         <audio controls>
