@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Gola Furlo - Monte Paganuccio (PU)"
+title:  "Sopralluogo a Montalto Tarugo"
 date:   2021-02-19 18:20:48 +0100
-day: "sab, 06 feb 2021"
-meeting: "9:30"
-category: appennino
-difficult: 1
+category: diari
 image: gola-del-furlo.jpg
 ---
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!

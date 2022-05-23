@@ -64,6 +64,22 @@ a:visited {
 
 
 // FOOTER
+@media (max-width: 700px) {
+    .site-footer{
+    text-align: center;
+    }
+    
+    .logo-container{
+       width: 300px;
+       margin-left: auto;
+       margin-right: auto;
+       
+       .logo-footer{
+           margin-left: 2rem;
+        }
+    }
+}
+
 .logo-container{
     display: flex;
     align-items: flex-end;
@@ -405,12 +421,13 @@ a:visited {
     width: 70%;
 }
 
-.blog-main{
-
-}
 
 .blog-second{
     width: 30%;   
+}
+
+.diari-content{
+    width: 80%;   
 }
 
 .diari{
@@ -489,15 +506,37 @@ a:visited {
 }
 
 @media (max-width: 700px) {
+    .diari-content{
+        width: 100%;   
+    }
+
+    .diari{
+        display: block;
+    }
+
+    .card{
+        display: block !important;
+        width: 100% !important;
+    }
+    .card__header{
+
+        img{
+            height: auto !important;
+        }
+    }
+
     .blog-first{
         width: 100%;
     }
 
     .blog-second{
-        width: 100%;   
+        width: 100%;  
+        .left{
+            text-align: center;
+        }
     }
-    
-  }
+}
+
 
   // POST
 .post-info{

@@ -9,13 +9,14 @@ layout: default
 <div class="blog">
   
   <div class="{% if page.title == 'Diari' %} blog-first {% endif %}">
-    <div class="blog-main">
-      {% include blog-post.html %}
-    </div>
+      {% include blog-loop.html %}
   </div>
 
   {% if page.title == 'Diari' %}
+    <div class="blog-second">
       <h3 class="page-heading left">Fatti di Montagna</h3>
+      {% include fatti-di-montagna-loop.html %}
+    </div>
   {% endif %}
 
   {{ content }}

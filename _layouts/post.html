@@ -16,7 +16,9 @@ layout: default
     </div>
   </header>
   {% if page.category == "diari" %}
-    {{page.content }}
+    <div class="diari-content">
+      {{page.content }}
+    </div>
   {% else %}
     <div class="meeting post-info">
       <span>Data:</span> <span class="bold">{{page.day }}</span><br>
