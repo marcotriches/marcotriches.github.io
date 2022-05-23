@@ -1,14 +1,14 @@
 <div>
     {% for post in site.categories.radio %}
-    <div>
+    <div class="radio-block">
         <h3 class="bold radio-title">{{ post.title }}</h3>
         <small> {{post.date | date: "%d/%m/%Y"}}</small> 
-        {{ post.content }}
-    </div>  
-    <div>
+        {{ post.content }}  
+    
         <audio controls>
             <source src="{{ site.url }}/audio/{{ post.audio }}" type="audio/mpeg">
         </audio>
-    </div>  
+        <hr>  
+    </div>
     {% endfor %}
 </div>

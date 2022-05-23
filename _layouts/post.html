@@ -27,9 +27,7 @@ layout: default
         {% if page.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
         {% if page.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
         {% if page.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
-      <div class="prenota">
-        <a>Prenota</a>
-      </div>
+        {% include prenota.html %}
     </div>
 
     <div class="post-content-esc e-content" itemprop="articleBody">
