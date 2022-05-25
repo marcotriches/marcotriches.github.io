@@ -6,7 +6,7 @@ day: "dom, 29 mag 2022"
 meeting: "16:30"
 category: appennino
 difficult: 1
-image:tramonto lucciole.jpg
+image: tramonto lucciole.jpg
 ---
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
