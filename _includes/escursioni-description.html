@@ -1,12 +1,11 @@
 <div class="esc-container">
     {% for excursion in page.excursions %}
-    <div class="esc-desc {{excursion.category}}">
-        <h2>{{ excursion.nome | escape | markdownify }}</h2>
-        <p >{{ excursion.descrizione | escape | markdownify }}</p>
-    <div class="esc-header">
-        <img {% if excursion.immagine contains "http" %} src="{{excursion.immagine}}" {% else %} src="{{ site.url }}/img/bg-strada.jpg"  {% endif %} alt="{{excursion.nome | escape }}" />
-    </div>
-    </div>
+        <div class="esc-desc {{excursion.category}}">
+            <h2>{{ excursion.nome | escape | markdownify }}</h2>
+            <p >{{ excursion.descrizione | escape | markdownify }}</p>
+            <div class="esc-header">
+                <img {% if excursion.immagine contains "http" %} src="{{excursion.immagine}}" {% else %} src="{{ site.url }}/img/bg-strada.jpg"  {% endif %} alt="{{excursion.nome | escape }}" />
+            </div>
+        </div>
     {% endfor %}
-
 </div>

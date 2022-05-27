@@ -199,9 +199,8 @@ a:visited {
     border-radius: 5px;
     box-shadow: 0px 30px 40px -20px $grayishBlue;
     padding: 3rem;
-    margin: 2rem;  
-    flex-basis: 30%;
- 
+    margin: 1rem;  
+    flex-basis: 35%;
 
     p {
         color: $grayishBlue;
@@ -217,7 +216,19 @@ a:visited {
 
 }
 
+@media (max-width: 870px) {
+    .esc-desc{
+        margin: 1rem;
+        flex-basis: 10%;
+    }
+}
 
+@media (max-width: 700px) {
+    .esc-desc{
+        margin: 1rem;
+        flex-basis: 100%;
+    }
+}
 
 
 // FILTER BAR
@@ -346,6 +357,14 @@ a:visited {
         color:white;
     }
 }
+
+@media (max-width: 700px) {
+    .media-box-title{
+        margin-top:20px;
+        min-height: 20px;
+    }  
+}
+
 
 // GALLERY
 .gallery{
@@ -539,21 +558,23 @@ a:visited {
 
 
   // POST
+.esc{
+    display: flex;
+    align-items:  flex-start;
+}
 .post-info{
-    width:30%;
+   
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
+    flex-basis: 50%;
     span{
        font-size: large;
     }
 }
 
-
 .post-content-esc{
-    width:70%;
-    margin-left: 30%;
-    margin-top: -190px;
+    margin-left: 1rem;
 }
 
 .main-img{
@@ -563,6 +584,26 @@ a:visited {
     img{
         width: 100%;
     }
+}
+
+
+@media (max-width: 700px) {
+    .post-info{
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        align-self: start;
+        top: 0;
+    }
+    .esc{
+        .meeting{
+            span{
+                display: block;
+            }
+            .prenota{
+                width:auto;
+            }
+        }
+   }
 
 }
 

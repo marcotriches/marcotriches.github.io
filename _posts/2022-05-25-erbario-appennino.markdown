@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Erbario Appennino(PU)"
+title:  "Erbario Appennino (PU)"
 date:   2022-05-25 14:50:48 +0100
 day: "dom, 29 mag 2022"
 meeting: "16:30"
