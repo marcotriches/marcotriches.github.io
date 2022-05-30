@@ -8,120 +8,29 @@ category: dolomiti
 difficult: 4
 image: escursionetalvena1.jpg
 ---
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+# Casera Vescovà, Casera La Varéta
+# Parco Nazionale Dolomiti Bellunesi 
 
-## Basic Syntax
+Un' escursione classica dedicata al patrimonio storico e naturalistico della Talvéna: le casere, i prati e le valli boschive. 
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+Itinerario che si sviluppa lungo gli itinerari CAI 503, 536, 514, 518 in Val Vescovà, Val Vachèra, Val de la Scala e lo Scalòn, alle pendici meridionali della Talvéna (quota 2542 m.) 
+Si tratta di un percorso remunerativo dal punto di vista ambientale, paesaggistico e storico. L'itinerario intercetta il tracciato conclusivo dell'Alta Via n.1, alle porte della Schiara.
+L'escursione verrà accompagnata da letture tratte da Piero Sommavilla e Giovanni Angelini. 
 
-### Heading
+### Italic “La prima volta che giunsi quassù, compresi perché Giovanni Angelini fosse così geloso del suo mondo arcaico e pastorale della Talvéna. Chi vuol riscoprire ere remote, gustare silenzi deliziosi, immergersi nella pace degli alti pascoli (...) osservare il volo dei rapaci, gettare lo sguardo in strane spelonche e provare, a tratti, quasi la sensazione di volare fra spazi sconfinati, salga quassù. Allora comprenderà perché un grande alpinista possa amare, con speciale predilezione, questa incantata montagna."
+(Piero Rossi, il Parco Nazionale delle Dolomiti, 1976) 
 
-# H1
-## H2
-### H3
+### Bold Ritrovo: La Stanga (Sedico - BL) ore 07:00
+### Bold Rientro: ore 16:00 circa 
+### Bold Difficoltà: E (escursionistico)
+### Bold Dislivello in salita:  1500 m. circa
+### Bold D urata: 9 ore circa
+### Bold Costo: 20€
++ Scarponi, acqua pranzo al sacco 
 
-### Bold
+### Bold Guida Parco: Marco Triches, Balza del Sole
+* Informazioni e prenotazioni: 3281834019 marcotriches@gmail.com 
 
-**bold text**
+Un progetto in collaborazione con la Fondazione G. Angelini, e il Parco Nazionale Dolomiti Bellunesi 
 
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
----
-
-### Link
-
-[Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-### Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
