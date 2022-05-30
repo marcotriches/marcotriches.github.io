@@ -6,7 +6,7 @@ day: "dom, 05 giu 2022"
 meeting: "07:00"
 category: dolomiti 
 difficult: 4
-image: escursionetalvena.jpg
+image: escursionetalvena1.jpg
 ---
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
