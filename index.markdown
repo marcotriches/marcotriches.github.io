@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-bg: bg-strada.jpg
+bg: dapromontorio.jpg
 titolazione: 
 sottotitolo: |
  Guida ambientale escursionistica 
