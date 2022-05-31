@@ -6,7 +6,7 @@ day: "dom, 05 giu 2022"
 meeting: "07:00"
 category: dolomiti 
 difficult: 5
-image: escursionetalvena1.jpg
+image: escursionetalvena.jpg
 ---
 
 ## Casera Vescovà, Casera La Varéta
