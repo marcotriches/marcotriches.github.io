@@ -5,7 +5,7 @@ date:  2022-05-30 18:45:00 +0100
 day: "dom, 05 giu 2022"
 meeting: "07:00"
 category: dolomiti 
-difficult: 4
+difficult: 5
 image: escursionetalvena1.jpg
 ---
 
