@@ -6,7 +6,8 @@ layout: home
 bg: dapromontorio.jpg
 titolazione: 
 sottotitolo: |
- Guida ambientale escursionistica\\ 
+ Guida ambientale escursionistica
+ 
  Guida Parco Nazionale Dolomiti Bellunesi\\
  Escursioni, ambiente, montagna, natura.
 ---
