@@ -6,6 +6,6 @@ layout: home
 bg: bg-strada.jpg
 titolazione: Marco Triches
 sottotitolo: |
- Guida ambientale escursionistica.\\
- Giri, sentieri, itinerari, rifugi, trekking, escursioni, montagna.
+ Guida ambientale escursionistica. Guida Parco Nazionale Dolomiti Bellunesi\\
+ Escursioni, ambiente, montagna, natura.
 ---
