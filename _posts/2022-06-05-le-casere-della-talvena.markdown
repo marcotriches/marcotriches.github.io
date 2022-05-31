@@ -22,11 +22,17 @@ L'escursione verrà accompagnata da letture tratte da Piero Sommavilla e Giovann
 (Piero Rossi, il Parco Nazionale delle Dolomiti, 1976) 
 
 **Ritrovo:** La Stanga (Sedico - BL) ore 07:00
+
 **Rientro:** ore 16:00 circa 
+
 **Difficoltà:** E (escursionistico)
+
 **Dislivello in salita:**  1500 m. circa
+
 **Durata:** 9 ore circa
+
 **Costo:** 20€
+
 + Scarponi, acqua pranzo al sacco 
 
 **Guida Parco:** Marco Triches, Balza del Sole
