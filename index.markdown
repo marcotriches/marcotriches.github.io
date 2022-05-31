@@ -4,7 +4,7 @@
 
 layout: home
 bg: bg-strada.jpg
-titolazione: Marco Triches
+titolazione: 
 sottotitolo: |
  Guida ambientale escursionistica 
  Guida Parco Nazionale Dolomiti Bellunesi\\
