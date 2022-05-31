@@ -2,126 +2,34 @@
 layout: post
 title:  "Erbario Appennino (PU)"
 date:   2022-05-25 14:50:48 +0100
-day: "dom, 29 mag 2022"
+day: "sab, 18 giu 2022"
 meeting: "16:30"
 category: appennino
 difficult: 1
 image: tramonto-lucciole.jpg
 ---
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+Ginestre a Montemarino, Pesaro (PU) 
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+Continuiamo ad esplorare la Flora dell'Appennino con una passeggiata pomeridiana dedicata alla costruzione di un erbario floristico del territorio (la collezione delle specie vegetali più comuni, utile strumento per la conoscenza e il riconoscimento della flora).
+Il tema della passeggiata sarà la ginestra, di cui ascolteremo alcune storie accompagnati da Giulia Maschera, erborista.
+Il progetto è in collaborazione con Nidoramo (Urbino) che realizzeranno le presse per l'essicazione dei campioni raccolti per i partecipanti che vorranno dotarsene. 
 
-## Basic Syntax
+Percorso in prevalenza su sentieri e strade di campagna.
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+**Ritrovo:** Villa Ugolini, Pesaro (PU) ore 16
 
-### Heading
+**Difficoltà:** T - Turistico
 
-# H1
-## H2
-### H3
+**Distanza:** 8 Km
 
-### Bold
+**Dislivello:** 200 metri.
 
-**bold text**
+**Durata:** 4 ore circa
 
-### Italic
+**Quota di partecipazione:** 15€ adulti; 5€ minori.
 
-*italicized text*
++ Scarponi, acqua, cena al sacco.
 
-### Blockquote
+**Guida:** Marco Triches, GAE LAGAP (tessera n.368) 
 
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
----
-
-### Link
-
-[Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-### Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
++ Informazioni e prenotazioni: 3281834019, marcotriches@gmail.com
