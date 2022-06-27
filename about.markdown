@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: About.jpg
+image: about.jpg
 order: 3 
 ---
 
