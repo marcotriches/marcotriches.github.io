@@ -6,7 +6,7 @@ excursions:
  - nome: Appennino
    category: appennino
    descrizione: Escursioni e trekking di più giorni nell’Appennino Centrale. Organizziamo percorsi, laboratori e attività di educazione ambientale. Lo scopo è divulgare il patrimonio naturalistico e culturale degli ambienti marittimi, di campagna e montani dell’Appennino e dell’Adriatico.
-   immagine: ["appennino.jpg"]
+   immagine: https://github.com/marcotriches/marcotriches.github.io/blob/main/img/appennino.jpg
  - nome: Erboristeria itinerante
    category: erboristeria
    descrizione: Erboristeria itinerante è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
