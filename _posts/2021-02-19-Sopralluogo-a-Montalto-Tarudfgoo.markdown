@@ -1,124 +1,21 @@
 ---
 layout: post
-title:  "Sopralluogo a Montalto Tarugo"
-date:   2021-02-19 18:20:48 +0100
+title:  "A Coldelce"
+date:   2020-03-07 18:20:48 +0100
 category: diari
-image: gola-del-furlo.jpg
+image: coldelce.jpg
 ---
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-### Heading
-
-# H1
-## H2
-### H3
-
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
----
-
-### Link
-
-[Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-### Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-### Footnote
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
+Adesso non ci accampiamo più per la notte.
+Bensì ci siamo fermati sulla terra dimenticando il cielo.
+H.D.THOREAU
+ 
+Non è che avessimo tutta questa voglia di fermarci, il mio socio ed io, quando ho trovato lo spiazzo giusto, al sole per fare la fotografia alla collina che avevamo di fronte.
+Stavamo bene ordinati e precisi su una carrozzabile di ghiaia, tra le querce, il sole davanti, la strada in piano e senza pensieri. Un inizio entusiasmante. La gente aveva cominciato a rimanere a casa per il virus, non eravamo ancora bloccati del tutto, solo le scuole, e c'era chi andava in campagna a fare i lavori giusti: tre o quattro con le motoseghe facevano a pezzi dei cipressi che da tempo meritavano di essere abbattuti, e varie altre storie.
+Poi la ghiaia è finita, ci siamo ritrovati nella terra e da un angolo di un rudere è spuntato un uomo: "Lo stradino non c'è più! Ma andate a vedere con i vostri occhi se volete."
+In un paio di minuti siamo finiti nei campi zuppi d'acqua, nel fango e infine nei fossi a sprofondare nell'argilla. Abbiamo rimontato il versante opposto tra canniccio, rovi, ornielli e acacie, fino a un casolare abbandonato (pieno zeppo di cipressi in ottima salute), circondato da reti mezze abbattute, baraccamenti di lamiere e plastiche, scavi vari.
+Il percorso è proseguito per lunghi andirivieni, vicoli ciechi, direzioni sbagliate, salite che finiscono nel niente. Ora avevamo un pensiero: tornare al punto di partenza.
+Siamo sbucati al cospetto di una baracchetta (con cartello "Osservatorio astronomico"), in vetta al monte Bussetto (417 m), davanti a un cimitero invaso dalle ginestre, in un lungo campo coltivato in pendenza, dove un uomo urlava ai suoi cani da caccia, tirando fuori qualcosa dalla terra e dandogliela in pasto.
+Infine, al termine di una lunghissima salita fangosa, abbiamo attraversato una specie di canyoon giallo d'arenaria, e siamo giunti alla fine: Ripe di Montelabbate, dove nella siepe della chiesa del paese c'era (e forse c'è ancora) una croce riversa.
+Il fatidico giro ad anello di Coldelce si era concluso, certo, non di gran classe! In macchina l'autoradio ci allertava che nel finesettimana qualcosa in Italia sarebbe cambiato, era venerdì 7 marzo (...continua)
+***
+La campagna non è una passeggiata. Ma una mappa di luoghi agevoli, noiosi, panoramici, selvatici, intricati, bestiali e bui. Credo che in un giro in campagna non debba mancare nessuno di questi elementi.
