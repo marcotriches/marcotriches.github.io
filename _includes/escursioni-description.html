@@ -4,7 +4,7 @@
             <h2>{{ excursion.nome | escape | markdownify }}</h2>
             <p >{{ excursion.descrizione | escape | markdownify }}</p>
             <div class="esc-header">
-                <img {% if excursion.immagine contains "http" %} src="{{excursion.immagine}}" {% else %} src="{{ site.url }}/img/bg-strada.jpg"  {% endif %} alt="{{excursion.nome | escape }}" />
+                <img {% if excursion.immagine contains "http" %} src="{{excursion.immagine}}" {% else %} src="{{ site.url }}/img/{{excursion.immagine}}"  {% endif %} alt="{{excursion.nome | escape }}" />
             </div>
         </div>
     {% endfor %}
