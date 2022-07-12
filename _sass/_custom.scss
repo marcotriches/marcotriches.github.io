@@ -5,7 +5,7 @@ $color-link: #4a5568;
 $grayishBlue: hsl(229, 6%, 66%);
 $color-appennino: hsl(0, 78%, 62%);
 $color-dolomiti: hsl(34, 97%, 64%);
-$color-erborista: hsl(180, 62%, 55%);
+$color-erboristeria: hsl(180, 62%, 55%);
 $color-misto: hsl(212, 86%, 64%);
 
 // GENERAL
@@ -174,7 +174,7 @@ a:visited {
         border-top: 3px solid $color-dolomiti;
     }
     .erboristeria{
-        border-top: 3px solid $color-erborista;
+        border-top: 3px solid $color-erboristeria;
     }
     .misto{
         border-top: 3px solid $color-misto;
