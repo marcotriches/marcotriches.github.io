@@ -9,7 +9,7 @@ difficult: 2
 image: floraparco.jpg
 ---
 
-## Escursione floristica al Rifugio Sommariva
+## Escursione floristica al Rifugio Sommariva al Pramperét
 ### Parco delle Dolomiti in Val Prampèr 
 
 Escursione guidata gratuita di una giornata
