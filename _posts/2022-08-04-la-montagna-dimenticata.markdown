@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Montagna Dimenticata"
-date:  2022-08-04 21:45:00 +0100
+date:  2022-08-04 18:00:00 +0100
 day: "sab, 13 ago 2022"
 meeting: "08:00"
 category: dolomiti 
