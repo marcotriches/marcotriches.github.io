@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erbario Appennino (PU)"
-date:   2022-05-25 14:50:48 +0100
+date:   2021-05-25 14:50:48 +0100
 day: "sab, 18 giu 2022"
 meeting: "16:30"
 category: appennino
