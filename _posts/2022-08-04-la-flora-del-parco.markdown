@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Flora del Parco"
-date:  2022-08-04 15:45:00 +0100
+date:  2022-08-04 22:00:00 +0100
 day: "mar, 09 ago 2022"
 meeting: "10:00"
 category: dolomiti 
