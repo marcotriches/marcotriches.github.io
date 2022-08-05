@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Escursione erboristica in Val di Pécol"
-date:  2022-08-04 19:00:00 +0100
-day: "mar, 09 ago 2022"
+date:  2022-08-04 12:00:00 +0100
+day: "ven, 26 ago 2022"
 meeting: "10:00"
 category: dolomiti 
 difficult: 1
