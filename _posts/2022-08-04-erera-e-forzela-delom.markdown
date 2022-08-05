@@ -5,7 +5,7 @@ date:  2022-08-04 16:00:00 +0100
 day: "lun, 15 ago 2022"
 meeting: "08:00"
 category: dolomiti 
-difficult: 3
+difficult: 4
 image: pelse.jpg
 ---
 
