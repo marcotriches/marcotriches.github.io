@@ -6,7 +6,7 @@ day: "sab, 20 ago 2022"
 meeting: "08:00"
 category: dolomiti 
 difficult: 3
-image: igne.jpg
+image: lol.jpg
 ---
 
 ## I sentieri che rimangono di un tempo
