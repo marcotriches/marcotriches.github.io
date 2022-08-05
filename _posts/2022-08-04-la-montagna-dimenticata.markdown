@@ -29,6 +29,7 @@ L'escursione sarà confermata al raggiungimento del numero minimo di partecipant
 **Durata:** 8 ore circa
 
 **Costo:** 20€
+
 Abbonamenti escursioni Balza del Sole: 5 escursioni 90€
 
 **Pranzo:** al sacco
