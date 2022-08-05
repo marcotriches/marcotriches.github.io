@@ -5,7 +5,7 @@ date:  2022-08-04 16:00:00 +0100
 day: "lun, 15 ago 2022"
 meeting: "08:00"
 category: dolomiti 
-difficult: 4
+difficult: 5
 image: pelse.jpg
 ---
 
@@ -28,6 +28,7 @@ L'escursione sarà confermata al raggiungimento del numero minimo di partecipant
 **Durata:** 9 ore circa
 
 **Costo:** 20€
+
 Abbonamenti escursioni Balza del Sole: 5 escursioni 90€
 
 **Pranzo:** al sacco
