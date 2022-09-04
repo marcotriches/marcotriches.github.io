@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Il compagno segreto: escursione di mare"
-date:  2022-08-28 16:00:00 +0100
+date:  2022-09-04 18:00:00 +0100
 day: "dom, 18 set 2022"
 meeting: "16:00"
 category: appennino 
