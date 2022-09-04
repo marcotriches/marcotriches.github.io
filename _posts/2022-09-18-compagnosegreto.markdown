@@ -25,6 +25,7 @@ Osservazioni itineranti sulla flora e la fauna del Parco (è utile il binocolo) 
 **Durata:** 4 ore circa
 
 **Costo:** 15€ Adulti, 5€ Minori
+
 *Abbonamenti Balza del Sole:* 5 escursioni / 60€
 
 **Portare:** Scarponi, acqua (2 litri), cena al sacco, torcia, cappello, costume e asciugamano 
