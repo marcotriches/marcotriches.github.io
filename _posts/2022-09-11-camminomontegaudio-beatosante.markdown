@@ -1,6 +1,6 @@
 layout: post
 title:  "Cammino da Montegaudio al bosco del Beato Sante"
-date:  2022-08-28 12:00:00 +0100
+date:  2022-09-04 12:00:00 +0100
 day: "dom, 11 set 2022"
 meeting: "09:00"
 category: appennino 
