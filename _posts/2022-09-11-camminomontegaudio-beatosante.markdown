@@ -24,6 +24,7 @@ Tipica ambientazione della collina marchigiana. Può essere utile il binocolo.
 **Durata:** 5 ore circa
 
 **Costo:** 15€ Adulti, 5€ Minori
+
 *Abbonamenti Balza del Sole:* 5 escursioni / 60€
 
 **Portare:** Scarponi, acqua (2 litri), pranzo al sacco, cappello, bastoncini, binocolo 
