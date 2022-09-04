@@ -25,6 +25,7 @@ Con partenza da località Conaggia (840 m) si percorre la mulattiera tra faggi e
 **Durata:** 8 ore circa
 
 **Costo:** 20€
+*Abbonamenti Balza del Sole:* 5 escursioni lunghe / 90€
 
 **Pranzo:** al sacco 
 
