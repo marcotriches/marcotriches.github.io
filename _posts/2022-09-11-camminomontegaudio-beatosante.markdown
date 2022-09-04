@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Cammino da Montegaudio al bosco del Beato Sante"
 date:  2022-09-04 12:00:00 +0100
