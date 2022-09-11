@@ -23,9 +23,9 @@ Escursione alle pendici del Col Pizòn (1492 m). Da località Agre, con il suo A
 
 **Durata:** 4 ore circa
 
-**Costo:** 15€ Adulti, 8€ Minori
+**Costo:** 20€ Adulti, 10€ Minori
 
-*Abbonamenti Balza del Sole:* 5 escursioni / 60€
+*Abbonamenti Balza del Sole:* 5 escursioni / 90€
 
 **Portare:** scarponi, pranzo al sacco, acqua (almeno 1 litro), bastoncini, Kway
 
