@@ -14,7 +14,7 @@ image: sanbartolo.jpg
 Escursione pomeridiana e serale lungo il crinale del Parco San Bartolo da Santa Marina Alta alla spiaggia di Fiorenzuola di Focara. Il percorso sarà accompagnato dal racconto di mare di Joseph Conrad: "Il compagno segreto" (1912). Arrivo al tramonto alla spiaggia per un bagno (chi lo desidera) e cena al sacco.
 Osservazioni itineranti sulla flora e la fauna del Parco (è utile il binocolo) ed ascolto dei canti degli uccelli notturni.
 
-**Ritrovo:** Santa Marina Alta ore 16:00
+**Ritrovo:** Santa Marina Alta ore 15:00
 
 **Rientro:** ore 20:00 circa 
 
