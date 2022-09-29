@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zirvoi ballatoio della Schiara"
-date:   2022-10-22 16:00:48 +0100
+date:   2022-09-18 16:00:48 +0100
 day: "mer, 17 ago 2022"
 meeting: "08:00"
 category: dolomiti
