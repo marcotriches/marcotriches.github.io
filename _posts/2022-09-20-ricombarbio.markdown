@@ -2,7 +2,7 @@
 layout: post
 title:  "Rio Combarbio e la grotta del Diavolo"
 date:  2022-09-20 12:00:00 +0100
-day: "dom, 11 ott 2022"
+day: "dom, 09 ott 2022"
 meeting: "15:00"
 category: appennino 
 difficult: 2
