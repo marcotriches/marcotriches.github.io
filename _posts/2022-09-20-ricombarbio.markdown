@@ -14,7 +14,7 @@ image: riocombarbio.jpg
 Escursione lungo la valle stretta e selvaggia del Rio Combarbio: un piccolo ritaglio di Appennino nel cuore delle colline del primo entroterra pesarese. Percorreremo strade di campagna, sentieri nei boschi e argini, lungo le antiche vie di transito dell'acqua, visitando i siti di alcuni dei mulini della zona (Combarbio/Arzilla) e dedicando qualche momento alla contemplazione della grotta del Diavolo, un antro conosciuto e chiacchierato dalla popolazione locale.
 Risalita la valle del Rio Combarbio, percorreremo i prati sommitali di Montemarino, per poi scendere a Villa Ugolini per sentieri panoramici. Ampie vedute sull'Appennino e il mare Adriatico.
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 09:00
+**Ritrovo:** Villa Ugolini (Pesaro) ore 15:00
 
 **Rientro:** ore 19:00 
 
