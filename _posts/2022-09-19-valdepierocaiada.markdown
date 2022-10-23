@@ -44,7 +44,7 @@ A seguire, con il sentiero C.A.I. 505, l’itinerario percorre in salita il cana
 
 **Guida Parco:** Marco Triches, Balza del Sole
 * Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
-* Iscrizioni entro: Venerdì 21 Ottobre 2022
+* Iscrizioni entro: Venerdì 28 Ottobre 2022
 * L'escursione verrà confermata al raggiungimento del numero minimo di iscritti
 *Un progetto in collaborazione con Paolo Conz, Dolomiti Guides, Fondazione Giovanni Angelini - Centro studi sulla Montagna e Parco Nazionale Dolomiti Bellunesi*
 
