@@ -2,7 +2,7 @@
 layout: post
 title:  "Val de Piero - Cajada"
 date:  2022-09-19 18:00:00 +0100
-day: "dom, 23 ott 2022"
+day: "dom, 30 ott 2022"
 meeting: "07:00"
 category: dolomiti 
 difficult: 5
