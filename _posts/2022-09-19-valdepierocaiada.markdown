@@ -6,7 +6,7 @@ day: "dom, 30 ott 2022"
 meeting: "07:00"
 category: dolomiti 
 difficult: 5
-image: valdepiero1.jpg
+image: valdepiero.jpg
 ---
 
 ## Parco Nazionale Dolomiti Bellunesi
