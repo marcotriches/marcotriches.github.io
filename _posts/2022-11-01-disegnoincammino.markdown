@@ -6,7 +6,7 @@ day: "dom, 13 nov 2022"
 meeting: "09:30"
 category: appennino 
 difficult: 1
-image: disegnodalvero.jpg
+image: rossebacche.jpg
 ---
 
 ## Escursione + corso di disegno naturalistico
