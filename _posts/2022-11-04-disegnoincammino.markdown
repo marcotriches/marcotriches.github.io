@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disegno in cammino: la rosa canina"
-date:  2022-11-01 17:00:00 +0100
+date:  2022-11-04 20:00:00 +0100
 day: "dom, 13 nov 2022"
 meeting: "09:30"
 category: appennino 
