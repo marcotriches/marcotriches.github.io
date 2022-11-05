@@ -27,7 +27,7 @@ Durante le escursioni verranno approfonditi i temi del cammino, delle mappe e or
 
 **Elementi chiave dell'escursione:** Dal paese di Secchiano (Cagli - PU) per il Poggio Le Guaine e il Cimaio.
 
-**Ritrovo:** Cagli (PU) ore 08:30
+**Ritrovo:** Secchiano (Cagli - PU) ore 08:30
 
 **Difficoltà:** E - Escursionistico
 
