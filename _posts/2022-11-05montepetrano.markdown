@@ -25,7 +25,7 @@ Durante le escursioni verranno approfonditi i temi del cammino, delle mappe e or
 - chi vuole approfondire le tecniche di orientamento, alimentazione, sicurezza, vegetazione e lettura del paesaggio;
 - chi desidera far parte di un gruppo escursionistico creativo.
 
-**Elementi chiave dell'escursione:** Comn partenza da Cagli (PU) si sale il Sentiero Italia per il Monte Venande e la Serra Ventosa.
+**Elementi chiave dell'escursione:** Con partenza da Cagli (PU) si sale il Sentiero Italia per il Monte Venande e la Serra Ventosa.
 
 **Ritrovo:** Cagli (PU) ore 08:30
 
