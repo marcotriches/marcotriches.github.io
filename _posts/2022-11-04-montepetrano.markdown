@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monte Petrano (PU)"
-date:  2022-11-05 17:00:00 +0100
+date:  2022-11-04 17:00:00 +0100
 day: "dom, 20 nov 2022"
 meeting: "08:30"
 category: appennino 
