@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Monte Petrano (PU)"
-date:  2022-11-04 17:00:00 +0100
-day: "sab, 3 dic 2022"
+title:  "Monte Catria (PU)"
+date:  2022-11-08 20:00:00 +0100
+day: "lun, 2 gen 2023"
 meeting: "08:30"
 category: appennino 
 difficult: 3
-image: montepetrano.jpg
+image: catriamonte.jpg
 ---
 
 ## Una giornata in montagna
@@ -25,13 +25,13 @@ Durante le escursioni verranno approfonditi i temi del cammino, delle mappe e or
 - chi vuole approfondire le tecniche di orientamento, alimentazione, sicurezza, vegetazione e lettura del paesaggio;
 - chi desidera far parte di un gruppo escursionistico creativo.
 
-**Elementi chiave dell'escursione:** Con partenza da Cagli (PU) si sale il Sentiero Italia per il Monte Venande e la Serra Ventosa.
+**Elementi chiave dell'escursione:** POartenza da Chiaserna, Cantiano (PU) e risalita del versante meridionale del monte Catria, Balze dei Quattrini. 
 
-**Ritrovo:** Cagli (PU) ore 08:30
+**Ritrovo:** Cantiano (PU) ore 08:30
 
 **Difficoltà:** E - Escursionistico
 
-**Dislivello minimo in salita:** 400 m. circa
+**Dislivello minimo in salita:** 500 m. circa
 
 **Durata:** Fino al buio
 
