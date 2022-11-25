@@ -2,7 +2,7 @@
 layout: post
 title:  "Monte Nerone (PU)"
 date:  2022-11-04 18:00:00 +0100
-day: "sab, 26 nov 2022"
+day: "sab, 04 nov 2022"
 meeting: "08:30"
 category: appennino 
 difficult: 3
