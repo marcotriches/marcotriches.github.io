@@ -25,9 +25,9 @@ Durante le escursioni verranno approfonditi i temi del cammino, delle mappe e or
 - chi vuole approfondire le tecniche di orientamento, alimentazione, sicurezza, vegetazione e lettura del paesaggio;
 - chi desidera far parte di un gruppo escursionistico creativo.
 
-**Elementi chiave dell'escursione:** Dal paese di Secchiano (Cagli - PU) per il Poggio Le Guaine e il Cimaio.
+**Elementi chiave dell'escursione:** Dal paese di Pianello (Cagli - PU) risalita del versante di Campo d'Ajo, Fondarca e la Montagnola.
 
-**Ritrovo:** Secchiano (Cagli - PU) ore 08:30
+**Ritrovo:** Pianello (Cagli - PU) ore 08:30
 
 **Difficoltà:** E - Escursionistico
 
