@@ -25,7 +25,7 @@ Durante le escursioni verranno approfonditi i temi del cammino, delle mappe e or
 - chi vuole approfondire le tecniche di orientamento, alimentazione, sicurezza, vegetazione e lettura del paesaggio;
 - chi desidera far parte di un gruppo escursionistico creativo.
 
-**Elementi chiave dell'escursione:** POartenza da Chiaserna, Cantiano (PU) e risalita del versante meridionale del monte Catria, Balze dei Quattrini. 
+**Elementi chiave dell'escursione:** Partenza da Chiaserna, Cantiano (PU) e risalita del versante meridionale del monte Catria, Balze dei Quattrini. 
 
 **Ritrovo:** Cantiano (PU) ore 08:30
 
