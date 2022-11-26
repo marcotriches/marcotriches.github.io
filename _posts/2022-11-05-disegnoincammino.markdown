@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disegno in cammino: la natura d'Inverno"
-date:  2022-11-06 20:00:00 +0100
+date:  2022-11-05 20:00:00 +0100
 day: "dom, 18 dic 2022"
 meeting: "09:30"
 category: appennino 
