@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Che cos'è un bosco sacro?"
-date:  2022-11-05 20:00:00 +0100
+date:  2022-11-04 20:00:00 +0100
 day: "sab, 31 dic 2023"
 meeting: "08:30"
 category: appennino 
