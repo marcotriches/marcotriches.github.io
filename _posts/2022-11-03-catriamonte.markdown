@@ -2,7 +2,7 @@
 layout: post
 title:  "Monte Catria (PU)"
 date:  2022-11-03 18:00:00 +0100
-day: "lun, 31 dic 2022"
+day: "lun, 02 gen 2023"
 meeting: "08:30"
 category: appennino 
 difficult: 3
