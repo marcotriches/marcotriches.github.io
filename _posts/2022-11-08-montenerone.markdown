@@ -6,7 +6,7 @@ day: "dom, 04 dic 2022"
 meeting: "08:30"
 category: appennino 
 difficult: 3
-image: montenerone.jpg
+image: montenerone1.jpg
 ---
 
 ## Una giornata in montagna
