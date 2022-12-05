@@ -3,7 +3,7 @@ layout: post
 title:  "La Via degli Ospizi"
 date:  2022-11-07 11:00:00 +0100
 day: "sab, 10 dic 2022"
-meeting: "08:00"
+meeting: "07:30"
 category: dolomiti 
 difficult: 3
 image: viaospizi.jpg
