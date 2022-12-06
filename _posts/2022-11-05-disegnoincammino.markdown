@@ -6,7 +6,7 @@ day: "dom, 18 dic 2022"
 meeting: "09:30"
 category: appennino 
 difficult: 1
-image: disegno.jpg
+image: 
 ---
 
 ## Escursione + corso di disegno naturalistico
