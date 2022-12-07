@@ -34,7 +34,7 @@ A seguire, nel pomeriggio, visita gratuita alla mostra **"Appunti per una rinasc
 
 **Dislivello in salita:** 150 m. circa
 
-**Durata:** 7 ore circa
+**Durata:** 5 ore circa
 
 **Costo:** 15€ Adulti, 5€ Minori
 
