@@ -6,7 +6,7 @@ day: "dom, 18 dic 2022"
 meeting: "09:30"
 category: appennino 
 difficult: 1
-image: disegnu.jpg 
+image: disegnoincammino.jpg 
 ---
 
 ## Escursione + corso di disegno naturalistico
@@ -26,7 +26,7 @@ A seguire, nel pomeriggio, visita gratuita alla mostra **"Appunti per una rinasc
 
 **Ritrovo:** Monteciccardo (Pesaro) ore 09:30
 
-**Rientro:** ore 16:30 
+**Rientro:** ore 14:30 
 
 **Difficoltà:** T - Turistico
 
