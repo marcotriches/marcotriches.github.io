@@ -33,7 +33,7 @@ L'escursione verrà confermata al raggiungimento del numero minimo di partecipan
 
 **Costo:** 15€
 
-** Portare:**  scarponi, vestiario invernale, kway, pranzo al sacco, acqua (almeno 1 litro), bastoncini (chi li usa), torcia
+**Portare:**  scarponi, vestiario invernale, kway, pranzo al sacco, acqua (almeno 1 litro), bastoncini (chi li usa).
 
 **Guida Parco:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
 * Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
