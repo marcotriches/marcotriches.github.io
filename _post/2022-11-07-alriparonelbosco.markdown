@@ -3,9 +3,9 @@ layout: post
 title:  "Al riparo nel bosco"
 date:  2022-11-07 18:00:00 +0100
 day: "sab, 10 dic 2022"
-meeting: "13:00"
+meeting: "08:00"
 category: dolomiti 
-difficult: 3
+difficult: 2
 image: casin-di-vallalta.jpg
 ---
 
@@ -21,9 +21,9 @@ Escursione in uno dei boschi più accessibili e isolati del territorio del Parco
 
 L'escursione verrà confermata al raggiungimento del numero minimo di partecipanti
 
-**Ritrovo:** Titèle (Gosaldo) ore 13:00
+**Ritrovo:** Titèle (Gosaldo) ore 8:00
 
-**Rientro:** ore 19:00 circa 
+**Rientro:** ore 12:00 circa 
 
 **Difficoltà:** E (escursionistico)
 
@@ -33,7 +33,7 @@ L'escursione verrà confermata al raggiungimento del numero minimo di partecipan
 
 **Costo:** 15€
 
-** Portare:**  scarponi, vestiario invernale, kway, cena al sacco, acqua (almeno 1 litro), bastoncini (chi li usa), torcia
+** Portare:**  scarponi, vestiario invernale, kway, pranzo al sacco, acqua (almeno 1 litro), bastoncini (chi li usa), torcia
 
 **Guida Parco:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
 * Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
