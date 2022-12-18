@@ -27,7 +27,7 @@ Durante le escursioni verranno approfonditi i temi del cammino, delle mappe e or
 
 **Elementi chiave dell'escursione:** Dal paese di Chiaserna, risalita del versante meridionale del Monte Catria lungo i sentieri tra le Balze dei Quattrini, Le Ripe e la Fonte del Faggio.
 
-**Ritrovo:** Pianello (Cagli - PU) ore 08:30
+**Ritrovo:** Chiaserna (Cantiano - PU) ore 08:30
 
 **Difficoltà:** E - Escursionistico
 
