@@ -5,9 +5,9 @@ date:   2020-03-07 18:20:48 +0100
 category: diari
 image: coldelce.jpg
 ---
-Adesso non ci accampiamo più per la notte.
-Bensì ci siamo fermati sulla terra dimenticando il cielo.
-H.D.THOREAU
+>Adesso non ci accampiamo più per la notte.
+>Bensì ci siamo fermati sulla terra dimenticando il cielo.
+>H.D.THOREAU
  
 Non è che avessimo tutta questa voglia di fermarci, il mio socio ed io, quando ho trovato lo spiazzo giusto, al sole per fare la fotografia alla collina che avevamo di fronte.
 Stavamo bene ordinati e precisi su una carrozzabile di ghiaia, tra le querce, il sole davanti, la strada in piano e senza pensieri. Un inizio entusiasmante. La gente aveva cominciato a rimanere a casa per il virus, non eravamo ancora bloccati del tutto, solo le scuole, e c'era chi andava in campagna a fare i lavori giusti: tre o quattro con le motoseghe facevano a pezzi dei cipressi che da tempo meritavano di essere abbattuti, e varie altre storie.

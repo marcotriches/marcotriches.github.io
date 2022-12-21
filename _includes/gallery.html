@@ -1,13 +1,13 @@
 
-<div class="gallery">
-    <ul>
-    {% for image in site.static_files %}    
-      {% if image.path contains '/img/gallery' %}
-        <li>
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="imagine galleria" />
-        </li>    
-      {% endif %}   
-    {% endfor %}
+<div class="container">
+    <ul class="gallery">
+      {% for image in site.static_files %}    
+        {% if image.path contains '/img/gallery' %}
+          <li>
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="imagine galleria" />
+          </li>    
+        {% endif %}   
+      {% endfor %}
     </ul>
 </div>
 

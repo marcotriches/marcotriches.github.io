@@ -49,6 +49,15 @@ a:visited {
 }
 
 // HEADER
+.logo-header{
+    margin-right: 1rem;
+    margin-top: 0.4rem;
+    float: left;
+
+    img {
+        width: 30px;
+    }
+}
 .site-header{
     background-color: $color-primary;
     color:white;
@@ -59,43 +68,20 @@ a:visited {
 
     .site-nav{
         background-color: $color-primary;
+            svg {
+                fill:white;
+            }
     }
 }
-
 
 // FOOTER
 @media (max-width: 700px) {
     .site-footer{
     text-align: center;
     }
-    
-    .logo-container{
-       width: 300px;
-       margin-left: auto;
-       margin-right: auto;
-       
-       .logo-footer{
-           margin-left: 2rem;
-        }
-    }
+
 }
 
-.logo-container{
-    display: flex;
-    align-items: flex-end;
-}
-
-.logo-footer{
-    img {
-        width: 50px;
-    }
-}
-
-.footer-heading{
-    font-size:1rem;
-    margin-left: 1rem;
-    margin-bottom: 0px;
-}
 
 .site-footer{
     background-color: $color-primary;
@@ -116,6 +102,59 @@ a:visited {
     }
     
 }
+
+// mailchimp form
+
+#mc_embed_signup .button {
+    clear: both;
+    background-color: transparent;
+    border-width: 2px;
+    border-radius: 4px;
+    border-color:#ffffff; ;
+    transition: all 0.23s ease-in-out 0s;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: normal;
+    height: 32px;
+    line-height: 32px;
+    margin: 10px 5px 10px 0;
+    padding: 5px 22px 35px 22px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: fit-content;
+    width: -moz-fit-content;
+  }
+
+
+  #mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    margin: 0px;
+  }
+
+  #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
+    border: 2px solid #e85c41;
+  }
+  #mc_embed_signup .mc-field-group input {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    text-indent: 2%;
+  }
+  #mc_embed_signup input.mce_inline_error {
+    border-color: #6B0505;
+  }
+  #mc_embed_signup input {
+    border: 1px solid #ABB0B2;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+  }
 
 // HOME PAGE
 
@@ -312,6 +351,7 @@ a:visited {
 }
 
 .media-box-image{
+    background-position: top; 
     border-radius: 5px;
 }
 
@@ -367,67 +407,34 @@ a:visited {
 
 
 // GALLERY
-.gallery{
-    margin-top: 2rem;
-    ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    margin: 0;
-    }
-
-    li {
-    height: 40vh;
-    flex-grow: 1;
-    }
-
-    li:last-child {
-    // There's no science in using "10" here. In all my testing, this delivered the best results.
-    flex-grow: 10;
-    }
-
-    img {
-        max-height: 100%;
-        min-width: 100%;
-        object-fit: cover;
-        vertical-align: bottom;
-    }
+.container{
+    padding: 40px 5%;
 }
 
-// ADVANCED
-      
-      // Portrait
-      
-      @media (max-aspect-ratio: 1/1) {
-        .gallery li {
-          height: 30vh;
+.gallery{
+    margin: 0.1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+    li {
+        flex-basis: 350px; /* width: 350px; */
+        img {
+            object-fit: cover;
+            max-width: 100%;
+            height: 100%;
+            vertical-align: middle;
+            border-radius: 5px;   
         }
-      }
-      
-      // Short screens
-      
-      @media (max-height: 480px) {
-        .gallery li {
-          height: 80vh;
-        }
-      }
-      
-      // Smaller screens in portrait
-      
-      @media (max-aspect-ratio: 1/1) and (max-width: 480px) {
-        .gallery ul {
-          flex-direction: row;
-        }
-        .gallery li {
-          height: auto;
-          width: 100%;
-        }
-        .gallery img {
-          width: 100%;
-          max-height: 75vh;
-          min-width: 0;
-        }
-      }
+    } 
+}
+
+.gallery::after {
+    content: "";
+    flex-basis: 350px;
+}
+  
 
 //BLOG
 
@@ -452,7 +459,7 @@ a:visited {
 .diari{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
     margin-block: 2rem;
     gap: 2rem;
 
@@ -558,6 +565,11 @@ a:visited {
 
 
   // POST
+
+.post{
+    margin-bottom: 3rem;
+}
+
 .esc{
     display: flex;
     align-items:  flex-start;
@@ -567,7 +579,7 @@ a:visited {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
-    flex-basis: 50%;
+    flex-basis: 200%;
     span{
        font-size: large;
     }
@@ -581,6 +593,7 @@ a:visited {
     width: 100%;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    border-radius: 8px;
     img{
         width: 100%;
     }
@@ -588,22 +601,27 @@ a:visited {
 
 
 @media (max-width: 700px) {
+
     .post-info{
-        position: -webkit-sticky; /* Safari */
+        /*position: -webkit-sticky;  Safari
         position: sticky;
         align-self: start;
-        top: 0;
+        top: 0; */
+
+        position: static;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+   
     }
+
     .esc{
-        .meeting{
-            span{
-                display: block;
-            }
-            .prenota{
-                width:auto;
-            }
-        }
-   }
+        display: block;
+    }
+
+   .post-content-esc{
+        margin-left: auto;
+    }
 
 }
 
