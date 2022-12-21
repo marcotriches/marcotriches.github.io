@@ -75,18 +75,14 @@ a:visited {
 }
 
 // FOOTER
-@media (max-width: 700px) {
-    .site-footer{
-    text-align: center;
-    }
-
-}
-
 
 .site-footer{
     background-color: $color-primary;
     color:white;
-    
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;    
     a,p,li {
         color: white;
     }
@@ -155,6 +151,32 @@ a:visited {
     -moz-border-radius: 5px;
     border-radius: 5px;
   }
+
+  .credit{
+    margin-top: 1rem;
+
+  }
+
+  @media (max-width: 700px) {
+
+    .site-footer{
+        text-align: center;
+    }
+    
+    #mc_embed_signup form {
+        text-align: center;
+      }
+
+    .footer-col{
+        padding-left: 10px;
+    }
+
+    .footer-col-wrapper {
+        width: 80%;
+        margin: auto;
+      }
+
+}
 
 // HOME PAGE
 

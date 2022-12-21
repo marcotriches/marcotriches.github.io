@@ -59,17 +59,14 @@
       </div>
     </div>
     
-    <div> 
-       
-      <span class="logo-footer" >
-        <p>© {{ 'now' | date: "%Y" }}, &nbsp;
-        {%- if site.author -%}
-        {{ site.author | escape }}
-          {%- else -%}
-          {{ site.title | escape }}
-        {%- endif -%}
-        </p>
-      </span> 
+    <div class="credit"> 
+      <p>© {{ 'now' | date: "%Y" }}, &nbsp;
+      {%- if site.author -%}
+      {{ site.author | escape }}
+        {%- else -%}
+        {{ site.title | escape }}
+      {%- endif -%}
+      </p>
     </div>
 
   </div>
