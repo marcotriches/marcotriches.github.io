@@ -2,11 +2,11 @@
 layout: post
 title:  "Tramonto dal monte Serva"
 date:  2022-11-05 11:00:00 +0100
-day: "lun, 26 dic 2022"
+day: "mar, 27 dic 2022"
 meeting: "13:00"
 category: dolomiti 
 difficult: 3
-image: monteserva.jpg
+image: monteserva2.jpg
 ---
 
 ## Una notte nel Parco Nazionale Dolomiti Bellunesi
