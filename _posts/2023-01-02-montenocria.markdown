@@ -10,7 +10,7 @@ image: nocria.jpg
 ---
 
 ## Gruppo montuoso del monte Catria
-#Appennino umbromarchigiano#
+**Appennino umbromarchigiano**
 
 Escursione appenninica lungo la valle del Cesano e la valle di Nocria, tra il monastero di Fonte Avellana e la Badia di Sitria. Percorreremo il sentiero CAI 297 alle pendici del Monte Catria (grandiose vedute del versante Settentrionale).
 Aggirato Poggio Nucrina raggiungeremo la valle del Fosso Artino e il luogo, isolato e silenzioso, dove sorge la Badia di Sitria. In salita fino alla sommità del Monte Prati di Nocria e rientro a Fonte Avellana.
