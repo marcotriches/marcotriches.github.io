@@ -3,7 +3,7 @@ layout: post
 title:  "La Via degli Ospizi"
 date:  2023-01-04 11:00:00 +0100
 day: "dom, 05 feb 2023"
-meeting: "07:30"
+meeting: "07:00"
 category: dolomiti 
 difficult: 3
 image: bds_viaospizi.jpg
@@ -19,7 +19,7 @@ L'escursione prevede la risalita del sentiero tematico della Via degli Ospizi fi
 *“La valle che si andava sempre più restringendo, disegnava una lista di cielo, tesa sulle cime dei monti a modo di nerissima tela (…) L’oscurissima zona era un trapunto di lucidissime stelle, tremule, luccicanti (…) La gola del Cordevole è angusta, orrida e cupa; ma tagliata a picco in seno a quelle dolomiti di straordinaria bianchezza, sulle quali da tanti secoli si esercita con efficacia sorprendente l’azione multiforme dell’atmosfera, prende aspetti così vari e così bizzarri, e al tempo stesso è così fredda e austera (quasi dicevo implacabile), che i suoi contorni si stampano indelebilmente nella fantasia.”*
 Aldo Stoppani, Il Bel Paese, 1876.
 
-**Ritrovo:** San Gottardo (Sospirolo) ore 07:30
+**Ritrovo:** San Gottardo (Sospirolo) ore 07:00
 
 **Rientro:** ore 17:00 circa 
 
