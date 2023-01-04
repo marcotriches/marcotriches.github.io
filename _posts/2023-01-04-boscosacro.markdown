@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Che cos'è un bosco sacro?"
-date:  2022-11-04 20:00:00 +0100
+date:  2023-01-04 11:45:00 +0100
 day: "sab, 31 dic 2022"
-meeting: "08:30"
+meeting: "09:30"
 category: appennino 
 difficult: 3
-image: boscotecchie.jpg
+image: bds_boscotecchie.jpg
 ---
 
-## Una escursione di fine anno nel bosco
+## Una escursione invernale nel bosco
 # Riserva Naturale Orientata Bosco di Tecchie
 
 Escursione con racconto dedicata alla scoperta del **Bosco sacro**, la costruzione storica di un luogo di culto nella natura. Percorreremo i sentieri del Bosco di Tecchie, soffermandoci nella contemplazione dei luoghi e nell'ascolto della Natura e della Storia umana (così come descritta nella *"Mitologia degli alberi"* di Jacques Brosse); storia che ha attribuito al bosco una valenza, non solo ecologica ma anche spirituale per il genere umano.
@@ -18,13 +18,15 @@ Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a C
 *"Che le piante siano dotate di una sensibilità reattiva, in grado di inserirsi in loro sotto forma di ricordi, che possano presentare manifestazioni di benessere o, come ripetuti esperimenti hanno dimostrato, di paura e perciò di memorizzazione non è forse quanto esprimeva, nel suo modo allegorico, il pensiero selvaggio?"*
 (Jacques Brosse, *Mitologia degli alberi*, Rizzoli, 2006).
 
-**Ritrovo:** Cantiano (PU) ore 09:00
+**Ritrovo:** Cantiano (PU) ore 09:30
 
 **Difficoltà:** E - Escursionistico
 
 **Dislivello in salita:** 400 m. circa
 
-**Durata:** 7 ore
+**Durata:** 6 ore
+
+**Rientro:** ore 15:30
 
 **Costo:** 15€ Adulti, 5€ Minori
 
