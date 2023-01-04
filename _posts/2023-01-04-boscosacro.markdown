@@ -5,7 +5,7 @@ date:  2023-01-04 11:45:00 +0100
 day: "sab, 31 dic 2022"
 meeting: "09:30"
 category: appennino 
-difficult: 3
+difficult: 2
 image: bds_boscotecchie.jpg
 ---
 
