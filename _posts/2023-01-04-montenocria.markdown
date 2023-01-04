@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monte Prati di Nocria"
-date:  2023-01-02 08:00:00 +0100
+date:  2023-01-04 12:00:00 +0100
 day: "dom, 08 gen 2023"
 meeting: "09:30"
 category: appennino 
