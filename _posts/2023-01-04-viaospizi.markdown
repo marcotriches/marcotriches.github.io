@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "La Via degli Ospizi"
-date:  2022-11-07 11:00:00 +0100
-day: "sab, 10 dic 2022"
+date:  2023-01-04 11:00:00 +0100
+day: "dom, 05 feb 2023"
 meeting: "07:30"
 category: dolomiti 
 difficult: 3
-image: viaospizi.jpg
+image: bds_viaospizi.jpg
 ---
 
 ## A piedi da San Gottardo a Agordo
@@ -31,7 +31,7 @@ Aldo Stoppani, Il Bel Paese, 1876.
 
 **Durata:** 9 ore circa
 
-**Costo:** 20€ Adulti, 10€ Minori
+**Costo:** 20€ Adulti
 
 *Abbonamenti Balza del Sole:* 5 escursioni / 90€
 
