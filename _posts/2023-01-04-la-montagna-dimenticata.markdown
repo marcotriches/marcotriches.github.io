@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "La Montagna Dimenticata"
-date:  2022-08-04 18:00:00 +0100
-day: "sab, 13 ago 2022"
+date:  2023-01-04 11:30:00 +0100
+day: "sab, 04 feb 2023"
 meeting: "08:00"
 category: dolomiti 
-difficult: 3
-image: casin-di-vallalta.jpg
+difficult: 2
+image: bds_montagnadimenticata.jpg
 ---
 
 ## Da Valle Imperina al bosco di Vallalta
@@ -20,22 +20,19 @@ L'escursione sarà confermata al raggiungimento del numero minimo di partecipant
 
 **Ritrovo:** Centro minerario Valle Imperina (Rivamonte Agordino) ore 08:00
 
-**Rientro:** ore 16:00 circa 
+**Rientro:** ore 15:00 circa 
 
 **Difficoltà:** E (escursionistico)
 
 **Dislivello in salita:**  500 m. circa
 
-**Durata:** 8 ore circa
+**Durata:** 7 ore circa
 
 **Costo:** 20€
 
-Abbonamenti escursioni Balza del Sole: 5 escursioni 90€
+*Abbonamenti Balza del Sole:* 5 escursioni / 90€
 
-**Pranzo:** al sacco
+**Portare:** scarponi, vestiario invernale, kway, pranzo al sacco, acqua (almeno 1 litro), bastoncini (chi li usa), torcia
 
-+ Scarponi, acqua (2 litri)  
-
-**Guida Parco:** Marco Triches, Balza del Sole
+**Guida Parco:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
 * Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
-
