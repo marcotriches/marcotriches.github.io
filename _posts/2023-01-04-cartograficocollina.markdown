@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cartografia collina"
-date:  20223-01-04 12:00:00 +0100
+date:  2023-01-04 12:00:00 +0100
 day: "dom, 15 gen 2023"
 meeting: "09:00"
 category: appennino 
