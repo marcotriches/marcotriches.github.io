@@ -15,9 +15,9 @@ Una giornata dedicata allo studio della cartografia e dell'orientamento in cammi
 Durante l'escursione sosteremo per conoscere ed approfondire le tecniche di orientamento strumentale in natura e le chiavi di lettura del paesaggio. 
 Esploreremo le piccole nicchie ambientali di questo primo entroterra: i frutteti, i campi incolti, l'agricoltura biologica, i boschi. Habitat naturali adatti per la sopravvivenza di una ricca flora e fauna mediterranea e appenninica insieme.
 L'escursione fa parte di un ciclo di uscite dedicate alle tecniche dell'escursionismo.
-È possibile partecipare all'** escursione lunga ** o all'** escursione breve**:
+È possibile partecipare all'**escursione lunga** o all'**escursione breve**:
 
-** 1) Escursione lunga **
+**1) Escursione lunga**
 
 **Ritrovo:** Villa Ugolini (Pesaro) ore 09:00
 **Rientro:** ore 17 
@@ -26,7 +26,7 @@ L'escursione fa parte di un ciclo di uscite dedicate alle tecniche dell'escursio
 **Durata:** 8 ore circa
 **Costo:** 20 Adulti, 10€ Minori
 
-** 2) Escursione breve **
+**2) Escursione breve**
 
 **Ritrovo:** Villa Ugolini (Pesaro) ore 09:00
 **Rientro:** ore 14 
