@@ -5,7 +5,7 @@ date:  2023-01-04 11:54:00 +0100
 day: "dom, 15 gen 2023"
 meeting: "09:00"
 category: appennino 
-difficult: 3
+difficult: 2
 image: bds_cartografia.jpg
 ---
 
@@ -24,7 +24,7 @@ L'escursione fa parte di un ciclo di uscite dedicate alle tecniche dell'escursio
 **Difficoltà:** E - Escursionistico
 **Dislivello in salita:** 600 m. circa
 **Durata:** 8 ore circa
-**Costo:** 20 Adulti, 10€ Minori
+**Costo:** 20€ Adulti, 10€ Minori
 
 **2) Escursione breve**
 
@@ -33,7 +33,7 @@ L'escursione fa parte di un ciclo di uscite dedicate alle tecniche dell'escursio
 **Difficoltà:** E - Escursionistico
 **Dislivello in salita:** 300 m. circa
 **Durata:** 5 ore circa
-**Costo:** 15 Adulti, 3€ Minori
+**Costo:** 15€ Adulti, 5€ Minori
 
 *Abbonamenti Balza del Sole: 5 escursioni lunghe / 90€*
 *Abbonamenti Balza del Sole: 5 escursioni normali / 60€*
