@@ -13,16 +13,23 @@ image: bds_pesarofano.jpg
 
 Un cammino da Pesaro a Fano lungo i sentieri, le stradine, i margini dei campi e dei boschetti delle colline che si affacciano al mare. Con Guido Piovene e il suo "Viaggio in Italia": il territorio che, più di tutti quelli che si affacciano all'Adriatico, intrattiene con il suo mare il rapporto più intimo e riservato.
 Piccole valli, siepi, fossi ed angoli riparati si succedono appena sopra la costa.
-Una giornata dedicata al mare, alla campagna ed al cammino con la preziosa collaborazione dell'Azienda Agricola Semi di Zucca che ci preparerà un piccolo pranzo al sacco alla metà del percorso.
+Una giornata dedicata al mare, alla campagna ed al cammino con la preziosa collaborazione dell'**Azienda Agricola Semi di Zucca** che ci preparerà un piccolo pranzo al sacco alla metà del percorso.
 Alla fine del cammino, per il rientro a Pesaro (punto di partenza) è possibile viaggiare comodamente in treno.
 
 **Ritrovo:** Pesaro ore 08:30
+
 **Rientro:** ore 17 
+
 **Difficoltà:** E - Escursionistico
+
 **Lunghezza:** 18 Km circa
+
 **Dislivello in salita:** 400 m. circa
+
 **Durata:** 8 ore circa
+
 **Costo:** 15€ Adulti, 5€ Minori
+
 **Merenda Azienda Agricola Semi di Zucca:** 5€ 
 
 *Abbonamenti Balza del Sole: 5 escursioni / 60€*
