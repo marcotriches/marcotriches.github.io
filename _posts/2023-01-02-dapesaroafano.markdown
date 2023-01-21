@@ -34,7 +34,7 @@ Alla fine del cammino, per il rientro a Pesaro (punto di partenza) è possibile 
 
 *Abbonamenti Balza del Sole: 5 escursioni / 60€*
 
-**Portare:** Scarponi, vestiario invernale a strati, Kway, acqua (almeno 1 litro), pranzo al sacco, bastoncini (chi li usa), torcia, cambio vestiti in auto.
+**Portare:** Scarponi, vestiario invernale a strati, Kway, acqua (almeno 1 litro), bastoncini (chi li usa), torcia, cambio vestiti in auto.
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
