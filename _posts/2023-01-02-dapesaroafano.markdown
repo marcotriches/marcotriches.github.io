@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Da Pesaro a Fano"
-date:  2023-01-21 11:54:00 +0100
+date:  2023-01-02 11:54:00 +0100
 day: "dom, 12 feb 2023"
 meeting: "08:30"
 category: appennino 
