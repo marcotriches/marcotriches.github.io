@@ -12,21 +12,21 @@ image: bds_montagnadimenticata.jpg
 ## Da Valle Imperina al bosco di Vallalta
 ### Itinerario lungo l'Alta Via H.W. Tilman 
 
-“La montagna dimenticata” è un itinerario a tappe nella zona settentrionale del Parco Nazionale Dolomiti Bellunesi. Si tratta di un viaggio dedicato alle attività montanare scomparse: miniere e taglio del bosco in particolare. L’escursione si propone l’esplorazione di parte del tracciato centrale.
-Con partenza dal centro minerario di Valle Imperina (543 m) si risale la valle omonima fino al valico di Forcella Franche (990 m), spartiacque con la retrostante Val Paganin. Si prosegue in discesa oltre il paese di Tisèr e i nuclei abitativi sparsi, fino al ponte di Titèle, l'antico insediamento di California e i boschi di Vallalta. 
+“La montagna dimenticata” è un itinerario a tappe nella zona settentrionale del Parco Nazionale Dolomiti Bellunesi. Si tratta di un viaggio dedicato alle attività montanare scomparse: miniere e taglio del bosco in particolare. L’escursione si propone l’esplorazione di parte del tracciato finale.
+Con partenza da Forcella Franche (990 m), si cammina in discesa oltre il paese di Tisèr e i nuclei abitativi sparsi, fino al ponte di Titèle, l'antico insediamento di California e i boschi di Vallalta. 
 
 Gli itinerari potranno essere modificati in base a previsioni meteo aggiornate.
 L'escursione sarà confermata al raggiungimento del numero minimo di partecipanti
 
 **Ritrovo:** Centro minerario Valle Imperina (Rivamonte Agordino) ore 08:00
 
-**Rientro:** ore 15:00 circa 
+**Rientro:** ore 14:00 circa 
 
 **Difficoltà:** E (escursionistico)
 
-**Dislivello in salita:**  500 m. circa
+**Dislivello in salita:**  250 m. circa
 
-**Durata:** 7 ore circa
+**Durata:** 6 ore circa
 
 **Costo:** 20€
 
