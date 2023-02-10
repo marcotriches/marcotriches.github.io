@@ -11,7 +11,7 @@ image: bds_catriamonaco.jpg
 
 ## Un racconto spirituale dell’Appennino
 
-L’escursione è dedicata alla natura silenziosa e solitaria del versante Settentrionale del Monte Catria e del suo luogo fondamentale: Fonte Avellana. Con partenza dal monastero, si sale lungo il sentiero CAI 254 il ripido bosco fino in località Rocca Baiarda, si piega in quota verso Bocca della Porta, fino quasi alla valle delle sorgenti del fiume Cenischio, e infine, in discesa al passo della Forchetta. Rientro a Fonte Avellana con il Sentiero Frassati (CAI 250). L’escursione verrà accompagnata dalla lettura del racconto “Un monaco”: un piccolo ritratto dei luoghi e dei suoi più convinti abitanti medievali. 
+L’escursione è dedicata alla natura silenziosa e solitaria del versante Settentrionale del Monte Catria e del suo luogo fondamentale: Fonte Avellana. Con partenza dal monastero, si sale lungo il sentiero CAI 254 il ripido bosco fino in località Rocca Baiarda, si piega in quota verso Bocca della Porta, fino quasi alla valle delle sorgenti del fiume Cenischio, e infine, in discesa al passo della Forchetta. Rientro a Fonte Avellana con il Sentiero Frassati (CAI 250). L’escursione verrà accompagnata dalla lettura del racconto **“Un monaco”**: un piccolo ritratto dei luoghi e dei suoi più convinti abitanti medievali. 
 
 "L'*homo viator*, l'uomo in cammino, sempre in viaggio su questa terra e nella sua vita che sono gli spazi/tempo effimeri del suo destino dove egli cammina, secondo le sue scelte, verso la vita, o verso la morte. Il monaco, paradossalmente, legato per vocazione a un luogo di clausura, va soesso peregrinando per le strade."
 Jacques Le Goff, *L'uomo medievale*, Editori Laterza.
