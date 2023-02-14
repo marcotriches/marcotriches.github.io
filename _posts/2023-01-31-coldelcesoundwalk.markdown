@@ -15,7 +15,7 @@ Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni d
 
 **Ritrovo:** Montegaudio (Pesaro) ore 09:00
 
-**Rientro:** ore 15:00 
+**Rientro:** ore 14:00 
 
 **Difficoltà:** E - Escursionistico
 
@@ -23,7 +23,7 @@ Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni d
 
 **Dislivello in salita:** 350 m. circa
 
-**Durata:** 6 ore circa
+**Durata:** 5 ore circa
 
 **Costo:** 15€ Adulti, 5€ Minori
 
