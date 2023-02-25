@@ -6,7 +6,7 @@ day: "dom, 12 mar 2023"
 meeting: "09:30"
 category: appennino 
 difficult: 3
-image: bds_catriamon.jpg
+image: bds_catriamonaco.jpg
 ---
 
 ## Un racconto spirituale dell’Appennino
