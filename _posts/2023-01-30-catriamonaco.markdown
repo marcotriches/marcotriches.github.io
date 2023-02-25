@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monte Catria, un monaco"
-date:  2023-01-30 11:54:00 +0100
+date:  2023-01-30 09:54:00 +0100
 day: "dom, 12 mar 2023"
 meeting: "09:30"
 category: appennino 
