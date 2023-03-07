@@ -2,7 +2,7 @@
 layout: post
 title:  "Alpe della Luna - soundwalk"
 date:  2023-01-26 11:54:00 +0100
-day: "dom, 26 mar 2023"
+day: "dom, 02 apr 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
