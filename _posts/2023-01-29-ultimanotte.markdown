@@ -2,8 +2,8 @@
 layout: post
 title:  "Gola del Furlo, l'ultima notte"
 date:  2023-01-25 11:54:00 +0100
-day: "dom, 02 apr 2023"
-meeting: "09:30"
+day: "sab, 25 mar 2023"
+meeting: "14:00"
 category: appennino 
 difficult: 3
 image: bds_pietralata.jpg
@@ -23,21 +23,21 @@ l’ultima volta.”*
 
 **Ritrovo:** Villa Furlo (Fermignano) ore 09:30
 
-**Rientro:** ore 15:30 
+**Rientro:** ore 20:00 
 
 **Difficoltà:** E - Escursionistico
 
 **Lunghezza:** 13 Km circa
 
-**Dislivello in salita:** 600 m. circa
+**Dislivello in salita:** 500 m. circa
 
-**Durata:** 7 ore circa
+**Durata:** 6 ore circa
 
 **Costo:** 15€ Adulti, 5€ Minori
 
 *Abbonamenti Balza del Sole: 5 escursioni / 60€*
 
-**Portare:** Scarponi, vestiario invernale a strati, cappello e guanti, Kway, acqua (almeno 1 litro), pranzo al sacco, bastoncini (chi li usa), cambio vestiti in auto.
+**Portare:** Scarponi, vestiario invernale a strati, cappello e guanti, Kway, acqua (almeno 1 litro), cena al sacco, bastoncini (chi li usa), torcia, cambio vestiti in auto.
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
