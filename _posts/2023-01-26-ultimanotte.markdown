@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gola del Furlo, l'ultima notte"
-date:  2023-01-25 11:54:00 +0100
+date:  2023-01-26 11:54:00 +0100
 day: "sab, 25 mar 2023"
 meeting: "14:00"
 category: appennino 
