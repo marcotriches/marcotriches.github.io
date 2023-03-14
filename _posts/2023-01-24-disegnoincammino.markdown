@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disegno in cammino + Birdwatching"
-date:  2023-01-27 20:00:00 +0100
+date:  2023-01-24 20:00:00 +0100
 day: "dom, 26 mar 2023"
 meeting: "15:00"
 category: appennino 
