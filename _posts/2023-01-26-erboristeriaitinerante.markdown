@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erboristeria itinerante, 1"
-date:  2023-01-26 10:00:00 +0100
+date:  2023-01-26 20:00:00 +0100
 day: "ven, 24 mar 2023"
 meeting: "14:00"
 category: erboristeria 
