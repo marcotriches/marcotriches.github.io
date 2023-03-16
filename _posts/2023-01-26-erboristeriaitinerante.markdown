@@ -40,11 +40,3 @@ Questa passeggiata fa parte di un ciclo di incontri per la conoscenza della flor
 *Guida Naturalistica delle Marche*
 
 + Informazioni e prenotazioni:    3482921370    3281834019    info@balzadelsole.com
-
-**Pranzo:** al sacco oppure in rifugio
-
-+ Scarponi, acqua (2 litri)  
-
-**Guida Parco:** Marco Triches, Balza del Sole
-* Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
-
