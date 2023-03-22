@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "Alpe della Luna - soundwalk"
+title:  "Alpe della Luna"
 date:  2023-01-23 11:54:00 +0100
 day: "dom, 02 apr 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: bds_alpedellaluna.jpg
+image: bds_alpedellaluna1.jpg
 ---
 
-## Mountain nature soundwalk
+## Mountain nature soundwalk + Erboristeria itinerante
 
 Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro: nel nostro caso, quello delle valli solitarie dell'Alpe della Luna. Con partenza da Parchiule (Borgo Pace - PU) si risale il Rio della Villa con il sentiero CAI 90 fino al Poggio dell'Appione (1143 m) e le faggete del Monte Maggiore. Rientro ad anello con il sentiero CAI 90 bis per il Colle delle Quarantelle e il monte Vallandia.
+L'escursione sarà anche accompagnata da **Giulia Maschera** erborista, che ci condurrà alla scoperta della flora spontanea, dei suoi habitat e gli usi tradizionali delle piante officinali.
+
 **Ritrovo:** Parchiule (Borgo Pace - PU) ore 10:00
 
 **Rientro:** ore 17:00 
