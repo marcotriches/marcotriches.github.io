@@ -21,7 +21,7 @@ precipizi della gola, che squarcia la collina dietro la casa, dove si può dire 
 l’ultima volta.”*
 
 
-**Ritrovo:** Villa Furlo (Fermignano) ore 09:30
+**Ritrovo:** Villa Furlo (Fermignano) ore 14:00
 
 **Rientro:** ore 20:00 
 
