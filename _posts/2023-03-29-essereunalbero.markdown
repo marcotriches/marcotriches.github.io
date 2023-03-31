@@ -16,11 +16,17 @@ La camminata sarà accompagnata dai racconti e dalle riflessioni di Andrea Fazi,
 
 
 **Ritrovo:** Beato Sante (Mombaroccio) ore 15:00
+
 **Rientro:** ore 18:30 circa 
+
 **Difficoltà:** T - Turistico
+
 **Dislivello in salita:** 50 m. circa
+
 **Distanza:** 3 Km
+
 **Durata:** 3:30 ore circa
+
 **Costo:** Gratis
 
 **Portare:** Scarponcini, vestiario a strati, Kway, acqua (almeno un litro per persona), merenda da condividere, quaderno, fogli, acquerelli, pennelli.
