@@ -26,7 +26,7 @@ L'escursione sarà anche accompagnata da **Giulia Maschera** erborista, che ci c
 
 **Durata:** 7 ore circa
 
-**Costo:** 15€ Adulti, 5€ Minori
+**Costo:** 20€ Adulti, 10€ Minori
 
 *Abbonamenti Balza del Sole: 5 escursioni / 60€*
 
