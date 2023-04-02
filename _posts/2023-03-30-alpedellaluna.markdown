@@ -2,11 +2,11 @@
 layout: post
 title:  "Alpe della Luna"
 date:  2023-03-30 11:54:00 +0100
-day: "dom, 02 apr 2023"
+day: "sab, 15 apr 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: bds_alpedellaluna1.jpg
+image: bds_parchiule.jpg
 ---
 
 ## Mountain nature soundwalk + Erboristeria itinerante
