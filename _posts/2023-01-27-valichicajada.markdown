@@ -2,11 +2,11 @@
 layout: post
 title:  "Valichi di Cajada"
 date:  2023-01-27 11:00:00 +0100
-day: "dom, 19 mar 2023"
+day: "dom, 30 apr 2023"
 meeting: "08:00"
 category: dolomiti 
 difficult: 3
-image: .jpg
+image: bds_cajada.jpg
 ---
 
 ## Traversata da Faè a Belluno
