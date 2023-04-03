@@ -6,7 +6,7 @@ day: "dom, 28 mag 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: bds_.jpg
+image: bds_parchiule.jpg
 ---
 
 ## Mountain nature soundwalk + Erboristeria itinerante
