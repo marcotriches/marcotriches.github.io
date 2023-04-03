@@ -2,7 +2,7 @@
 layout: post
 title:  "Alpe della Luna"
 date:  2023-03-30 11:54:00 +0100
-day: "sab, 15 apr 2023"
+day: "dom, 28 mag 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
