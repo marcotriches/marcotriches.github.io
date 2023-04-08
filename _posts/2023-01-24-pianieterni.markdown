@@ -5,7 +5,7 @@ date:  2023-01-24 16:00:00 +0100
 day: "lun 1 mag 2023"
 meeting: "08:00"
 category: dolomiti 
-difficult: 5
+difficult: 3
 image: pelse.jpg
 ---
 
@@ -22,7 +22,7 @@ L'escursione sarà confermata al raggiungimento del numero minimo di partecipant
 
 **Rientro:** ore 17:00 circa 
 
-**Difficoltà:** EE - Escursionisti Esperti
+**Difficoltà:** E - Escursionistico
 
 **Dislivello in salita:**  1300 m. circa
 
