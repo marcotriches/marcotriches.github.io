@@ -17,12 +17,7 @@ Nelle Marche, ed in particolare alle pendici settentrionali del Monte Catria, si
 Con partenza da Cagli, San Geronzo (quota 285 m) il sentiero sale al monte Bambino (818 m) e Campifobio (924 m), poi traversa verso Pian di Troscia e si interna nella Valle del Mandtrale fino al Rifugio Valpiana (990 m). Da qui al Rifugio Bocca della Valle (1023 m) e, con ampio giro al di sopra delle Gorghe fino all monte Schioppettino (984 m). Con la Genga Aguzza alle spalle si percorre il lungo tratto che conduce al fondo della Valle del Cinisco e poi in salita al Passo della Forchetta (782 m).
 Di lì, in breve, in discesa a Fonte Avellana.
 
-Il gruppo escursionistico Balza del Sole è felice di presentarvi **Una Giornata in Montagna**: escursioni lunghe un giorno (o quasi) nell'Appennino. 
-Una serie di escursioni senza una meta prestabilita, senza fretta, con la sola durata del sole a scandire l'inizio e la fine del cammino.
-Percorsi medio/lunghi per favorire la conoscenza delle montagne e delle valli appenniniche. 
-Lo scopo principale è quello di rimanere il più a lungo possibile nella montagna, rallentando il passo, con varie soste, per consentire a tutti gli escursionisti di accedere all'ambiente naturale che li circonda.  
-
-Durante l'escursioni verranno approfonditi i temi del cammino, delle mappe e orientamento, la lettura del paesaggio e della vegetazione, la sicurezza in ambiente montano.
+Durante l'escursione verranno approfonditi i temi del cammino, delle mappe e orientamento, la lettura del paesaggio e della vegetazione, la sicurezza in ambiente montano.
 *Particolarmente consigliato per chi prepara un cammino di più giorni*
 
 
