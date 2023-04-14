@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Traversata dei Piani Eterni"
+title:  "Traversata dei Piani Eterni (BL)"
 date:  2023-01-24 16:00:00 +0100
 day: "lun 1 mag 2023"
 meeting: "08:00"
