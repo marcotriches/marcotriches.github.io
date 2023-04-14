@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alpe della Luna"
+title:  "Alpe della Luna (PU)"
 date:  2023-01-18 11:54:00 +0100
 day: "dom, 28 mag 2023"
 meeting: "10:00"
