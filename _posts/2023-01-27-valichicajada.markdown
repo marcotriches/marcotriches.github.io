@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Valichi di Cajada"
+title:  "Valichi di Cajada (BL)"
 date:  2023-01-27 11:00:00 +0100
 day: "dom, 30 apr 2023"
 meeting: "08:00"
