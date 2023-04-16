@@ -6,7 +6,7 @@ day: "mar, 25 apr 2023"
 meeting: "15:00"
 category: appennino 
 difficult: 1
-image: essereunalbero.jpg
+image: essereunalbero1.jpg
 ---
 
 ## Nel Bosco del Beato Sante con Andrea Fazi
