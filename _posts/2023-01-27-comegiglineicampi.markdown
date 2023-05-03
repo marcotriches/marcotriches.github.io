@@ -2,7 +2,7 @@
 layout: post
 title:  "Come i gigli nei campi (PU)"
 date:  2023-01-27 20:00:00 +0100
-day: "dom, 107 mag 2023"
+day: "dom, 07 mag 2023"
 meeting: "09:00"
 category: erboristeria 
 difficult: 2
