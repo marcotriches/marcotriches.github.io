@@ -2,7 +2,7 @@
 layout: post
 title:  "Sentiero Frassati, monte Catria (PU)"
 date:  2023-01-22 18:00:00 +0100
-day: "dom,14 mag 2023"
+day: "dom,21 mag 2023"
 meeting: "09:00"
 category: appennino 
 difficult: 4
