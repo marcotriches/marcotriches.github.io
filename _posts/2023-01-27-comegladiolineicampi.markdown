@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Come i gigli nei campi (PU)"
+title:  "Come gladioli nei campi (PU)"
 date:  2023-01-27 20:00:00 +0100
 day: "dom, 07 mag 2023"
 meeting: "09:00"
@@ -13,7 +13,7 @@ image: giglio.jpg
 ### Monte San Daniele, Monteciccardo (PU)
 
 L’escursione è dedicata alla scoperta della biodiversità della campagna marchigiana, la sua ricchezza floristica, con un itinerario che prevede la visita al nostro campo di piante officinali.
-Durante la passeggiata scopriremo le specie che fioriscono in questo momento della primavera, con particolare attenzione per i bellissimi gigli di campo.
+Durante la passeggiata scopriremo le specie che fioriscono in questo momento della primavera, con particolare attenzione per i bellissimi Gladioli.
 Con la collaborazione di Mirna Mariani, maestra d'arte, potremo anche dedicarci al disegno naturalistico.
 Questa passeggiata fa parte di un ciclo di incontri per la conoscenza della flora e dell'erboristeria.
 
