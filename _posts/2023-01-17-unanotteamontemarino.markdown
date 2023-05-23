@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Una notte a Montemarino (PU)"
-date:  2023-01-23 20:00:00 +0100
+date:  2023-01-17 20:00:00 +0100
 day: "ven, 02 giu 2023"
 meeting: "18:00"
 category: erboristeria 
