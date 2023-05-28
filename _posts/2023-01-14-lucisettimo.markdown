@@ -12,9 +12,13 @@ image: 18giugnosettimo.jpg
 ## Parco Nazionale Dolomiti Bellunesi
 ## Un giro ad Anello nel versante Sud della Schiara 
 
+Itinerario che si snoda lungo la testata della Valle dell'Ardo, la Val del Rui Frét e la Val de la Medassa, lungo i sentieri CAI 501, 507, 511, 505. 
+Un percorso dedicato all'antica viabilità di montagna, le casère e i luoghi rurali più conosciuti del versante bellunese del gruppo Schiara, Talvena, Pèlf. Un viaggio nel tempo accompagnato da racconti e letture.
+Boschi, forre, pascoli e radure sono gli habitat attraversati dall'escursuione.
 
+*Possibilità di variare l'itinerario con un tratto, da concordare, fino a Casèra Ronch e Palazza, con conseguente aumento del dislivello.*
 
-**Al Rifugio Settimo Alpini sarà possibile rifocillarsi con un pranzo, una merenda, o uno spuntino in compagnia dei nuovi gestori del rifugio.**
+**Al Rifugio Settimo Alpini sarà possibile rifocillarsi con un pranzo, una merenda, o uno spuntino in compagnia dei nuovi gestori del rifugio Chiara e Fabrizio. Insieme potremo ascoltare un racconto ambientato nei luoghi dell'escursione.**
 
 Gli itinerari potranno essere modificati in base a previsioni meteo aggiornate.
 L'escursione sarà confermata al raggiungimento del numero minimo di partecipanti
