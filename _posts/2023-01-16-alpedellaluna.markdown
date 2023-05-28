@@ -6,7 +6,7 @@ day: "dom, 11 giu 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: .jpg
+image: bds_alpedellaluna.jpg
 ---
 
 ## Mountain nature soundwalk 
