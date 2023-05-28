@@ -22,7 +22,7 @@ Per prenotare un posto in rifugio rivolgersi ai numeri: 0437 669226 oppure 33564
 Gli itinerari potranno essere modificati in base a previsioni meteo aggiornate.
 L'escursione sarà confermata al raggiungimento del numero minimo di partecipanti
 
-**Ritrovo:** La Stanga (Seduico - BL) ore 07:00
+**Ritrovo:** La Stanga (Sedico - BL) ore 07:00
 
 **Rientro:** ore 17:00 circa 
 
