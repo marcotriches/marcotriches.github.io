@@ -20,7 +20,7 @@ Questa passeggiata fa parte di un ciclo di incontri per la conoscenza della flor
 
 **Ritrovo:** Villa Ugolini (PU) ore 18:00
 
-**Rientro:** ore 22:00 circa 
+**Rientro:** ore 21:30 circa 
 
 **Difficoltà:** E (escursionistico)
 
