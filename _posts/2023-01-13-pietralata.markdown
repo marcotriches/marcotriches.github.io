@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Gola del Furlo, l'ultima notte"
-date:  2023-01-26 11:54:00 +0100
-day: "sab, 25 mar 2023"
-meeting: "14:00"
+title:  "Gola del Furlo, Pietralata"
+date:  2023-01-13 11:54:00 +0100
+day: "sab, 24 giu 2023"
+meeting: "16:00"
 category: appennino 
 difficult: 3
-image: bds_pietralata.jpg
+image: pietralata.jpg
 ---
 
 ## Monte Pietralata, Riserva Naturale Statale Gola del Furlo (PU)
@@ -21,9 +21,9 @@ precipizi della gola, che squarcia la collina dietro la casa, dove si può dire 
 l’ultima volta.”*
 
 
-**Ritrovo:** Villa Furlo (Fermignano) ore 14:00
+**Ritrovo:** Villa Furlo (Fermignano) ore 16:00
 
-**Rientro:** ore 20:00 
+**Rientro:** ore 22:00 
 
 **Difficoltà:** E - Escursionistico
 
@@ -33,11 +33,11 @@ l’ultima volta.”*
 
 **Durata:** 6 ore circa
 
-**Costo:** 15€ Adulti, 5€ Minori
+**Costo:** 15€ Adulti, 10€ Minori
 
 *Abbonamenti Balza del Sole: 5 escursioni / 60€*
 
-**Portare:** Scarponi, vestiario invernale a strati, cappello e guanti, Kway, acqua (almeno 1 litro), cena al sacco, bastoncini (chi li usa), torcia, cambio vestiti in auto.
+**Portare:** Scarponi, vestiario a strati, Kway, acqua (almeno 1 litro e mezzo), cena al sacco, bastoncini (chi li usa), torcia, cambio vestiti in auto.
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
