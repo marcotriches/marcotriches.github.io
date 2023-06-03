@@ -30,7 +30,7 @@ Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni d
 
 *Abbonamenti Balza del Sole: 5 escursioni / 60€*
 
-**Portare:** Scarponi, vestiario invernale a strati, cappello e guanti, Kway, acqua (almeno 1 litro), pranzo al sacco, bastoncini (chi li usa), cambio vestiti in auto.
+**Portare:** Scarponi, vestiario a strati, Kway, acqua (almeno 1 litro e mezzo), pranzo al sacco, bastoncini (chi li usa), cambio vestiti in auto.
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
