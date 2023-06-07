@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "San Bartolo Erboristeria Itinerante (PU)"
+title:  "San Bartolo Erboristeria Itinerante"
 date:  2023-01-17 20:00:00 +0100
 day: "sab, 10 giu 2023"
 meeting: "17:30"
