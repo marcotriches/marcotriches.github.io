@@ -2,7 +2,7 @@
 layout: post
 title:  "Gola del Furlo, Pietralata"
 date:  2023-01-13 11:54:00 +0100
-day: "sab, 24 giu 2023"
+day: "dom, 25 giu 2023"
 meeting: "16:00"
 category: appennino 
 difficult: 3
