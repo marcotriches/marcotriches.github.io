@@ -6,7 +6,7 @@ day: "dom, 25 giu 2023"
 meeting: "16:00"
 category: appennino 
 difficult: 3
-image: pietralata.jpg
+image: pietralata1.jpg
 ---
 
 ## Monte Pietralata, Riserva Naturale Statale Gola del Furlo (PU)
