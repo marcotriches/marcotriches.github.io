@@ -29,6 +29,8 @@ Insieme a Giulia Maschera, erborista, e Marco Triches, Guida Naturalistica di Ba
 
 **Durata:** 3 ore circa
 
+**Costo:** 10€ adulti, 7€ soci Proloco, 5€ minori
+
 **Accompagna:** Giulia Maschera, erborista 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
