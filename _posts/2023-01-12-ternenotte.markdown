@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notturna al Monte Terne (BL)"
-date:  2023-01-11 16:00:00 +0100
+date:  2023-01-12 18:00:00 +0100
 day: "sab 01 lug 2023"
 meeting: "17:00"
 category: dolomiti 
