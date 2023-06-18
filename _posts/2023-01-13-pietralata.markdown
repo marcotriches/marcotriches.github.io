@@ -5,7 +5,7 @@ date:  2023-01-13 11:54:00 +0100
 day: "dom, 25 giu 2023"
 meeting: "16:00"
 category: appennino 
-difficult: 3
+difficult: 2
 image: pietralata1.jpg
 ---
 
