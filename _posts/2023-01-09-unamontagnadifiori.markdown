@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le luci del Settimo Alpini (BL)"
+title:  "Una montagna di fiori (BL)"
 date:  2023-01-09 16:00:00 +0100
 day: "dom 16 lug 2023"
 meeting: "08:00"
