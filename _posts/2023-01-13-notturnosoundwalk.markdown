@@ -6,7 +6,7 @@ day: "ven, 30 giu 2023"
 meeting: "18:00"
 category: appennino 
 difficult: 2
-image: notturnosoundwalk.jpg
+image: notturnosound.jpg
 ---
 
 ## Camminata nel silenzio e nei suoni della natura notturna
