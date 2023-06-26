@@ -13,8 +13,8 @@ image: montagnafiori.jpg
 ## Un viaggio floristico in compagnia di Giulia Maschera
 
 Una traversata dedicata al gruppo della Schiara e ai suoi diversi habitat. Dalle foreste di Cajada, alle praterie d'alta quota del Pelf e del Pìs Pilon, i giardini del Settimo Alpini e della Schiara fino alla forra della Valle dell'Ardo.
-Un viaggio in compagnia di Marco Triches, Guida Parco e Giulia Maschera, erborista, che ci condurrà a scoprire storie, luoghi e paesaggi delle Dolomiti di Belluno.
-Sosteremo al rifuguio Settimo Alpini per conoscere la flora che circonda il rifugio, le sue caratteristiche, proprietà ed usi tradizionali.
+Un viaggio in compagnia di **Marco Triches, Guida Parco** e **Giulia Maschera, erborista**, che ci condurrà a scoprire storie, luoghi e paesaggi delle Dolomiti di Belluno.
+*Sosteremo al rifugio Settimo Alpini per conoscere la flora che circonda il rifugio, le sue caratteristiche, proprietà ed usi tradizionali*.
 Rientro per il canyoon fossile del Bus del Buson.
 Sentieri CAI: 505 e 501
 
