@@ -6,7 +6,7 @@ day: "dom 16 lug 2023"
 meeting: "08:00"
 category: dolomiti 
 difficult: 3
-image: montagnafiori.jpg
+image: montagnafiori1.jpg
 ---
 
 ## Parco Nazionale Dolomiti Bellunesi
