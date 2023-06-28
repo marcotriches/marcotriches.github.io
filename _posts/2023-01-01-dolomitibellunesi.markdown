@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dolomiti Bellunesi (BL)"
-date:  2023-01-24 16:00:00 +0100
+title:  "Viaggio nelle Dolomiti Bellunesi (BL)"
+date:  2023-01-01 16:00:00 +0100
 day: "Dal 28/09 al 1/10"
 meeting: "14:00"
 category: dolomiti 
