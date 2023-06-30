@@ -10,7 +10,6 @@ image: montecororid.jpg
 ---
 
 ## Parco Nazionale Dolomiti Bellunesi
-## Il Vallone di Campotorondo, Erèra e Val Canzoi 
 
 **Trekking Dolomiti Bellunesi Itinerante accompagnato da guida ambientale professionista.**
 Un progetto in collaborazione con **Alla Ricerca del Viaggio** 
