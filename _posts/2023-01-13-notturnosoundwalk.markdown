@@ -2,11 +2,11 @@
 layout: post
 title:  "Notturno Soundwalk"
 date:  2023-01-13 11:54:00 +0100
-day: "ven, 30 giu 2023"
+day: "dom, 2 lug 2023"
 meeting: "18:00"
 category: appennino 
 difficult: 2
-image: notturnosound.jpg
+image: passeggiatasonora.jpg
 ---
 
 ## Camminata nel silenzio e nei suoni della natura notturna
