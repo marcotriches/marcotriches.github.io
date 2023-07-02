@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Una montagna di fiori (BL)"
-date:  2023-01-09 16:00:00 +0100
+date:  2023-01-09 18:00:00 +0100
 day: "dom 16 lug 2023"
 meeting: "08:00"
 category: dolomiti 
