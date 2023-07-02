@@ -16,7 +16,7 @@ Escursione in ambiente alpino che ci condurrà verso la cima del Monte Coro nel 
 Dal fondo della Valle del Cordevole si risale la Val Vescovà fino al Rifugio Furio Bianchét al Pian dei Gat (quota 1250 m).
 Dal rifugio, per traccia alpina suggestiva e rurale, si risale alla forcella del Boràl de l'Ors, e il crinale accidentato che conduce all'altipiano del Monte Coro.
 
-**Per chi volesse è possibile pernottare al Rifugio Bianchét la notte di Sabato 1 Luglio, in modo da suddividere la salita in due tappa, consigliato per chi non volesse affrontare l'intero dislivello in un giorno solo.
+**Per chi volesse è possibile pernottare al Rifugio Bianchét la notte di Domenica 16 Luglio, in modo da suddividere la salita in due tappa, consigliato per chi non volesse affrontare l'intero dislivello in un giorno solo.
 Per prenotare un posto in rifugio rivolgersi ai numeri: 0437 669226 oppure 3356446975.**
 
 Gli itinerari potranno essere modificati in base a previsioni meteo aggiornate.
