@@ -6,7 +6,7 @@ day: "lun 17 lug 2023"
 meeting: "07:00"
 category: dolomiti 
 difficult: 4
-image: montecoro1.jpg
+image: montecoro2.jpg
 ---
 
 ## Parco Nazionale Dolomiti Bellunesi
