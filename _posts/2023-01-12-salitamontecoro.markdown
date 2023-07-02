@@ -2,7 +2,7 @@
 layout: post
 title:  "Salita al Monte Coro (BL)"
 date:  2023-01-12 16:00:00 +0100
-day: "dom 2 lug 2023"
+day: "lun 17 lug 2023"
 meeting: "07:00"
 category: dolomiti 
 difficult: 4
