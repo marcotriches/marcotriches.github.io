@@ -31,7 +31,7 @@ Rientro al tramonto e al buio (torcia!)
 
 **Dislivello in salita:** 200 m. circa
 
-**Durata:** 5 ore circa
+**Durata:** 3 ore circa
 
 **Costo:** 15€ Adulti, 5€ Minori
 
