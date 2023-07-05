@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fiori Erbe e Sapori (BL)"
-date:  2022-01-10 12:00:00 +0100
+date:  2023-01-10 12:00:00 +0100
 day: "sab, 15 lug 2023"
 meeting: "10:00"
 category: dolomiti 
