@@ -6,7 +6,7 @@ day: "sab, 15 lug 2023"
 meeting: "10:00"
 category: dolomiti 
 difficult: 1
-image: valdipecolzoldo.jpg
+image: valdipecolerbe.jpg
 ---
 
 ## Escursione erboristica in Val di Pécol
