@@ -23,7 +23,7 @@ Al termine dell'escursione è possibile rifocillarsi con **Selvatica Osteria di 
 
 **Dislivello in salita:**  250 m. circa
 
-**Durata:** 5 ore circa
+**Durata:** 3 ore circa
 
 **Costo:** 15€ Adulti, 10€ Minori
 
