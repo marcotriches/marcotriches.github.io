@@ -19,7 +19,7 @@ Insieme a Giulia Maschera, erborista, e Marco Triches, Guida Naturalistica di Ba
 
 **Ritrovo:** Pesaro, Baia Flaminia (PU) ore 18:00
 
-**Rientro:** ore 22:00 circa 
+**Rientro:** ore 21:00 circa 
 
 **Difficoltà:** T (Turistico)
 
@@ -27,7 +27,7 @@ Insieme a Giulia Maschera, erborista, e Marco Triches, Guida Naturalistica di Ba
 
 **Lunghezza:** 4 Km
 
-**Durata:** 4 ore circa
+**Durata:** 3 ore circa
 
 **Costo:** Gratuito
 
