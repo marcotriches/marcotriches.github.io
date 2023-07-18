@@ -14,6 +14,7 @@ image: beatosantemontemarino.jpg
 Il bosco, le valli e le praterie. Un percorso in alcuni dei luoghi più rappresentativi della collina marchigiana.
 Traversata lungo i crinali dei colli e nelle valli del primo entroterra della Provincia di Pesaro Urbino. Ampi panorami verso il mare e l'Appennino, in una successione di micro ambienti agricoli, pastorali, boschivi e torrentizi. Attraverseremo le valli del Pontaccio, del Combarbio e dell'Arzilla.
 Al termine dell'escursione è possibile rifocillarsi con **Selvatica Osteria di Strada**, Villa Ugolini (Pesaro).
+
 **Ritrovo:** Mombaroccio (Pesaro) ore 18:00
 
 **Arrivo:** ore 21:30 circa 
