@@ -6,7 +6,7 @@ day: "sab, 22 lug 2023"
 meeting: "18:00"
 category: erboristeria 
 difficult: 1
-image: storiemare.jpg
+image: Storie.jpg
 ---
 
 ## Passeggiata floristica in compagnia di Giulia Maschera, erborista
