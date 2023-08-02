@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Fiori Erbe e Sapori (BL)"
-date:  2023-01-10 12:00:00 +0100
-day: "sab, 15 lug 2023"
+date:  2023-01-08 12:00:00 +0100
+day: "dom, 13 ago 2023"
 meeting: "10:00"
 category: dolomiti 
 difficult: 1
-image: valdipecolerbe.jpg
+image: valdipecolagosto.jpg
 ---
 
 ## Escursione erboristica in Val di Pécol
