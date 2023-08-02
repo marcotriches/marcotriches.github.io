@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Profondi, escursione (PU)"
-date:  2023-01-03 11:54:00 +0100
+date:  2023-01-10 11:54:00 +0100
 day: "dom, 6 ago 2023"
 meeting: "17:00"
 category: appennino 
