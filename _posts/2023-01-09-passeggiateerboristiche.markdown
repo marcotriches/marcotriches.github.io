@@ -6,7 +6,7 @@ day: "sab 12 & lun 14 ago 2023"
 meeting: "16:30"
 category: dolomiti 
 difficult: 1
-image: passeggiate_proloco_limana.jpg.jpg
+image: passeggiate_proloco_limana.jpg
 ---
 
 ## Ogni pianta ha la sua storia
