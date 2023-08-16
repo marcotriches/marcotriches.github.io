@@ -1,7 +1,7 @@
 -
 layout: post
 title:  "Risalita del Torrente Arzilla in bicicletta (PU)"
-date:  2023-01-02 20:00:00 +0100
+date:  2023-01-02 20:00 +0100
 day: "sab, 16 set 2023"
 meeting: "09:00"
 category: misto 
