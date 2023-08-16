@@ -1,12 +1,12 @@
 -
 layout: post
 title:  "Risalita del Torrente Arzilla in bicicletta (PU)"
-date:  2023-01-13 20:00:00 +0100
-day: "sab, 08 lug 2023"
+date:  2023-01-02 20:00:00 +0100
+day: "sab, 16 set 2023"
 meeting: "09:00"
 category: misto 
 difficult: 3
-image: biciclettaarzilla.jpg
+image: fanobicicletta.jpg
 ---
 
 ## Percorsi in bicicletta e a piedi nell'Appennino
