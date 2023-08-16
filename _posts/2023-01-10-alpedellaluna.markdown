@@ -1,17 +1,18 @@
 ---
 layout: post
 title:  "Alpe della Luna (PU)"
-date:  2023-01-16 11:54:00 +0100
-day: "dom, 11 giu 2023"
+date:  2023-01-05 11:54:00 +0100
+day: "dom, 10 set 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: bds_alpedellaluna.jpg
+image: bds-parchiule.jpg
 ---
 
 ## Mountain nature soundwalk 
 
-Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro: nel nostro caso, quello delle valli solitarie dell'Alpe della Luna. Con partenza da Parchiule (Borgo Pace - PU) si risale il Rio della Villa con il sentiero CAI 90 fino al Poggio dell'Appione (1143 m) e le faggete del Monte Maggiore. Rientro ad anello con il sentiero CAI 90 bis per il Colle delle Quarantelle e il monte Vallandia.
+Giro ad anello nei sentieri di Parchiule, con guadi, attraversamenti e salite di colli. Percorreremo i sentieri che conducono alla Torre di Villa. 
+Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro: nel nostro caso, quello delle valli solitarie dell'Alpe della Luna. 
 
 
 **Ritrovo:** Parchiule (Borgo Pace - PU) ore 10:00
@@ -24,7 +25,7 @@ Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni d
 
 **Dislivello in salita:** 600 m. circa
 
-**Durata:** 7 ore circa
+**Durata:** 5 ore circa
 
 **Costo:** 20€ Adulti, 10€ Minori
 
