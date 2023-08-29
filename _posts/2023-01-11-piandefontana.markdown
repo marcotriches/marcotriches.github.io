@@ -3,7 +3,7 @@ layout: post
 title:  "Rifugio Pian de Fontana (BL)"
 date: 2023-01-11 19:00:00 +0100
 day: "sab, 02 set 2023"
-meeting: "07:00"
+meeting: "08:00"
 category: dolomiti 
 difficult: 3
 image: bds-piandefontana.jpg
