@@ -14,9 +14,9 @@ image: bds-piandefontana.jpg
 Escursione alla scoperta dei boschi vetusti della Val del Grisol e del Rifugio Pian de Fontana. Percorreremo il sentiero CAI 520 in Val dei Ross a partire da località Grisol de Entro per esplorare la biodiversità, le pratiche antiche, le casere e le storie di questo angolo solitario del Parco.
 Il percorso ci condurrà al confine con la Val Vescovà, ai piedi dei Van de Zità e della Talvena.
 
-**Ritrovo:** Soffranco (Longarone) ore 07:00
+**Ritrovo:** Soffranco (Longarone) ore 08:00
 
-**Rientro:** ore 14:00 circa 
+**Rientro:** ore 15:00 circa 
 
 **Difficoltà:** E (escursionistico)
 
