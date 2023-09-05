@@ -16,7 +16,9 @@ Escursione floristica alle Marmitte dei Giganti (Fossombrone - PU) dedicata alla
 Un piccolo viaggio nei vari habitat che compongono la collina marchigiana: dalle sponde umide del torrente, ai boschi di quercia, la macchia e gli incolti.
 A seguire sarà possibile partecipare, dalle ore 17:30, alla **Festa del Gas Nomade** della Provincia di Pesaro Urbino: un progetto di distribuzione di prodotti agricoli genuini e socialità contadina.
 Previsti cena e spettacoli. 
+
 **Chi intendesse partecipare alla festa è pregato di prenotarsi segnalando la propria scelta al momento dell'iscrizione**
+
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
 
 
