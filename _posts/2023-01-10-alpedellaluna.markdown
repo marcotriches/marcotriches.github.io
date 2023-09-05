@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Alpe della Luna (PU)"
+title:  "Torre di Villa Alpe della Luna (PU)"
 date:  2023-01-05 11:54:00 +0100
 day: "dom, 17 set 2023"
 meeting: "10:00"
