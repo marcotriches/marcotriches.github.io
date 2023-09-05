@@ -17,15 +17,15 @@ Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni d
 
 **Ritrovo:** Parchiule (Borgo Pace - PU) ore 10:00
 
-**Rientro:** ore 17:00 
+**Rientro:** ore 15:00 
 
 **Difficoltà:** E - Escursionistico
 
 **Lunghezza:** 13 Km circa
 
-**Dislivello in salita:** 600 m. circa
+**Dislivello in salita:** 300 m. circa
 
-**Durata:** 5 ore circa
+**Durata:** 4 ore circa
 
 **Costo:** 20€ Adulti, 10€ Minori
 
