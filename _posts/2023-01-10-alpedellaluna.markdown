@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post 
 title:  "Alpe della Luna (PU)"
 date:  2023-01-05 11:54:00 +0100
-day: "dom, 10 set 2023"
+day: "dom, 17 set 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
@@ -11,7 +11,7 @@ image: bds-parchiule.jpg
 
 ## Mountain nature soundwalk 
 
-Giro ad anello nei sentieri di Parchiule, con guadi, attraversamenti e salite di colli. Percorreremo i sentieri che conducono alla Torre di Villa. 
+Giro ad anello nei sentieri di Parchiule, con guadi, attraversamenti e salite di colli. Rggiungeremo la Torre di Villa, risalendo la Valle del torrente Auro per poi ridiscendere lungo il Rio della Villa. Durante l'escursione ci dedicheremo all'ascolto dei molteplici paesaggi sonori. 
 Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro: nel nostro caso, quello delle valli solitarie dell'Alpe della Luna. 
 
 
