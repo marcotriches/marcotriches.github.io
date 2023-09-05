@@ -21,7 +21,7 @@ Una *soundwalk* o “passeggiata sonora” è un’escursione basata sui suoni d
 
 **Difficoltà:** E - Escursionistico
 
-**Lunghezza:** 13 Km circa
+**Lunghezza:** 12 Km circa
 
 **Dislivello in salita:** 300 m. circa
 
