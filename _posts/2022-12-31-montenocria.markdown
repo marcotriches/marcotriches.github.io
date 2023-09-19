@@ -6,7 +6,7 @@ day: "dom, 22 ott 2023"
 meeting: "09:00"
 category: appennino 
 difficult: 2
-image: bds-autunnonocria.jpg
+image: bds_autunnonocria.jpg
 ---
 
 ## Gruppo montuoso del monte Catria
