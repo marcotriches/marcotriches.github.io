@@ -2,7 +2,7 @@
 layout: post
 title:  "Pozzuolo Colli al Metauro (PU)"
 date:  2023-01-07 18:00:00 +0100
-day: "dom, 24 set 2023"
+day: "dom, 08 ott 2023"
 meeting: "09:00"
 category: appennino 
 difficult: 2
