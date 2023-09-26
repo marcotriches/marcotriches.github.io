@@ -12,7 +12,7 @@ image: erboristeriaitinerante14ottobre.jpg
 ## Ogni pianta ha la sua storia
 ## In collaborazione con la Proloco di Limana nell'ambito della festa "Limana paese del Miele 2023"
 
-Piccole passeggiate alla scoperta della flora dell'estate in compagnia di Giulia Maschera, erborista e Marco Triches, Guida Naturalistica. Avremo l'occasione di esplorare e conoscere le piante spontanee dei prati di Limana, dalle più comuni alle sconosciute, i loro habitat, le loro proprietà e gli impieghi tradizionali.
+Passeggiata alla scoperta della flora dell'autunno in compagnia di Giulia Maschera, erborista e Marco Triches, Guida Naturalistica. Avremo l'occasione di esplorare e conoscere le piante spontanee dei prati di Limana, dalle più comuni alle sconosciute, i loro habitat, le loro proprietà e gli impieghi tradizionali.
 
 **Ritrovo:** Area Sagra (Limana - BL) ore 16:00
 
