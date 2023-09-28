@@ -6,7 +6,7 @@ day: "dom, 08 ott 2023"
 meeting: "09:00"
 category: appennino 
 difficult: 2
-image: pbds_pozzuolo.jpg
+image: bds_pozzuolo.jpg
 ---
 
 ## Il Piccolo Appennino
