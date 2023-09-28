@@ -2,7 +2,7 @@
 layout: post
 title:  "Il bosco e i rapaci notturni (PU)"
 date:  2023-01-07 05:54:00 +0100
-day: "dom, 09 lug 2023"
+day: "dom, 08 ott 2023"
 meeting: "15:00"
 category: appennino 
 difficult: 2
