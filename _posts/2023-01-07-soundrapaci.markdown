@@ -16,7 +16,7 @@ Proponiamo una escursione pomeridiana fino all'arrivo del buio nelle colline di 
 Con partenza dal paese di Fontecorniale, seguiremo sentieri e stradine di terra e ghiaia per addentrarci nei variegati boschi di questo tratto collinare, percorreremo alcune piccole valli nella macchia fino a raggiungere i vari punti panoramici del percorso.
 Durante la camminata sosteremo in ascolto e contemplazione della natura circostante, raccogliendo i nostri appunti sonori.
 Rientro al tramonto e al buio (torcia!)
-*In particolare ci soffermeremo sui momenti ion cui i suoni diurni lasciano il posto a quelli crepuscolari e notturni.*
+*In particolare ci soffermeremo sui momenti in cui i suoni diurni lasciano il posto a quelli crepuscolari e notturni.*
 
 
 **Una soundwalk o “passeggiata sonora”** è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro.
