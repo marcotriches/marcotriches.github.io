@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Che cos'è un bosco sacro? (PU)"
-date:  2023-01-04 11:45:00 +0100
+date:  2022-12-11 11:45:00 +0100
 day: "dom, 05 nov 2023"
 meeting: "10:00"
 category: appennino 
