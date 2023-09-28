@@ -1,12 +1,12 @@
 ---
 layout: post 
 title:  "Sbocco Bucine Alpe della Luna (PU)"
-date:  2023-01-11 11:54:00 +0100
-day: "sab, 16 set 2023"
+date:  2022-12-12 11:54:00 +0100
+day: "mer, 01 nov 2023"
 meeting: "09:00"
 category: appennino 
 difficult: 4
-image: bds-alpeluna.jpg
+image: bds-sboccobucine.jpg
 ---
 
 ## Un mondo e una faggeta di confine 
