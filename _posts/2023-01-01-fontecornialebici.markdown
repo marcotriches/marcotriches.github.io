@@ -2,7 +2,7 @@
 layout: post
 title:  "In bici alle sorgenti dell'Arzilla (PU)"
 date:  2023-01-01 20:00 +0100
-day: "sab, 16 set 2023"
+day: "sab, 21 ott 2023"
 meeting: "09:00"
 category: misto 
 difficult: 3
