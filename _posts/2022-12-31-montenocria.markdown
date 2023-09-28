@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Autunno al Monte Nocria"
+title:  "Autunno al Monte Nocria (PU)"
 date:  2022-12-31 11:55:00 +0100
 day: "dom, 22 ott 2023"
 meeting: "09:00"
