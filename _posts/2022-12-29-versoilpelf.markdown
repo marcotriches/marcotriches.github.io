@@ -15,6 +15,7 @@ Itinerario classico di risalita dei versanti meridionali del Monte Pelf, uno dei
 Con partenza dal Pian de le Stèle, foresta di Cajada, si segue il sentiero CAI 505 per pista forestale nel bosco misto di abeti rossi e bianchi fino a raggiungere i ruderi di Casèra Caneva (quota 1500m) e la sua faggeta.
 Con salita impegnativa si oltrepassa il valico di Caneva e si raggiunge il Vallon di Ròldo, punto di partenza del sentiero CAI 511 per la risalita del monte Pelf.
 Con condizioni meteo e terreno ottimali si raggiunge la cima del Pelf (quota 2506m).
+
 **Ritrovo:** Faè, stazione F.S. (BL) ore 07:00
 
 **Rientro:** ore 14:00 circa 
