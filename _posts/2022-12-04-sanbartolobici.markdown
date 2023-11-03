@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sentieri in bici (PU)"
+title:  "San Bartolo Sentieri in bici (PU)"
 date:  2022-12-04 18:00:00 +0100
 day: "sab, 11 nov 2023"
 meeting: "09:00"
