@@ -2,7 +2,7 @@
 layout: post
 title:  "San Bartolo Sentieri in bici (PU)"
 date:  2022-12-04 18:00:00 +0100
-day: "sab, 11 nov 2023"
+day: "dom, 26 nov 2023"
 meeting: "09:00"
 category: misto 
 difficult: 2
