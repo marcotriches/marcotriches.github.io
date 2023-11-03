@@ -6,7 +6,7 @@ day: "sab, 11 nov 2023"
 meeting: "10:00"
 category: misto 
 difficult: 2
-image: bds-5NOV-storia.jpg
+image: bds-11NOV-bike.jpg
 ---
 
 ## Dal porto di Fano a Carignano (PU)
