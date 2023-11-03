@@ -6,7 +6,7 @@ day: "dom, 08 ott 2023"
 meeting: "14:30"
 category: appennino 
 difficult: 2
-image: bds-5NOV-storia3.jpg
+image: bds-5NOV-storia.jpg
 ---
 
 ## Passeggiate riflessive
