@@ -10,7 +10,7 @@ image: bds-26NOV-bikesb.jpg
 ---
 
 ## Parco Naturale del Monte San Bartolo (PU)
-# Escursioni in bicicletta
+# Escursioni in bicicletta piano piano!
 
 È possibile percorrere gli itinerari di un'area protetta senza il disturbo delle auto? Si! La domenica mattina nel Parco del Monte San Bartolo è possibile viaggiare nella quiete dell'ambiente costiero marchigiano privo di traffico.
 Partiremo dalle strade circondate da piccoli boschi, per incontrare le ampie vedute sul mare, la macchia e le pinete, al ritmo lento delle due ruote.
