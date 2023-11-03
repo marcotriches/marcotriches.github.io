@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Mappamondo" Escursione e Immaginario (PU)"
+title:  "Mappamondo Escursione e Immaginario (PU)"
 date:  2022-12-05 18:00:00 +0100
 day: "sab, 25 nov 2023"
 meeting: "14:00"
