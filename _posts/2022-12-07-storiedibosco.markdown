@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escursione Storie di Bosco (PU)"
+title:  "Escursione Storie del Bosco (PU)"
 date:  2022-12-07 18:00:00 +0100
 day: "sab, 18 nov 2023"
 meeting: "10:00 - 14:30"
