@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Storia del camminare (PU)"
-date:  2023-01-07 18:00:00 +0100
-day: "dom, 08 ott 2023"
+date:  2022-12-10 18:00:00 +0100
+day: "dom, 05 nov 2023"
 meeting: "14:30"
 category: appennino 
 difficult: 2
