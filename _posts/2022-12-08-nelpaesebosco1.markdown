@@ -31,7 +31,7 @@ Durante l'attività percorreremo piccoli sentierini, tra le foglie, le radici e 
 
 **Durata:** 2 ore circa
 
-**Costo:** 10€ (Se porti un amico insieme pagate 16€)
+**Costo:** 10€ (Se porti un amico il secondo paga 6€)
 
 **Portare:** Scarpe da campagna, vestiario a strati, Kway, acqua (1 litro), qualcosa da mangiare, cappello, guanti, torcia, cambio vestiti e scarpe in auto, blocnotes e matita. 
 
