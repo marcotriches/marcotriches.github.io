@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nel bosco al sicuro (PU)"
-date:  2022-12-08 02:45:00 +0100
+date:  2022-12-08 10:45:00 +0100
 day: "dom, 05 nov 2023"
 meeting: "10:00"
 category: appennino 
