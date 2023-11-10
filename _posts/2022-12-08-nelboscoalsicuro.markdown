@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Che cos'è un bosco sacro? (PU)"
-date:  2022-12-11 11:45:00 +0100
+title:  "Nel bosco al sicuro (PU)"
+date:  2022-12-08 02:45:00 +0100
 day: "dom, 05 nov 2023"
 meeting: "10:00"
 category: appennino 
-difficult: 3
-image: bds_boscoditecchie.jpg
+difficult: 2
+image: bds-12NOV-tecchie.jpg
 ---
 
 ## Una escursione autunnale nel bosco
 # Riserva Naturale Orientata Bosco di Tecchie
 
-Escursione con racconto dedicata alla scoperta del **Bosco sacro**, la costruzione storica di un luogo di culto nella natura. Percorreremo i sentieri del Bosco di Tecchie, soffermandoci nella contemplazione dei luoghi e nell'ascolto della Natura e della Storia umana (così come descritta nella *"Mitologia degli alberi"* di Jacques Brosse); storia che ha attribuito al bosco una valenza, non solo ecologica ma anche spirituale per il genere umano.
+Che ai boschi sia attribuito un significato spirituale, oltre che naturalistico o produttivo, è cosa certa! Nelle giornate uggiose di autunno, attraversare un bosco maturo offre ai visitatori una intensa immagine di ciò che la natura può offrire.
+Nel bosco, mentre piove, facciamo la concreta esperienza di ciò che è per noi il primo dei ripari conosciuti: noi abatammo lì dentro, e sembra che in qualche modo ce ne ricordiamo ancora oggi.
+Percorreremo i sentieri del Bosco di Tecchie, soffermandoci nella contemplazione dei luoghi e nell'ascolto della Natura e della Storia umana: storia che ha attribuito al bosco una valenza, non solo ecologica ma anche spirituale per il genere umano.
 Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a Cà Tecchie, per poi compiere una anello (e rientrare) all'interno del bosco, Riserva Naturale Orientata.
 
 *"Che le piante siano dotate di una sensibilità reattiva, in grado di inserirsi in loro sotto forma di ricordi, che possano presentare manifestazioni di benessere o, come ripetuti esperimenti hanno dimostrato, di paura e perciò di memorizzazione non è forse quanto esprimeva, nel suo modo allegorico, il pensiero selvaggio?"*
@@ -20,7 +22,7 @@ Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a C
 
 **Ritrovo:** Cantiano (PU) ore 10:00
 
-**Difficoltà:** E - Escursionistico
+**Difficoltà:** Facile / E - Escursionistico
 
 **Dislivello in salita:** 400 m. circa
 
@@ -30,7 +32,7 @@ Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a C
 
 **Costo:** 15€ Adulti, 5€ Minori
 
-*Abbonamenti Balza del Sole: 5 escursioni / 60€*
+*Abbonamenti Balza del Sole: 5 escursioni / 65€*
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco, bastoncini (chi li usa), cambio abiti in auto.
 
