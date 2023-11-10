@@ -13,8 +13,10 @@ image: bds-12NOV-tecchie.jpg
 # Riserva Naturale Orientata Bosco di Tecchie
 
 Che ai boschi sia attribuito un significato spirituale, oltre che naturalistico o produttivo, è cosa certa! Nelle giornate uggiose di autunno, attraversare un bosco maturo offre ai visitatori una intensa immagine di ciò che la natura può offrire.
-Nel bosco, mentre piove, facciamo la concreta esperienza di ciò che è per noi il primo dei ripari conosciuti: noi abatammo lì dentro, e sembra che in qualche modo ce ne ricordiamo ancora oggi.
+Nel bosco, mentre piove, facciamo la concreta esperienza di ciò che è per noi il primo dei ripari conosciuti: noi abitammo lì dentro, e sembra che in qualche modo ce ne ricordiamo ancora oggi.
+
 Percorreremo i sentieri del Bosco di Tecchie, soffermandoci nella contemplazione dei luoghi e nell'ascolto della Natura e della Storia umana: storia che ha attribuito al bosco una valenza, non solo ecologica ma anche spirituale per il genere umano.
+
 Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a Cà Tecchie, per poi compiere una anello (e rientrare) all'interno del bosco, Riserva Naturale Orientata.
 
 *"Che le piante siano dotate di una sensibilità reattiva, in grado di inserirsi in loro sotto forma di ricordi, che possano presentare manifestazioni di benessere o, come ripetuti esperimenti hanno dimostrato, di paura e perciò di memorizzazione non è forse quanto esprimeva, nel suo modo allegorico, il pensiero selvaggio?"*
