@@ -13,8 +13,6 @@ image: bds-02DIC-piccoloapp.jpg
 
 # Itinerari di campagna
 
-Fin dove arrivano i prati? Dove scende la valle? Da quassù sembra tutto a portata di mano: le rupi, le faggete, i paesi in lontananza. 
-
 Cosa si nasconde nelle atmosfere tardo autunnali delle nostre colline? Quali sono le storie, gli ambienti e i paesaggi campestri?
 
 Lo scopriremo con una camminata immersi negli habitat del **Piccolo Appennino**, il territorio collinare ai confini del comune di Pesaro. Luoghi che presentano già le caratteristiche dell'Appennino, ma in una sorta di miniatura.
