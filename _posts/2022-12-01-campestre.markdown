@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Campestre, Piccolo Appennino (PU)"
-date:  2022-12-001 18:00:00 +0100
+date:  2022-12-01 18:00:00 +0100
 day: "sab, 02 dic 2023"
 meeting: "14:30"
 category: appennino 
