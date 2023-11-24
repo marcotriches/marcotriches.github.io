@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Piani Enerni verso l'Inverno (BL)"
+title:  "Piani Eterni verso l'Inverno (BL)"
 date:  2022-11-27 11:00:00 +0100
 day: "dom, 10 dic 2023"
 meeting: "08:00"
 category: dolomiti 
-difficult: 4
+difficult: 5
 image: bds-10DIC-pianieterni.jpg
 ---
 
