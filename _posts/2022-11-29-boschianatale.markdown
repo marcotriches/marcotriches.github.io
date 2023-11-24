@@ -2,7 +2,7 @@
 layout: post
 title:  "Boschi a Natale, Limana (BL)"
 date:  2022-11-29 11:00:00 +0100
-day: "dom, 08 dic 2023"
+day: "ven, 08 dic 2023"
 meeting: "09:30 / 13:30"
 category: dolomiti 
 difficult: 1
