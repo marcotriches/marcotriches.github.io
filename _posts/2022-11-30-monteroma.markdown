@@ -6,7 +6,7 @@ day: "dom, 03 dic 2023"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: bds-19DIC-roma.jpg
+image: bds-03DIC-roma.jpg
 ---
 
 ## Traversata da Frontone a Fonte Avellana
