@@ -43,6 +43,8 @@ Brevi digressioni e varianti verranno stabilite nel corso dell'escursione.
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti in auto, bastoncini (chi li usa). 
 
+**Note:** La guida si riserva di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
+
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
 
