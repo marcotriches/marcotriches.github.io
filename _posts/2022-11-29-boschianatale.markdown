@@ -37,4 +37,5 @@ Una bella occasione per camminare insieme, scoprire le bellezze della natura ed 
 
 **Informazioni e prenotazioni:** https://bit.ly/boschianatale2023 
 *3281834019 info@balzadelsole.com* 
+
 **Le passeggiate sono a numero chiuso. Iscrizione obbligatoria entro il 5 Dicembre** 
