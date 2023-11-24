@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Montagna di Gena (BL)"
-date:  2023-01-04 11:00:00 +0100
+date:  2022-11-28 11:00:00 +0100
 day: "sab, 09 dic 2023"
 meeting: "08:00"
 category: dolomiti 
@@ -20,7 +20,7 @@ Escursione alpina faticosa, consigliata agli amanti della montagna solitaria.
 **Oscar Schuster di Dresda nel 1905**
 
 
-**Ritrovo:** Bar Alla Soffia, Gena Bassa (Sospirolo) ore 08:00
+**Ritrovo:** Bar Alla Soffia, Gena Bassa (Sospirolo - BL) ore 08:00
 
 **Rientro:** ore 14:00 circa 
 
