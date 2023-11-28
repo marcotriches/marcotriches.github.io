@@ -23,7 +23,7 @@ Durante l'escursioni verranno proposte pause di lettura, racconti e **soundwalk*
 
 **L'itinerario:** Con partenza dal paese di Montelago (quota 730 m), risalita del sentiero CAI 137 per il Monte la Penna (1118 m) e il crinale fino al Monte della Strega (1276 m). Rientro ad anello con il sentiero CAI 105b.
 
-**Ritrovo:** Montelago (Sassoferrato - AN)
+**Ritrovo:** Montelago (Sassoferrato - AN) ore 10:00
 *Possibilità di concordare un ritrovo anticipato e di condivisione del viaggio*
 
 **Rientro:** ore 15:00 circa 
