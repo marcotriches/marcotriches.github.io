@@ -20,7 +20,7 @@ Sarà questa un'occasione per rilassarsi ma anche per riflettere sull'impatto de
 Le escursioni in bicicletta di **Balza del Sole** si propongono di esplorare l'ambiente intorno a noi, in maniera consapevole e attenta.
 La bicicletta è prima di tutto il vento che ci soffia sulla faccia. Niente di sportivo!
 
-**Ritrovo:** Santa Marina Alta (Pesaro - PU)
+**Ritrovo:** Santa Marina Alta (Pesaro - PU) ore 9:00
 
 **Rientro:** ore 12:00 circa 
 
