@@ -17,7 +17,7 @@ Il nostro itinerario in bicicletta ci consentirà di conoscere da vicino il terr
 Le escursioni in bicicletta di **Balza del Sole** si propongono di esplorare l'ambiente intorno a noi, in maniera consapevole e attenta.
 La bicicletta è prima di tutto il vento che ci soffia sulla faccia. Niente di sportivo!
 
-**Ritrovo:** Porto di Fano (Fano - PU)
+**Ritrovo:** Porto di Fano (Fano - PU) ore 14:00
 
 **Rientro:** ore 17:00 circa 
 
