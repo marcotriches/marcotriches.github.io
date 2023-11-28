@@ -6,7 +6,7 @@ day: "dom, 26 nov 2023"
 meeting: "09:00"
 category: misto 
 difficult: 2
-image: bds-26NOV-bikesb.jpg
+image: bds-24DIC-bikesb.jpg
 ---
 
 ## Parco Naturale del Monte San Bartolo (PU)
