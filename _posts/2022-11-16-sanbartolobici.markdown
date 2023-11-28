@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "San Bartolo Sentieri in bici (PU)"
-date:  2022-12-04 18:00:00 +0100
+date:  2022-11-16 18:00:00 +0100
 day: "dom, 26 nov 2023"
 meeting: "09:00"
 category: misto 
@@ -12,6 +12,7 @@ image: bds-26NOV-bikesb.jpg
 ## Parco Naturale del Monte San Bartolo (PU)
 # Escursioni in bicicletta piano piano!
 
+Una vigilia di Natale esemplare, con un giro mattutino in bicicletta nel Parco Naturale del Monte San Bartolo.
 È possibile percorrere gli itinerari di un'area protetta senza il disturbo delle auto? Si! La domenica mattina nel Parco del Monte San Bartolo è possibile viaggiare nella quiete dell'ambiente costiero marchigiano privo di traffico.
 Partiremo dalle strade circondate da piccoli boschi, per incontrare le ampie vedute sul mare, la macchia e le pinete, al ritmo lento delle due ruote.
 Sarà questa un'occasione per rilassarsi ma anche per riflettere sull'impatto delle bici nei luoghi naturali, l'opportunità o meno di attraversarli, e conoscere qualche storia delle due ruote.
