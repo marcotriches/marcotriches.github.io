@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Mare e campagna: giro in bici (PU)"
-date:  2022-12-09 18:00:00 +0100
-day: "sab, 11 nov 2023"
-meeting: "10:00"
+title:  "Gite in bicicletta fuori pista! (PU)"
+date:  2022-11-19 18:00:00 +0100
+day: "sab, 16 dic 2023"
+meeting: "14:00"
 category: misto 
 difficult: 2
-image: bds-11NOV-bike.jpg
+image: bds-16DIC-sbikefano.jpg
 ---
 
 ## Dal porto di Fano a Carignano (PU)
@@ -19,7 +19,7 @@ La bicicletta è prima di tutto il vento che ci soffia sulla faccia. Niente di s
 
 **Ritrovo:** Porto di Fano (Fano - PU)
 
-**Rientro:** ore 13:00 circa 
+**Rientro:** ore 17:00 circa 
 
 **Difficoltà:** Facile / E (Escursionistico)
 
