@@ -2,11 +2,11 @@
 layout: post
 title:  "Campestre, Piccolo Appennino (PU)"
 date:  2022-12-01 18:00:00 +0100
-day: "sab, 02 dic 2023"
+day: "dom, 3 dic 2023"
 meeting: "14:30"
 category: appennino 
 difficult: 2
-image: bds-02DIC-piccoloapp.jpg
+image: campestre3dic.jpg
 ---
 
 ## Viaggio nel Piccolo Appennino
@@ -21,7 +21,7 @@ Corsi d'acqua, boschi di latifoglie, campi coltivati e incolti. La macchia. Siam
 
 *Per un'idea del territorio vi invitiamo ad ascoltare il podcast del* **Piccolo Appennino**: https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/
 
-**Ritrovo:** Villa Ugolini (Pesaro - PU) ore 14:30
+**Ritrovo:** Fontecorniale (Montefelcino - PU) ore 14:30
 
 **Rientro:** ore 17:30 circa 
 
