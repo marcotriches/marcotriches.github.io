@@ -6,7 +6,7 @@ day: "dom, 10 dic 2022"
 meeting: "10:00"
 category: dolomiti 
 difficult: 2
-image: casin-di-vallalta.jpg
+image: valmis.jpg
 ---
 
 ## Il bosco di Vallalta e i boschi come rifugio
