@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Al riparo nel bosco"
-date:  2022-11-07 18:00:00 +0100
-day: "sab, 10 dic 2022"
-meeting: "08:00"
+date:  2022-11-27 18:00:00 +0100
+day: "dom, 10 dic 2022"
+meeting: "10:00"
 category: dolomiti 
 difficult: 2
 image: casin-di-vallalta.jpg
@@ -21,9 +21,9 @@ Escursione in uno dei boschi più accessibili e isolati del territorio del Parco
 
 L'escursione verrà confermata al raggiungimento del numero minimo di partecipanti
 
-**Ritrovo:** Titèle (Gosaldo) ore 8:00
+**Ritrovo:** Titèle (Gosaldo) ore 10:00
 
-**Rientro:** ore 12:00 circa 
+**Rientro:** ore 14:00 circa 
 
 **Difficoltà:** E (escursionistico)
 
@@ -31,7 +31,7 @@ L'escursione verrà confermata al raggiungimento del numero minimo di partecipan
 
 **Durata:** 4 ore circa
 
-**Costo:** 15€
+**Costo:** 20€
 
 **Portare:**  scarponi, vestiario invernale, kway, pranzo al sacco, acqua (almeno 1 litro), bastoncini (chi li usa).
 
