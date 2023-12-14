@@ -19,10 +19,11 @@ Concludiamo il 2023 e iniziamo il 2024 con il **Cammino dei 4 Parchi**, un viagg
 
 **Tappa 1:** Cammino costiero lungo le falesie panoramiche del monte San Bartolo, dal borgo di Santa Marina Alta a Casteldimezzo, con passaggio lungo il balcone panoramico del noto **Tetto del Mondo**.
 Uno dei percorsi più affascinanti della costa del Mare Adriatico, in un mosaico di paesaggi e habitat protetti, che vanno dalle zone coltivate, ai calanchi, gli incolti e la macchia, fino ai piccoli boschetti. Territori ricchi di specie floristiche e animali.
-Lungo il nostro itinerario avremo l'occasione di contemplare dall'alto tutto il territorio della **provincia di Pesaro e Urbino** e buona parte della **Romagna**.
+Lungo il nostro itinerario avremo l'occasione di contemplare dall'alto tutto il territorio della provincia di Pesaro e Urbino e buona parte della Romagna.
 
 Si tratta di una vera e propia **tappa introduttiva** di quello che sarà il nostro cammino a seguire: la *Gola del Furlo*, il *Bosco di Tecchie* e il *Sasso Simone e Simoncello*.
 
+Durante il cammino suggestioni e racconti tratti da **John Alec Baker "Il falco pellegrino"**, considerato uno dei migliori testi naturalistici di sempre.
 
 Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
 
