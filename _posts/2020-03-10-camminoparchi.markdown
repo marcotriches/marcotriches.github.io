@@ -4,10 +4,6 @@ title:  "Cammino dei 4 Parchi"
 date:   2020-03-10 18:20:48 +0100
 category: diari
 image: bds-FINEDIC-camminoparchi.jpg
-link: https://www.balzadelsole.com/appennino/cammino4parchi-sanbartolo.html
-link: https://www.balzadelsole.com/appennino/cammino4parchi-furlo.html
-link: https://www.balzadelsole.com/appennino/cammino4parchi-tecchie.html
-link: https://www.balzadelsole.com/appennino/cammino4parchi-simone.html
 ---
 
 **4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino**
