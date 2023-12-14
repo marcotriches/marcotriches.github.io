@@ -3,7 +3,7 @@ layout: post
 title:  "Diario delle Alpi"
 date:  2020-03-09 13:00:00 +0100
 category: diari  
-image: diarioalpi.jpg
+image: diariodellealpi.jpg
 ---
 
 Il **Diario delle Alpi** è un viaggio sentimentale lungo la catena delle Alpi, con l'unica preoccupazione di "camminare, mangiare, dormire bene". Il diario, per ogni tipo di cammino o viaggio, è *per me* uno strumento di autodifesa, serve a fronteggiare meglio le insidie del mondo e del proprio io: la solitudine, il maltempo, le mancanze, il pericolo naturale e umano. Per questo motivo, questo libro rappresenta fedelmente le impressioni del viaggio, ma anche i pensieri nati dal silenzio e dalle ore passate al riparo, in qualche baita o ricovero, sotto l'infuriare della tempesta.
