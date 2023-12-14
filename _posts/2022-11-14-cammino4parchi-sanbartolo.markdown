@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cammino dei 4 Parchi (PU)"
+title:  "Cammino dei 4 Parchi: San Bartolo (PU)"
 date:  2022-11-14 18:00:00 +0100
 day: "mar, 26 dic 2023"
 meeting: "10:00"
