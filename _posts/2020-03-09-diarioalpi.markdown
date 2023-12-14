@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diario delle Alpi"
-date:  2022-09-04 13:00:00 +0100
+date:  2020-03-09 13:00:00 +0100
 category: diari  
 image: diariodellealpi.jpg
 ---
