@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cammino dei 4 Parchi"
-date:   2020-03-06 18:20:48 +0100
+date:   2020-03-08 18:20:48 +0100
 category: diari
 image: bds-FINEDIC-camminoparchi.jpg
 ---
