@@ -30,6 +30,8 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **l'itinerario:** Con partenza dalla località Villa Furlo di Pagino (quota 160m) risalita del sentiero CAI 440 del versante Orientale del Monte Pietralata. Con percorso escursionistico nel bosco e nella macchia arrivo alle terrazze panoramiche e possibilità di salita in ima al monte con sentiero CAI 446. 
 
+**Ritrovo:** Villa Furlo di Pagino (Fermignano - PU) ore 10:00
+
 **Rientro:** 16:00 
 
 **Difficoltà:** Medio / E (Escursionistico)
