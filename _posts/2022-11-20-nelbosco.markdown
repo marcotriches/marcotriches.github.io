@@ -3,7 +3,7 @@ layout: post
 title:  "Viaggio nel Bosco (PU)"
 date:  2022-11-20 09:00:00 +0100
 day: "ven, 15 dic 2023"
-meeting: "15:30"
+meeting: "15:00"
 category: appennino 
 difficult: 1
 image: bds-15DIC-bosco.jpg
@@ -20,7 +20,7 @@ E soprattutto trascorreremo qualche ora immersi nella natura selvatica e pacific
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Fontecorniale (Montefelcino - PU) ore 14:30
+**Ritrovo:** Fontecorniale (Montefelcino - PU) ore 15:00
 
 **Rientro:** ore 17:00 
 
