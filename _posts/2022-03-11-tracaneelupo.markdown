@@ -19,6 +19,7 @@ C’è un salto vertiginoso tra lo stadio del sonno, e quello dell’allerta e, 
 Le ore prima dell’alba sono un trampolino, verso l’alto o verso il basso. Quanto è facile sbagliare il sentiero quando si vede male.
 
 “Secondo gli antichi romani «l’ora del lupo» indica quel momento tra la notte e l’alba subito prima che venga chiaro. Si credeva fosse l’ora in cui i demoni avevano potere e vitalità accresciuti, in cui venivano gli incubi peggiori, in cui moriva la maggior parte delle persone e nasceva il maggior numero di bambini (…) La locuzione francese entre chien et loup indica quella luce crepuscolare in cui non è più possibile distinguere bene le forme ed è facile commettere errori. Inter canem et lupum è presente in alcuni manoscritti medioevali con lo stesso significato.”
+
 Luca Giunti, *Le conseguenze del ritorno. Storie, ricerche, pericoli e immaginario del lupo in Italia*, Edizioni Alegre 2021, Roma
 
 Percorro la strada regionale pianissimo, controllando tutti i bordi e i campi, per non incappare in un cervo con la mia automobile. Quando scendo dall’auto è gelido, comincio a camminare veloce per salire il sentiero. Il fondo rimbomba, le radici degli alberi hanno creato delle casse di risonanza tra lo strato del terriccio e le rocce. Tuona la forra alla mia sinistra per una cascata d’acqua.
