@@ -26,6 +26,7 @@ Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno
 - Osservazione degli uccelli in mare, sugli scogli e sulla spiaggia.
 
 
+
 **Ritrovo:** Pesaro, Baia Flaminia (PU) ore 09:00
 
 **Rientro:** 12:00 
