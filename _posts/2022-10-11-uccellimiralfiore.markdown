@@ -27,6 +27,8 @@ Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno
   
 - Note sulla biologia delle specie osservate.
 
+- 
+
 **Ritrovo:** Pesaro, Parco Miralfiore (PU) ore 14:00
 
 **Rientro:** 17:00 
