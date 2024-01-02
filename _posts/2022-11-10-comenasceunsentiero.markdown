@@ -25,14 +25,6 @@ Territori presidiati da varie realtà agricole e rurali in grado di convivere co
 
 Ogni volta che usciamo dalla porta, partiamo per un viaggio potenzialmente infinito.
 
-
-Quella del Sasso Simone e Simoncello è l'**ultima tappa** del nostro cammino, cominciato sulla armoniosa riviera del *San Bartolo*, le rupi della *Gola del Furlo* e il *Bosco di Tecchie*.
-
-Durante il cammino suggestioni e racconti tratti da **Rebecca Solnit, "Storia del camminare"**, un racconto affascinante sulla storia, l'arte, la cultura e la politica del gesto più antico del mondo: il cammino.
-
-Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
-
-
 **Gli itinerari proposti:** I due itinerari, combinabili insieme, consentono di esplorare le valli selvatiche, i boschi e gli ampi promontori di questo spicchio di entroterra.
 Il *Giro 1* prevede un maggiore dislivello rispetto al *Giro 2* ma, in entrambi i casi, si tratta di camminate semplici, adatte anche in caso di tempo uggioso!
 
