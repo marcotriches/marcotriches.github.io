@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lo spettacolo dells riunione serale degli uccelli (PU)"
+title:  "Lo spettacolo della riunione serale degli uccelli (PU)"
 date:  2022-10-11 18:00:00 +0100
 day: "dom, 20 gen 2024"
 meeting: "14:00"
