@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Salita al Monte Strega (AN)"
-date:  2022-11-18 18:00:00 +0100
-day: "dom, 17 dic 2023"
+date:  2022-11-08 18:00:00 +0100
+day: "dom, 14 gen 2024"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: bds-17DIC-strega.jpg
+image: bds-14gen-strega.jpg
 ---
 
 ## Escursione ad anello da Montelago (AN)
