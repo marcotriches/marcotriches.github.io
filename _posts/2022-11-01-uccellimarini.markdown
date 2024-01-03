@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alla scoperta degli uccelli marini (PU)"
-date:  2022-11-10 18:00:00 +0100
+date:  2022-11-01 18:00:00 +0100
 day: "dom, 21 gen 2024"
 meeting: "09:00"
 category: appennino 
