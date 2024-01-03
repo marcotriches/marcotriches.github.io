@@ -2,7 +2,7 @@
 layout: post
 title:  "Nel corso dell'acqua (PU)"
 date:  2022-11-09 09:00:00 +0100
-day: "ven, 15 dic 2023"
+day: "ven, 12 gen 2024"
 meeting: "15:00"
 category: appennino 
 difficult: 1
