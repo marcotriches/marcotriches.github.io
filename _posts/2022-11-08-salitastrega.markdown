@@ -13,7 +13,7 @@ image: bds-14gen-strega.jpg
 
 # Parco Regionale del Monte Cucco
 
-Alle porte dell'Inverno, nel tempo in cui la luce diurna illumina brevemente le valli e i crinali del nostro Appennino, andiamo a camminare in uno dei luoghi simbolo dell'Appennino umbromarchigiano Settentrionale: il Monte Strega.
+Nel corso dell'Inverno, nel tempo in cui la luce diurna illumina brevemente le valli e i crinali del nostro Appennino, andiamo a camminare in uno dei luoghi simbolo dell'Appennino umbromarchigiano Settentrionale: il Monte Strega.
 Percorreremo il crinale dal Monte la Penna allo Strega con ampi panorami sul Parco Regionale del Monte Cucco, il massiccio del Catria e l'entroterra pesarese e anconetano.
 Condizioni meteo permettendo ci conderemo una lenta camminata contemplativa e in ascolto dei racconti e dei suoni del territorio.
 
@@ -41,6 +41,10 @@ Durante l'escursioni verranno proposte pause di lettura, racconti e **soundwalk*
 *Abbonamenti Balza del Sole:* 5 escursioni / 65€
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti in auto, bastoncini. 
+
+**Note sull'escursione:** L'uscita verrà confermata al raggiungimento di un minimo di 5 partecipanti. La guida si riserva la possibilità di variare o annullare l'itinerario in base alle condizioni meteo o del terreno.
+
+*In caso di copertura nevosa può rendersi necessario l'utilizzo delle ciaspole.*
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
