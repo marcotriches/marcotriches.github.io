@@ -27,9 +27,9 @@ Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno
 
 
 
-**Ritrovo:** Pesaro, Baia Flaminia (PU) ore 09:00
+**Ritrovo:** Pesaro, Baia Flaminia (PU) ore 08:30
 
-**Rientro:** 12:00 
+**Rientro:** 11:30
 
 **Dislivello in salita:**  0
 
