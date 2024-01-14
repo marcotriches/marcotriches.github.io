@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tra cane e lupo"
-date:   2020-03-11 18:20:48 +0100
+date:   2023-12-20 18:20:48 +0100
 category: diari
 image: tracaneelupo.jpg
 ---
