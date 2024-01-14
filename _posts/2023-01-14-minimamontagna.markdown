@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minima Montagna"
-date:  2020-03-11 13:00:00 +0100
+date:  2023-01-14 13:00:00 +0100
 category: diari  
 image: minimamontagna.jpg
 ---
