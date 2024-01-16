@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Belluno - Nevegal (BL)"
-date:  2022-10-01 11:00:00 +0100
+date:  2022-10-08 11:00:00 +0100
 day: "sab, 10 feb 2024"
 meeting: "08:00"
 category: dolomiti 
