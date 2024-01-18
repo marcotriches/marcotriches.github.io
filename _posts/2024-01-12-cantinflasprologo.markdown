@@ -6,4 +6,4 @@ category: radio
 audio: 0 Prologo.ogg
 ---
 
-Una macchia di faggi con un abete secco nel mezzo. Il Picchio nero non si preoccupa. Colpisce il tronco, cadono pezzi di corteccia e pigne. Tuto l'albero rimbomba. 
+La prima volta che l'ho visto stava seduto su una branda con un pesante cappotto rosso e un cappello nero in testa. Aveva tutta l'aria di un contadino e sembrava masticasse qualcosa.
