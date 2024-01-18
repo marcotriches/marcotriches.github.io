@@ -6,7 +6,7 @@ day: "ven, 26 gen 2024"
 meeting: "15:00"
 category: appennino 
 difficult: 1
-image: sulletracce.jpg
+image: 
 ---
 
 ## Nel mio paese c'è un bosco
