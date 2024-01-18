@@ -6,7 +6,7 @@ day: "dom, 28 gen 2024"
 meeting: "09:30"
 category: appennino 
 difficult: 2
-image: cartoceto28gen.jpg.jpg
+image: cartoceto28gen.jpg
 ---
 
 ## Viaggio nel Piccolo Appennino
