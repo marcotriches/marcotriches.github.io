@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cartoceto, Piccolo Appennino (PU)"
-date:  2022-10-12 18:00:00 +0100
+date:  2022-10-11 18:00:00 +0100
 day: "dom, 28 gen 2024"
 meeting: "09:30"
 category: appennino 
