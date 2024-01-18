@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lo spettacolo della riunione serale degli uccelli (PU)"
-date:  2022-10-11 18:00:00 +0100
+date:  2022-10-10 18:00:00 +0100
 day: "sab, 3 feb 2024"
 meeting: "14:00"
 category: appennino 
