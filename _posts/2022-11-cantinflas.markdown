@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Salita al Monte Strega (AN)"
+title:  "Cantinflas, Monte Strega (AN)"
 date:  2022-11-08 18:00:00 +0100
-day: "dom, 14 gen 2024"
+day: "dom, 04 feb 2024"
 meeting: "10:00"
 category: appennino 
-difficult: 3
-image: bds-14gen-strega.jpg
+difficult: 2
+image: cantinflas.jpg
 ---
 
-## Escursione ad anello da Montelago (AN)
+## Radio/Escursioni
 
-# Parco Regionale del Monte Cucco
+# "Una capanna senza tetto"
 
-Nel corso dell'Inverno, nel tempo in cui la luce diurna illumina brevemente le valli e i crinali del nostro Appennino, andiamo a camminare in uno dei luoghi simbolo dell'Appennino umbromarchigiano Settentrionale: il Monte Strega.
-Percorreremo il crinale dal Monte la Penna allo Strega con ampi panorami sul Parco Regionale del Monte Cucco, il massiccio del Catria e l'entroterra pesarese e anconetano.
-Condizioni meteo permettendo ci conderemo una lenta camminata contemplativa e in ascolto dei racconti e dei suoni del territorio.
-
-Durante l'escursioni verranno proposte pause di lettura, racconti e **soundwalk**
-
-**Una soundwalk o “passeggiata sonora”** è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro.
+Iniziamo un viaggio a tappe nell'Appennino accompagnato dal racconto **"Cantinflas"** Un contadino dell'Appennino.
+Avremo la possibilità di camminare nei luoghi in cui accadono i fatti di questa storia, a metà tra l'immaginario e il reale.
+L'escursione fa parte di un ciclo di **Radio/Escursioni**, ovvero l'esperimento sonoro di registrare i suoni ambientali e il racconto per la produzione di un *podcast*.
+Tutte le puntate del percorso potranno essere ascoltate al link: http://www.balzadelsole.com/radio.html
+Dove è possibile ascoltare il **prologo.**
 
 **L'itinerario:** Con partenza dal paese di Montelago (quota 730 m), risalita del sentiero CAI 137 per il Monte la Penna (1118 m) e il crinale fino al Monte della Strega (1276 m). Rientro ad anello con il sentiero CAI 105b.
 
