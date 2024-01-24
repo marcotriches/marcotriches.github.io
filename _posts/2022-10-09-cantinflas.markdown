@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cantinflas, Monte Strega (AN)"
-date:  2022-11-08 18:00:00 +0100
+date:  2022-10-09 18:00:00 +0100
 day: "dom, 04 feb 2024"
 meeting: "10:00"
 category: appennino 
