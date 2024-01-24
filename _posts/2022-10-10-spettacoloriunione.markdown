@@ -3,7 +3,7 @@ layout: post
 title:  "Lo spettacolo della riunione serale degli uccelli (PU)"
 date:  2022-10-10 18:00:00 +0100
 day: "sab, 3 feb 2024"
-meeting: "14:00"
+meeting: "15:00"
 category: appennino 
 difficult: 1
 image: premudamiralfiore.jpg
@@ -27,11 +27,9 @@ Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno
   
 - Note sulla biologia delle specie osservate.
 
-- 
+**Ritrovo:** Pesaro, Parco Miralfiore (PU) ore 15:00
 
-**Ritrovo:** Pesaro, Parco Miralfiore (PU) ore 14:00
-
-**Rientro:** 17:00 
+**Rientro:** 18:00 
 
 **Dislivello in salita:**  0
 
