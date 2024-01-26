@@ -1,12 +1,12 @@
 <header class="site-header" role="banner">
   
-  <div class="wrapper">
+ <!-- <div class="wrapper">
     <a href="{{ "/" | relative_url }}">
       <span class="logo-header" >
         <img src="/img/balza-del-sole.jpg"/>
       </span>
     </a>
-    {%- assign default_paths = site.pages | sort: "order" | map: "path" -%}
+   {%- assign default_paths = site.pages | sort: "order" | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><strong>{{ site.title | escape }}</strong></a>
 
@@ -25,12 +25,37 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
           
         </div>
       </nav>
-    {%- endif -%}
-  </div>
+    {%- endif -%}-->
+
+  <nav role="navigation" class="primary-navigation">
+    <div class="topnav" id="myTopnav">
+      <a href="{{ "/" | relative_url }}">
+        <span class="logo-header" >
+          <img src="/img/balza-del-sole.jpg"/>
+        </span>
+      </a>
+      <div class="dropdown">
+        <button class="dropbtn"> <a href="/escursioni/">Escursioni</a>
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="/escursioni-appennino/">Appennino</a>
+          <a href="/escursioni-erboristeria/">Erboristeria itinerante</a>
+          <a href="/escursioni-dolomiti/">Parco Nazionale Dolomiti Bellunesi</a>
+          <a href="/escursioni-misto/">Misto</a>
+        </div>
+      </div> 
+      <a href="/diari/">Diari</a>
+      <a href="/podcast/">Podcast</a>
+      <a href="/about/">About</a>
+      <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+    </div>
+  </nav>
+  
 </header>

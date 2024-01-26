@@ -3,18 +3,29 @@ layout: default
 ---
 <article class="post">
 
+  {% if page.title == 'About' %}
+
+    <div class="esc-container-single">
+      <div class="esc-desc-single">
+        <h2><strong>{{page.title | escape}}</strong></h2>
+        <p >{{ content }}</p>
+      </div>
+      <div class="esc-desc-single">
+          <div>
+              <img  src="/img/{{page.image}}"/>
+          </div>
+      </div>   
+    </div>
+
+  {% else %}
+
   <header class="post-header">
     <h2 class="page-heading">{{page.title | escape}}</h2>
   </header>
 
-  {% if page.title == 'About' %}
-  <div class="main-img">
-    <img class="main-img" src="/img/{{page.image}}"/>
-  </div>
-  {% endif %}
- 
   <div class="post-content">
     {{ content }}
   </div>
+  {% endif %}
 
 </article>

@@ -4,15 +4,29 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title p-name" itemprop="name headline"><strong>{{ page.title | escape }}</strong></h1>
     <p class="post-meta">
-      {% if page.category == "diari" %}
+      {% if post.path contains 'diari' %}
         {{page.date | date: "%d/%m/%Y" }}
       {% else %}
       {% endif %}
     </p>
     <div class="main-img">
-     <img class="main-img" src="/img/{{page.image}}"/>
+      {% if post.path contains 'diari' %}
+        <img class="main-img" src="/img/diari/{{page.image}}"/>
+        {% else %}
+      {% endif %}
+
+      {% if page.category == "dolomiti" or page.category == "appennino" or page.category == "misto" or page.category == "erboristeria" %}
+        <img class="main-img" src="/img/escursioni/{{page.image}}"/>
+        {% else %}
+      {% endif %}
+
+      {% if page.category == "piccoloappennino" %}
+        <img class="main-img" src="/img/piccolo-appennino/{{page.image}}"/>
+        {% else %}
+      {% endif %}
+        
     </div>
   </header>
   {% if page.category == "diari" %}
@@ -20,27 +34,37 @@ layout: default
       {{page.content }}
     </div>
   {% else %}
-      <div class="esc">
-        <div class="meeting post-info">
-          <div>
-            <span>Data:</span> <span class="bold">{{page.day }}</span><br>
-            <span>Ritrovo ore:</span> <span class="bold">{{ page.meeting }}</span><br>
-            <span>Difficoltà:</span> 
-            {% if page.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
-            {% if page.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
-            {% if page.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
-            {% if page.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
-            {% if page.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
-          </div>
-          <div>
-            {% include prenota.html %}
-          </div>
-        </div>
+    <div class="esc">
+          {% if page.category == "piccoloappennino" %}
+            <div class="meeting post-info">
+              <div class="prenota">
+                <a href="/kmz/31-metauro-monti.kmz">
+                  <img class="kmz-icon" src="/img/icons/kmz.svg"/>
+                  Scarica il file KMZ
+                </a>
+              </div>
+            </div>
+          {% else %}
+            <div class="meeting post-info">
+              <span>Data:</span> <span class="bold">{{page.day }}</span><br>
+              <span>Ritrovo ore:</span> <span class="bold">{{ page.meeting }}</span><br>
+              <span>Difficoltà:</span> 
+                  {% if page.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
+                  {% if page.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
+                  {% if page.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+                  {% if page.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+                  {% if page.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
 
-        <div class="post-content-esc" itemprop="articleBody">
-          {{ content }}
-        </div>
-      </div>
+                  {% include prenota.html %}
+
+            </div>
+                    
+            
+          {% endif %}
+            <div class="post-content-esc" itemprop="articleBody">
+              {{ content }}
+            </div>
+    </div>
   {% endif %}
  
 

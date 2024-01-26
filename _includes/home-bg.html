@@ -1,7 +1,11 @@
-<div class="full-bg" style="background: url(/img/{{page.bg}}) no-repeat center center;
-background-size: cover;">
+<div class="full-bg" style="background: url(/img/{{page.bg}}) no-repeat center center; background-size: cover;">
     <div class="wrapper">
-        <h1><strong>{{page.titolazione | markdownify}}</strong></h1>
-        <h2>{{page.sottotitolo | markdownify}}</h2>
+        <div class="header-container">
+            <div class="header-title">
+                <h1><strong>{{page.titolazione | markdownify}}</strong></h1>
+                <h2>{{page.sottotitolo | markdownify}}</h2>
+            </div>
+            <div></div>
+        </div>
     </div>
 </div>

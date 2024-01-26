@@ -1,12 +1,13 @@
 <div class="diari">
-    {% for post in site.categories.diari %}    
+    {% for post in site.posts %}    
+        {% if post.path contains 'diari' %}
         <div class="card">
             <div class="card__header">
-                <img src="img/{{post.image}}"/>
+                <img src="/img/diari/{{post.image}}"/>
             </div>
             <div class="card__title">
                 <a href="{{ post.url | relative_url }}">
-                    <h3> {{ post.title | escape }} </h3> 
+                    <h3> <strong>{{ post.title | escape }}</strong></h3> 
                 </a>
             </div>
             <div class="card__body">
@@ -22,5 +23,6 @@
                 </div>
             </div>
         </div>
+        {% endif %}
     {% endfor %}
 </div>   

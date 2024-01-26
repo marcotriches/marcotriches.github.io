@@ -4,7 +4,7 @@
 
 layout: home
 bg: dapromontorio.jpg
-titolazione: 
+titolazione: Balza del Sole
 sottotitolo: |
  Guida ambientale escursionistica\\
  Guida Parco Nazionale Dolomiti Bellunesi\\

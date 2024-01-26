@@ -1,9 +1,0 @@
----
-layout: radio
-title:  "Picchio Nero, Valpiana (BL)"
-date:   2023-10-20 18:20:48 +0100
-category: radio
-audio: picchio-nero-tronco.ogg
----
-
-Una macchia di faggi con un abete secco nel mezzo. Il Picchio nero non si preoccupa. Colpisce il tronco, cadono pezzi di corteccia e pigne. Tuto l'albero rimbomba. 

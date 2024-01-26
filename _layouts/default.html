@@ -21,6 +21,18 @@
    
     {%- include footer.html -%}
 
+    <!-- responsive nav -->
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+    </script>
+
     {% if page.layout == 'home'%}
      <!-- jQuery 1.8+ -->
     	<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
@@ -53,7 +65,7 @@
        </script>
     {% endif %}
 
-    {% if page.layout == 'escursioni'%}
+    {% if page.layout == 'escursioni' or page.layout == 'escursioni-singole'  or page.layout == 'piccoloappennino' %}
      <!-- jQuery 1.8+ -->
     	<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
 	

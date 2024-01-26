@@ -1,7 +1,7 @@
 ---
 layout: escursioni
 title: Escursioni
-order: 1
+order: 0
 excursions:
  - nome: Appennino
    category: appennino
@@ -10,13 +10,13 @@ excursions:
  - nome: Erboristeria itinerante
    category: erboristeria
    descrizione: Erboristeria itinerante è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
-   immagine: erboristeriaitinerante1.jpg
+   immagine: erboristeriaitinerante.jpg
  - nome: Parco Nazionale Dolomiti Bellunesi
    category: dolomiti
    descrizione: Escursioni e trekking di più giorni nel Parco Nazionale delle Dolomiti Bellunesi. Marco Triches, Guida ufficiale del Parco Nazionale Dolomiti Bellunesi. Organizziamo percorsi e escursioni botaniche per conoscere la storia dei luoghi e il patrimonio floristico.
-   immagine: dolomitibellunesi2.jpg
+   immagine: dolomitibellunesi.jpg
  - nome: Misto
    category: misto
    descrizione: Percorsi misti a piedi e in bicicletta. Crediamo che l’unione di queste due tecniche di viaggio sia utile per esplorare i luoghi, le loro connessioni e al tempo stesso conoscere le più piccole porzioni di un territorio, solitamente le più nascoste e fragili.   
-   immagine: misto2.jpg
+   immagine: misto.jpg
 ---
