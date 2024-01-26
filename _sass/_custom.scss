@@ -52,9 +52,11 @@ a:visited {
 }
 
 // HEADER
-.site-header {
+.nav-header {
     border-top: none;
     border-bottom: none;
+    min-height: none;
+
 }
 
 
@@ -115,7 +117,7 @@ nav {
     font-family: inherit;
     margin: 0;
     a{
-        padding-right: 0.3rem;
+        padding-right: 1rem;
     }
     i{
         padding-top: 14px;
@@ -161,6 +163,7 @@ nav {
   }
   
   @media screen and (max-width: 600px) {
+   
     .topnav a:not(:first-child), .dropdown .dropbtn {
       display: none;
     }
@@ -187,12 +190,21 @@ nav {
         float: none;
     }
     .topnav.responsive .dropdown-content {position: relative;}
-    .topnav.responsive .dropdown .dropbtn {
+    .topnav.responsive .dropdown {
       margin-left: 0;
       display: block;
       width: 100%;
       text-align: left;
     }
+
+    .topnav.responsive .dropdown-content {position: relative;}
+    .topnav.responsive .dropdown .dropbtn {
+      margin-left: 0;
+      padding: 0;
+      display: flex;
+      text-align: left;
+    }
+
   }
 
   
