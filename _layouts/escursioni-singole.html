@@ -3,59 +3,61 @@ layout: default
 ---
 
 <div class="esc-container-single">
-    {% for excursion in page.excursions %}
-        <div class="esc-desc-single {{excursion.category}}">
-          <h2><strong>{{ excursion.nome | escape | markdownify }}</strong></h2>
-          <p >{{ excursion.descrizione | escape | markdownify }}</p>
-        </div>
-        <div class="esc-desc-single {{excursion.category}}">
-            <div>
-                <img {% if excursion.immagine contains "http" %} src="{{excursion.immagine}}" {% else %} src="{{ site.url }}/img/{{excursion.immagine}}"  {% endif %} alt="{{excursion.nome | escape }}" />
-            </div>
-        </div>    
-    {% endfor %}
+  {% for excursion in page.excursions %}
+      <div class="esc-desc-single {{excursion.category}}">
+        <h2><strong>{{ excursion.nome | escape | markdownify }}</strong></h2>
+        <p >{{ excursion.descrizione | escape | markdownify }}</p>
+      </div>
+      <div class="esc-desc-single {{excursion.category}}">
+          <div>
+              <img {% if excursion.immagine contains "http" %} src="{{excursion.immagine}}" {% else %} src="{{ site.url }}/img/{{excursion.immagine}}"  {% endif %} alt="{{excursion.nome | escape }}" />
+          </div>
+      </div>    
+  {% endfor %}
 </div>
 
 <h2 class="page-heading">In programma</h2>
+{% for excursion in page.excursions %}
+{% assign catname = excursion.category %} 
+{% endfor %}
 
-<div id="grid">
-  {% for excursion in page.excursions %}
-    {% assign catname = excursion.category %} 
-  {% endfor %}
-
-  {% for post in site.categories[catname] %}
-    
-      <div class="media-box {{excursion.category}} ">
-          <div class="media-box-image {{excursion.category}} ">
-              <div data-width="320" data-height="214" data-thumbnail="{{site.url }}/img/escursioni/{{post.image }}"></div>
-          </div>
-  
-          <div class="media-box-content">
-              <div class="media-box-title">
-                <a href="{{ post.url | relative_url }}">
-                  <h3 class="bold">{{ post.title | escape }}</h3>
-                </a>
-              </div>
-              
-              <div class="meeting">
-                <span>Data:</span> <span>{{post.day }}</span><br>
-                <span>Ritrovo ore:</span> <span>{{post.meeting }}</span><br>
-                <span>Difficoltà:</span> 
-                  {% if post.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
-                  {% if post.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
-                  {% if post.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
-                  {% if post.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
-                  {% if post.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
-                  {% include prenota.html %}
-              </div>
-          </div>
-      </div>
-      
-    {% endfor %}      
+{% if site.categories[catname] == null %}
+  <div class="no-excursion">
+    <p>Al momento non ci sono escursioni in programma...</p>
   </div>
-  
-  {% if page.layout == 'home' %}
-      <div class="view-more">
-        <a href="/escursioni">Vedi tutte le escursioni</a>
+{% else %}
+<div id="grid">
+  {% for post in site.categories[catname] %}
+    <div class="media-box">
+      <div class="media-box-image">
+        <div data-width="320" data-height="214" data-thumbnail="{{site.url }}/img/escursioni/{{post.image }}"></div>
       </div>
-  {% endif %}
+
+      <div class="media-box-content">
+        <div class="media-box-title">
+          <a href="{{ post.url | relative_url }}">
+            <h3 class="bold">{{post.title}}</h3>
+          </a>
+        </div>
+        <div class="meeting">
+          <span>Data:</span> <span>{{post.day}}</span><br>
+          <span>Ritrovo ore:</span> <span>{{post.meeting }}</span><br>
+          <span>Difficoltà:</span> 
+            {% if post.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
+            {% if post.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
+            {% if post.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+            {% if post.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+            {% if post.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
+            {% include prenota.html %}
+        </div>
+      </div>
+    </div>
+  {% endfor %} 
+</div>
+{% endif %}
+  
+{% if page.layout == 'home' %}
+  <div class="view-more">
+    <a href="/escursioni">Vedi tutte le escursioni</a>
+  </div>
+{% endif %}
