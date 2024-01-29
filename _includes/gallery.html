@@ -1,4 +1,4 @@
-<div class="container-gallery">
+<!--<div class="container-gallery">
     <ul class="gallery">
       {% for image in site.static_files %}    
         {% if image.path contains '/img/gallery' %}
@@ -8,4 +8,18 @@
         {% endif %}   
       {% endfor %}
     </ul>
+</div>-->
+
+<div class="container-gallery">
+  <div class="slider">
+    <div class="slide-track">
+        {% for image in site.static_files %}    
+          {% if image.path contains '/img/gallery' %}
+            <div class="slide">
+              <img src="{{ site.baseurl }}{{ image.path }}" alt="imagine galleria" />
+            </div> 
+          {% endif %}   
+        {% endfor %}
+    </div>
+  </div>
 </div>
