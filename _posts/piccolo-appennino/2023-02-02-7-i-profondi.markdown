@@ -1,0 +1,19 @@
+---
+layout: post
+title: I Profondi
+date: 2023-01-07 18:20:48 +0100
+category: piccolo-appennino
+distanza: 3 Km
+dislivello:  80 m
+durata:	1:20 ora
+difficolta:	T - Turistico
+utilizzo: Piedi, Bici, Cavallo
+image: 7iprofondi.jpg
+altimeria: Altimetria7.jpg
+KMZ: 31-metauro-monti.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+---
+
+I Profondi sono i campi posti poco a monte dell’itinerario, solcati dai fossi la Tinosa, il Faiti e Calcinari. Il percorso consente un facile giro ad anello in una affascinante valle tributaria del torrente Arzilla, tra acqua, boschi e macchia mediterranea. In seguito alle piogge il fondo di una buona parte del percorso è particolarmente adatto all’osservazione e allo studio delle tracce degli animali.
+
+Sono sufficienti le scarpe da ginnastica. Durante e dopo le piogge il terreno è molto fangoso.

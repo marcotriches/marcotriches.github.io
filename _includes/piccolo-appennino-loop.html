@@ -1,19 +1,19 @@
 <div id="grid">
     {% for post in site.posts %}  
-        {% if post.category == "piccoloappennino" %}  
-        <div class="media-box ">
-            <div class="media-box-image">
-                <div data-width="320" data-height="214" data-thumbnail="{{site.url }}/img/{{post.image }}"></div>
-            </div>
-    
-            <div class="media-box-content">
-                <div class="media-box-title">
-                    <a href="{{ post.url | relative_url }}">
-                        <h3 class="bold">{{ post.title | escape }}</h3>
-                    </a>
+        {% if post.path contains "piccolo-appennino" %}  
+            <div class="media-box ">
+                <div class="media-box-image">
+                    <div data-width="320" data-height="214" data-thumbnail="{{site.url }}/img/piccolo-appennino/{{post.image }}"></div>
+                </div>
+
+                <div class="media-box-content">
+                    <div class="media-box-title">
+                        <a href="{{ post.url | relative_url }}">
+                            <h3 class="bold">{{ post.title | escape }}</h3>
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
         {% endif %} 
     {% endfor %}      
   </div>

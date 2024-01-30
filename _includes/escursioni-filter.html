@@ -3,7 +3,7 @@
     <ul class="media-boxes-filter" id="filter">
       <li><a class="selected" href="#" data-filter="*">Tutte</a></li>
       {% for category in site.categories %}
-        {% unless category contains 'diari' or category contains 'radio' or category contains 'fatti-di-montagna' or category contains 'piccoloappennino'%} 
+        {% unless category contains 'diari' or category contains 'radio' or category contains 'fatti-di-montagna' or category contains 'piccolo-appennino'%} 
             <li class="tooltip"><a href="#" data-filter=".{{ category | first }}">{{ category | first }}</a></li>
         {% endunless %}
       {% endfor %}

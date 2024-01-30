@@ -3,29 +3,65 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
+{% if page.category == "piccolo-appennino" %}
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline"><strong>{{ page.title | escape }}</strong></h1>
+    <div class="esc-container-single-appennino">
+      <div class="esc-desc-single-appennino">
+        <h2><strong>{{page.title | escape}}</strong></h2>
+        <p>{{ content }}</p>
+
+        <p>Utilizzo: {{page.utilizzo | escape}}</p>
+        <p>Distanza: {{page.distanza | escape}}</p>
+        <p>Dislivello: {{page.dislivello | escape}}</p>
+        <p>Durata: {{page.durata | escape}}</p> 
+        <p>Difficoltà: {{page.difficolta| escape}}</p>
+      </div>
+      <div class="image-single">
+        <img class="main-img" src="/img/piccolo-appennino/{{page.image}}"/>
+       
+          <div class="prenota stay-right">
+            <a href="/kmz/31-metauro-monti.kmz">
+              <img class="kmz-icon" src="/img/icons/kmz.svg"/>
+              Scarica il file KMZ
+            </a>
+          </div>
+       
+      </div>
+    </div>
+
+    <iframe src="{{page.percorso}}" width="100%" height="480"></iframe>
+
+   
+      <div class="post-content-esc" itemprop="articleBody">
+        <p class="bold altimetria">Altimetria:</p>
+        <img class="main-img" src="/img/piccolo-appennino/{{page.altimeria}}"/>
+      </div>
+    
+  </header>
+{% else %}
+
+  <header class="post-header">
+    {% if page.category != "piccolo-appennino" %}
+      <h1 class="post-title p-name" itemprop="name headline"><strong>{{ page.title | escape }}</strong></h1>
+    {% endif %}
     <p class="post-meta">
       {% if post.path contains 'diari' %}
         {{page.date | date: "%d/%m/%Y" }}
-      {% else %}
       {% endif %}
     </p>
     <div class="main-img">
       {% if post.path contains 'diari' %}
         <img class="main-img" src="/img/diari/{{page.image}}"/>
-        {% else %}
       {% endif %}
 
       {% if page.category == "dolomiti" or page.category == "appennino" or page.category == "misto" or page.category == "erboristeria" %}
         <img class="main-img" src="/img/escursioni/{{page.image}}"/>
-        {% else %}
       {% endif %}
 
-      {% if page.category == "piccoloappennino" %}
+     <!--{% if page.category == "piccolo-appennino" %}
         <img class="main-img" src="/img/piccolo-appennino/{{page.image}}"/>
-        {% else %}
-      {% endif %}
+     {% endif %}-->
+     
         
     </div>
   </header>
@@ -35,39 +71,24 @@ layout: default
     </div>
   {% else %}
     <div class="esc">
-          {% if page.category == "piccoloappennino" %}
-            <div class="meeting post-info">
-              <div class="prenota">
-                <a href="/kmz/31-metauro-monti.kmz">
-                  <img class="kmz-icon" src="/img/icons/kmz.svg"/>
-                  Scarica il file KMZ
-                </a>
-              </div>
-            </div>
-          {% else %}
-            <div class="meeting post-info">
-              <span>Data:</span> <span class="bold">{{page.day }}</span><br>
-              <span>Ritrovo ore:</span> <span class="bold">{{ page.meeting }}</span><br>
-              <span>Difficoltà:</span> 
-                  {% if page.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
-                  {% if page.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
-                  {% if page.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
-                  {% if page.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
-                  {% if page.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
+        <div class="meeting post-info">
+          <span>Data:</span> <span class="bold">{{page.day }}</span><br>
+          <span>Ritrovo ore:</span> <span class="bold">{{ page.meeting }}</span><br>
+          <span>Difficoltà:</span> 
+              {% if page.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
+              {% if page.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
+              {% if page.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+              {% if page.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+              {% if page.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
+              {% include prenota.html %}
+        </div>    
 
-                  {% include prenota.html %}
-
-            </div>
-                    
-            
-          {% endif %}
-            <div class="post-content-esc" itemprop="articleBody">
-              {{ content }}
-            </div>
+        <div class="post-content-esc" itemprop="articleBody">
+          {{ content }}
+        </div>
     </div>
   {% endif %}
- 
 
-
+{% endif %}
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

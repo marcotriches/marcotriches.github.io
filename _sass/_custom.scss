@@ -39,6 +39,10 @@ a:visited {
     text-align: left;
 }
 
+.stay-right{
+    float: right;
+}
+
 .bold{
     font-weight: 700;
 }
@@ -533,6 +537,40 @@ $animationSpeed: 40s;
     }
 }
 
+.esc-desc-single{
+    width: 50%;
+    padding: 0.4rem;
+    img{
+        border-radius: 5px;
+        width: 100%;
+    }
+}
+
+.esc-container-single-appennino{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    border-radius: 5px;
+    margin-bottom: 2rem; 
+    flex-basis: 100%;
+    min-height: 40vh;
+    h2{
+        font-size: $big-title;
+        line-height: $big-title-line;
+    }
+
+}
+
+
+.esc-desc-single-appennino{
+    width: 60%;
+    padding: 0.4rem;
+}
+
+.image-single{
+    width: 30%;
+}
+
 @media screen and (max-width: 800px){
     .esc-container-single{
         display: block;
@@ -547,17 +585,27 @@ $animationSpeed: 40s;
             line-height: 1.8rem;
         }
     }
-}
+    .esc-container-single-appennino{
+        display: block;
 
+        .esc-desc-single-appennino{
+            width: 100%;
+            padding: 0.4rem;
+        }
 
-.esc-desc-single{
-    width: 50%;
-    padding: 0.4rem;
-    img{
-        border-radius: 5px;
+        h2{
+            font-size: 2rem;
+            line-height: 1.8rem;
+        }
+    }
+    .image-single{
         width: 100%;
     }
+    .stay-right{
+        float: none;
+    }
 }
+
 
 // FILTER BAR
  
@@ -672,7 +720,7 @@ $animationSpeed: 40s;
     border-radius: 5px;
     padding: 0.4rem 0.9rem;
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 0.3rem;
     
     a{
         color:$color-primary;
@@ -694,6 +742,10 @@ $animationSpeed: 40s;
     }  
 }
 
+.altimetria{
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
 
 // GALLERY
 .container{
@@ -871,11 +923,20 @@ ul.gallery{
     align-items:  flex-start;
 }
 .post-info{
-   
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
     flex-basis: 200%;
+    span{
+       font-size: large;
+    }
+}
+
+.post-info-appennino{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    flex-basis: 50%;
     span{
        font-size: large;
     }
@@ -909,6 +970,13 @@ ul.gallery{
         display: flex;
         justify-content: space-between;
    
+    }
+
+    .post-info-appennino{
+        position: static;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
     }
 
     .esc{

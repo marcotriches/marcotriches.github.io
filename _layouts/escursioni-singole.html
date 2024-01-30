@@ -6,7 +6,7 @@ layout: default
   {% for excursion in page.excursions %}
       <div class="esc-desc-single {{excursion.category}}">
         <h2><strong>{{ excursion.nome | escape | markdownify }}</strong></h2>
-        <p >{{ excursion.descrizione | escape | markdownify }}</p>
+        <p>{{ content }}</p>
       </div>
       <div class="esc-desc-single {{excursion.category}}">
           <div>
