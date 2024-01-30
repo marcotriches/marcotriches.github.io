@@ -10,8 +10,8 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 11leserre.jpg
 altimeria: Altimetria11.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 11leserre.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1_pXRUtOPVUjPdwCtl6diMCa28iYCfmo&ehbc=2E312F
 ---
 
 Le Serre di Monte Albullo corrispondono al crinale di colli che delimita le valli del torrente dell’Arzilla, del torrente Apsa (Montelabbate) e il rio Maggiore (Montefelcino). Punto panoramico verso l’Appennino e il mare, l’itinerario attraversa i campi e i boschi di mezza collina, per poi rientrare ad anello su stradine lungo i crinali.

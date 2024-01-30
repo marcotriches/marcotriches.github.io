@@ -10,8 +10,8 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 8unborgoneltempo.jpg
 altimeria: Altimetria8.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 8unborgoneltempo.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1lg1-pZls99lTr0DESlDsI293gZyzO1Y&ehbc=2E312F
 ---
 
 Monte Santa Maria è un borgo nel tempo: luogo silenzioso, appartato e posto in cima a un cucuzzolo, domina le valli del territorio e pare sospeso in un mondo del passato. L’itinerario prevede un giro ad anello sul crinale del monte e nella sottostante valle del torrente Arzilla.

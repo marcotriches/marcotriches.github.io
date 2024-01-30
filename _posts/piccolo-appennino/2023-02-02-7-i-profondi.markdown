@@ -10,8 +10,8 @@ difficolta:	T - Turistico
 utilizzo: Piedi, Bici, Cavallo
 image: 7iprofondi.jpg
 altimeria: Altimetria7.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 7iprofondi.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=101DHAXwrZwYE_X-VdxlXFfUh7ciEn-c&ehbc=2E312F
 ---
 
 I Profondi sono i campi posti poco a monte dell’itinerario, solcati dai fossi la Tinosa, il Faiti e Calcinari. Il percorso consente un facile giro ad anello in una affascinante valle tributaria del torrente Arzilla, tra acqua, boschi e macchia mediterranea. In seguito alle piogge il fondo di una buona parte del percorso è particolarmente adatto all’osservazione e allo studio delle tracce degli animali.

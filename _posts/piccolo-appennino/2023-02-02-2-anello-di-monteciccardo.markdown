@@ -10,8 +10,8 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi
 image: 2anellodimonteciccardo.jpg
 altimeria: Altimetria2.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 2anellodimonteciccardo.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1mTAzTvIGaNbpCg1mwQq4XHBAYkE1LMA&ehbc=2E312F
 ---
 
 L’anello di Monteciccardo è un itinerario escursionistico affascinante e a tratti selvatico che consente di esplorare due importanti valli del territorio: il fosso del Gatto e il torrente dell’Arzilla. Le attività contadine, la natura appenninica, i panorami sono gli elementi inconfondibili di questo percorso.

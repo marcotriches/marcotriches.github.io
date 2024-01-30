@@ -10,8 +10,8 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 12dentroefuoribosco.jpg
 altimeria: Altimetria12.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 12dentroefuoribosco.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1hMJiowDDUoD4tVLuZdtOnidZFC_ouc8&ehbc=2E312F
 ---
 
 L’itinerario compie un largo giro ad anello del boscoso e solitario Monte Sorci, propaggine Settentrionale della catena collinare di Fontecorniale. Il percorso si sviluppa quasi interamente dentro il bosco e consente di apprezzare le varietà floristiche e vegetazionali del territorio.

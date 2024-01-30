@@ -10,8 +10,8 @@ durata: 4:00 ore
 difficolta:	E - Escursionistico
 image: 9ilpiccoloappennino.jpg
 altimeria: Altimetria9.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 9ilpiccoloappennino.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1DM-PAm6_QewsNSnEMNUNheAZ8oVsvv0&ehbc=2E312
 ---
 
 Il Piccolo Appennino è il percorso più montano dell’intera rete sentieristica. Si tratta di un itinerario prevalentemente nel bosco, in luoghi solitari e carichi di fascino. Un percorso adatto per ascoltare o vedere la fauna del luogo e le varietà floristiche e vegetazionali presenti.

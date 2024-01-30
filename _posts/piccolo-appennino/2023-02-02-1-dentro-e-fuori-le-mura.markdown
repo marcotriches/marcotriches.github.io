@@ -10,8 +10,8 @@ difficolta:	T - Turistico
 utilizzo: Piedi, Bici
 image: 1dentroefuorilemura.jpg
 altimeria: Altimetria1.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 1dentroefuorilemura.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=1RB-QufIY8rwi9QKqK5RXN1guHptrIbA&ehbc=2E312F
 ---
 
 Dentro e fuori le mura è un itinerario dedicato al paese di Monteciccardo, al suo borgo storico e ai suoi ampi panorami. Il percorso consente una visione a 360 gradi dei paesaggi che circondano l’abitato e le sue mura.

@@ -10,8 +10,8 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici, Cavallo
 image: 6ilcorsodellarzilla.jpg
 altimeria: Altimetria6.jpg
-KMZ: 31-metauro-monti.kmz
-percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
+KMZ: 6ilcorsodellarzilla.kmz
+percorso: https://www.google.com/maps/d/u/1/embed?mid=181Szn0BZrI4Ud0jW-tcLA4Rh375zk4Y&ehbc=2E312F
 ---
 
 Il corso dell’Arzilla è un itinerario Andata/Ritorno sullo stesso sentiero che consente una passeggiata comoda lungo le sponde del torrente. Luogo di storici mulini e di utilizzazione dell’acqua per la molitura del grano e per la lavorazione dell’argilla, preservano ancora oggi, a squarci, paesaggi che richiamano gli antichi insediamenti rurali.
