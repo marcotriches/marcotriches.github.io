@@ -4,7 +4,7 @@ title:  "Valle del Mis"
 date:   2021-01-19 18:20:48 +0100
 category: radio
 audio: valledelmis.ogg
-image: about.jpg
+image: campotorondo.jpg
 ---
 
 Cartolina da una valle trasformata in un lago senza luci, fino a qualche tempo fa. 
