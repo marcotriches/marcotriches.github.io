@@ -3,7 +3,7 @@ layout: post
 title:  "Un bosco in Inverno (PU)"
 date:  2022-10-09 09:00:00 +0100
 day: "ven, 09 feb 2024"
-meeting: "15:00"
+meeting: "15:30"
 category: appennino 
 difficult: 1
 image: boscoinverno.jpg
@@ -19,9 +19,9 @@ Con questa avventura su sentieri e stradine cercheremo di riconoscere i principa
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Beato Sante (Mombaroccio) ore 15:00
+**Ritrovo:** Beato Sante (Mombaroccio) ore 15:30
 
-**Rientro:** ore 17:00 
+**Rientro:** ore 17:30
 
 **Difficoltà:** Facilissimo 
 
