@@ -3,6 +3,9 @@ layout: educazione-ambientale
 title: Educazione Ambientale
 image: educazione-ambientale.jpg
 image-2: educazione-ambientale-2.jpg
+excursions:
+ - nome: Educazione Ambientale
+   category: educazione-ambientale
 ---
 # Nel mio paese c’è un bosco, educazione ambientale fuori porta! Quasi tutti i venerdì pomeriggio Pesaro e campagna.
 
@@ -25,7 +28,7 @@ Le attività proposte si muovono all’interno nel binomio luce/ombra, fiori/bos
 
 Per questo motivo le attività proposte possono essere distinte in quattro macro aree:
 
- -        Camminate, escursioni, passeggiate naturalistiche;
+-        Camminate, escursioni, passeggiate naturalistiche;
 
 -        Laboratorio didattici artistici (le forme, i colori della natura, telai per la tessitura, mappe);
 

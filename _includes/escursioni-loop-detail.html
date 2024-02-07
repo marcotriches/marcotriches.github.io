@@ -1,0 +1,21 @@
+<div class="media-box-content">
+    <div class="media-box-title">
+      <a href="{{ post.url | relative_url }}">
+        <h3 class="bold">{{ post.title | escape }}</h3>
+      </a>
+    </div>
+    
+    <div class="meeting">
+      <!--<span>Data:</span>--> <span>{{post.day | date: "%d %b"}}, </span>
+      <span>{{post.distanza }}, </span>
+      <!--<span>Ritrovo ore:</span> <span>{{post.meeting }}</span><br>-->
+      <span>Difficoltà:</span> 
+        {% if post.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
+        {% if post.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 
+        {% if post.difficult == 3 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+        {% if post.difficult == 4 %}<span><img src="/img/ratings/star-3-5.svg"/></span>{% endif %} 
+        {% if post.difficult == 5 %}<span><img src="/img/ratings/star-5-5.svg"/></span>{% endif %} 
+        
+        {% include prenota.html %}
+    </div>
+</div>

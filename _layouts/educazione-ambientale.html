@@ -19,5 +19,27 @@ layout: default
             <p>{{ contentArray.last }}</p>
         </div>  
     </div>
+    <h2 class="page-heading">In programma</h2>
+    {% for excursion in page.excursions %}
+    {% assign catname = excursion.category %} 
+    {% endfor %}
+
+    {% if site.categories[catname] == null %}
+        <div class="no-excursion">
+            <p>Al momento non ci sono escursioni in programma...</p>
+        </div>
+        {% else %}
+        <div id="grid">
+        {% for post in site.categories[catname] %}
+            <div class="media-box">
+            <div class="media-box-image">
+                <div data-width="320" data-height="214" data-thumbnail="{{site.url }}/img/escursioni/{{post.image }}"></div>
+            </div>
+            {%- include escursioni-loop-detail.html -%}
+            </div>
+        {% endfor %} 
+        </div>
+    {% endif %}
+
 {% endif %}
 </article>

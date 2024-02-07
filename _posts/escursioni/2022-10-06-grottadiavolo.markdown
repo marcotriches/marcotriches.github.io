@@ -4,7 +4,7 @@ title:  "Grotta del Diavolo (PU)"
 date:  2022-10-06 09:00:00 +0100
 day: "ven, 23 feb 2024"
 meeting: "15:00"
-category: appennino
+category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
 image: grottadeldiavolo.jpg
