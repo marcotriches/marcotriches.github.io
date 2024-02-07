@@ -537,6 +537,25 @@ $animationSpeed: 40s;
     }
 }
 
+.esc-container-single-educazione{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-top: 1rem; 
+    margin-bottom: 1rem;  
+    flex-basis: 100%;
+}
+.esc-desc-single-educazione{
+    width: 50%;
+    padding: 0.4rem;
+    img{
+        border-radius: 5px;
+        width: 100%;
+    }
+}
+
 .esc-desc-single{
     width: 50%;
     padding: 0.4rem;
@@ -595,6 +614,14 @@ $animationSpeed: 40s;
         h2{
             font-size: 2rem;
             line-height: 1.8rem;
+        }
+    }
+
+    .esc-container-single-educazione{
+        display: block;
+        .esc-desc-single-educazione{
+            width: 100%;
+            padding: 0.4rem;
         }
     }
     .esc-container-single-appennino{
@@ -765,6 +792,10 @@ $animationSpeed: 40s;
    
 }
 
+.mappa{
+    margin-bottom: 2rem;
+}
+
 .prenota:hover {
     background-color:$color-primary;
     
@@ -777,7 +808,8 @@ $animationSpeed: 40s;
     .media-box-title{
         margin-top:20px;
         min-height: 20px;
-    } 
+    }
+   
     .gpx{
         margin-top:2rem;
         margin-bottom:2rem;
@@ -795,7 +827,6 @@ $animationSpeed: 40s;
 }
 
 .altimetria{
-    margin-top: 2rem;
     margin-bottom: 0;
 }
 
@@ -993,10 +1024,6 @@ ul.gallery{
     span{
        font-size: large;
     }
-}
-
-.post-content-esc{
-    margin-left: 1rem;
 }
 
 .main-img{

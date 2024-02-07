@@ -8,7 +8,7 @@ layout: default
     <div class="esc-container-single">
       <div class="esc-desc-single">
         <h2><strong>{{page.title | escape}}</strong></h2>
-        <p >{{ content }}</p>
+        <p>{{ content }}</p>
       </div>
       <div class="esc-desc-single">
           <div>
@@ -19,13 +19,13 @@ layout: default
 
   {% else %}
 
-  <header class="post-header">
-    <h2 class="page-heading">{{page.title | escape}}</h2>
-  </header>
+    <header class="post-header">
+      <h2 class="page-heading">{{page.title | escape}}</h2>
+    </header>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+    <div class="post-content">
+      {{ content }}
+    </div>
   {% endif %}
 
 </article>

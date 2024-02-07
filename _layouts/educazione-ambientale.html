@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+{% if page.title == 'Educazione Ambientale' %}
+    <div class="esc-container-single-educazione">
+        <div class="esc-desc-single-educazione">
+            {% assign contentArray = page.content | markdownify | split: site.excerpt_separator %}
+            <img  src="/img/{{page.image}}"/>
+            <p>{{ contentArray.first }}</p>
+        </div>
+        <!--<div class="esc-desc-single">
+            <div>
+                <img  src="/img/{{page.image}}"/>
+            </div>
+        </div> -->  
+        <div class="esc-desc-single-educazione">
+            <img  src="/img/{{page.image-2}}"/>
+            <p>{{ contentArray.last }}</p>
+        </div>  
+    </div>
+{% endif %}
+</article>

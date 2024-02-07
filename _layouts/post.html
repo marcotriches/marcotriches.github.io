@@ -14,7 +14,7 @@ layout: default
         <hr>
         <br>
 
-        <p><span><strong>Utilizzo:</strong> {{page.utilizzo | escape}}, </span><span><strong> Distanza:</strong> {{page.distanza | escape}},</span> <span><strong> Dislivello:</strong> {{page.dislivello | escape}},</span> <span><strong> Durata:</strong> {{page.durata | escape}},</span> <span><strong> Difficoltà:</strong> {{page.difficolta| escape}}</span></p>
+        <p><span>{{page.utilizzo | escape}}, </span><span><strong> Distanza:</strong> {{page.distanza | escape}},</span> <span><strong> Dislivello:</strong> {{page.dislivello | escape}},</span> <span><strong> Durata:</strong> {{page.durata | escape}},</span> <span><strong> Difficoltà:</strong> {{page.difficolta| escape}}</span></p>
 
       </div>
       <div class="image-single">
@@ -28,17 +28,15 @@ layout: default
             <p>Scarica il file GPX</p>
           </a>
         </div>
-        <hr> 
       </div>
     </div>
 
-    <iframe src="{{page.percorso}}" width="100%" height="480"></iframe>
-
-   
-      <div class="post-content-esc" itemprop="articleBody">
-        <p class="bold altimetria">Altimetria:</p>
-        <img class="main-img" src="/img/piccolo-appennino/{{page.altimeria}}"/>
-      </div>
+    <iframe class="mappa" src="{{page.percorso}}" width="100%" height="480"></iframe>
+    <hr>
+    <div class="post-content-esc" itemprop="articleBody">
+      <h3 class="altimetria"><strong>Altimetria:</h3>
+      <img class="main-img" src="/img/piccolo-appennino/{{page.altimeria}}"/>
+    </div>
     
   </header>
 {% else %}
