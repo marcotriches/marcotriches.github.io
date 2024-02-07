@@ -10,7 +10,7 @@ durata: 4:00 ore
 difficolta:	E - Escursionistico
 image: 9ilpiccoloappennino.jpg
 altimeria: Altimetria9.jpg
-KMZ: 9ilpiccoloappennino.kmz
+GPX: 9ilpiccoloappennino.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1DM-PAm6_QewsNSnEMNUNheAZ8oVsvv0&ehbc=2E312
 ---
 

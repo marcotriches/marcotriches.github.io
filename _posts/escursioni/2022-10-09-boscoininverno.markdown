@@ -4,7 +4,8 @@ title:  "Un bosco in Inverno (PU)"
 date:  2022-10-09 09:00:00 +0100
 day: "ven, 09 feb 2024"
 meeting: "15:30"
-category: appennino 
+category: appennino
+distanza: 4 Km
 difficult: 1
 image: boscoinverno.jpg
 ---

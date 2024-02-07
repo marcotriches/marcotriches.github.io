@@ -10,7 +10,7 @@ difficolta:	T - Turistico
 utilizzo: Piedi, Bici
 image: 3ilpromontorio.jpg
 altimeria: Altimetria3.jpg
-KMZ: 3ilpromontorio..kmz
+GPX: 3ilpromontorio.gpxkmz
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
 ---
 

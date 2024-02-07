@@ -10,6 +10,10 @@
                     <div class="media-box-title">
                         <a href="{{ post.url | relative_url }}">
                             <h3 class="bold">{{ post.title | escape }}</h3>
+                            <div class="meeting">
+                                <span>{{post.distanza }}, </span> <span>{{post.durata }}, <span>{{post.dislivello }}, <span>{{post.difficolta }}<br>
+                                </span> <span>{{post.utilizzo }} </span>
+                              </div>
                         </a>
                     </div>
                 </div>

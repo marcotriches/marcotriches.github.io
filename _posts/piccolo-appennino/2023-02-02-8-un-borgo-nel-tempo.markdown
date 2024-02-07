@@ -10,7 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 8unborgoneltempo.jpg
 altimeria: Altimetria8.jpg
-KMZ: 8unborgoneltempo.kmz
+GPX: 8unborgoneltempo.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1lg1-pZls99lTr0DESlDsI293gZyzO1Y&ehbc=2E312F
 ---
 

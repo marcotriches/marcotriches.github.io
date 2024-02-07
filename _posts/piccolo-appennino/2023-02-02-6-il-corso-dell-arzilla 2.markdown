@@ -10,7 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici, Cavallo
 image: 6ilcorsodellarzilla.jpg
 altimeria: Altimetria6.jpg
-KMZ: 6ilcorsodellarzilla.kmz
+GPX: 6ilcorsodellarzilla.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=181Szn0BZrI4Ud0jW-tcLA4Rh375zk4Y&ehbc=2E312F
 ---
 

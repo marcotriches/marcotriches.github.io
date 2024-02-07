@@ -558,6 +558,15 @@ $animationSpeed: 40s;
         font-size: $big-title;
         line-height: $big-title-line;
     }
+    span{
+        white-space:nowrap;
+        margin-right: 0.4rem;
+    }
+
+    span:last-child {
+        margin-right: 0px;
+    }
+  
 
 }
 
@@ -565,6 +574,9 @@ $animationSpeed: 40s;
 .esc-desc-single-appennino{
     width: 60%;
     padding: 0.4rem;
+    p{
+        margin-bottom: 5px;
+    }
 }
 
 .image-single{
@@ -698,19 +710,28 @@ $animationSpeed: 40s;
 
 .media-box-title{
     margin-top:20px;
-    min-height: 60px;
+
+    h3 {
+        font-size: 0.9rem;
+        margin-block-start: 1em;
+        margin-block-end: 0em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
 }
 
 .meeting{
-     padding-bottom:2rem;
-     hr{
-       
+    font-size: 0.8rem;
+    padding-bottom:2rem;
+    font-weight: 400;
+  
+    hr{
         margin-bottom:1rem;
         height:1px; border:none; color:#000; background-color:#000;
-     }
-     img{
-         width: 90px;
-     }
+    }
+    img{
+        width: 90px;
+    }
 }
 
 .prenota{
@@ -727,6 +748,23 @@ $animationSpeed: 40s;
     }
 }
 
+.gpx{
+    display: flex;
+    flex-wrap: nowrap;
+    width:180px;
+    align-items: center;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+ 
+    a{
+        color:$color-primary;
+    }
+    .gpx-icon{
+        width: 30%;
+    }
+   
+}
+
 .prenota:hover {
     background-color:$color-primary;
     
@@ -739,7 +777,21 @@ $animationSpeed: 40s;
     .media-box-title{
         margin-top:20px;
         min-height: 20px;
-    }  
+    } 
+    .gpx{
+        margin-top:2rem;
+        margin-bottom:2rem;
+        min-height: 2rem;
+        width:230px;
+        a{
+            color:$color-primary;
+            font-size:21px;
+        }
+        .gpx-icon{
+            width: 50%;
+        }
+       
+    }
 }
 
 .altimetria{
@@ -921,12 +973,13 @@ ul.gallery{
 .esc{
     display: flex;
     align-items:  flex-start;
+    width: 100%;
 }
 .post-info{
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
-    flex-basis: 200%;
+    flex: 0 0 20%;
     span{
        font-size: large;
     }

@@ -8,24 +8,27 @@ layout: default
     <div class="esc-container-single-appennino">
       <div class="esc-desc-single-appennino">
         <h2><strong>{{page.title | escape}}</strong></h2>
+        <hr>
+        <h3><strong>Descrizione:</strong></h3>
         <p>{{ content }}</p>
+        <hr>
+        <br>
 
-        <p>Utilizzo: {{page.utilizzo | escape}}</p>
-        <p>Distanza: {{page.distanza | escape}}</p>
-        <p>Dislivello: {{page.dislivello | escape}}</p>
-        <p>Durata: {{page.durata | escape}}</p> 
-        <p>Difficoltà: {{page.difficolta| escape}}</p>
+        <p><span><strong>Utilizzo:</strong> {{page.utilizzo | escape}}, </span><span><strong> Distanza:</strong> {{page.distanza | escape}},</span> <span><strong> Dislivello:</strong> {{page.dislivello | escape}},</span> <span><strong> Durata:</strong> {{page.durata | escape}},</span> <span><strong> Difficoltà:</strong> {{page.difficolta| escape}}</span></p>
+
       </div>
       <div class="image-single">
         <img class="main-img" src="/img/piccolo-appennino/{{page.image}}"/>
-       
-          <div class="prenota stay-right">
-            <a href="/kmz/31-metauro-monti.kmz">
-              <img class="kmz-icon" src="/img/icons/kmz.svg"/>
-              Scarica il file KMZ
-            </a>
-          </div>
-       
+        <hr>
+        <div class="gpx">
+          <a class="gpx-icon" href="/gpx/{{page.GPX}}">
+            <img src="/img/icons/gpx.png"/>
+          </a>
+          <a href="/gpx/{{page.GPX}}">
+            <p>Scarica il file GPX</p>
+          </a>
+        </div>
+        <hr> 
       </div>
     </div>
 
@@ -72,6 +75,7 @@ layout: default
         <div class="meeting post-info">
           <span>Data:</span> <span class="bold">{{page.day }}</span><br>
           <span>Ritrovo ore:</span> <span class="bold">{{ page.meeting }}</span><br>
+          <span>Distanza:</span> <span class="bold">{{page.distanza }}</span><br>
           <span>Difficoltà:</span> 
               {% if page.difficult == 1 %}<span><img src="/img/ratings/star-1-5.svg"/></span>{% endif %} 
               {% if page.difficult == 2 %}<span><img src="/img/ratings/star-2-5.svg"/></span>{% endif %} 

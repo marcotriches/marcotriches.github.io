@@ -10,7 +10,7 @@ difficolta:	T - Turistico
 utilizzo: Piedi, Bici
 image: 1dentroefuorilemura.jpg
 altimeria: Altimetria1.jpg
-KMZ: 1dentroefuorilemura.kmz
+GPX: 1dentroefuorilemura.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1RB-QufIY8rwi9QKqK5RXN1guHptrIbA&ehbc=2E312F
 ---
 
