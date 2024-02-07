@@ -65,7 +65,7 @@
        </script>
     {% endif %}
 
-    {% if page.layout == 'escursioni' or page.layout == 'escursioni-singole' or page.layout == 'educazione-ambientale' or page.layout == 'piccolo-appennino' %}
+    {% if page.layout == 'escursioni' or page.layout == 'escursioni-singole' or page.layout == 'piccolo-appennino' %}
      <!-- jQuery 1.8+ -->
     	<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
 	
@@ -84,6 +84,36 @@
         $('#grid').mediaBoxes({
           filterContainer: '#filter',
           columns: 4,
+          boxesToLoadStart: 6,
+          boxesToLoad: 6,
+          horizontalSpaceBetweenBoxes: 45,
+          verticalSpaceBetweenBoxes: 45,
+          LoadingWord: 'Caricamento...',
+          loadMoreWord: 'Carica altro',
+          noMoreEntriesWord: ''
+        }); 
+       </script>
+    {% endif %}
+
+    {% if page.layout == 'educazione-ambientale' %}
+     <!-- jQuery 1.8+ -->
+    	<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
+	
+     <!-- Media Boxes JS files -->
+    	<script src="../plugin/components/Isotope/jquery.isotope.min.js"></script>
+    	<script src="../plugin/components/imagesLoaded/jquery.imagesLoaded.min.js"></script>
+    	<script src="../plugin/components/Transit/jquery.transit.min.js"></script>
+    	<script src="../plugin/components/jQuery Easing/jquery.easing.js"></script>
+    	<script src="../plugin/components/jQuery Visible/jquery.visible.min.js"></script>
+    	<script src="../plugin/components/Modernizr/modernizr.custom.min.js"></script>
+    	<script src="../plugin/components/Magnific Popup/jquery.magnific-popup.min.js"></script>
+    	<script src="../plugin/js/jquery.mediaBoxes.dropdown.js"></script>
+    	<script src="../plugin/js/jquery.mediaBoxes.js"></script>
+
+    	<script>
+        $('#grid').mediaBoxes({
+          filterContainer: '#filter',
+          columns: 2,
           boxesToLoadStart: 6,
           boxesToLoad: 6,
           horizontalSpaceBetweenBoxes: 45,
