@@ -5,6 +5,7 @@ date:  2022-10-05 18:00:00 +0100
 day: "dom, 25 feb 2024"
 meeting: "10:00"
 category: appennino 
+distanza: 8 Km
 difficult: 2
 image: cantinflas2.jpg
 ---
