@@ -2,7 +2,7 @@
 layout: post
 title:  "Carignano, Tra due acque (PU)"
 date:  2022-10-07 08:00:00 +0100
-day: "dom, 28 gen 2024"
+day: "dom, 18 feb 2024"
 meeting: "09:30"
 category: appennino 
 difficult: 2
