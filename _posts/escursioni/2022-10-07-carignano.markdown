@@ -4,7 +4,8 @@ title:  "Carignano, Tra due acque (PU)"
 date:  2022-10-07 08:00:00 +0100
 day: "dom, 18 feb 2024"
 meeting: "09:30"
-category: appennino 
+category: appennino
+distanza: 8 Km
 difficult: 2
 image: carignano.jpg
 ---
