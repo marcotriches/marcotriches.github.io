@@ -24,6 +24,7 @@ Dove è possibile ascoltare il **prologo e la prima puntata.**
 Rientro ad anello per il Serrone e le Traverse.
 
 **Ritrovo:** Fonte Avellana (Serra Sant'Abbondio - PU) ore 10:00
+
 *Possibilità di concordare un ritrovo anticipato e di condivisione del viaggio*
 
 **Rientro:** ore 15:00 circa 
