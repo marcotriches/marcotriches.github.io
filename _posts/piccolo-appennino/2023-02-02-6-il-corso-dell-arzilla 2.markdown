@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il corso dell’Arzilla
+title: 6 Il corso dell’Arzilla
 date: 2023-01-08 18:20:48 +0100
 category: piccolo-appennino
 distanza: 14 Km
