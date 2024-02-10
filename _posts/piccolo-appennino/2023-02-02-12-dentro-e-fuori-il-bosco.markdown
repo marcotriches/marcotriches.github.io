@@ -4,7 +4,7 @@ title: Dentro e fuori il bosco
 date: 2023-01-02 18:20:48 +0100
 category: piccolo-appennino
 distanza: 6 Km
-dislivello:	± 120 m
+dislivello:	± 210 m
 durata:	2:30 ore
 difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
