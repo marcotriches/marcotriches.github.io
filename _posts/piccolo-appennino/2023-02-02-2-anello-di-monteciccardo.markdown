@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anello di Monteciccardo
+title: 2 Anello di Monteciccardo
 date: 2023-01-12 18:20:48 +0100
 category: piccolo-appennino
 distanza: 10 Km
