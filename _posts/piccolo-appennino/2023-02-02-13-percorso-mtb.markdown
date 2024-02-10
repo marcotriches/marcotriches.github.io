@@ -1,6 +1,6 @@
 ---
 layout: post
-title:13 Percorso MTB
+title: 13 Percorso MTB
 date: 2023-01-01 18:20:48 +0100
 category: piccolo-appennino
 distanza: 18 Km
