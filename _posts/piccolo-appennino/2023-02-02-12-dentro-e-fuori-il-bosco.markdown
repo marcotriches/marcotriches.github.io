@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dentro e fuori il bosco
+title: 12 Dentro e fuori il bosco
 date: 2023-01-02 18:20:48 +0100
 category: piccolo-appennino
 distanza: 6 Km
