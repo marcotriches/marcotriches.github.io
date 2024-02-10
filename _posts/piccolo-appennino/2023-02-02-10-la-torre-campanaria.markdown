@@ -7,7 +7,7 @@ distanza: 3 Km
 dislivello:	± 80 m
 durata:	1:20 ora
 difficolta:	T - Turistico
-utilizzo: Piedi, Bici
+utilizzo: Piedi, Bici, Cavallo
 image: 10latorrecampanaria.jpg
 altimeria: Altimetria10.jpg
 GPX: 10latorrecampanaria.gpx
