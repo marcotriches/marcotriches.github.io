@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Torre Campanaria
+title: 10 La Torre Campanaria
 date: 2023-01-04 18:20:48 +0100
 category: piccolo-appennino
 distanza: 3 Km
