@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Un borgo nel tempo
+title: 8 Un borgo nel tempo
 date: 2023-01-06 18:20:48 +0100
 category: piccolo-appennino
 distanza: 6 Km
