@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dentro e fuori le mura
+title: 1 Dentro e fuori le mura
 date: 2023-01-13 18:20:48 +0100
 category: piccolo-appennino
 distanza: 4,5 Km
