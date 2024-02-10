@@ -4,9 +4,9 @@ title: Il promontorio
 date: 2023-01-11 18:20:48 +0100
 category: piccolo-appennino
 distanza: 4,5 Km
-dislivello:	± 120 m
+dislivello:	± 150 m
 durata:	2:15 ore
-difficolta:	T - Turistico
+difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 3ilpromontorio.jpg
 altimeria: Altimetria3.jpg
