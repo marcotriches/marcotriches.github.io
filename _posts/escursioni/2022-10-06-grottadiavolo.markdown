@@ -3,7 +3,7 @@ layout: post
 title:  "Grotta del Diavolo (PU)"
 date:  2022-10-06 09:00:00 +0100
 day: "ven, 23 feb 2024"
-meeting: "15:00"
+meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
@@ -21,9 +21,9 @@ Esploreremo l'ambiente circostante la grotta con una vera e propria avventura ca
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 15:00
+**Ritrovo:** Villa Ugolini (Pesaro) ore 15:30
 
-**Rientro:** ore 17:00 
+**Rientro:** ore 17:30 
 
 **Difficoltà:** Facilissimo 
 
