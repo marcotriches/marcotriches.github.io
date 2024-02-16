@@ -6,7 +6,7 @@ day: "sab, 2 mar 2023"
 meeting: "09:00"
 category: dolomiti 
 difficult: 3
-image: bds_ol.jpg
+image: oltempio.jpg
 ---
 
 ## Storie e luoghi storici dei monti di Longarone
