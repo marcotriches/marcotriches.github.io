@@ -2,11 +2,11 @@
 layout: post
 title:  "Gravedèl Un bosco raro (BL)"
 date:  2022-10-03 11:00:00 +0100
-day: "dom, 2 mar 2023"
+day: "dom, 3 mar 2023"
 meeting: "08:00"
 category: dolomiti 
 difficult: 3
-image: oltempio.jpg
+image: gravedelbosco.jpg
 ---
 
 ## Viaggio a Casèra Gravedèl e il bosco di Costa Fiorìn
