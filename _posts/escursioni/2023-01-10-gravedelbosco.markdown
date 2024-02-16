@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Gravedèl e un bosco unico (BL)"
+title:  "Gravedèl e un bosco raro (BL)"
 date:  2023-01-10 11:00:00 +0100
 day: "dom, 03 set 2023"
 meeting: "07:00"
 category: dolomiti 
 difficult: 3
-image: gravedel.jpg
+image: gravedelbosco.jpg
 ---
 
-## Viaggio a Casera Gravedel
+## Viaggio a Casera Gravedel e nel bosco di Costa Fiorìn
 # Parco Nazionale Dolomiti Bellunesi
 
 Escursione mattutina in una delle aree boschive di maggior pregio del Parco Nazionale Dolomiti Bellunesi: la Valle del Grisol e i suoi valichi. Percorso che prevede la risalita del sentiero CAI 529 per le selle di Gravedel e l'omonima casera.
