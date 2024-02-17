@@ -18,7 +18,7 @@ Un luogo storico della città di Pesaro apre le porte e ci consente di ascoltare
 In collaborazione con l'**ornitologo Guido Premuda** avremo l'occasione di farci trasportare nel tempo, nei fatti storici della Villa, esplorarne le sue curiosità e vicende, contemplarne la natura degli spazi esterni.
 
 Il giardino della Villa si offrirà anche come ottimo spazio di conoscenza dei passeriformi, delle casette-nido, della vegetazione e del laghetto delle ninfee.
-Durante la visita avremo anche l'occasione di dedicarci uno spazio di contemplazione e racconto sulle sponde del laghetto.
+Durante la visita avremo anche l'occasione di dedicarci uno spazio di contemplazione e racconto sulle sponde della vasca.
 
 **Ecco gli elementi di questo appuntamento:**
 
