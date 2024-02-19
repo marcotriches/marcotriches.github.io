@@ -5,6 +5,7 @@ date:  2022-10-01 18:00:00 +0100
 day: "dom, 10 mar 2024"
 meeting: "15:00"
 category: appennino 
+distanza: 1 Km
 difficult: 1
 image: premudavilla.jpg
 ---
