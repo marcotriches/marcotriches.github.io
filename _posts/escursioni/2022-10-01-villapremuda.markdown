@@ -6,7 +6,7 @@ day: "dom, 10 mar 2024"
 meeting: "15:00"
 category: appennino 
 difficult: 1
-image: villapremuda.jpg
+image: premudavilla.jpg
 ---
 
 ## Occasione storico naturalistica nel Porto di Pesaro
