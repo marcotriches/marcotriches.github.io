@@ -3,7 +3,7 @@ layout: post
 title:  "Pontevecchio (PU)"
 date:  2022-10-01 22:00:00 +0100
 day: "dom, 10 mar 2024"
-meeting: "09:30"
+meeting: "10:00"
 category: appennino
 distanza: 7 Km
 difficult: 1
@@ -27,7 +27,7 @@ Per maggiori informazioni sul Parco delle Muse e delle Ninfe: https://blog.almal
 
 **L'itinerario:** Con partenza dalla frazione di Talacchio percorso lungo stradine e campi lungo il fiume Foglia in piano fino in località Pontevecchio. **Possibilità di interrompere qui il percorso con rientro in auto**, oppure semplice cammino di rientro fino a Talacchio.
 
-**Ritrovo:** Talacchio (Vallefoglia - PU) ore 09:30
+**Ritrovo:** Talacchio (Vallefoglia - PU) ore 10:00
 
 **Rientro:** ore 14:00 circa 
 
