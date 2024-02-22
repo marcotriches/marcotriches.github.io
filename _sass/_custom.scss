@@ -359,12 +359,12 @@ $animationSpeed: 40s;
 	
 	&::before,
 	&::after {
-		@include white-gradient;
-		content: "";
-		height: 30vh;
-		position: absolute;
-		width: 100px;
-		z-index: 2;
+		//@include white-gradient;
+		//content: "";
+		//height: 30vh;
+		//position: absolute;
+		//width: 100px;
+		//z-index: 2;
 	}
 	
 	&::after {
@@ -994,6 +994,30 @@ ul.gallery{
 
 
   // POST
+
+
+.post-list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    align-content: center;
+    h3{
+        margin-top:0.4rem; 
+        font-size: 0.9rem;
+    }
+
+    img{
+        border-radius:5px;
+    }
+}
+
+.post-single{
+    width:23%;
+    padding:1%;
+    margin: 0px;
+    
+}
 
 .post{
     margin-bottom: 3rem;

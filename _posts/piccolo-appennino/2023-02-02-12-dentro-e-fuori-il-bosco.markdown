@@ -10,6 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 12dentroefuoribosco.jpg
 altimeria: Altimetria12.jpg
+mappa: mappa12.jpg
 GPX: 12dentroefuoribosco.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1hMJiowDDUoD4tVLuZdtOnidZFC_ouc8&ehbc=2E312F
 ---

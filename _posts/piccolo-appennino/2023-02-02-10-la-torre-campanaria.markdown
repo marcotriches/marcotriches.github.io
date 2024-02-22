@@ -10,6 +10,7 @@ difficolta:	T - Turistico
 utilizzo: Piedi, Bici, Cavallo
 image: 10latorrecampanaria.jpg
 altimeria: Altimetria10.jpg
+mappa: mappa10.jpg
 GPX: 10latorrecampanaria.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1Io5rpzu1XATmx97b1NCLpqhQxr8Pirs&ehbc=2E312F
 ---

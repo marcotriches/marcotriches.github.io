@@ -10,6 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Bici
 image: 13mtbtour.jpg
 altimeria: Altimetria13.jpg
+mappa: mappa13.jpg
 GPX: 13MTBtour.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1w2x8QmrEGXSRgxyyPoNA5a1WVtVYgQo&ehbc=2E312F
 ---

@@ -10,6 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 4montemarino.jpg
 altimeria: Altimetria4.jpg
+mappa: mappa4.jpg
 GPX: 4MonteMarino.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=15xH6g51kZ7J5e1TVxPFpIa8oxjImFO0&ehbc=2E312F
 ---

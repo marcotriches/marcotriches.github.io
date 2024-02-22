@@ -10,6 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi
 image: 5montesandaniele.jpg
 altimeria: Altimetria5.jpg
+mappa: mappa5.jpg
 GPX: 5montesandaniele.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1gmgEI0rLlu2xX9VEBFlYmMcNM68PKH4&ehbc=2E312F
 ---

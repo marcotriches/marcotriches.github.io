@@ -10,6 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi
 image: 2anellodimonteciccardo.jpg
 altimeria: Altimetria2.jpg
+mappa: mappa2.jpg
 GPX: 2anellodimonteciccardo.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1mTAzTvIGaNbpCg1mwQq4XHBAYkE1LMA&ehbc=2E312F
 ---

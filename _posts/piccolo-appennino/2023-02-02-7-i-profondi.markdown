@@ -10,6 +10,7 @@ difficolta:	T - Turistico
 utilizzo: Piedi, Bici, Cavallo
 image: 7iprofondi.jpg
 altimeria: Altimetria7.jpg
+mappa: mappa7.jpg
 GPX: 7iprofondi.gpx
 percorso: https://www.google.com/maps/d/u/1/embed?mid=101DHAXwrZwYE_X-VdxlXFfUh7ciEn-c&ehbc=2E312F
 ---

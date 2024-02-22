@@ -10,6 +10,7 @@ difficolta:	E - Escursionistico
 utilizzo: Piedi, Bici
 image: 3ilpromontorio.jpg
 altimeria: Altimetria3.jpg
+mappa: mappa3.jpg
 GPX: 3ilpromontorio.gpxkmz
 percorso: https://www.google.com/maps/d/u/1/embed?mid=1RraqnvCFlFkJVhBqPXE4azZWNeoxesw&ehbc=2E312F
 ---
