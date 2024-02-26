@@ -3,7 +3,7 @@ layout: post
 title:  "Visita a Villa Premuda (PU)"
 date:  2022-10-01 18:00:00 +0100
 day: "dom, 10 mar 2024"
-meeting: "15:00"
+meeting: "15:30"
 category: appennino 
 distanza: 1 Km
 difficult: 1
@@ -34,9 +34,9 @@ Durante la visita avremo anche l'occasione di dedicarci uno spazio di contemplaz
 - La vasca dei pesci rossi e delle ninfee (punto meditazione)
 
 
-**Ritrovo:** Pesaro, Porto (PU) ore 15:00
+**Ritrovo:** Pesaro, Porto (PU) ore 15:30
 
-**Rientro:** 17:30 
+**Rientro:** 18:00 
 
 **Dislivello in salita:**  0
 
