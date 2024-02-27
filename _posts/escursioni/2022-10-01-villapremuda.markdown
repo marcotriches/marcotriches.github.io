@@ -40,7 +40,7 @@ Durante la visita avremo anche l'occasione di dedicarci uno spazio di contemplaz
 
 **Dislivello in salita:**  0
 
-**Difficoltà:** Facile / E (Escursionistico)
+**Difficoltà:** Facile / T (Turistico)
 
 **Distanza:** 1 Km
 
