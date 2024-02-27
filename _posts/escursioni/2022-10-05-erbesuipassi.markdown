@@ -16,7 +16,7 @@ image: erbesuipassi.jpg
 
 Nel terreno dell'**azienda agricola Ginestreto** le erbe di campo non mancano.  Per chi desidera imparare a riconoscerle, raccoglierne un pò per la cena, questo appuntamento di Erboristeria Itinerante dedicato alle erbe di campo è l'occasione giusta.
 
-Mostreremo come distinguere le perincipali specie commestibili che si possono trovare a marzo nei nostri prati, ne impareremo nomi, caratteristiche botaniche, storie e proprietà.
+Mostreremo come distinguere le principali specie commestibili che si possono trovare a marzo nei nostri prati, ne impareremo nomi, caratteristiche botaniche, storie e proprietà.
 
 E se avete gustose ricette da condividere... Portiamo tutti un quaderno dove annotarle!
 
@@ -26,7 +26,7 @@ E se avete gustose ricette da condividere... Portiamo tutti un quaderno dove ann
 
 **Rientro:** ore 14:00 circa 
 
-**Difficoltà:** Facile / E (Escursionistico)
+**Difficoltà:** Facile / T (Turistico)
 
 **Dislivello in salita:**  50 m. circa
 
