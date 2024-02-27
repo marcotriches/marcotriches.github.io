@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CLe erbe sui tuoi passi (PU)"
+title:  "Le erbe sui tuoi passi (PU)"
 date:  2022-10-05 08:00:00 +0100
 day: "dom, 03 mar 2024"
 meeting: "09:30"
