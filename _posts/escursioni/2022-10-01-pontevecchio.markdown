@@ -22,10 +22,15 @@ Avremo l'occasione di conoscere la nostra campagna fluviale, cercandone le tracc
 
 Percorso semplice adatto a tutte le età.
 
-Per maggiori informazioni sul Parco delle Muse e delle Ninfe: https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/
+Per maggiori informazioni sul Parco delle Muse e delle Ninfe: 
 
+---
+link: https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/
+---
 
-**L'itinerario:** Con partenza dalla frazione di Talacchio percorso lungo stradine e campi lungo il fiume Foglia in piano fino in località Pontevecchio. **Possibilità di interrompere qui il percorso con rientro in auto**, oppure semplice cammino di rientro fino a Talacchio.
+**L'itinerario:** Con partenza dalla frazione di Talacchio percorso lungo stradine e campi lungo il fiume Foglia in piano.
+
+**Trasferimento in auto al Museo della mezzadria di Pontevecchio**
 
 **Ritrovo:** Talacchio (Vallefoglia - PU) ore 10:00
 
