@@ -22,9 +22,9 @@ Avremo l'occasione di conoscere la nostra campagna fluviale, cercandone le tracc
 
 Percorso semplice adatto a tutte le età.
 
-Per maggiori informazioni sul Parco delle Muse e delle Ninfe: 
+Per maggiori informazioni sul Parco delle Muse e delle Ninfe: [https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/](https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/)
 
-https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/
+
 
 **L'itinerario:** Con partenza dalla frazione di Talacchio percorso lungo stradine e campi lungo il fiume Foglia in piano.
 
