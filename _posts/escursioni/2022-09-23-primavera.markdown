@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La nostra Primavera (PU)"
-date:  2022-09-21 09:00:00 +0100
+date:  2022-09-23 19:00:00 +0100
 day: "ven, 22 mar 2024"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
