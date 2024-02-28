@@ -22,8 +22,9 @@ Avremo l'occasione di conoscere la nostra campagna fluviale, cercandone le tracc
 
 Percorso semplice adatto a tutte le età.
 
-Per maggiori informazioni sul Parco delle Muse e delle Ninfe: [https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/](https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/)
+Per maggiori informazioni sul Parco delle Muse e delle Ninfe: 
 
+[https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/](https://blog.almaloci.com/parco-delle-muse-e-delle-ninfe-itinerari-nelle-terre-di-vallefoglia/)
 
 
 **L'itinerario:** Con partenza dalla frazione di Talacchio percorso lungo stradine e campi lungo il fiume Foglia in piano.
@@ -32,15 +33,16 @@ Per maggiori informazioni sul Parco delle Muse e delle Ninfe: [https://blog.alma
 
 **Ritrovo:** Talacchio (Vallefoglia - PU) ore 10:00
 
-**Rientro:** ore 14:00 circa 
+**Rientro:** ore 13:00 circa 
+*Al termine, per chi lo desiderasse possibilità di fermarsi per il pranzo al sacco*
 
 **Difficoltà:** Facile / E (Escursionistico)
 
-**Dislivello in salita:**  100 m. circa / *In caso di viaggio di sola andata: 0m*
+**Dislivello in salita:**  50 m. circa
 
-**Distanza:** 7 Km / *In caso di viaggio di sola andata: 3,5 Km*
+**Distanza:** 5 Km 
 
-**Durata:** 4 ore circa (incluse soste)
+**Durata:** 3 ore circa (incluse soste e visita al museo)
 
 **Costo:** 15€ Adulti, 10€ Minori
 
