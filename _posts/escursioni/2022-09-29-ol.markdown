@@ -4,7 +4,7 @@ title:  "L'Ol: tempio della nostra montagna (BL)"
 date:  2022-90-29 11:00:00 +0100
 day: "sab, 16 mar 2023"
 meeting: "09:00"
-category: dolomiti 
+category: dolomiti
 distanza: 8 Km
 difficult: 2
 image: oltempiomonti.jpg
