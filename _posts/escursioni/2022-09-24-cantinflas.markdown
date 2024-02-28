@@ -1,52 +1,50 @@
 ---
 layout: post
-title:  "Cantinflas, Monte Val Canale (PU)"
-date:  2022-10-05 18:00:00 +0100
-day: "dom, 25 feb 2024"
+title:  "Cantinflas, Monte Petrano (PU)"
+date:  2022-09-24 18:00:00 +0100
+day: "dom, 30 mar 2024"
 meeting: "10:00"
 category: appennino 
-distanza: 8 Km
+distanza: 12 Km
 difficult: 2
-image: cantinflas2.jpg
+image: cantinflaspetrano.jpg
 ---
 
 ## Radio/Escursioni
 
-# "Una valle è un rifugio"
+# "Una montagna via radio"
 
 Viaggio a tappe nell'Appennino accompagnato dal racconto **"Cantinflas"** Un contadino dell'Appennino.
-Tappa interamente dedicata al **monastero di Fonte Avellana** e all'affascinante e solitaria **Val Canale**
+Tappa interamente dedicata al **Monte Petrano** e al suo versante meridionale
 Avremo la possibilità di camminare nei luoghi in cui accadono i fatti di questa storia, a metà tra l'immaginario e il reale.
 L'escursione fa parte di un ciclo di **Radio/Escursioni**, ovvero l'esperimento sonoro di registrare i suoni ambientali e il racconto per la produzione di un *podcast*.
 Tutte le puntate del percorso potranno essere ascoltate al link: http://www.balzadelsole.com/radio.html
-Dove è possibile ascoltare il **prologo e la prima puntata.**
+Dove è possibile ascoltare il **le prime puntate.**
 
-**L'itinerario:** Con partenza dal monastero di Fonte Avellana (quota 650 m), salita al passo della Forchetta (780 m) e imbocco del sentiero Cai 273 per le Cimate di Rave e il Monte Val Canale (quota 950 m).
-Rientro ad anello per il Serrone e le Traverse.
+**L'itinerario:** Con partenza dal paese di Moria (Cagli) risalita del Fosso della Rava con il Sentiero Italia CAI 200 a superare il rilievo della Roccaccia e la Rocchetta, cima del Monte Petrano. Rientro per sentiero CAI 274 e carrareccia.
 
-**Ritrovo:** Fonte Avellana (Serra Sant'Abbondio - PU) ore 10:00
+**Ritrovo:** Moria (Cagli - PU) ore 10:00
 
 *Possibilità di concordare un ritrovo anticipato e di condivisione del viaggio*
 
-**Rientro:** ore 15:00 circa 
+**Rientro:** ore 16:00 circa 
 
 **Difficoltà:** Medio / E (Escursionistico)
 
-**Dislivello in salita:**  450 m. circa
+**Dislivello in salita:**  600 m. circa
 
-**Distanza:** 8 Km
+**Distanza:** 12 Km
 
-**Durata:** 5 ore circa
+**Durata:** 6 ore circa (soste incluse)
 
 **Costo:** 15€ Adulti, 10€ Minori
 
 *Abbonamenti Balza del Sole:* 5 escursioni / 65€
 
-**Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti in auto, bastoncini. 
+**Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti in auto, bastoncini (chi li usa). 
 
 **Note sull'escursione:** L'uscita verrà confermata al raggiungimento di un minimo di 5 partecipanti. La guida si riserva la possibilità di variare o annullare l'itinerario in base alle condizioni meteo o del terreno.
 
-*In caso di copertura nevosa può rendersi necessario l'utilizzo delle ciaspole.*
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
