@@ -35,11 +35,13 @@ Per maggiori informazioni sul Parco delle Muse e delle Ninfe:
 
 **Rientro dalla passeggiata:** ore 12:00 circa 
 
-**Trasferimento e visita al museo della Mezzadria di Pontevecchio:**
+**Trasferimento e visita al museo della Mezzadria di Pontevecchio**
+
 **Termine previsto:** 13:30
+
 *Al termine, per chi lo desiderasse possibilità di fermarsi per il pranzo al sacco*
 
-**Difficoltà:** Facile / E (Escursionistico)
+**Difficoltà:** Facile / T (Turistico)
 
 **Dislivello in salita:**  50 m. circa
 
