@@ -29,8 +29,6 @@ Per maggiori informazioni sul Parco delle Muse e delle Ninfe:
 
 **L'itinerario:** Con partenza dalla frazione di Talacchio percorso lungo stradine e campi lungo il fiume Foglia in piano.
 
-**Trasferimento in auto al Museo della mezzadria di Pontevecchio**
-
 **Ritrovo:** Talacchio (Vallefoglia - PU) ore 09:30
 
 **Rientro dalla passeggiata:** ore 12:00 circa 
