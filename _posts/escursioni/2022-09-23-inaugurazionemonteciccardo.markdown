@@ -5,6 +5,7 @@ date:  2022-09-23 18:00:00 +0100
 day: "dom, 24 mar 2024"
 meeting: "10:00"
 category: appennino 
+distanza: 6 Km
 difficult: 1
 image: inaugurazionemonteciccardo.jpg
 ---
