@@ -38,7 +38,7 @@ Per chi lo desiderasse è possibile prenotare un posto a tavola per pranzo press
 
 **Durata:** 4 ore circa
 
-**Costo:** 15€ Adulti, 10€ Minori
+**Costo:** 12€ Adulti, 8€ Minori
 
 
 **Portare:** Scarponi, vestiario a strati, Kway, mantella antipiuggia, acqua (1 litro), merenda al sacco + frutta secca o snack, cappello, torcia, cambio vestiti in auto, bastoncini (chi li usa), binocolo. 
