@@ -7,7 +7,7 @@ meeting: "14:30"
 category: appennino 
 distanza: 10 Km
 difficult: 2
-image: .jpg
+image: piccoloappennino24marzo.jpg
 ---
 
 ## Viaggio nel Piccolo Appennino
