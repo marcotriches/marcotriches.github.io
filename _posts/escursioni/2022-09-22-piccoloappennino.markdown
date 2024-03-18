@@ -24,9 +24,9 @@ Corsi d'acqua, boschi di latifoglie, campi coltivati e incolti. La macchia. Siam
 
 [https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/](https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/)
 
-Per chi lo desiderasse è possibile prenotare un posto a tavola per pranzo presso l'**Agriturismo Nobili**. Avvisare le guide!
+Per chi lo desiderasse è possibile prenotare un posto a tavola per pranzo. Avvisare le guide!
 
-**Ritrovo:** Agriturismo Nobili (Monteciccardo, Pesaro - PU) ore 14:30
+**Ritrovo:** Villa Ugolini (Monteciccardo, Pesaro - PU) ore 14:30
 
 **Rientro:** ore 18:00 circa 
 
