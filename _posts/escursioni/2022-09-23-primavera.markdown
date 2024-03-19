@@ -7,7 +7,7 @@ meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
 difficult: 1
-image: primavera.jpg
+image: primaverabosco.jpg
 ---
 
 ## Nel mio paese c'è un bosco
