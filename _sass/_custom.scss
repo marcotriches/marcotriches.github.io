@@ -410,7 +410,7 @@ $animationSpeed: 40s;
   }
   h1 {
     font-family: 'Prata', serif;
-    font-size: 4rem;
+    font-size: $big-title;
   }
 }
 @media (max-width: 700px) {
@@ -456,8 +456,8 @@ $animationSpeed: 40s;
     margin-bottom: 3rem;
 
     h2{
-        font-size: 4rem;
-        line-height: 3.8rem;
+        font-size: $big-title;
+        line-height: $big-title-line;
     }
 
     img{
@@ -489,6 +489,55 @@ $animationSpeed: 40s;
         text-decoration: underline;
     }
 }
+
+
+@media (max-width: 850px) {
+    .piccolo-appennino-wrapper{
+        margin: 0.4rem;
+        display:block;
+        width: auto;
+        border-radius: 40px;
+    
+        h2{
+            font-size: 2rem;
+            line-height: 1.8rem;
+        }
+    
+        img{
+            margin-left: 0.4rem;
+            margin-right: 0.4rem;
+            margin-top:2rem;
+            max-width: 95%;
+            width: 95%;
+
+        }
+    
+        .appennino-info{
+            width: auto;
+            padding: 0.9rem;
+        }
+    }
+    
+    .appennino-button{
+        border-color:white;
+        width: 190px;
+        border-style: solid;
+        border-radius: 5px;
+        padding: 0.4rem 0.9rem;
+        text-align: center;
+        margin-top: 25px;
+        margin-bottom: 50px;
+        
+        a{
+            color:white;
+        }
+        a:hover{
+            text-decoration: underline;
+        }
+    }
+}
+
+
 
 //escursioni description
 
