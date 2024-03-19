@@ -1157,6 +1157,18 @@ ul.gallery{
 
 @media (max-width: 700px) {
 
+    .post-list{
+        justify-content: space-between;
+        align-content: center;
+    }
+
+    .post-single{
+        width:45%;
+        padding:0.5%;
+        margin: 0px;
+        
+    }
+
     .post-info{
         /*position: -webkit-sticky;  Safari
         position: sticky;
