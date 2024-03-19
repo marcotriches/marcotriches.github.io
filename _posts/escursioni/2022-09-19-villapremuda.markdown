@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visita a Villa Premuda (PU)"
-date:  2022-1-01 18:00:00 +0100
+date:  2022-09-19 18:00:00 +0100
 day: "lun, 01 apr 2024"
 meeting: "15:00"
 category: appennino 
