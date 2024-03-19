@@ -35,6 +35,10 @@ a:visited {
     text-align: center;
 }
 
+.centered{
+    text-align: center;
+}
+
 .left{
     text-align: left;
 }
@@ -441,7 +445,50 @@ $animationSpeed: 40s;
     }
 }
 
+.piccolo-appennino-wrapper{
+    background-color: $color-primary;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 70%;
+    border-radius: 20px;
+    justify-content: center;
+    margin-bottom: 3rem;
 
+    h2{
+        font-size: 4rem;
+        line-height: 3.8rem;
+    }
+
+    img{
+        max-width: 300px;
+        margin-top: 2rem;
+        align-items:flex-end;
+    }
+
+    .appennino-info{
+        width: 50%;
+        align-self: center;
+        padding: 3rem;
+    }
+}
+
+.appennino-button{
+    border-color:white;
+    width: 190px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 0.4rem 0.9rem;
+    text-align: center;
+    margin-top: 25px;
+    
+    a{
+        color:white;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+}
 
 //escursioni description
 

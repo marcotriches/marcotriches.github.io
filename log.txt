@@ -1,0 +1,48 @@
+[000000] codo_init
+[000000]   platform: Max OS X
+[000000]   codo_system_init
+[000687]   Compiled against SDL version: 2.0.12
+[000687]   Linked against SDL version:   2.0.12
+[000687]   Current video driver: cocoa
+[000687]   codo_reset_timer
+[000688]   codo_gui_init
+[000688]   codo_keys_init
+[000688]   codo_text_init
+[000688]   codo_video_init
+[000688]   codo_mouse_init
+[000688]   codo_joystick_init
+[000689]   searching for joysticks
+[000689]     found 0 joysticks
+[000689]   ok
+[000689] ok
+[000700] codo_load_pod: /Applications/PICO-8.app/Contents/MacOS/pico8.dat ok 
+[000703] codo_set_screen 128 128 8 100
+[000703]  window size: 640 540
+[000919]   setting filter to nearest (screen_mode 0  back page width: 128)
+  renderer metal:
+   flags: 0x0000000E ( |  | )
+   texture formats (6): ARGB8888, ABGR8888, YV12, IYUV, 0x3231564e, 0x3132564e
+   max texture size: 16384x16384
+[000932]  desktop size: 1920 1080
+[000932] ok
+[000956] codo_sound_init mix_buffer_size: 1024
+[000956] codo_sound_init
+[000956] SDL_INIT_AUDIO ok
+[001570] SDL_OpenAudio ok
+[001570]  freq:22050
+ channels:1
+[001570] Built-in audio drivers: 0 coreaudio 1 disk 2 dummy
+[001570] Current audio driver: coreaudio
+[001570] splore_init
+[001570] could not load favourites file: /Users/luca/Documents/GitHub/marcotriches.github.io/favourites.txt
+[003767] loading /Users/luca/Documents/GitHub/marcotriches.github.io/_sass/_custom.scss
+[007169] codo_exit
+[007169]   cmusic_stop
+[007169]   codo_main_exit
+[007170]   codo_config_save
+[007170]   codo_sound_exit
+[007170]   codo_video_exit
+[007175]   codo_joystick_exit
+[007175]   codo_system_exit
+[007176]   codo_items_created: 1288
+[007176] ok

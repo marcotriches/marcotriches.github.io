@@ -16,6 +16,19 @@
     </main>
 
     {% if page.layout == 'home' or page.layout == 'escursioni' %}
+    <div class="piccolo-appennino-wrapper">
+      <div>
+        <img src="/img/qr-code.png" alt="piccolo appennino preview">
+      </div>
+      <div class="appennino-info">
+        <h2><strong>Piccolo Appennino</strong> </h2> 
+        <p>I Percorsi Tematici sono una chiave d’ingresso. Itinerari semplici, più difficili, nel bosco, nelle valli o lungo stradine di campagna, consentono una visione completa di questo affascinante territorio. Tutti i percorsi sono scaricabili nel telefono da QR Code e pronti per la navigazione.</p>
+          <div class="appennino-button"><a href="/piccolo-appennino"> Esplora tutti i percorsi</a></div>
+      </div>
+    
+    </div>
+
+
       {%- include gallery.html -%}
     {% endif %}
    
