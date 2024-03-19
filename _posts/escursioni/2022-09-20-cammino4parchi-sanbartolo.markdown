@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Cammino dei 4 Parchi: San Bartolo (PU)"
-date:  2022-11-14 18:00:00 +0100
-day: "mar, 26 dic 2023"
+date:  2022-09-22 18:00:00 +0100
+day: "lun, 01 apr 2024"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: tappa1camminoparchi.jpg
+image: 4parchi1.jpg
 ---
 
 ## 4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino
@@ -15,7 +15,10 @@ image: tappa1camminoparchi.jpg
 
 **Da Santa Marina Alta a Casteldimezzo**
 
-Concludiamo il 2023 e iniziamo il 2024 con il **Cammino dei 4 Parchi**, un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per trascorrere questi giorni lontano dalla ressa, il rumore e per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
+Seconda edizione del **Cammino dei 4 Parchi**, un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
+
+Qui le informazioni sul cammino:
+[https://www.balzadelsole.com/diari/camminoparchi.html](https://www.balzadelsole.com/diari/camminoparchi.html)]
 
 **Tappa 1:** Cammino costiero lungo le falesie panoramiche del monte San Bartolo, dal borgo di Santa Marina Alta a Casteldimezzo, con passaggio lungo il balcone panoramico del noto **Tetto del Mondo**.
 Uno dei percorsi più affascinanti della costa del Mare Adriatico, in un mosaico di paesaggi e habitat protetti, che vanno dalle zone coltivate, ai calanchi, gli incolti e la macchia, fino ai piccoli boschetti. Territori ricchi di specie floristiche e animali.
