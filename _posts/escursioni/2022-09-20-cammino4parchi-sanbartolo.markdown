@@ -3,7 +3,7 @@ layout: post
 title:  "Cammino dei 4 Parchi: San Bartolo (PU)"
 date:  2022-09-20 18:00:00 +0100
 day: "lun, 01 apr 2024"
-meeting: "10:00"
+meeting: "09:30"
 category: appennino 
 distanza: 10 Km
 difficult: 3
@@ -36,7 +36,7 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **Ritrovo:** Santa Marina Alta (Pesaro - PU) ore 10:00
 
-**Rientro:** 15:00 
+**Rientro:** 14:30 
 
 **Difficoltà:** Medio / E (Escursionistico)
 
