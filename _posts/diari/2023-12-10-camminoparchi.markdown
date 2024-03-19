@@ -3,7 +3,7 @@ layout: post
 title:  "Cammino dei 4 Parchi"
 date:   2023-12-10 18:20:48 +0100
 category: diari
-image: bds-FINEDIC-camminoparchi.jpg
+image: 4parchi.jpg
 ---
 
 **4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino**
