@@ -9,15 +9,13 @@ image: bds-FINEDIC-camminoparchi.jpg
 **4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino**
 **Parco San Bartolo, Gola del Furlo, Bosco di Tecchie, Sasso Simone e Simoncello**
 
-Concludiamo il 2023 e iniziamo il 2024 con il Cammino dei 4 Parchi, un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per trascorrere questi giorni lontano dalla ressa, il rumore e per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
+Il Cammino dei 4 Parchi è un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
 
 Dalle falesie del San Bartolo, alle balze del Furlo, il silenzio della faggeta di Tecchie e i panorami del Sasso Simone e Simoncello: saranno questi gli ambienti che ci circonderanno in un viaggio escursionistico davvero unico.
 
-Ogni partecipante potrà dotarsi del Passaporto del cammino, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
+Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
 
 Nel corso delle escursioni ci soffermeremo su aspetti naturalistici, racconti dei luoghi e tecniche dell’escursionismo montano.
-
-A breve tutte le informazioni sulle singole escursioni.
 
 **Gli itinerari:** Gli itinerari del Cammino dei 4 Parchi sono escursionistici: prevedono una media preparazione e attitudine al cammino così come all’ambiente montano. Sono comunque percorsi adatti a quasi tutti, con ritmo lento e molto spazio per le osservazioni e il riposo.
 
@@ -29,9 +27,9 @@ A breve tutte le informazioni sulle singole escursioni.
 
 **Durata media:** 6 ore circa
 
-**Costo 4 Parchi + Passaporto del cammino: 60€**
+**Costo 4 Parchi + Passaporto del cammino:** 60€
 
-**Costo giornata singola:** 18€
+**Costo giornata singola + Passaporto del cammino:** 18€
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368) Guida Naturalistica delle Marche
 
