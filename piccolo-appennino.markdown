@@ -8,5 +8,9 @@ Vi ricordiamo in ogni caso di mantenere i sensi all’erta, osservare le stradin
 
 Nota tecnica: I tempi indicati nei percorsi sono basati su un passo lento, cauto, contemplativo.
 
+Ascolta qui il Podcast del Piccolo Appennino: [https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/](https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/)
+
+**NOTIZIE SULLA RETE:**
 **Il sentiero CAI 585 da località Fosso del Gatto a Monte Croci non è al momento percorribile.**
 **Anche il percorso 2 Anello di Monteciccardo, che transita in quel punto, è chiuso. A breve l'apertura!**
+
