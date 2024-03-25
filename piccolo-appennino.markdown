@@ -10,7 +10,13 @@ Nota tecnica: I tempi indicati nei percorsi sono basati su un passo lento, cauto
 
 Ascolta qui il Podcast del Piccolo Appennino: [https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/](https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/)
 
-**NOTIZIE SULLA RETE:**
+**NOTIZIE DALLA RETE:**
+
+**Importante!** La segnaletica orizzontale dei sentieri (la verniciatura bianco/rossa CAI) è in fase di costruzione. Per questo motivo, in questa fase iniziale, invitiamo a frequentare la rete attraverso i **Percorsi tematici** (dotati di traccia gpx) riportati in questa pagina!
+Presto daremo il via libera ufficiale per tutti i sentieri!
+
 **Il sentiero CAI 585 da località Fosso del Gatto a Monte Croci non è al momento percorribile.**
 **Anche il percorso 2 Anello di Monteciccardo, che transita in quel punto, è chiuso. A breve l'apertura!**
+
+**Per tutte le informazioni: info@balzadelsole.com**
 
