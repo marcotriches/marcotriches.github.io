@@ -7,7 +7,7 @@ meeting: "15:00"
 category: appennino 
 distanza: 1 Km
 difficult: 1
-image: premudavilla.jpg
+image: premudavilla1.jpg
 ---
 
 ## Occasione storico naturalistica nel Porto di Pesaro
