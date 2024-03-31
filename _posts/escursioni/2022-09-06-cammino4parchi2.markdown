@@ -4,7 +4,8 @@ title:  "Cammino dei 4 Parchi: Gola del Furlo (PU)"
 date:  2022-09-06 18:00:00 +0100
 day: "dom, 28 apr 2024"
 meeting: "10:00"
-category: appennino 
+category: appennino
+distanza: 10 Km
 difficult: 3
 image: 4parchi2.jpg
 ---
