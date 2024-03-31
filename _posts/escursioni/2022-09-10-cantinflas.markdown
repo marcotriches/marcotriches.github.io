@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Cantinflas, Monte Petrano (PU)"
-date:  2022-09-21 18:00:00 +0100
-day: "sab, 30 mar 2024"
+date:  2022-09-10 18:00:00 +0100
+day: "dom, 14 apr 2024"
 meeting: "10:00"
 category: appennino 
 distanza: 12 Km
 difficult: 2
-image: cantinflaspetrano.jpg
+image: cantinflascagli.jpg
 ---
 
 ## Radio/Escursioni
