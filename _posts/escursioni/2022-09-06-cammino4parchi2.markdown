@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Cammino dei 4 Parchi: Gola del Furlo (PU)"
-date:  2022-11-14 18:00:00 +0100
-day: "mar, 26 dic 2023"
+date:  2022-09-06 18:00:00 +0100
+day: "dom, 28 apr 2024"
 meeting: "10:00"
 category: appennino 
 difficult: 3
-image: tappa2camminoparchi.jpg
+image: 4parchi2.jpg
 ---
 
 ## 4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino
@@ -15,7 +15,7 @@ image: tappa2camminoparchi.jpg
 
 **Giro ad anello del Monte Pietralata**
 
-Concludiamo il 2023 e iniziamo il 2024 con il **Cammino dei 4 Parchi**, un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per trascorrere questi giorni lontano dalla ressa, il rumore e per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
+Seconda edizione del **Cammino dei 4 Parchi**, un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
 
 **Tappa 2:** Cammino collinare/appenninico dalle pendici ai prati sommitali del **Monte Pietralata**.
 Si tratta di uno degli itinerari classici che si sviluppano al di sopra della Gola del Furlo, con ampi panorami verso il mare e verso l'Appennino, oltre a godere di suggestivi scorci sulla sottostante gola scavata nel calcare dal torrente Candigliano.
@@ -27,6 +27,8 @@ Quella del Furlo è la **seconda tappa** del nostro cammino, cominciato sulla ar
 Durante il cammino suggestioni e racconti tratti da **Luca Giunti, "Le conseguenze del ritorno"**, interessante lavoro di sintesi sulle conoscenze scientifiche sul lupo e sulle conseguenze del suo naturale ritorno nei territori.
 
 Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
+
+*Possibilità di ridurre l'itinerario con un ritrovo posticipato, da conocordare con la guida*
 
 **l'itinerario:** Con partenza dalla località Villa Furlo di Pagino (quota 160m) risalita del sentiero CAI 440 del versante Orientale del Monte Pietralata. Con percorso escursionistico nel bosco e nella macchia arrivo alle terrazze panoramiche e possibilità di salita in ima al monte con sentiero CAI 446. 
 
@@ -44,9 +46,9 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **Costo 4 Parchi + Passaporto del cammino:** 60€
 
-**Costo giornata singola:** 18€
+**Costo giornata singola + Passaporto del cammino:** 18€
 
-**Portare:** Scarponi, vestiario a strati, Kway, guscio o giacca, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti e scarpe in auto, bastoncini e binocolo (per chi ne facesse uso). 
+**Portare:** Scarponi, vestiario a strati, Kway, guscio o giacca, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello,torcia, cambio vestiti e scarpe in auto, bastoncini e binocolo (per chi ne facesse uso). 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
