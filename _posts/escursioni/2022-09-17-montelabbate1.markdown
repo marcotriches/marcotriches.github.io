@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inaugurazione_ Il Percorso degli Abati (PU)"
+title:  "Inaugurazione Il Percorso degli Abati (PU)"
 date:  2022-09-17 18:00:00 +0100
 day: "sab, 06 apr 2024"
 meeting: "15:00"
