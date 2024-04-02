@@ -23,6 +23,7 @@ Il tutto nel magico scenario del Parco Naturale del Monte San Bartolo.
 
 Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno conosciuti e osservarne alcune delle caratteristiche ecologiche principali.
 
+
 **Ecco gli elementi di questo appuntamento:**
 
 - Cenni sul comprensorio protetto del Parco del San Bartolo
@@ -32,6 +33,7 @@ Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno
 - Osservazione degli uccelli migratori e stanziali
   
 - Note per il riconoscimento delle specie di uccelli rapaci
+
 
 **Ritrovo:** Fiorenzuola di Focara, Pesaro (PU) ore 09:00
 
