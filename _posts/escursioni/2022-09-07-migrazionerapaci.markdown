@@ -30,7 +30,6 @@ Sarà questa un'ottima occasione per passeggiare con calma in luoghi più o meno
 - Osservazione degli uccelli migratori e stanziali
   
 - Note per il riconoscimento delle specie di uccelli rapaci
-- 
 
 **Ritrovo:** Fiorenzuola di Focara, Pesaro (PU) ore 09:00
 
