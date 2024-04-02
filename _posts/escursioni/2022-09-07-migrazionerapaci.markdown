@@ -14,7 +14,9 @@ image: premudamigrazione.jpg
 # Un percorso naturalistico con l'ornitologo Guido Premuda
 
 Chi sono gli uccelli  he migrano nei nostri cieli primaverili? Dove vanno? Cosa fanno?
+
 E quelli che restano come si distinguono?
+
 Risponderemo a queste e ad altre domande nel corso della nostra passeggiata con **birdwatching** in compagnia di **Guido Premuda, ornitologo**.
 
 Il tutto nel magico scenario del Parco Naturale del Monte San Bartolo.
