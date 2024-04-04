@@ -10,11 +10,11 @@ difficult: 1
 image: premudamigrazione.jpg
 ---
 
-## Birdwatching nel Paco Naturale del Monte San Bartolo, Pesaro
+## Birdwatching nel Parco Naturale del Monte San Bartolo, Pesaro
 
 # Un percorso naturalistico con l'ornitologo Guido Premuda
 
-Chi sono gli uccelli  he migrano nei nostri cieli primaverili? Dove vanno? Cosa fanno?
+Chi sono gli uccelli  che migrano nei nostri cieli primaverili? Dove vanno? Cosa fanno?
 
 E quelli che restano come si distinguono?
 
