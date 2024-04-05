@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Le nuove foglioline (PU)"
-date:  2022-09-18 19:00:00 +0100
-day: "ven, 05 apr 2024"
+date:  2022-09-14 19:00:00 +0100
+day: "ven, 12 apr 2024"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
 difficult: 1
-image: nelmiopaese-foglioline.jpg
+image: nelmiopaese-foglioline1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
