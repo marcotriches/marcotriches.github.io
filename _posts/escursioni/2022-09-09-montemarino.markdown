@@ -1,18 +1,20 @@
 ---
 layout: post
 title:  "Montemarino Piccolo Appennino (PU)"
-date:  2022-09-16 18:00:00 +0100
+date:  2022-09-09 18:00:00 +0100
 day: "dom, 07 apr 2024"
 meeting: "09:00"
 category: appennino 
 distanza: 7,5 Km
 difficult: 2
-image: montemarino.jpg
+image: montemarino1.jpg
 ---
 
 ## Nei Percorsi tematici del Piccolo Appennino
 
 # Monteciccardo Monte della Mattera, valli e colli del Piccolo Appennino
+
+**Con possibilità di una merenda contadina al termine dell'escursione!**
 
 Eccoci alla scoperta dei **nuovi percorsi tematici** della rete sentieristica di Monteciccardo, ovvero il **Piccolo Appennino**.
 
@@ -25,6 +27,8 @@ Per tutte le informazioni sul percorso:  [https://www.balzadelsole.com/piccolo-a
 
 [https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/](https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/)
 
+
+**Merenda contadina:** La passeggiata termina con un momento di ristoro e di degustazione di alcuni dei prodotti tipici del territorio. A breve tutte le informazioni! Per dettagli chiedere alla guida.
 
 **Ritrovo:** Villa Ugolini (Monteciccardo, Pesaro - PU) ore 09:00
 
