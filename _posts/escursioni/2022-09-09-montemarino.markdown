@@ -2,7 +2,7 @@
 layout: post
 title:  "Montemarino Piccolo Appennino (PU)"
 date:  2022-09-09 18:00:00 +0100
-day: "dom, 07 apr 2024"
+day: "sab, 20 apr 2024"
 meeting: "09:00"
 category: appennino 
 distanza: 7,5 Km
