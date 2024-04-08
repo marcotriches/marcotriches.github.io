@@ -3,7 +3,7 @@ layout: post
 title:  "Montemarino Piccolo Appennino (PU)"
 date:  2022-09-09 18:00:00 +0100
 day: "sab, 20 apr 2024"
-meeting: "09:00"
+meeting: "15:00"
 category: appennino 
 distanza: 7,5 Km
 difficult: 2
@@ -30,9 +30,9 @@ Per tutte le informazioni sul percorso:  [https://www.balzadelsole.com/piccolo-a
 
 **Merenda contadina:** La passeggiata termina con un momento di ristoro e di degustazione di alcuni dei prodotti tipici del territorio. A breve tutte le informazioni! Per dettagli chiedere alla guida.
 
-**Ritrovo:** Villa Ugolini (Monteciccardo, Pesaro - PU) ore 09:00
+**Ritrovo:** Villa Ugolini (Monteciccardo, Pesaro - PU) ore 15:00
 
-**Rientro:** ore 12:30 circa 
+**Rientro:** ore 19:00 circa 
 
 **Difficoltà:** Facile / E (Escursionistico)
 
