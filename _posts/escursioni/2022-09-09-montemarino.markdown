@@ -14,7 +14,7 @@ image: montemarino1.jpg
 
 # Monteciccardo Monte della Mattera, valli e colli del Piccolo Appennino
 
-**Con possibilità di una merenda contadina al termine dell'escursione!**
+**Con merenda contadina presso il Forno Mulino Giacomo Nobili!**
 
 Eccoci alla scoperta dei **nuovi percorsi tematici** della rete sentieristica di Monteciccardo, ovvero il **Piccolo Appennino**.
 
@@ -28,7 +28,7 @@ Per tutte le informazioni sul percorso:  [https://www.balzadelsole.com/piccolo-a
 [https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/](https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/)
 
 
-**Merenda contadina:** La passeggiata termina con un momento di ristoro e di degustazione di alcuni dei prodotti tipici del territorio. A breve tutte le informazioni! Per dettagli chiedere alla guida.
+**Merenda contadina Forno Mulino Giacomo Nobili:** La passeggiata termina con un momento di ristoro e di degustazione di alcuni dei prodotti tipici del territorio. Costo merenda: 5€ 
 
 **Ritrovo:** Villa Ugolini (Monteciccardo, Pesaro - PU) ore 15:00
 
@@ -36,13 +36,13 @@ Per tutte le informazioni sul percorso:  [https://www.balzadelsole.com/piccolo-a
 
 **Difficoltà:** Facile / E (Escursionistico)
 
-**Dislivello in salita:**  250 m. circa
+**Dislivello in salita:**  200 m. circa
 
-**Distanza:** 7,5 Km
+**Distanza:** 6 Km
 
-**Durata:** 3 ore circa
+**Durata cammino:** 3 ore circa 
 
-**Costo:** 15€ Adulti, 10€ Minori
+**Costo:** 12€ Adulti, 8€ Minori
 
 
 **Portare:** Scarponi, vestiario a strati, Kway, mantella antipioggia, acqua (1 litro), pranzo al sacco + frutta secca o snack, cappello, cambio vestiti in auto, bastoncini (chi li usa), binocolo. 
