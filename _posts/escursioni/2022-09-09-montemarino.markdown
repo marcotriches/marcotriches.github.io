@@ -5,7 +5,7 @@ date:  2022-09-09 18:00:00 +0100
 day: "sab, 20 apr 2024"
 meeting: "15:00"
 category: appennino 
-distanza: 7,5 Km
+distanza: 6 Km
 difficult: 2
 image: montemarino2.jpg
 ---
