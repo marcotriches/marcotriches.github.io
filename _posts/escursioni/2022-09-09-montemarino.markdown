@@ -7,7 +7,7 @@ meeting: "15:00"
 category: appennino 
 distanza: 7,5 Km
 difficult: 2
-image: montemarino1.jpg
+image: montemarino2.jpg
 ---
 
 ## Nei Percorsi tematici del Piccolo Appennino
