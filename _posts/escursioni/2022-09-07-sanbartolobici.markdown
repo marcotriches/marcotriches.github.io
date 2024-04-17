@@ -5,6 +5,7 @@ date:  2022-09-07 10:00:00 +0100
 day: "sab, 27 apr 2024"
 meeting: "15:30"
 category: misto 
+distanza: 12 Km
 difficult: 2
 image: sanbartolo2.jpg
 ---
