@@ -1,42 +1,41 @@
 ---
 layout: post
 title:  "San Bartolo Sentieri in bici (PU)"
-date:  2022-11-16 18:00:00 +0100
-day: "dom, 26 nov 2023"
-meeting: "09:00"
+date:  2022-09-07 10:00:00 +0100
+day: "sab, 27 apr 2024"
+meeting: "15:30"
 category: misto 
 difficult: 2
-image: bds-24DIC-bikesb.jpg
+image: sanbartolo2.jpg
 ---
 
 ## Parco Naturale del Monte San Bartolo (PU)
 # Escursioni in bicicletta piano piano!
 
-Una vigilia di Natale esemplare, con un giro mattutino in bicicletta nel Parco Naturale del Monte San Bartolo.
-È possibile percorrere gli itinerari di un'area protetta senza il disturbo delle auto? Si! La domenica mattina nel Parco del Monte San Bartolo è possibile viaggiare nella quiete dell'ambiente costiero marchigiano privo di traffico.
+In bici in maniera attenta e senza troppi pericoli? Nel Parco del Monte San Bartolo è possibile viaggiare nella quiete dell'ambiente costiero marchigiano.
 Partiremo dalle strade circondate da piccoli boschi, per incontrare le ampie vedute sul mare, la macchia e le pinete, al ritmo lento delle due ruote.
 Sarà questa un'occasione per rilassarsi ma anche per riflettere sull'impatto delle bici nei luoghi naturali, l'opportunità o meno di attraversarli, e conoscere qualche storia delle due ruote.
 
-Le escursioni in bicicletta di **Balza del Sole** si propongono di esplorare l'ambiente intorno a noi, in maniera consapevole e attenta.
+Le escursioni in bicicletta di **Balza del Sole** si propongono di esplorare l'ambiente intorno a noi, in maniera consapevole.
 La bicicletta è prima di tutto il vento che ci soffia sulla faccia. Niente di sportivo!
 
-**Ritrovo:** Santa Marina Alta (Pesaro - PU) ore 9:00
+**Ritrovo:** Santa Marina Alta (Pesaro - PU) ore 15:30
 
-**Rientro:** ore 12:00 circa 
+**Rientro:** ore 18:30 circa 
 
 **Difficoltà:** Facile / E (Escursionistico)
 
-**Dislivello in salita:**  250 m. circa
+**Dislivello in salita:**  200 m. circa
 
-**Distanza:** 14 Km
+**Distanza:** 12 Km
 
 **Durata:** 3 ore circa
 
-**Costo:** 18€ Adulti, 10€ Minori
+**Costo:** 15€ Adulti, 10€ Minori
 
-*Abbonamenti Balza del Sole bici:* 5 escursioni / 80€
+*Abbonamenti Balza del Sole bici:* 5 escursioni / 65€
 
-**Portare:** Scarpe comode, vestiario a strati, Kway, acqua (1 litro), qualcosa da mangiare, cappello, guanti, torcia, cambio vestiti. 
+**Portare:** Scarpe comode, vestiario a strati, Kway, acqua (1 litro), qualcosa da mangiare, caschetto, guanti, torcia, cambio vestiti. 
 
 **Note sulle biciclette e attrezzature:** Le biciclette possono essere normali o elettriche, l'importante è che siano dotate di luci (frontali e posteriori) e che i conducenti portino il casco.
 È buona norma portare con sè il kit riparazioni forature e una pompa portatile (la guida in ogni caso ne è dotata)
