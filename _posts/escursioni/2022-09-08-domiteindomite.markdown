@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Domite e Indomite (PU)"
-date:  2022-10-08 08:00:00 +0100
+date:  2022-09-08 08:00:00 +0100
 day: "gio, 25 apr 2024"
 meeting: "10:00"
 category: erboristeria
