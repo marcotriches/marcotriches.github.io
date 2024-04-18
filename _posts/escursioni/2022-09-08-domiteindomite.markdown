@@ -24,6 +24,8 @@ Percorreremo i filari di piante officiunali coltivati dall'azienda agricola Gine
 
 Piccola attività erboristica dopo pranzo e letture dedicate alla flora e alle sue meraviglie.
 
+Inoltre, possibilità di attività di **Disegno dal vero** in collaborazione con Mirna Mariani, maestra d'arte.
+
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
 
 **Ritrovo:** Villa Ugolini (Pesaro - PU) ore 10:00
