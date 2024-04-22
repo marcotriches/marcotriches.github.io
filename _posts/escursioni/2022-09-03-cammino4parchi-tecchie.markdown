@@ -12,17 +12,17 @@ image: 4parchi3.jpg
 
 ## 4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino
 
-# Tappa 3: Riserva Naturale Regionale Bosco di Tecchie
+# Riserva Naturale Regionale Bosco di Tecchie
 
 **Giro ad anello della faggeta alta**
 
 Seconda edizione del **Cammino dei 4 Parchi**, un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
 
-**Tappa 3:** Cammino appenninico nella Valle dei Cerreti, alle pendici argillose delle Serre di Burano. Il **Bosco di Tecchie** è un lembo residuo di come dovevano comparire i boschi appenninici fino a qualche tempo fa, poco prima dei grandi disboscamenti di Otto-Novecento.
+**Bosco di Tecchie:** Cammino appenninico nella Valle dei Cerreti, alle pendici argillose delle Serre di Burano. Il **Bosco di Tecchie** è un lembo residuo di come dovevano comparire i boschi appenninici fino a qualche tempo fa, poco prima dei grandi disboscamenti di Otto-Novecento.
 Le atmosfere del bosco misto mediterraneo, i sentieri nella cerreta e, per finire, le lunghe anse nella faggeta alta, luogo silenzioso e riparato, da preservare con passo lento e discreto.
 Questo è senza dubbio un luogo magico e profondo, dove potremo lasciarci andare, per qualche ora, al lento respiro della Natura primaverile.
 
-Quella del bosco di Tecchie è la **terza tappa** del nostro cammino, cominciato sulla armoniosa riviera del *San Bartolo* e le rupi della *Gola del Furlo*. Concluderemo il percorso al *Sasso Simone e Simoncello*.
+Quella del bosco di Tecchie è una **tappa** del nostro cammino, cominciato sulla armoniosa riviera del *San Bartolo* e le rupi della *Gola del Furlo*. Concluderemo il percorso al *Sasso Simone e Simoncello*.
 
 Durante il cammino suggestioni e racconti tratti da **Giorgio Vacchiano, "La resilienza del bosco"**, un saggio ricco di spunti sulla capacità degli alberi di resistere alle condizioni mutevoli del clima del nostro tempo.
 
