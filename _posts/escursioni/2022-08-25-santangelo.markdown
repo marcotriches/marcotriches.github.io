@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sant'Angelo in Lizzola (PU)"
-date:  2022-08-25 22:00:00 +0100
+date:  2022-08-25 18:00:00 +0100
 day: "sab, 25 mag 2024"
 meeting: "15:00"
 category: appennino
