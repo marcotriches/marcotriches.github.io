@@ -7,7 +7,7 @@ meeting: "15:00"
 category: appennino 
 distanza: 11 Km
 difficult: 2
-image: piccoloappennino.jpg
+image: piccoloappennino1.jpg
 ---
 
 ## Nei Percorsi tematici del Piccolo Appennino
