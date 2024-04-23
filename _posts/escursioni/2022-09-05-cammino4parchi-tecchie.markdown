@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cammino dei 4 Parchi: Bosco di Tecchie (PU)"
-date:  2022-09-03 18:00:00 +0100
+date:  2022-09-05 18:00:00 +0100
 day: "dom, 5 mag 2024"
 meeting: "10:00"
 category: appennino 
