@@ -2,7 +2,7 @@
 layout: post
 title:  "Il percorso del Piccolo Appennino (PU)"
 date:  2022-09-01 18:00:00 +0100
-day: "sab, 11 maggio 2024"
+day: "sab, 11 magg 2024"
 meeting: "15:00"
 category: appennino 
 distanza: 11 Km
