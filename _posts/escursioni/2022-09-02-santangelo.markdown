@@ -33,7 +33,7 @@ Per maggiori informazioni sul Parco delle Muse e delle Ninfe:
 
 **Rientro dalla passeggiata:** ore 18:00 circa 
 
-**A seguire visita al museo della Mezzadria di Pontevecchio**
+**A seguire visita alla Torre dell'Arte Contemporanea di Vallefoglia**
 
 **Termine previsto della visita:** ore 19:00 circa
 
