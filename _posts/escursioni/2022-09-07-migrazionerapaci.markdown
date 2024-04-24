@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Birdwatching La migrazione dei rapaci (PU)"
+title:  "Birdwatching La migrazione dei rapaci"
 date:  2022-09-07 18:00:00 +0100
 day: "sab, 27 apr 2024"
 meeting: "09:00"
