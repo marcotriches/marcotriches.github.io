@@ -35,6 +35,7 @@ Il nostro **Primo maggio** prevede:
 - Concerto pomeridiano
 
 
+
 **Ritrovo:** Fenile, Parco del Fagiano (Fano - PU) ore 09:00
 
 **Termine camminata:** ore 11:00 circa 
@@ -47,7 +48,8 @@ Il nostro **Primo maggio** prevede:
 
 **Durata cammino:** 2 ore circa 
 
-**Costo:** 10€ Adulti, 5€ Minori  **Il ricavato della passeggiata verrà devoluto al progetto Destinazione Pastore** 
+**Costo:** 10€ Adulti, 5€ Minori  
+**Il ricavato della passeggiata verrà devoluto al progetto Destinazione Pastore** 
 
 **Portare:** Scarponi, vestiario a strati, Kway, mantella antipioggia, acqua (1 litro), qualcosa da mangiare (frutta secca o snack), cappello, cambio vestiti in auto, bastoncini (chi li usa), binocolo. 
 
