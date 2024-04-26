@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il percorso del Piccolo Appennino (PU)"
-date: 2022-09-05 19:00:00 +0100
+date: 2022-09-05 17:00:00 +0100
 day: "sab, 11 mag 2024"
 meeting: "15:00"
 category: appennino
