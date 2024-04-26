@@ -12,7 +12,7 @@ image: 1maggio.jpg
 
 ## Passeggiata naturalistica e solidale, Parco del Fagiano (Fenile - Fano)
 
-# Con pranzo organizzato dal Gas Fano Fortuna
+# Con pranzo organizzato dal Gas Fano Fortunae
 
 **Prenotazioni entro Lunedì 29 Aprile 2024!!!**
 
@@ -24,15 +24,15 @@ Qui tutte le informazioni sul progetto: [https://www.produzionidalbasso.com/proj
 
 Il nostro **Primo maggio** prevede:
 
-- una facile camminata di circa 2 ore e 30 nel territorio collinare del torrente dell'Arzilla, con racconti, descrizioni e letture dedicate alle sue ricchezze naturalistiche;
+- una facile camminata di circa 2 ore nel territorio collinare del torrente dell'Arzilla, con racconti, descrizioni e letture dedicate alle sue ricchezze naturalistiche;
 
 - breve spiegazione del progetto di mutuo appoggio **Destinazione Pastore**
 
-- Spettacolo teatrale
+- Spettacolo teatrale con  Michi & il Maestro
 
-- Pranzo solidale (a cura del Gas Fano Fortuna)
+- Pranzo solidale (a cura del Gas Fano Fortunae)
 
-- Concerto pomeridiano
+- Concerto pomeridiano con I Rock&Roll Sunset Riders
 
 
 
@@ -49,11 +49,13 @@ Il nostro **Primo maggio** prevede:
 **Durata cammino:** 2 ore circa 
 
 **Costo:** 10€ Adulti, 5€ Minori  
+
 **Il ricavato della passeggiata verrà devoluto al progetto Destinazione Pastore** 
 
 **Portare:** Scarponi, vestiario a strati, Kway, mantella antipioggia, acqua (1 litro), qualcosa da mangiare (frutta secca o snack), cappello, cambio vestiti in auto, bastoncini (chi li usa), binocolo. 
 
-**Pranzo:** organizzato dal Gas Fano Fortuna con prodotti locali e solidali, **Costo: 18€**
+**Pranzo:** organizzato dal Gas Fano Fomutuoe con prodotti locali e solidali, **Costo: 18€**
+
 **Il ricavato del pranzo verrà devoluto al progetto Destinazione Pastore** 
 
 **Prenotazioni entro Lunedì 29 Aprile 2024!!!**
