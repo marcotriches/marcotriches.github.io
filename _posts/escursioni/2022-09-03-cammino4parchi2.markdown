@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cammino dei 4 Parchi: Gola del Furlo (PU)"
+title:  "Cammino 4 Parchi: Gola del Furlo (PU)"
 date:  2022-09-03 18:00:00 +0100
 day: "dom, 19 mag 2024"
 meeting: "10:00"
