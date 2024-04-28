@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1 Maggio Destinazione Pastore (PU)"
-date: 2022-09-05 21:00:00 +0100
+date: 2022-09-07 21:00:00 +0100
 day: "mer, 1 mag 2024"
 meeting: "09:00"
 category: appennino
