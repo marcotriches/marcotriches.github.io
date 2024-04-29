@@ -2,7 +2,7 @@
 layout: post
 title:  "Birdwatching La migrazione dei rapaci"
 date:  2022-09-04 16:00:00 +0100
-day: "sab, 18 mag 2024"
+day: "sab 18 mag 2024"
 meeting: "09:00"
 category: appennino 
 distanza: 4 Km
