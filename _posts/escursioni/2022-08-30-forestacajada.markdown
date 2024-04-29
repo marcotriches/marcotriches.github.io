@@ -2,7 +2,7 @@
 layout: post
 title:  "Nella foresta di Cajada"
 date:   2022-08-30 20:00:48 +0100
-day: "sab, 01 giu 2022"
+day: "sab 01 giu 2022"
 meeting: "09:00"
 category: dolomiti
 distanza: 11 Km
