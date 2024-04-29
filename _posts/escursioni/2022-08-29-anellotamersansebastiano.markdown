@@ -2,7 +2,7 @@
 layout: post
 title:  "Anello Tamer San Sebastiano (BL)"
 date:  2022-08-29 11:30 +0100
-day: "dom, 02 giu 2022"
+day: "dom 02 giu 2022"
 meeting: "08:00"
 category: dolomiti 
 distanza: 20 Km
