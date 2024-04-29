@@ -1,24 +1,26 @@
 ---
 layout: post
 title:  "Anello Tamer San Sebastiano (BL)"
-date:  2023-01-05 11:30 +0100
-day: "dom, 15 ott 2022"
-meeting: "07:00"
+date:  2022-08-29 11:30 +0100
+day: "dom, 02 giu 2022"
+meeting: "08:00"
 category: dolomiti 
 difficult: 4
-image: sansebastianotamer.jpg
+image: anellozoldano.jpg
 ---
 
 ## Alle porte del Parco Nazionale Dolomiti Bellunesi
+
+Un viaggio lungo un giorno, un itinerario per entrare nel cuore della montagna!
 
 Lungo itinerario ad anello che consente il periplo integrale del gruppo dolomitico San Sebastiano Tamer, uno dei più solitari ed affascinanti della regione.
 Con il sentiero CAI 543 dal Passo Duran (quota 1601) si procede per la lunga traversata del fianco Sud-Ovest del gruppo montuoso, fino al Rifugio Sommariva al Pramperét (1857 m). 
 Siamo ora nel trattodell'itinerario denominato "Anello Zoldano", il versante Settentrionale. Con i sentieri CAI 540 e 536 si discende e scavalca la Val Prampèr, il Col de Michiel e la testata della Val Malìsia, fino alla Baita V. Angelini (1680 m) e i boschi del Passo Duran.
 Un viaggio dolomitico davvero unico! 
 
-**Ritrovo:** Passo Duran, La Valle Agordina (BL) ore 07:00
+**Ritrovo:** Passo Duran, La Valle Agordina (BL) ore 08:00
 
-**Rientro:** ore 16:00 circa 
+**Rientro:** ore 17:00 circa 
 
 **Difficoltà:** EE (escursionisti esperti)
 
