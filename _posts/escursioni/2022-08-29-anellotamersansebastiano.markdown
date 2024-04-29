@@ -13,6 +13,7 @@ image: anellozoldano.jpg
 ## Alle porte del Parco Nazionale Dolomiti Bellunesi
 
 Un viaggio lungo un giorno, un itinerario per entrare nel cuore della montagna!
+Gruppo montuoso Tamer e San Sebastiano
 
 Lungo itinerario ad anello che consente il periplo integrale del gruppo dolomitico San Sebastiano Tamer, uno dei più solitari ed affascinanti della regione.
 Con il sentiero CAI 543 dal Passo Duran (quota 1601) si procede per la lunga traversata del fianco Sud-Ovest del gruppo montuoso, fino al Rifugio Sommariva al Pramperét (1857 m). 
