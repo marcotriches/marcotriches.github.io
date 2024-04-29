@@ -34,6 +34,8 @@ Un viaggio dolomitico davvero unico!
 
 **Portare:** Scarponi, pranzo al sacco, acqua (almeno 1 litro e mezzo), vestiario a strati, bastoncini (chi li usa), Kway, cambio abiti in auto.
 
+**Note:** Le guide si riservano di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
+
 **Guida:** Marco Triches, Balza del Sole
 *Guida del Parco Nazionale Dolomiti Bellunesi*
 GAE L.A.G.A.P Tessera n.368
