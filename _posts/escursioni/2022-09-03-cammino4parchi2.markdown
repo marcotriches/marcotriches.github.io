@@ -5,7 +5,7 @@ date:  2022-09-03 18:00:00 +0100
 day: "dom 19 mag 2024"
 meeting: "10:00"
 category: appennino
-distanza: 11 Km
+distanza: 10Km
 difficult: 3
 image: 4parchi2.jpg
 ---
