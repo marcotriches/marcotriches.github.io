@@ -81,6 +81,3 @@ MAIL  info@allaricercadelviaggio.com
 WEB   [https://www.allaricercadelviaggio.com/viaggi/trekking-dolomiti-bellunesi/](https://www.allaricercadelviaggio.com/viaggi/trekking-dolomiti-bellunesi/)
 
 **Portare:** Scarponi da trekking alti alla caviglia con suola scolpita obbligatori (senza non sarà possibile partecipare), sacco lenzuolo, pranzi al sacco, acqua 1.5 L/giorno e sali minerali (Mg, K, Polase, simili), maglia intima traspirante, calzettoni e pantaloni lunghi, cappello da sole e invernale, guanti, micro-pile, felpa, giacca antivento o wind-stopper, mantellina antipioggia, zaino capiente (minimo 45 L), frutta secca, alimenti energetici (barrette, cioccolato), bastoncini telescopici, protezione solare e occhiali, asciugamano, ciabattine, indumenti da bagno, torcia elettrica.
-
-**Guida Parco Nazionale Dolomiti Bellunesi:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
-**Per informazioni tecniche sul percorso e difficoltà:** 3281834019 info@balzadelsole.com
