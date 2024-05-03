@@ -6,7 +6,7 @@ day: "Dal 20/09 al 23/09"
 meeting: "12:00"
 category: dolomiti 
 difficult: 4
-image: altavia1.jpg
+image: Altavia1.jpg
 ---
 
 ## Un viaggio classico nel Parco Nazionale Dolomiti Bellunesi
