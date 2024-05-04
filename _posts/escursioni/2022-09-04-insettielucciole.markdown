@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Insetti e lucciole (PU)"
-date:  2022-09-05 09:00:00 +0100
+date:  2022-09-04 19:00:00 +0100
 day: "ven 17 mag 2024"
 meeting: "17:30"
 category: [appennino, educazione-ambientale]
