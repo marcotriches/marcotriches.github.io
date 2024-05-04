@@ -5,6 +5,7 @@ date:  2022-06-01 16:00:00 +0100
 day: "Dal 20/09 al 23/09"
 meeting: "12:00"
 category: dolomiti 
+Distanza: 4 giorni
 difficult: 4
 image: Altavia1.jpg
 ---
