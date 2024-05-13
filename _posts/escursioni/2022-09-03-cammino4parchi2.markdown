@@ -29,7 +29,7 @@ Durante il cammino suggestioni e racconti tratti da **Luca Giunti, "Le conseguen
 
 Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
 
-*Possibilità di ridurre l'itinerario con un ritrovo posticipato, da conocordare con la guida*
+**Possibilità di ridurre l'itinerario e semplòificarlo con un ritrovo posticipato, da conocordare con la guida**
 
 **l'itinerario:** Con partenza dalla località Villa Furlo di Pagino (quota 160m) risalita del sentiero CAI 440 del versante Orientale del Monte Pietralata. Con percorso escursionistico nel bosco e nella macchia arrivo alle terrazze panoramiche e possibilità di salita in ima al monte con sentiero CAI 446. 
 
