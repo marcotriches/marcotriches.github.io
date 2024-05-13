@@ -12,7 +12,7 @@ image: montesantamaria.jpg
 
 ## Nei Percorsi tematici del Piccolo Appennino
 
-#   I mulini di unb tempo e un mulino d'oggi
+#   I mulini di un tempo e un mulino d'oggi
 
 **Con visita a mulino e merenda contadina presso il Forno Mulino Giacomo Nobili!**
 
