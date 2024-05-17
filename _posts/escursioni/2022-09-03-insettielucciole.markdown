@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Insetti e lucciole (PU)"
-date:  2022-09-04 16:30:00 +0100
-day: "ven 17 mag 2024"
+date:  2022-09-03 19:00:00 +0100
+day: "ven 24 mag 2024"
 meeting: "17:30"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
 difficult: 1
-image: insettielucciole.jpg
+image: insettielucciole1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -20,7 +20,7 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 Le lucciole sono insetti! Conosceremo però durante le ore di luce gli insetti visibili e attivi durante il giorno, per poi farci circondare con il buio dalle lucciole!
 Un'esperienza insieme didattica e fantastica, guidati dalla presenza di **Stefano Panaroni, entomologo.** 
 
-Tra la+'attività pomeridiana e l'attesa delle lucciole, pic nic campestre!
+Tra l'attività pomeridiana e l'attesa delle lucciole, pic nic campestre!
 
 **Età adatta:** Da 5 a 11 anni 
 
