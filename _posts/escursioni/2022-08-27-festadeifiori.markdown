@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Festa dei fiori (PU)"
-date:  2022-09-27 08:00:00 +0100
+date:  2022-08-27 08:00:00 +0100
 day: "dom 09 giu 2024"
 meeting: "09:00"
 category: erboristeria
