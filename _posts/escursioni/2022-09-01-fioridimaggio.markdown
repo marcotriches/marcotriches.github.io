@@ -5,7 +5,7 @@ date:  2022-09-01 08:00:00 +0100
 day: "dom 26 mag 2024"
 meeting: "09:00"
 category: erboristeria
-distanza: 4 Km 
+distanza: 4  
 difficult: 1
 image: fioridimaggio.jpg
 ---
