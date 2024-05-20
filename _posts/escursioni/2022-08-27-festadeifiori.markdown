@@ -16,7 +16,7 @@ image: festadeifiori.jpg
 
 Una giornata di festa dedicata alle splendide fioriture del mese di Giugno, all'interno del campo dell'**azienda agricola Ginestreto**. 
 
-**Lavande, elicrisi, salvie, origano** sono alcune delle fioriture che potremo osservare e in mezzo alle quali passeggiare, per scoprirne gli aromi, i profumi, gli impoieghi, le proprietà.
+**Lavande, elicrisi, salvie, origano, maggiorana, santoreggia** sono alcune delle fioriture che potremo osservare e in mezzo alle quali passeggiare, per scoprirne gli aromi, i profumi, gli impoieghi, le proprietà.
 
 Una vera e propria giornata di immersione floreale, accompagnati da **Giulia Maschera, erborista**.
 
