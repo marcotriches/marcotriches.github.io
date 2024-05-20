@@ -43,7 +43,7 @@ Nel pomeriggio attività dimostrativa: **distillazione della Lavanda**, con il r
 
 **Distanza:** 3 Km
 
-**Pic Nic:** Organizzato da Forno Mulino Nobili Giacomo, a breve tutte le informazioni e i costi!
+**Pic Nic:** Organizzato da Forno Mulino Nobili Giacomo, costo 5€
 
 **Pomeriggio:** Attività dimostrativa di distillazione della Lavanda, con scoperta della tecnica erboristica e racconto delle proprietà e degli usi
 
