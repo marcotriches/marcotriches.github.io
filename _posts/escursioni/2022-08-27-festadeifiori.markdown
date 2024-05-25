@@ -26,7 +26,7 @@ Una giornata dedicata alla scoperta della flora di Giugno, i suoi sorprendenti c
 
 La passeggiata mattutina di riconoscimento termina con un pic nic organizzato dal **Forno Mulino Nobili Giacomo**, produzione biologica di qualità del territorio.
 
-Nel pomeriggio attività dimostrativa: **distillazione della Lavanda**, con il racconto della tecnica della distillazione e delle proprietà e gli impieghi dell'olio essenziale di Lavanda con Giulia Maschera.
+Nel pomeriggio attività dimostrativa: **oleoliti con le erbe aromatiche** oppure **distillazione della Lavanda**, con il racconto delle tecniche erboristiche illustrate e delle proprietà e gli impieghi dei preparati con Giulia Maschera.
 
 
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
