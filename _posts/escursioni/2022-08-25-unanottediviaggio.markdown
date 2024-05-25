@@ -12,7 +12,7 @@ image: campbutrigo.jpg
 
 ## Escursione serale e pernottamento sotto le stelle!
 
-# Butrigo Azienda Agricola a conduzione biologica 
+## Butrigo Azienda Agricola a conduzione biologica 
 
 **Gli animali, i suoni, le atmosfere di una notte alle porte dell'Estate!**
 
@@ -26,16 +26,27 @@ L'esperienza verrà accompagnata da guide naturalistiche e sarà supportata (ser
 **E' possibile partecipare all'esperienza integrale: escursione serale + campeggio, oppure alla sola escursione serale (il programma in dettaglio a seguire)**
 
 **1) Esperienza integrale (escursione + campeggio):** 
+
 **Termine:** la mattina di Domenica 16 Giugno, ore 09:00 
+
 **Costo:** 55€
+
 *Il costo include: Servizio Guida, Servizio Accoglienza (pernottamento, cena al sacco, merenda serale, colazione, logistica e servizi)*
 
+*Chiedere informazioni per piccoli gruppi, famiglie** 
 
 **2) Solo escursuione serale:** 
+
 **Termine:** 22:00 
+
 **Durata:** 3 ore circa (cena e soste incluse)
+
 **Costo:** 30€
+
 *Il costo include: Servizio Guida, Servizio Accoglienza (cena al sacco, logistica e servizi)*
+
+*Chiedere informazioni per piccoli gruppi, famiglie** 
+
 
 **Ritrovo:** Roncosambaccio (Fano - PU) ore 18:30
 
@@ -46,7 +57,7 @@ L'esperienza verrà accompagnata da guide naturalistiche e sarà supportata (ser
 **Distanza:** 3 Km
 
 
-**Portare:** Scarponi, vestiario a strati, Kway, guscio o giacca, acqua (almeno 1 litro), cappello, crema solare, sacco a pelo, materassino, torcia, cambio vestiti e scarpe in auto, bastoncini (per chi ne facesse uso). 
+**Portare:** Scarponi, vestiario a strati, Kway, guscio o giacca, acqua (almeno 1 litro), cappello, crema solare, torcia, cambio vestiti e scarpe, bastoncini (per chi ne facesse uso); per il pernottamento: sacco a pelo, materassino. 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
@@ -54,7 +65,9 @@ L'esperienza verrà accompagnata da guide naturalistiche e sarà supportata (ser
 **Informazioni e prenotazioni:** 
 
 Marco - 3281834019 
+
 Francesca - 3403460806
 
 info@balzadelsole.com
+
 butrigo@libero.it
