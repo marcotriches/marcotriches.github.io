@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notturno, viaggio sonoro (PU)"
+title:  "Notturno, viaggio serale (PU)"
 date:  2022-08-28 19:00:00 +0100
 day: "ven 07 giu 2024"
 meeting: "18:00"
