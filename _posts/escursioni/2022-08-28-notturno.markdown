@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Insetti e lucciole (PU)"
-date:  2022-09-03 19:00:00 +0100
-day: "ven 24 mag 2024"
-meeting: "17:30"
+title:  "Notturno, viaggio sonoro (PU)"
+date:  2022-08-28 19:00:00 +0100
+day: "ven 07 giu 2024"
+meeting: "18:00"
 category: [appennino, educazione-ambientale]
-distanza: 3 Km
+distanza: 4 Km
 difficult: 1
-image: insettielucciole1.jpg
+image: notturno.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -15,24 +15,21 @@ image: insettielucciole1.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Insetti e lucciole** è un pomeriggio di scoperta dei piccoli animaletti che abitano i nostri prati e boschi.
-
-Le lucciole sono insetti! Conosceremo però durante le ore di luce gli insetti visibili e attivi durante il giorno, per poi farci circondare con il buio dalle lucciole!
-Un'esperienza insieme didattica e fantastica, guidati dalla presenza di **Stefano Panaroni, entomologo.** 
-
-Tra l'attività pomeridiana e l'attesa delle lucciole, pic nic campestre!
+**Notturno** è un piccolo viaggio alla scoperta delle atmosfere serali e notturne delle nostre colline. A partire dalle ultime luci del pomeriggio, fino all'ora del tramonto per poi sconfinare nella sera, avremo l'occasione di percorrere i sentieri delle nostre colline ascoltando i suoni e le atmosfere che chiudono il giorno e aprono la notte.
+Un'occasione per grandi e piccoli per avventurarsi nella Natura nel momento in cui gli animali cominciano a gironzolare indisturbati nei nostri paraggi.
+L'attività prevede una camminata, pic nic e attività con la mappa, rientro al buio (con l'uso delle torce!)
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 17:30
+**Ritrovo:** Montegaudio (Pesaro) ore 18:00
 
-**Rientro:** ore 20:30 
+**Rientro:** ore 21:30 
 
 **Difficoltà:** Facilissimo 
 
 **Dislivello in salita:**  100 m. circa
 
-**Distanza:** 3 Km
+**Distanza:** 4 Km
 
 **Durata:** 3 ore circa
 
