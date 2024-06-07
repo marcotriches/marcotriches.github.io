@@ -43,6 +43,7 @@ Oltre alle specie coltivate avremo modo di conoscere anche le piante spontanee c
 **Distanza:** 2 Km
 
 **Costo:** 20€ Adulti, 10€ Minori
+
 *Il costo comprende la passeggiata con raccolta, l'attività erboristica e l'oleolito*
 
 **Portare:** Quaderno e penna, scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), cena al sacco, telo per sedersi, cambio vestiti in auto. 
