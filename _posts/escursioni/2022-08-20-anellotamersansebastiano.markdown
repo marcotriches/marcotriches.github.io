@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anello Zoldano (BL)"
-date:  2022-08-29 11:30 +0100
-day: "dom 02 giu 2022"
+date:  2022-08-20 11:30 +0100
+day: "dom 30 giu 2024"
 meeting: "08:00"
 category: dolomiti 
 distanza: 20 Km
 difficult: 4
-image: anellozoldano.jpg
+image: anellozoldano30.jpg
 ---
 
 ## Alle porte del Parco Nazionale Dolomiti Bellunesi
