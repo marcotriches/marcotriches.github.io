@@ -2,7 +2,7 @@
 layout: post
 title:  "All'alba sul sentiero (PU)"
 date:  2022-08-23 18:00:00 +0100
-day: "dom, 23 giu 2024"
+day: "dom 23 giu 2024"
 meeting: "05:00"
 category: appennino 
 distanza: 10 Km
