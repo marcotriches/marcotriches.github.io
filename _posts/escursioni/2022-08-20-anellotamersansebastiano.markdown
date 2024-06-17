@@ -7,7 +7,7 @@ meeting: "08:00"
 category: dolomiti 
 distanza: 20 Km
 difficult: 4
-image: anellozoldano30.jpg
+image: anellozoldano6.jpg
 ---
 
 ## Alle porte del Parco Nazionale Dolomiti Bellunesi
