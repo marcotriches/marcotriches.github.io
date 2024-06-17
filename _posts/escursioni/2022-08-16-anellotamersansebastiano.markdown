@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anello Zoldano (BL)"
-date:  2022-08-20 11:30 +0100
+date:  2022-08-16 11:30 +0100
 day: "sab 06 lug 2024"
 meeting: "08:00"
 category: dolomiti 
