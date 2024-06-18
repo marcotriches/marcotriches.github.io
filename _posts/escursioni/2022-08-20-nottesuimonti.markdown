@@ -23,7 +23,7 @@ Si tratta di uno degli itinerari classici che si sviluppano al di sopra della Go
 Terreno di aquile, falchi pellegrini, il comprensorio si caratterizza dalla presenza di ampie zone boschive, praterie e macchie d'arbusti.
 Una visita nella provincia di Pesaro e Urbino non può prescindere da questo affascinante itinerario, ricco di storia umana e naturale.
 
-Durante il cammino suggestioni e racconti tratti da **Luca Giunti, "Le conseguenze del ritorno"**, interessante lavoro di sintesi sulle conoscenze scientifiche sul lupo e sulle conseguenze del suo naturale ritorno nei territori.
+Durante il cammino suggestioni e racconti tratti da **Arne Naess, "Siamo l'aria che respiriamo. Saggi sull'ecologia profonda"**, Scritti composti da Naess nella sua baita-rifugio Tvergastein, sulla cima del monte Halingskarvet e dedicati all'origine del movimento dell'ecologia profonda.
 
 **Due itinerari possibili, da conocordare con la guida:**
 
