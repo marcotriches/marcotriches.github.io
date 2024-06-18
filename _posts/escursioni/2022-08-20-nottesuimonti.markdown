@@ -5,7 +5,7 @@ date:  2022-08-20 20:00:00 +0100
 day: "dom 30 giu 2024"
 meeting: "17:00"
 category: appennino
-distanza: 10 Km
+distanza: 10Km
 difficult: 2
 image: paganuccioserale.jpg
 ---
