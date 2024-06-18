@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Furlo al tramonto (PU)"
-date:  2022-08-24 20:00:00 +0100
-day: "dom 16 giu 2024"
+title:  "Una notte sui monti (PU)"
+date:  2022-08-20 20:00:00 +0100
+day: "dom 30 giu 2024"
 meeting: "17:00"
 category: appennino
 distanza: 10 Km
 difficult: 2
-image: furloserale.jpg
+image: paganuccioserale.jpg
 ---
 
-## Alle porte della notte, alle porte dell'estate!
+## Viaggio / racconto al termine del giorno, tramonto e rientro al buio
 
 # Riserva Naturale Statale Gola del Furlo
 
-**Giro ad anello del Monte Pietralata**
+**I boschi e i prati sommitali del monte Paganuccio**
 
-Inauguriamo i percorsi serali con le magiche atmosfere del tramonto e della notte che arriva con un percorso ad anello lungo il **monte Pietralata**
+Inauguriamo i percorsi serali con le magiche atmosfere del tramonto e della notte che arriva con un percorso ad anello lungo il **monte Paganuccio**
 
-Si tratta di uno degli itinerari classici che si sviluppano al di sopra della Gola del Furlo, con ampi panorami verso il mare e l'Appennino, oltre a godere di suggestivi scorci sulla sottostante gola scavata nel calcare dal torrente Candigliano.
+Si tratta di uno degli itinerari classici che si sviluppano al di sopra della Gola del Furlo, con ampi panorami verso il mare e l'Appennino, oltre a godere di suggestivi scorci sulla sottostante gola scavata nel calcare dal fiume Candigliano.
 Terreno di aquile, falchi pellegrini, il comprensorio si caratterizza dalla presenza di ampie zone boschive, praterie e macchie d'arbusti.
 Una visita nella provincia di Pesaro e Urbino non può prescindere da questo affascinante itinerario, ricco di storia umana e naturale.
 
@@ -26,21 +26,24 @@ Durante il cammino suggestioni e racconti tratti da **Luca Giunti, "Le conseguen
 
 **Due itinerari possibili, da conocordare con la guida:**
 
-**1) Percorso integrale:** Con partenza dalla località Villa Furlo di Pagino (quota 160m) risalita del sentiero CAI 440 del versante Orientale del Monte Pietralata. Con percorso escursionistico nel bosco e nella macchia arrivo alle terrazze panoramiche e salita in Cima al monte Pietralata (quota 889 metri) con sentiero CAI 446a, 446, 441 e 440.
+**1) Percorso integrale:** Con partenza dalla località Sant'Anna del Furlo (quota 150m) risalita del sentiero CAI 451 del versante Settentrionale del Monte Paganuccio, in direzione di Cà i Fabbri. Salita attraverso il bosco alto alle praterie sommitali del Monte Paganuccio (quota 976 m) e rientro ad anello con sentiero CAI 450.
 
-**2) Percorso breve:** Giro ad anello a partire dal Rifugio del Furlo (quota 625 metri) con sentieri CAI 446a, 446, 441 e 440.
-
-**Ritrovo:** Villa Furlo di Pagino (Fermignano - PU) ore 17:00
+**Ritrovo:** Sant'Anna del Furlo ore 17:00
 
 **Rientro:** 22:00 
 
 **Difficoltà:** Medio / E (Escursionistico)
 
-**Dislivello in salita:**  600 m. circa
+**Dislivello in salita:**  700 m. circa
 
 **Distanza:** 10 Km
 
 **Durata:** 5 ore circa (soste incluse)
+
+
+**1) Percorso BREVE:** 
+
+**Ritrovo:** Case Sant'Ubaldo ore 19:00
 
 **Costo:** 15€
 
