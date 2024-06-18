@@ -5,7 +5,7 @@ date:  2022-08-23 18:00:00 +0100
 day: "dom 23 giu 2024"
 meeting: "05:00"
 category: appennino 
-distanza: 10 Km
+distanza: 10Km
 difficult: 2
 image: anellomonteciccardo.jpg
 ---
