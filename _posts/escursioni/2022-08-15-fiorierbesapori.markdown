@@ -13,7 +13,11 @@ image: valdipecol.jpg
 
 ## In collaborazione con Dolomiti Val di Zoldo Turismo e Baita Civetta "al Casot"
 
-Escursione in Val di Pécol con le Guide Balza del Sole. Un percorso ad anello alle sorgenti del torrente Maè dedicato alla flora spontanea officinale: i suoi impieghi curativi e alimentari. Impareremo a riconoscere le specie floristiche più comuni, come tutelarle e come utilizzarle nella vita quotidiana. L’itinerario si conclude con un pranzo con le erbe spontanee alla Baita Monte Civetta “Al Casot” (1579 m) e con un laboratorio o dimostrazione erboristica nel pomeriggio.
+Escursione in Val di Pécol con le Guide Balza del Sole. Un percorso ad anello alle sorgenti del torrente Maè dedicato alla flora spontanea officinale: i suoi impieghi curativi e alimentari. Impareremo a riconoscere le specie floristiche più comuni, come tutelarle e come utilizzarle nella vita quotidiana, accompagnati da **Giulia Maschera, erborista**
+
+Un'esperienza intensa, nel cuore delle Dolomiti e nel mezzo della flora del luogo.
+
+L’itinerario si conclude con uno spuntino a base di erbe spontanee alla Baita Monte Civetta “Al Casot” (1579 m) e con un laboratorio o dimostrazione erboristica nel pomeriggio.
 
 **Ritrovo:** Pecol (Val di Zoldo - BL) ore 10:00
 
@@ -27,7 +31,7 @@ Escursione in Val di Pécol con le Guide Balza del Sole. Un percorso ad anello a
 
 **Costo:** 40€ (35€ con sconto Val di Zoldo Turismo) 
 
-**Pranzo:** Baita Civetta al Casot (incluso nel prezzo)
+**Ristoro:** Baita Civetta al Casot (incluso nel prezzo)
 
 **Portare:** Scarpe comode e con suola scolpita, vestiario a strati, kway, acqua (1 litro e mezzo), qualcosa da mangiare, cappello, crema solare, bastoncini (chi li usa), cambio abiti e scarpe in auto
 
