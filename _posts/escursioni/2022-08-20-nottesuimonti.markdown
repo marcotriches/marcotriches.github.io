@@ -16,9 +16,10 @@ image: paganuccioserale.jpg
 
 **I boschi e i prati sommitali del monte Paganuccio**
 
-Inauguriamo i percorsi serali con le magiche atmosfere del tramonto e della notte che arriva con un percorso ad anello lungo il **monte Paganuccio**
+Percorso pomeridiano / serale lungo i sentieri del **monte Paganuccio**. Un'esperienza di cammino, quiete, comopagnia e natura.
 
-Si tratta di uno degli itinerari classici che si sviluppano al di sopra della Gola del Furlo, con ampi panorami verso il mare e l'Appennino, oltre a godere di suggestivi scorci sulla sottostante gola scavata nel calcare dal fiume Candigliano.
+Si tratta di uno degli itinerari classici che si sviluppano al di sopra della Gola del Furlo, con ampi panorami verso il mare e l'Appennino, oltre a godere di suggestivi scorci sulla sottostante vallata del Candigliano, da Acqualagna a Fossombrone.
+
 Terreno di aquile, falchi pellegrini, il comprensorio si caratterizza dalla presenza di ampie zone boschive, praterie e macchie d'arbusti.
 Una visita nella provincia di Pesaro e Urbino non può prescindere da questo affascinante itinerario, ricco di storia umana e naturale.
 
@@ -41,7 +42,7 @@ Durante il cammino suggestioni e racconti tratti da **Luca Giunti, "Le conseguen
 **Durata:** 5 ore circa (soste incluse)
 
 
-**1) Percorso BREVE:** 
+**1) Percorso breve:** Con partenza a piedi da località Case Sant'Ubaldo (quota 695 m.) percorso ad anello lungo i vari versanti del monte Paganuccio con transito nei vari boschi alti e lungo i pratoni sommitali. 
 
 **Ritrovo:** Case Sant'Ubaldo ore 19:00
 
