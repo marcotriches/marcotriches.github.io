@@ -5,7 +5,7 @@ date:  2022-08-14 20:00:00 +0100
 day: "dom 14 lug 2024"
 meeting: "10:00"
 category: appennino
-distanza: 10Km
+distanza: 6 Km
 difficult: 1
 image: riovitoschio.jpg
 ---
