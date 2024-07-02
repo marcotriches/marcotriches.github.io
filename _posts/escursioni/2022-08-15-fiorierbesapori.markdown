@@ -5,6 +5,7 @@ date:  2022-08-15 18:00:00 +0100
 day: "07 lug 2024"
 meeting: "10:00"
 category: dolomiti 
+distanza: 7 Km
 difficult: 1
 image: valdipecol.jpg
 ---
