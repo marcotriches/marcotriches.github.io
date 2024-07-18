@@ -46,8 +46,6 @@ L’iniziativa è patrocinata dalle sezioni CAI di Belluno e Longarone e dai Com
 
 Abbonamenti escursioni Balza del Sole: 5 escursioni 90€
 
-**Pranzo:** al sacco
-
 **Portare:** Scarponi, qualcosa da mangiare, acqua (almeno 1 litro e mezzo), vestiario a strati, bastoncini (chi li usa), Kway, cambio abiti in auto.
  
 **Guida Parco:** Marco Triches, Balza del Sole
