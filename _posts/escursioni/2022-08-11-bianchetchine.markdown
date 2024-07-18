@@ -2,7 +2,7 @@
 layout: post
 title:  "Tra le chine della Schiara"
 date:  2022-08-11 15:00:00 +0100
-day: "sab 27 ago 2024"
+day: "sab 27 lug 2024"
 meeting: "09:00"
 category: dolomiti 
 distanza: 10Km
