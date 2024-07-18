@@ -10,7 +10,7 @@ difficult: 2
 image: bianchet_chine.jpg
 ---
 
-## Rifugio Bianchet, Val Vescovàù
+## Rifugio Bianchet, Val Vescovà
 
 ## Parco Nazionale Dolomiti Bellunesi
 
