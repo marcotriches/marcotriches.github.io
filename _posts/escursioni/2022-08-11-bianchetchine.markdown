@@ -32,7 +32,7 @@ L’escursione guidata partirà alle ore 9:00.
 
 L’iniziativa è patrocinata dalle sezioni CAI di Belluno e Longarone e dai Comuni di Belluno, Sedico, Longarone.
 
-**Ritrovo:** Locdalità Pinei, Sedico ore 09:00
+**Ritrovo:** Località Pinei, Sedico ore 09:00
 
 **Rientro:** ore 19:00 circa 
 
