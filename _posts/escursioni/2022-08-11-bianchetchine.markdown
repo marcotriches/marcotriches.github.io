@@ -7,7 +7,7 @@ meeting: "09:00"
 category: dolomiti 
 distanza: 10Km
 difficult: 2
-image: bianchet_chine.jpg
+image: chinebianchet.jpg
 ---
 
 ## Rifugio Bianchet, Val Vescovà
