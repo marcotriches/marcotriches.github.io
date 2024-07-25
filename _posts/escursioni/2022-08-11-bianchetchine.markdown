@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tra le chine della Schiara"
+title:  "Tra le chine della Schiara: Bianchet"
 date:  2022-08-11 15:00:00 +0100
 day: "sab 27 lug 2024"
 meeting: "09:00"
@@ -43,8 +43,6 @@ L’iniziativa è patrocinata dalle sezioni CAI di Belluno e Longarone e dai Com
 **Durata:** 10 ore circa (incluso pausa pranzo, evento "Tra le chine della Schiara" e rientro)
 
 **Costo:** Gratuito
-
-Abbonamenti escursioni Balza del Sole: 5 escursioni 90€
 
 **Portare:** Scarponi, qualcosa da mangiare, acqua (almeno 1 litro e mezzo), vestiario a strati, bastoncini (chi li usa), Kway, cambio abiti in auto.
  
