@@ -7,7 +7,7 @@ meeting: "14:00"
 category: dolomiti 
 distanza: 12Km
 difficult: 3
-image: chinesettimo.jpg
+image: settimoalpini.jpg
 ---
 
 ## Rifugio VII Alpini, conca del Pis Pilon
