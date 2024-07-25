@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Fiori, erbe e sapori (BL)"
-date:  2022-08-15 18:00:00 +0100
-day: "07 lug 2024"
+date:  2022-08-09 18:00:00 +0100
+day: "10 ago 2024"
 meeting: "10:00"
 category: dolomiti 
 distanza: 7 Km
