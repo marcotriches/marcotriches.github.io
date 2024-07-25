@@ -42,7 +42,7 @@ L’iniziativa è patrocinata dalle sezioni CAI di Belluno e Longarone e dai Com
 
 **Costo:** Gratuito
 
-**Portare:** Scarponi, qualcosa da mangiare, acqua (almeno 1 litro e mezzo), vestiario a strati, bastoncini (chi li usa), Kway, cambio abiti in auto.
+**Portare:** Torcia! scarponi, qualcosa da mangiare, acqua (almeno 1 litro e mezzo), vestiario a strati, bastoncini (chi li usa), Kway, cambio abiti in auto.
  
 **Guida Parco:** Marco Triches, Balza del Sole
 GAE L.A.G.A.P Tessera n.368
