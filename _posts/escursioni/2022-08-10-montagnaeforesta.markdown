@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Montagna & Foresta"
+title:  "Montagna & Foresta (Longarone)"
 date:   2022-08-10 20:00:48 +0100
 day: "dom 4 ago 2024"
 meeting: "09:00"
