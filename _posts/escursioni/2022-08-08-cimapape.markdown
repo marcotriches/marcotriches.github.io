@@ -7,19 +7,17 @@ meeting: "08:00"
 category: dolomiti
 distanza: 12 Km
 difficult: 3
-image: cimapape.jpg
+image: cimapape1.jpg
 ---
 
 Una montagna insolita, per geologia e paesaggio vegetale, di fronte ai gruppi Dolomitici della Civetta, Pale di San Lucano e Pale di San Mertino. Luogo frerquentato in passato per i suoi versanti "favorevoli" alle attività rurali quali l'alpeggio, la fienagione e il taglio del bosco, gode soprattutto della sua vicinanza con la Vallata Agordina , le sue vie di comunicazione e i suoi abitati storici.
 Un percorso su Cima Pape oggi significa visitare una montagna poco rinomata ma ben conosciuta da qualcuno!
 
-**Il percorso:** Con partenza da località Bogo (quota 1200 metri) risalita del sentiero CAI 759 e 760 della Val Grande fino a casera Rudelefin Alta (quota 2100 metri). 
-Percorso ad anello con sentieri CAI 763 e 765 per il Vallon di Pape, Forcella Gardes (1998 metri) e casera Prademur (1900 metri).
-
+**Il percorso:** Con partenza da località Bogo (quota 1200 metri) risalita del sentiero CAI 759 e 760 della Val Grande fino a casera Rudelefin Alta (quota 2100 metri) e cima Pape (2504 metri). Rientro con breve deviazione a Forcella Pape.
 
 **Ritrovo:** Cencenighe Agordino (Gosaldo) ore 08:00
 
-**Difficoltà:** EE - Escursionisti Esperti
+**Difficoltà:** E - Escursionistico
 
 **Dislivello:** 1300 metri
 
