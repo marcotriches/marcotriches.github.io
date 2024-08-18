@@ -2,8 +2,7 @@
 layout: post
 title:  "Non ci servono le regole, le rispettiamo tutte"
 date:   2024-08-17 18:20:48 +0100
-category: diari
-image: 
+category: articoli
 ---
 Alla fine ci siamo arrivati. La costruzione della rete sentieristica del Piccolo Appennino è giunta al suo primo traguardo: i sentieri sono percorribili, segnalati e riportati in una carta escursionistica.
 
