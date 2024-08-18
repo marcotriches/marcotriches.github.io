@@ -56,7 +56,9 @@ layout: default
         {% if post.path contains 'escursioni'%}
             {% assign postCounter = postCounter | plus: 1 %}
             <div class="post-single">
-                <img src="{{site.url }}/img/escursioni/{{post.image }}"/>
+                <div class="img">
+                    <img src="{{site.url }}/img/escursioni/{{post.image }}"/>
+                </div>
                 <div class="media-box-content">
                     <div class="media-box-title">
                         <a href="{{ post.url | relative_url }}">

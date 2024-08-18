@@ -1231,3 +1231,20 @@ margin-top: 1rem;
     margin-bottom:1rem;
     margin-top: 1rem;
 }
+
+
+// PA PAGE
+
+.img{
+    float: left;
+    width:  100%;
+    height: 200px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 850px) {
+    .img{
+        height: 120px;
+    }
+  }
