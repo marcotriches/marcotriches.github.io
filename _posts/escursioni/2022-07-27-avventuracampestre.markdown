@@ -3,7 +3,7 @@ layout: post
 title:  "Avventura campestre (PU)"
 date:  2022-07-27 19:00:00 +0100
 day: "ven 04 ott 2024"
-meeting: "15:00"
+meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
 difficult: 1
@@ -29,7 +29,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Ritrovo:** Monteciccardo (Pesaro) ore 16:00
 
-**Rientro:** ore 15:00
+**Rientro:** ore 18:00
 
 **Difficoltà:** Facilissimo 
 
@@ -37,7 +37,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Distanza:** 2 Km
 
-**Durata:** 3 ore circa
+**Durata:** 2 ore e 30 circa
 
 **Costo:** 10€
 
