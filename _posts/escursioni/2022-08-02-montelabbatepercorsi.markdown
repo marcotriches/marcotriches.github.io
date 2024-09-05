@@ -7,7 +7,7 @@ meeting: "09:30 / 16:00"
 category: appennino
 distanza: 4 Km
 difficult: 2
-image: montelabbate1.jpg
+image: montelabbatepercorsi.jpg
 ---
 
 ## Il percorso degli Abati e il percorso dei Castelli
