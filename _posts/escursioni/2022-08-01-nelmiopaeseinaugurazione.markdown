@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nel mio paese c'è un bosco Inaugurazione (PU)"
+title:  "Inaugurazione Nel mio paese c'è un bosco (PU)"
 date:  2022-08-01 19:00:00 +0100
 day: "ven 27 set 2024"
 meeting: "16:00"
