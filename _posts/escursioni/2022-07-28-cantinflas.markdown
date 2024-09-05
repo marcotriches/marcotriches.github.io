@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Cantinflas, Monte Petrano (PU)"
-date:  2022-09-10 18:00:00 +0100
-day: "dom, 14 apr 2024"
-meeting: "10:00"
+date:  2022-07-28 18:00:00 +0100
+day: "dom, 29 sett 2024"
+meeting: "09:30"
 category: appennino 
 distanza: 12 Km
 difficult: 2
-image: cantinflascagli.jpg
+image: cantinflasmpetrano.jpg
 ---
 
 ## Radio/Escursioni
@@ -23,11 +23,11 @@ Dove è possibile ascoltare il **le prime puntate.**
 
 **L'itinerario:** Con partenza dal paese di Moria (Cagli) risalita del Fosso della Rava con il Sentiero Italia CAI 200 a superare il rilievo della Roccaccia e la Rocchetta, cima del Monte Petrano. Rientro per sentiero CAI 274 e carrareccia.
 
-**Ritrovo:** Moria (Cagli - PU) ore 10:00
+**Ritrovo:** Moria (Cagli - PU) ore 09:30
 
 *Possibilità di concordare un ritrovo anticipato e di condivisione del viaggio*
 
-**Rientro:** ore 16:00 circa 
+**Rientro:** ore 15:30 circa 
 
 **Difficoltà:** Medio / E (Escursionistico)
 
@@ -37,11 +37,11 @@ Dove è possibile ascoltare il **le prime puntate.**
 
 **Durata:** 6 ore circa (soste incluse)
 
-**Costo:** 15€ Adulti, 10€ Minori
+**Costo:** 20€ Adulti, 10€ Minori
 
 *Abbonamenti Balza del Sole:* 5 escursioni / 65€
 
-**Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti in auto, bastoncini (chi li usa). 
+**Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, cambio vestiti in auto, bastoncini (chi li usa). 
 
 **Note sull'escursione:** L'uscita verrà confermata al raggiungimento di un minimo di 5 partecipanti. La guida si riserva la possibilità di variare o annullare l'itinerario in base alle condizioni meteo o del terreno.
 
