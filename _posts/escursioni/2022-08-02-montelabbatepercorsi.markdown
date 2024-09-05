@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meontelabbate percorsi naturalistici (PU)"
+title:  "Montelabbate percorsi naturalistici (PU)"
 date:  2022-08-02 18:00:00 +0100
 day: "dom, 22 set 2024"
 meeting: "09:30 / 16:00"
