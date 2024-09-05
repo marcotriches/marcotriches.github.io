@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino 
 distanza: 12 Km
 difficult: 2
-image: cantinflasmpetrano.jpg
+image: cantinflamspetrano.jpg
 ---
 
 ## Radio/Escursioni
