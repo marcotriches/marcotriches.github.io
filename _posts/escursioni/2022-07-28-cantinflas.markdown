@@ -18,7 +18,7 @@ Viaggio a tappe nell'Appennino accompagnato dal racconto **"Cantinflas"** Un con
 Tappa interamente dedicata al **Monte Petrano** e al suo versante meridionale
 Avremo la possibilità di camminare nei luoghi in cui accadono i fatti di questa storia, a metà tra l'immaginario e il reale.
 L'escursione fa parte di un ciclo di **Radio/Escursioni**, ovvero l'esperimento sonoro di registrare i suoni ambientali e il racconto per la produzione di un *podcast*.
-Tutte le puntate del percorso potranno essere ascoltate al link: http://www.balzadelsole.com/radio.html
+Tutte le puntate del percorso potranno essere ascoltate al link: [http://www.balzadelsole.com/radio.html](http://www.balzadelsole.com/radio.html)
 Dove è possibile ascoltare il **le prime puntate.**
 
 **L'itinerario:** Con partenza dal paese di Moria (Cagli) risalita del Fosso della Rava con il Sentiero Italia CAI 200 a superare il rilievo della Roccaccia e la Rocchetta, cima del Monte Petrano. Rientro per sentiero CAI 274 e carrareccia.
