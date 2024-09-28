@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Il monte Zélo"
-date:  2022-07-26 11:30 +0100
+title:  "Il monte Zélo (BL)"
+date:  2022-07-25 11:30 +0100
 day: "dom, 06 ott 2024"
 meeting: "08:00"
 category: dolomiti 
