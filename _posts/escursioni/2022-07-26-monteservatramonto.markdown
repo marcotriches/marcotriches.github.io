@@ -5,6 +5,7 @@ date:  2022-07-26 11:00:00 +0100
 day: "sab, 05 ott 2024"
 meeting: "15:00"
 category: dolomiti 
+distanza: 8 Km
 difficult: 2
 image: servanotturna.jpg
 ---
