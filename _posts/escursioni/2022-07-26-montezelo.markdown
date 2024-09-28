@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Il monte Zélo"
-date:  2022-09-04 11:30 +0100
-day: "sab, 24 set 2022"
-meeting: "07:00"
+date:  2022-07-26 11:30 +0100
+day: "dom, 06 ott 2024"
+meeting: "08:00"
 category: dolomiti 
-difficult: 5
-image: zelo1.jpg
+difficult: 4
+image: montezelo.jpg
 ---
 
 ## Tra Tàmer - San Sebastiano e Schiara
@@ -15,7 +15,8 @@ Con partenza da località Conaggia (840 m) si percorre la mulattiera tra faggi e
 
 *"Il Zélo è montagna che merita l'attenzione dell'escursionista, in quanto la sua posizione ne fa un osservatorio panoramico eccezionale, su tutti i gruppi dolomitici, che cingono la conca di Agordo (fra cui i rovesci settentrionali del gruppo della Schiara ed, in particolare, del complesso della Talvéna), con grande varietà di visioni ambientali."* - Piero Rossi, *Schiara*, Guida ai monti d'Italia CAI-TCI, 1982
 
-**Ritrovo:** La Valle Agordina ore 07:00
+
+**Ritrovo:** La Valle Agordina ore 08:00
 
 **Rientro:** ore 15:00 circa 
 
@@ -23,13 +24,16 @@ Con partenza da località Conaggia (840 m) si percorre la mulattiera tra faggi e
 
 **Dislivello in salita:**  1250 m. circa
 
-**Durata:** 8 ore circa
+**Durata:** 7 ore circa
 
-**Costo:** 20€
+**Costo:** 25€
 
 *Abbonamenti Balza del Sole:* 5 escursioni lunghe / 90€
 
-**Portare:** scarponi, pranzo al sacco, acqua (almeno 1 litro), bastoncini, Kway
+**Portare:** Scarponi, vestiario a strati, Kway, pranzo al sacco, snack, frutta secca, acqua (almeno 1 litro e mezzo), bastoncini (chi li usa), cambio abiti in auto.
 
-**Guida Parco:** Marco Triches, Balza del Sole
-* Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
+**Guida:** Marco Triches, Balza del Sole
+GAE LAGAP (tessera n.368) 
+**Guida Parco delle Dolomiti Bellunesi**
+
+**Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com 
