@@ -5,7 +5,7 @@ date:  2022-07-25 11:30 +0100
 day: "dom, 06 ott 2024"
 meeting: "08:00"
 category: dolomiti 
-distanza: 12 Km
+distanza: 12Km
 difficult: 4
 image: montezelo.jpg
 ---
