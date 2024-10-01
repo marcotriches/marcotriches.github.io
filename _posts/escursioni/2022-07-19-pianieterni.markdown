@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Piani Eterni verso l'Inverno (BL)"
-date:  2022-11-27 11:00:00 +0100
-day: "dom, 10 dic 2023"
+title:  "Piani Eterni (BL)"
+date:  2022-07-19 11:00:00 +0100
+day: "dom, 20 ott 2024"
 meeting: "08:00"
 category: dolomiti 
-difficult: 5
-image: bds-10DIC-pianieterni.jpg
+difficult: 3
+image: pianieterni.jpg
 ---
 
 ## Salita dal Vallone di Campotorondo
@@ -30,13 +30,13 @@ Rientro sullo stesso sentiero dell'andata.
 
 **Difficoltà:** E (escursionistico)
 
-**Lunghezza:** 18 Km
+**Lunghezza:** 15 Km
 
 **Dislivello in salita:**  1100 m. circa
 
 **Durata:** 6 ore circa
 
-**Costo:** 20€ Adulti
+**Costo:** 25€ Adulti
 
 *Abbonamenti Balza del Sole:* 5 escursioni / 90€
 
