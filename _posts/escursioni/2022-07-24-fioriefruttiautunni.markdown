@@ -2,7 +2,7 @@
 layout: post
 title:  "Fiori e frutti dell'Autunno (PU)"
 date:  2022-07-24 08:00:00 +0100
-day: "dom 12 ott 2024"
+day: "dom 13 ott 2024"
 meeting: "09:00"
 category: erboristeria
 distanza: 5 Km  
