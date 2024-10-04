@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Avventura campestre (PU)"
-date:  2022-07-27 19:00:00 +0100
-day: "ven 04 ott 2024"
+date:  2022-07-25 10:00:00 +0100
+day: "ven 11 ott 2024"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
