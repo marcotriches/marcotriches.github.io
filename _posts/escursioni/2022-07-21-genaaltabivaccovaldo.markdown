@@ -5,8 +5,9 @@ date:  2022-07-21 11:00:00 +0100
 day: "dom, 20 ott 2024"
 meeting: "08:00"
 category: dolomiti 
+distanza: 13 Km
 difficult: 5
-image: bds-09DIC-gena.jpg
+image: bivaccovaldo.jpg
 ---
 
 ## Valle del Mis, Valle Soffia e Val Feruch
@@ -23,7 +24,7 @@ Escursione alpina faticosa, consigliata agli amanti della montagna solitaria.
 **Oscar Schuster di Dresda nel 1905**
 
 
-**Ritrovo:** Bar Alla Soffia, Gena Bassa (Sospirolo - BL) ore 08:00
+**Ritrovo:** Sospirolo - BL ore 08:00
 
 **Rientro:** ore 15:00 circa 
 
@@ -33,11 +34,11 @@ Escursione alpina faticosa, consigliata agli amanti della montagna solitaria.
 
 **Dislivello in salita:**  1300 m. circa
 
-**Durata:** 6 ore circa
+**Durata:** 7 ore circa
 
 **Costo:** 25€ Adulti
 
-*Abbonamenti Balza del Sole:* 5 escursioni / 90€
+*Abbonamenti Balza del Sole:* 5 escursioni / 110€
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti in auto, bastoncini (chi li usa). 
 
