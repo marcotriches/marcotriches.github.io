@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 9 Km
 difficult: 2
-image: cosaaccadenelbosco.markdown
+image: cosaaccadenelbosco.jpg
 ---
 
 ## La magia degli alberi: riconoscerli, ascoltarli e contemplarli
