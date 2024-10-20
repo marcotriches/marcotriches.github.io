@@ -20,8 +20,9 @@ Percorreremo i sentieri CAI 225 e 221 da Serravalle di Carda a Fondarca, passand
 
 Un'occasione unica per respirare le atmosfere autunnali di questo angolo di Appennino, e seguire i racconti e le vicende di "Cantinflas", un contadino d'Appennino.
 
-Tutte le puntate del percorso potranno essere ascoltate al link: [http://www.balzadelsole.com/radio.html](http://www.balzadelsole.com/radio.html)
+Tutte le puntate del percorso potranno essere ascoltate al link: [https://www.balzadelsole.com/podcast](https://www.balzadelsole.com/podcast)
 Dove è possibile ascoltare il **le prime puntate.**
+
 
 **Ritrovo:** Cagli - PU ore 09:30
 
