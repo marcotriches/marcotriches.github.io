@@ -7,7 +7,7 @@ meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 2 Km
 difficult: 1
-image: semibacchepiante.jpg.jpg
+image: semibacchepiante.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
