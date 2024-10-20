@@ -2,7 +2,7 @@
 layout: post
 title:  "La Balza Forata, Monte Nerone (PU)"
 date:  2022-07-19 18:00:00 +0100
-day: "dom, 03 nov 2024"
+day: "dom, 3 nov 2024"
 meeting: "09:00"
 category: appennino 
 distanza: 12 Km
