@@ -23,8 +23,6 @@ Un'occasione unica per respirare le atmosfere autunnali di questo angolo di Appe
 Tutte le puntate del percorso potranno essere ascoltate al link: [http://www.balzadelsole.com/radio.html](http://www.balzadelsole.com/radio.html)
 Dove è possibile ascoltare il **le prime puntate.**
 
-**L'itinerario:** Con partenza dal paese di Moria (Cagli) risalita del Fosso della Rava con il Sentiero Italia CAI 200 a superare il rilievo della Roccaccia e la Rocchetta, cima del Monte Petrano. Rientro per sentiero CAI 274 e carrareccia.
-
 **Ritrovo:** Cagli - PU ore 09:30
 
 **Rientro:** ore 14:30 circa 
