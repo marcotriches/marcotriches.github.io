@@ -2,7 +2,7 @@
 layout: post
 title:  "Fondarca, Monte Nerone (PU)"
 date:  2022-07-20 18:00:00 +0100
-day: "ven, 01 nov 2024"
+day: "ven, 1 nov 2024"
 meeting: "09:30"
 category: appennino 
 distanza: 10 Km
