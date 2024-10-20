@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Semi, bacche, ghiande e piante (PU)"
-date:  2022-07-18 06:00:00 +0100
+date:  2022-07-23 06:00:00 +0100
 day: "ven 25 ott 2024"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
@@ -10,7 +10,7 @@ difficult: 1
 image: semibacchepiante.jpg.jpg
 ---
 
-## Nel mio paese c'è un bosco
+## Nel mio paese c'è un bosco  
 
 # Educazione ambientale fuori porta! 
 
