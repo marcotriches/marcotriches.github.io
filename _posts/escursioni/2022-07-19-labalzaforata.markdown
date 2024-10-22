@@ -22,7 +22,7 @@ Un itinerario vario, suggestivo e unico, accompagnato da letture e racconti del 
 
 **Ritrovo:** Cagli - PU ore 09:30
 
-**Rientro:** ore 14:30 circa 
+**Rientro:** ore 16:30 circa 
 
 **Difficoltà:** Media / E (Escursionistico)
 
