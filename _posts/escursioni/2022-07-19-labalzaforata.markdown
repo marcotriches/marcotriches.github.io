@@ -20,9 +20,9 @@ Un itinerario vario, suggestivo e unico, accompagnato da letture e racconti del 
 
 **L'itinerario:** Con partenza da Piobbico (364 m) risalita della Val d'Abisso con il sentiero CAI 201, passaggio della Balza Forata e rifugio Corsini. Cima Monte Nerone (1525 m). Successivamente in discesa con il Sentieri Italia fino all'anfiteatro naturale di Fondarca e il borgo di Pieia.
 
-**Ritrovo:** Cagli - PU ore 09:30
+**Ritrovo:** Cagli - PU ore 09:00
 
-**Rientro:** ore 16:30 circa 
+**Rientro:** ore 16:00 circa 
 
 **Difficoltà:** Media / E (Escursionistico)
 
@@ -34,7 +34,7 @@ Un itinerario vario, suggestivo e unico, accompagnato da letture e racconti del 
 
 **Costo:** 20€ Adulti, 15€ Minori
 
-*Abbonamenti Balza del Sole:* 5 escursioni / 65€
+*Abbonamenti escursioni lunghe Balza del Sole:* 5 escursioni / 65€
 
 **Portare:** Scarponi, giacca impermeabile, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa). 
 
