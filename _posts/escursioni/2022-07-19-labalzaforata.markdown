@@ -20,7 +20,7 @@ Un itinerario vario, suggestivo e unico, accompagnato da letture e racconti del 
 
 **L'itinerario:** Con partenza da Piobbico (364 m) risalita della Val d'Abisso con il sentiero CAI 201, passaggio della Balza Forata e rifugio Corsini. Cima Monte Nerone (1525 m). Successivamente in discesa con il Sentieri Italia fino all'anfiteatro naturale di Fondarca e il borgo di Pieia.
 
-**Ritrovo:** Cagli - PU ore 09:00
+**Ritrovo:** Piobbico (PU) - PU ore 09:00
 
 **Rientro:** ore 16:00 circa 
 
