@@ -5,7 +5,7 @@ date:  2022-07-17 18:00:00 +0100
 day: "dom, 10 nov 2024"
 meeting: "10:00"
 category: appennino 
-distanza: 8 Km
+distanza: 8Km
 difficult: 2
 image: pianacquadio.jpg
 ---
