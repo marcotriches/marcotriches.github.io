@@ -7,7 +7,7 @@ meeting: "10:00"
 category: appennino 
 distanza: 8Km
 difficult: 2
-image: pianacquadio.jpg
+image: pianacquadio1.jpg
 ---
 
 ## Parco Naturale Sasso Simone e Simoncello
