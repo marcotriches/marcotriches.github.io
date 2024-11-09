@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Tra gli Ulivi (PU)"
-date:  2022-07-16 18:00:00 +0100
-day: "dom, 17 nov 2024"
+date:  2022-07-14 18:00:00 +0100
+day: "dom, 24 nov 2024"
 meeting: "09:30"
 category: appennino 
 distanza: 7 Km
 difficult: 2
-image: tragliulivi.jpg
+image: tragliulivi1.jpg
 ---
 
 ## Prelato e Monte Giove
