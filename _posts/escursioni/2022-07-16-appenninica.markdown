@@ -17,7 +17,7 @@ image: montecatria.jpg
 Escursione delle più classiche nell'arco dell'Appennino umbromarchigiano, una cavalcata dal versante Settentrionale a quello Meridionale del Catria, che consente l'esplorazione integrale di una dell montagna più affascinanti del territorio.
 Dai boschi misti alle faggete e praterie sommitali, i panorami in quota e le discese lungo le affascinanti valli di Cantiano e Chiaserna. Un'escursione, nel periodo autunnale, che ci può calare negli ambienti intimi del nostro Appennino.
 
-**Appenninica** è un progetto di traversate montuose, con passo lento e conteplativo, e con la possibilità di condividere alcune tecniche base di viaggio. utili in casmmini e percorsi di più giorni, zaino in spalla.
+**Appenninica** è un progetto di traversate montuose, con passo lento e conteplativo, e con la possibilità di condividere alcune tecniche base di viaggio. utili in cammini e percorsi di più giorni, zaino in spalla.
 
 **L'itinerario:** Con partenza da Fonte Avellana (700 m) risalita del sentiero CAI 254 e CAI 250 fino alla fonte della Vernosa e all'omonimo rifugio (1500 m). Da lì possibilità di salita alla cima del Monte Catria (1701 m) e percorso in discesa alla Madonna degli Scout e Fonte del Faggio (1286 m). Con il lungo traverso del sentiero CAI 200 fino a Fonte Luca.
 *Trasferimento finale organizzato dalla guida per rientrare alle auto*
