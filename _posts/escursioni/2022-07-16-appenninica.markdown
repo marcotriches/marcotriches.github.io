@@ -19,7 +19,7 @@ Dai boschi misti alle faggete e praterie sommitali, i panorami in quota e le dis
 
 **Appenninica** è un progetto di traversate montuose, con passo lento e conteplativo, e con la possibilità di condividere alcune tecniche base di viaggio. utili in casmmini e percorsi di più giorni, zaino in spalla.
 
-**L'itinerario:** Con partenza da Fonte Avellana (700 m) risalita del sentiero CAI 254 e CAI 250 fino alla fonte della Vernosa e all'omonimo rifugio (1500 m). Da lì alla cima del Monte Catria (1701 m) e percorso in discesa alla Madonna degli Scout e Fonte del Faggio (1286 m). Con il lungo traverso del sentiero CAI 200 fino a Fonte Luca.
+**L'itinerario:** Con partenza da Fonte Avellana (700 m) risalita del sentiero CAI 254 e CAI 250 fino alla fonte della Vernosa e all'omonimo rifugio (1500 m). Da lì possibilità di salita alla cima del Monte Catria (1701 m) e percorso in discesa alla Madonna degli Scout e Fonte del Faggio (1286 m). Con il lungo traverso del sentiero CAI 200 fino a Fonte Luca.
 *Trasferimento finale organizzato dalla guida per rientrare alle auto*
 
 **Ritrovo:** Frontone (PU) - PU ore 09:00
@@ -28,7 +28,7 @@ Dai boschi misti alle faggete e praterie sommitali, i panorami in quota e le dis
 
 **Difficoltà:** Media / E (Escursionistico)
 
-**Dislivello in salita:**  1000 m. circa
+**Dislivello in salita:**  800 m *(Con opzionale salita al Monte Catria: 1000m)*
 
 **Distanza:** 12 Km
 
