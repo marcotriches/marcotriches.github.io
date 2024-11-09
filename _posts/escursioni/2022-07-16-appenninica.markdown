@@ -2,7 +2,7 @@
 layout: post
 title:  "Appenninica, Monte Catria (PU)"
 date:  2022-07-16 18:00:00 +0100
-day: "dom, 17 nov 2024"
+day: "dom 17 nov 2024"
 meeting: "09:00"
 category: appennino 
 distanza: 12Km
