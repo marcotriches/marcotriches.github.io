@@ -5,6 +5,7 @@ date:  2022-07-01 18:00:00 +0100
 day: "28-29-30-31 dic 2024"
 meeting: "09:30"
 category: appennino 
+distanza: 10 Km
 difficult: 2
 image: cammino4parchi.jpg
 ---
