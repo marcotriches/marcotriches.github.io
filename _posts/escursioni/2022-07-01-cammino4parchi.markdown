@@ -31,9 +31,9 @@ Nel corso delle escursioni ci soffermeremo su aspetti naturalistici, racconti de
 
 **Durata media:** 6 ore circa
 
-**Costo abbonamento 4 Parchi + Passaporto del cammino:** 70€
+**Costo abbonamento 4 Parchi + Passaporto del cammino:** 80€
 
-**Costo giornata singola + Passaporto del cammino:** 20€
+**Costo giornata singola + Passaporto del cammino:** 25€
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368) Guida Naturalistica delle Marche
 
