@@ -7,7 +7,7 @@ meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
 difficult: 1
-image: boscorifugio.jpg
+image: boscorifugio1.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
