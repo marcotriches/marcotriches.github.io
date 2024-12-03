@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Gena Alta e il Bivacco Valdo (BL)"
-date:  2022-07-19 11:00:00 +0100
-day: "dom, 20 ott 2024"
+date:  2022-07-02 11:00:00 +0100
+day: "dom, 22 dic 2024"
 meeting: "08:00"
 category: dolomiti 
 distanza: 13Km
