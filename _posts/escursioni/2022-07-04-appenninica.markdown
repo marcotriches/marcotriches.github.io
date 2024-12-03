@@ -21,13 +21,13 @@ Un'escursione, nel periodo autunnale, che ci può calare negli ambienti intimi d
 
 **Appenninica** è un progetto di traversate montuose, con passo lento e conteplativo, e con la possibilità di condividere alcune tecniche base di viaggio. utili in cammini e percorsi di più giorni, zaino in spalla.
 
-**L'itinerario:** Con partenza da Serra Samt'Abbondio (quota 520 m), risalita del sentiero CAI 137 al monte Calvello (quota 756 m) e al Monte Cilio (1121 m). Con percorso di cresta si raggiungono le cime del Monte Costarelle (1152 m) e Strega (1276 m). In discesa fino a Montelago (720 m). 
+**L'itinerario:** Con partenza da Serra Sant'Abbondio (quota 520 m), risalita del sentiero CAI 137 al monte Calvello (quota 756 m) e al Monte Cilio (1121 m). Con percorso di cresta si raggiungono le cime del Monte Costarelle (1152 m) e Strega (1276 m). In discesa fino a Montelago (720 m). 
 
 **Ritrovo:** Serra Sant'Abbondio (PU) ore 9:00
 
 **Difficoltà:** Media / E (Escursionistico)
 
-**Dislivello in salita:**  700 m *(Con opzionale salita al Monte Catria: 1000m)*
+**Dislivello in salita:**  800 m
 
 **Distanza:** 10 Km
 
