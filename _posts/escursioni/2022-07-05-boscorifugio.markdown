@@ -18,7 +18,7 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 
 **Un bosco un rifugio** è un percorso esplorativo nei suggestivi boschi di Fontecorniale: un luogo autentico e isolato, a portata di bambino.
 
-Percorreremo i ssentieri del luogo zigzagando tra le piante, alla ricerca dei suoni, dei colori e delle tracce sparse nel bosco.
+Percorreremo i sentieri del luogo zigzagando tra le piante, alla ricerca dei suoni, dei colori e delle tracce sparse nel bosco.
 
 Inoltre, cercheremo di orientarci!
 
