@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Castagni e sentieri, Beato Sante (PU)"
-date:  2022-07-15 06:00:00 +0100
-day: "ven 22 nov 2024"
+title:  "Un bosco un rifugio (PU)"
+date:  2022-07-05 06:00:00 +0100
+day: "ven 06 dic 2024"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
-distanza: 2 Km
+distanza: 3 Km
 difficult: 1
-image: castagnibeatosante.jpg
+image: boscorifugio.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -16,13 +16,13 @@ image: castagnibeatosante.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Castagni e sentieri nel bosco del Beato Sante** è un percorso esplorativo all'interno dello storico bosco vetusto, nel fitto della vegetazione nella sua veste autunnale.
+**Un bosco un rifugio** è un percorso esplorativo nei suggestivi boschi di Fontecorniale: un luogo autentico e isolato, a portata di bambino.
 
-Dotati di una mappa i piccoli esploratori cercheranno l'itinerario giusto per raggiungere gli ultimi castagni residui del bosco, incontrando e riconoscendo le varie specie arboree presenti.
+Percorreremo i ssentieri del luogo zigzagando tra le piante, alla ricerca dei suoni, dei colori e delle tracce sparse nel bosco.
 
-Una caccia al tesoro naturalistica introdotta e accompagnata da alcune letture a tema.
+Inoltre, cercheremo di orientarci!
 
-Nel corso dell'incontro proseguiremo la nostra collezione di semi e bacche, e proveremo a seminarne qualche esemplare!
+L'escursione è accompagnata da letture a tema.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
 
@@ -37,7 +37,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Dislivello in salita:**  100 m. circa
 
-**Distanza:** 2 Km
+**Distanza:** 3 Km
 
 **Durata:** 2 ore circa
 
