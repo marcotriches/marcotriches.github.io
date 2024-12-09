@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cammino4Parchi: Sasso Simone Simoncello (PU)"
+title:  "Cammino4Parchi: Sasso Simone (PU)"
 date:  2022-06-28 18:00:00 +0100
 day: "30 dic 2024"
 meeting: "09:30"
