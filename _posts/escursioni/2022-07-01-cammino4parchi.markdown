@@ -2,7 +2,7 @@
 layout: post
 title:  "Cammino dei 4 Parchi (PU)"
 date:  2022-07-01 18:00:00 +0100
-day: "28-29-30-31 dic 24"
+day: "28-29-30-31 dic24"
 meeting: "09:30"
 category: appennino 
 distanza: 10Km
