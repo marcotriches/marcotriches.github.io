@@ -4,7 +4,7 @@ title:  "Un bosco un rifugio (PU)"
 date:  2022-07-05 06:00:00 +0100
 day: "ven 13 dic 2024"
 meeting: "15:30"
-category: [appennino, educazione-ambientale]
+category: [appennino, educazione-ambientale, articoli]
 distanza: 3 Km
 difficult: 1
 image: boscorifugio.jpg
