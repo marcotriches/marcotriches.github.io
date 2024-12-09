@@ -2,7 +2,7 @@
 layout: post
 title:  "Cammino4Parchi: Gola del Furlo (PU)"
 date:  2022-06-29 18:00:00 +0100
-day: "29 dic 24"
+day: "29 dic 2024"
 meeting: "09:30"
 category: appennino 
 distanza: 7Km
