@@ -23,6 +23,7 @@ Si tratta della **terza tappa** del nostro cammino. Concluderemo con il *Bosco d
 Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
 
 **Itinerario:** Itinerario ad anello a partire dal Passo della Cantoniera (1004 metri). Con il sentiero CAI 118 alla sorgente del Mutino e al valico tra i due sassi. Percorso ad anello fino al Faggio Solitario e salita al Sasso Simone (1206 metri). Rientro al Passo della Cantoniera con sentiero CAI 119b.
+
 **Ritrovo:** Carpegna (PU) ore 09:30
 
 **Rientro:** 14:30 
