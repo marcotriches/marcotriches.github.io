@@ -34,7 +34,7 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **Distanza:** 9 Km
 
-**Durata:** 5 ore circa (incluse seste e pausa pranzo) + spostamenti in auto ai rifugio
+**Durata:** 5 ore circa (incluse seste e pausa pranzo) 
 
 **Costo giornata singola:** 18€
 
