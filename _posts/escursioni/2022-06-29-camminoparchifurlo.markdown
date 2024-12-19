@@ -11,6 +11,7 @@ image: camminodeiparchi2.jpg
 ---
 
 **4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino**
+
 **Gola del Furlo: panorami e terrazze dell'entroterra**
 
 Il Cammino dei 4 Parchi è un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
@@ -36,7 +37,7 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **Distanza:** 7 Km
 
-**Durata:** 4 ore circa (incluse seste e pausa pranzo) + spostamenti in auto ai rifugio
+**Durata:** 4 ore circa (incluse soste e pausa pranzo) + spostamenti in auto ai rifugio
 
 **Costo giornata singola:** 18€
 
