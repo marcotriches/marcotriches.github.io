@@ -11,6 +11,7 @@ image: camminodeiparchi4.jpg
 ---
 
 **4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino**
+
 **Bosco di Tecchie: Faggeta alta l'ultimo giorno dell'anno**
 
 Il Cammino dei 4 Parchi è un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
