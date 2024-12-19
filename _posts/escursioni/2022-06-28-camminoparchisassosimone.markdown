@@ -11,6 +11,7 @@ image: camminodeiparchi3.jpg
 ---
 
 **4 itinerari dedicati ai 4 Parchi Naturali della Provincia di Pesaro e Urbino**
+
 **Sasso Simone e Simoncello: il bosco, la Città del Sole, il confine**
 
 Il Cammino dei 4 Parchi è un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
@@ -34,7 +35,7 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **Distanza:** 9 Km
 
-**Durata:** 5 ore circa (incluse seste e pausa pranzo) 
+**Durata:** 5 ore circa (incluse soste e pausa pranzo) 
 
 **Costo giornata singola:** 18€
 
