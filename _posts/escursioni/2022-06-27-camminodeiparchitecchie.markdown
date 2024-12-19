@@ -15,7 +15,7 @@ image: camminodeiparchi4.jpg
 
 Il Cammino dei 4 Parchi è un viaggio a tappe nelle aree protette della Provincia di Pesaro e Urbino. Crediamo sia questo un modo adatto per conoscere da vicino alcuni dei luoghi naturalisticamente più importanti del nostro territorio.
 
-**Tappa 3:** Escursione intima d'Appennino all'interno del **Bosco di Tecchie** con un percorso che ci consentirà di esplorare alcuni dei luoghi più suggestivi: Cà Tecchie, la Faggeta Alta e la Valle del Fosso dei Cerreti. Un ultimo giorno dell'anno davvero solitario, silenzioso e suggestivo, negli ambienti e nei suoni della Natura invernale in uno dei boschi più antichi delle Marche.
+**Tappa 4:** Escursione intima d'Appennino all'interno del **Bosco di Tecchie** con un percorso che ci consentirà di esplorare alcuni dei luoghi più suggestivi: Cà Tecchie, la Faggeta Alta e la Valle del Fosso dei Cerreti. Un ultimo giorno dell'anno davvero solitario, silenzioso e suggestivo, negli ambienti e nei suoni della Natura invernale in uno dei boschi più antichi delle Marche.
 
 Si tratta dell'**ultima tappa** del nostro cammino. Appuntamento al prossimo anno!
 
@@ -33,7 +33,7 @@ Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di di
 
 **Distanza:** 10 Km
 
-**Durata:** 5 ore circa (incluse seste e pausa pranzo) + spostamenti in auto ai rifugio
+**Durata:** 5 ore circa (incluse soste e pausa pranzo) + spostamenti in auto ai rifugio
 
 **Costo giornata singola:** 18€
 
