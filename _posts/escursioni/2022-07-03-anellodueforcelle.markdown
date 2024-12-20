@@ -2,7 +2,7 @@
 layout: post
 title:  "Anello delle 2 Forcelle (BL)"
 date:  2022-07-03 11:00:00 +0100
-day: "sab, 21 dic 2024"
+day: "dom, 22 dic 2024"
 meeting: "09:00"
 category: dolomiti 
 distanza: 11 Km
@@ -14,8 +14,9 @@ image: anellodueforcelle.jpg
 
 # Parco Nazionale Dolomiti Bellunesi
 
-Un'escursione suggestiva e romantica tra mulattiere, piccoli boschi e paesi nascosti tra le valli e le svolte. Il territorio tra Forcella Franche e Forcella Aurine è punteggiato di nuclei abitati minuscoli, protetti dalla vegetazione e ormai poco abitati, ma preserva intatte le vcaratteristiche tipiche della cultura alpina e della montagna veneta.
-Andremo alla scoperta di questi scendari con un itinerario semplice, adatto agli amanti del cammino nella Natura.
+Un’escursione suggestiva e romantica tra mulattiere, piccoli boschi e paesi nascosti tra le valli e le svolte, il tutto circondati dalla nuova neve caduta in queste ore nelle Dolomiti!
+
+Il territorio tra Forcella Franche e Forcella Aurine è punteggiato di nuclei abitati minuscoli, protetti dalla vegetazione e ormai poco abitati, ma preserva intatte le vcaratteristiche tipiche della cultura alpina e della montagna veneta. Andremo alla scoperta di questi scendari con un itinerario semplice, adatto agli amanti del cammino nella Natura.
 
 Oltre ai paesi di Valchesina, Tiser, Stalliviere, Stamere e Lagon, visita alle due forcelle e al **Cristo delle Traversade.**
 
