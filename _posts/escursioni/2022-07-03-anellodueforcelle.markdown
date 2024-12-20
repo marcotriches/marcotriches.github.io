@@ -7,7 +7,7 @@ meeting: "09:00"
 category: dolomiti 
 distanza: 11 Km
 difficult: 2
-image: anellodueforcelle.jpg
+image: .jpg
 ---
 
 ## Tra i Monti del Sole e l'Agnèr, tra mulattiere e paesi nascosti
