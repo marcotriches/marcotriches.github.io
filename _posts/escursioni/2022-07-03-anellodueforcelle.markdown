@@ -2,7 +2,7 @@
 layout: post
 title:  "Anello delle 2 Forcelle (BL)"
 date:  2022-07-03 11:00:00 +0100
-day: "dom, 22 dic 2024"
+day: "dom 22 dic 2024"
 meeting: "09:00"
 category: dolomiti 
 distanza: 11 Km
