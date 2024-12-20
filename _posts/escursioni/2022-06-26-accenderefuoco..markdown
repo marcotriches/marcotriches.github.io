@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Come si accende un fuoco?"
-date:  2022-06-05 26:00:00 +0100
+date:  2022-06-26 26:00:00 +0100
 day: "dom 5 gen 2025"
 meeting: "10:00"
 category: [appennino, educazione-ambientale]
