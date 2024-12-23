@@ -8,6 +8,7 @@ category: appennino
 distanza: 9 Km  
 difficult: 2
 image: montemarinocampagna.jpg
+---
 
 ## Una collina come un'onda del mare
 
