@@ -1,27 +1,30 @@
 ---
 layout: post
-title:  "Fondarca, Monte Nerone (PU)"
-date:  2022-07-20 18:00:00 +0100
-day: "ven, 1 nov 2024"
+title:  "Sasso della Rocca, Monte Nerone (PU)"
+date:  2022-06-25 18:00:00 +0100
+day: "lun, 6 gen 2025"
 meeting: "09:30"
 category: appennino 
-distanza: 10 Km
+distanza: 8 Km
 difficult: 2
-image: fondarcanerone.jpg
+image: sassodellarocca.jpg
 ---
 
-## Nell'anfiteatro natutrale del monte Nerone
+## Nelle pieghe e nascondigli del monte Nerone
 
 # Cammini e racconti: "Cantinflas, Storia di un contadino appenninico" 
 
 Un viaggio nei solitari e affascinanti borghi del monte Nerone, tra piccole valli, sentieri di montagna, luoghi appartati e storie. 
 
-Percorreremo i sentieri CAI 225 e 221 da Serravalle di Carda a Fondarca, passando per Pieia. 
+Un'occasione unica per respirare le atmosfere solitarie di questo angolo di Appennino.
 
-Un'occasione unica per respirare le atmosfere autunnali di questo angolo di Appennino, e seguire i racconti e le vicende di "Cantinflas", un contadino d'Appennino.
+Percorso adatto anche in caso di neve, possibilità di salita al Sasso della Rocca (quota 845 metri).
+
+Percorreremo la carrareccia che da Pieia conduce al Sasso della Rocca e al Sasso del Re, soffermandoci nell'ascolto della natura invernale e nel racconto delle vicende di **Cantinflas**, contadino appenninico. 
+Dalla sua fuga da Montelago e il Monte Strega, al lungo viaggio per Fonte Avellana e il monte Petrano, fino al rifugio di Pieia. La sorte di Cantinflas sembra ancora mutare con un nuovo imprevedibile evento. 
 
 Tutte le puntate del percorso potranno essere ascoltate al link: [https://www.balzadelsole.com/podcast](https://www.balzadelsole.com/podcast)
-Dove è possibile ascoltare il **le prime puntate.**
+Dove è possibile ascoltare **le prime puntate.**
 
 
 **Ritrovo:** Cagli - PU ore 09:30
@@ -32,7 +35,7 @@ Dove è possibile ascoltare il **le prime puntate.**
 
 **Dislivello in salita:**  250 m. circa
 
-**Distanza:** 10 Km
+**Distanza:** 8 Km
 
 **Durata:** 5 ore circa (soste e pausa pranzo incluse)
 
