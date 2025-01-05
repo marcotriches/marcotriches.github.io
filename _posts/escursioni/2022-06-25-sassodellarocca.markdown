@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino 
 distanza: 8 Km
 difficult: 2
-image: sassodellarocca.jpg
+image: sassodellarocca12.jpg
 ---
 
 ## Nelle pieghe e nascondigli del monte Nerone
