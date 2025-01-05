@@ -2,7 +2,7 @@
 layout: post
 title:  "Sasso della Rocca, Monte Nerone (PU)"
 date:  2022-06-25 18:00:00 +0100
-day: "lun, 6 gen 2025"
+day: "dom, 12 gen 2025"
 meeting: "09:30"
 category: appennino 
 distanza: 8 Km
