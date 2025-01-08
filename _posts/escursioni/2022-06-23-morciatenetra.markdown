@@ -10,7 +10,7 @@ difficult: 2
 image: morciatenetra.jpg
 ---
 
-## pensii, pendici e colli del Monte Catria
+## Pendii, pendici e colli del Monte Catria
 
 # Un percorso invernale alle spalle del Monte Catria, tra sentieri, boschi e neve 
 
