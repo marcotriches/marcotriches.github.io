@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Carpegna, Pianacquadio (PU)"
-date:  2022-06-24 18:00:00 +0100
-day: "dom, 19 gen 2025"
+date:  2022-06-22 18:00:00 +0100
+day: "sab, 1 feb 2025"
 meeting: "10:00"
 category: appennino 
 distanza: 8Km
 difficult: 2
-image: carpegnainverno.jpg
+image: carpegnainverno1.jpg
 ---
 
 ## Parco Naturale Sasso Simone e Simoncello
