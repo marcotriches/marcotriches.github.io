@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Futuri per boschi (PU)"
-date:  2022-06-25 08:00:00 +0100
-day: "ven 17 gen 2025"
+title:  "Alberi per arrampicare (PU)"
+date:  2022-06-23 020:00:00 +0100
+day: "ven 24 gen 2025"
 meeting: "10:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: futuriperboschi.jpg
+image: alberiarrampicare.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -16,13 +16,15 @@ image: futuriperboschi.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Futuri per boschi** è un viaggio libero e a portata di bambino nei boschi accoglienti e intimi di Fontecorniale. 
+**Alberi per arrampicare** è un viaggio libero e a portata di bambino nei boschi accoglienti e intimi di Fontecorniale, dove andremo a caccia di alberi dove poter salire. 
 
 Durante il nostro percorso, tra boschi, campi e sentieri, cercheremo di orientarci in tappeti di foglie, tracce di animali e piccole valli.
 
 Accoglieremo l'arrivo del buio al riparo tra gli alberi, imparando a conoscerne le virtù salvifiche per l'uomo.
 
+
 Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi dai 4 agli 11 anni.
+
 
 **Età adatta:** Da 4 a 11 anni
 
