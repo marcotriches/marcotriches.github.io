@@ -33,7 +33,7 @@ Gli itinerari sono previsti come delle singole giornate di viaggio. Il trasferim
 
 **Difficoltà:** Medio / E (Escursionistico)
 
-**Dislivello in salita medio:** 300 m. circa
+**Dislivello in salita medio:** 400 m. circa
 
 **Distanza media:** 12 Km
 
