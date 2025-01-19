@@ -8,9 +8,11 @@ category: appennino
 distanza: 4 tappe
 difficult: 2
 image: camminodapesaroaurbino.jpg
+
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
+
 **Pesaro, Ginestreto, Fontecorniale, Montebello, Cesane, Urbino**
 
 Il Cammino da Pesaro a Urbino è un viaggio inedito attraverso quello scrigno di cultura, natura e socialità che è rappresentato dalla collina marchigiana. 
@@ -19,6 +21,7 @@ Dalla costa dell'Adriatico, lungo le vallate di fiumi e torrenti alle prime altu
 
 Le **domeniche di Marzo** saranno dedicate a questo viaggio, in parte naturalistico ed escursionistico, ed in parte letterario grazie ai racconti e alle poesie di **Paolo Volponi**, con suggestioni tratte dall'Appennino Contadino.
 
+**Il simbolo di questo Cammino** è la piantaggine: pianta spontanea tipica degli incolti, dei margini dei campi e anche lungo i sentieri sassosi. Specie rustica e medicamentosa, tipica della nostra tradizione rurale.
 
 Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
 
