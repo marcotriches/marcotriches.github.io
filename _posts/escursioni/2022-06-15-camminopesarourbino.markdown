@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino 
 distanza: 4 tappe
 difficult: 2
-image: camminodapesaroaurbino.jpgi.jpg
+image: camminodapesaroaurbino.jpg
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
