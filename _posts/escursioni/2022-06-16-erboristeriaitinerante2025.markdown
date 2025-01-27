@@ -10,14 +10,6 @@ difficult: 1
 image: erboristeriaitinerante2025.jpg
 ---
 
----
-layout: post
-title:  "Erboristeria Itinerante 2025"
-date:  2025-01-27 13:00:00 +0100
-category: diari  
-image: erboristeriaitinerante2025.jpg
----
-
 ## Erboristeria Itinerante: itinerari floristici
 
 # Passeggiate e laboratori in compagnia di Giulia Maschera, erborista
