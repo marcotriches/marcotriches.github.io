@@ -14,15 +14,15 @@ Pochi passi, pochi chilometri consentono un viaggio affascinante tra le fioritur
 
 Ecco le date del nostro ciclo di incontri nei colori mutevoli delle fioriture delle Marche:
 
-**Sabato 22 Febbraio - Erbe sui tuoi Passi**
+**Sabato 22 Febbraio    -    Erbe sui tuoi Passi**
 
-**Domenica 23 Marzo  - Equinozio di Primavera**
+**Domenica 23 Marzo     -    Equinozio di Primavera**
 
-**Domenica 27 Aprile - Domite e Indomite**
+**Domenica 27 Aprile    -    Domite e Indomite**
 
-**Domenica 25 Maggio - Festa dei Fiori**
+**Domenica 25 Maggio    -    Festa dei Fiori**
 
-**Domenica 22 Giugno - Le piante del Solstizio**
+**Domenica 22 Giugno    -    Le piante del Solstizio**
 
 Le attività prevedono una **passeggiata di riconoscimento** dove impareremo a riconoscere alcune delle specie principali che fioriscono o fruttificano in questo periodo dell'anno con un percorso semplice e davvero suggestivo. 
 
