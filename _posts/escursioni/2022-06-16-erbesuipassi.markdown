@@ -7,7 +7,7 @@ meeting: "09:30"
 category: erboristeria
 distanza: 4 Km  
 difficult: 1
-image: erbesuipassi2.jpg
+image: erbesuipassi1.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici con Giulia Maschera, erborista
