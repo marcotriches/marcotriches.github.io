@@ -2,7 +2,7 @@
 layout: post
 title:  "Le erbe sui tuoi passi (PU)"
 date:  2022-06-16 06:00:00 +0100
-day: "sab, 22 feb"
+day: "sab, 22 feb 2025"
 meeting: "09:30"
 category: erboristeria
 distanza: 4 Km  
