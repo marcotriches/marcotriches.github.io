@@ -7,7 +7,7 @@ meeting: "10:00"
 category: appennino 
 distanza: 9Km
 difficult: 2
-image: morciatenetra.jpg
+image: barcone.jpg
 ---
 
 ## Gruppo del Monte Nerone
