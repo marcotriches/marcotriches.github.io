@@ -14,7 +14,7 @@ image: carpegnainverno2.jpg
 
 # Cammini e racconti: Percorso naturalistico con racconti dedicati al bosco e ai suoi alberi 
 
-Escursione in un ambiente unico, quello della **faggeta di Pianacquadio** e della cima del monte Carpegna, nella sua veste invernale e innevata.
+Escursione in un ambiente unico, quello della **faggeta di Pianacquadio** e della cima del monte Carpegna, nella sua veste invernale.
 
 Un piccolo lembo di bosco composto in prevalenza di faggi, ma anche aceri, tigli e sorbi. 
 
