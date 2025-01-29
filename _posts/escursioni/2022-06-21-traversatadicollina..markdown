@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Alberi per arrampicare (PU)"
-date:  2022-06-23 020:00:00 +0100
-day: "ven 24 gen 2025"
-meeting: "10:00"
+title:  "Una traversata di collina (PU)"
+date:  2022-06-21 020:00:00 +0100
+day: "ven 07 feb 2025"
+meeting: "15:30"
 category: [appennino, educazione-ambientale]
-distanza: 4 Km
+distanza: 5 Km
 difficult: 1
-image: alberiarrampicare.jpg
+image: traversatacollina.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -16,11 +16,11 @@ image: alberiarrampicare.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Alberi per arrampicare** è un viaggio libero e a portata di bambino nei boschi accoglienti e intimi di Fontecorniale, dove andremo a caccia di alberi dove poter salire. 
+**Una traversata di collina** è una vera e propria avventura a portata di bambino nelle colline di Monteciccardo, Fontecorniale e Mombaroccio. 
 
-Durante il nostro percorso, tra boschi, campi e sentieri, cercheremo di orientarci in tappeti di foglie, tracce di animali e piccole valli.
+Durante il nostro percorso cercheremo di trovare i sentieri giusti per raggiungere la meta del nostro itinerario: la valle dell'Arzilla.
 
-Accoglieremo l'arrivo del buio al riparo tra gli alberi, imparando a conoscerne le virtù salvifiche per l'uomo.
+Impareremo a leggere una carta, a orientarla e a individuare i punti di riferimento e a leggere il paesaggio in base a dove dobbiamo andare. 
 
 
 Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi dai 4 agli 11 anni.
@@ -28,7 +28,7 @@ Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi d
 
 **Età adatta:** Da 4 a 11 anni
 
-**Ritrovo:** Fontecorniale (PU) ore 15:00
+**Ritrovo:** Fontecorniale (PU) ore 15:30
 
 **Rientro:** ore 17:30
 
@@ -36,7 +36,7 @@ Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi d
 
 **Dislivello in salita:**  150 m. circa
 
-**Distanza:** 4 Km
+**Distanza:** 5 Km
 
 **Durata:** 2 ore e 30 circa
 
