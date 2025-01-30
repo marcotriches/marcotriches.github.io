@@ -2,7 +2,7 @@
 layout: post
 title:  "Rifugio Antelao con Giovanna Zangrandi (BL)"
 date:  2022-06-20 11:00:00 +0100
-day: "dom 09 feb 2025"
+day: "dom 9 feb 2025"
 meeting: "08:00"
 category: dolomiti 
 distanza: 15 Km
