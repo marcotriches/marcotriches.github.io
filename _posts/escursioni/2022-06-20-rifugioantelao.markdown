@@ -5,7 +5,7 @@ date:  2022-06-20 11:00:00 +0100
 day: "dom 09 feb 2025"
 meeting: "08:00"
 category: dolomiti 
-distanza: 12 Km
+distanza: 15 Km
 difficult: 2
 image: rifugioantelao.jpg
 ---
@@ -20,9 +20,11 @@ Giovanna Zangrandi non è stata solo una scrittrice, ma anche una donna protagon
 
 Seguiremo il nostro itinerario di giornata soffermandoci sulle ricchezze naturali del territorio, il paesaggio ed anche i racconti. Raggiungeremo al termine il rifugio Antelao (quota 1796 m), voluto e costruito proprio da Giovanna Zangrandi nel 1948.
 
+Dopo una breve sosta in rifugio (*il rifugio è aperto con possibilità di mangiare e bere qualcosa!*) rientro con possibilità di percorso ad anello.
+
 Grazie alla preziosa collaborazione di **MonteRosa Edizioni**, per la copertina del libro (ad opera di **Silvia Benetollo**) che compare nel volantino.
 
-**L'itinerario:** Con partenza da Pozzale di Cadore (quota 1100 metri), salita per il sentiero CAI 250 al monte Tranego (1849 m) e, per la Forcella Antracisa al rifugio Antelao (1796 m). Possibilità di un rientro ad anello o lungo lo stesso sentiero.
+**L'itinerario:** Con partenza da Pozzale di Cadore (quota 1100 metri), salita per mulattiera al monte Tranego (1849 m) e, per la Forcella Antracisa al rifugio Antelao (1796 m). Possibilità di un rientro ad anello (per il rifugio Pra Piccolo) o lungo lo stesso sentiero.
 
 
 **Ritrovo:** Pieve di Cadore - BL ore 08:00
