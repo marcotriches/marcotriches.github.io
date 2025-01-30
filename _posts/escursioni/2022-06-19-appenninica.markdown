@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Appenninica, Monte Strega (PU)"
-date:  2022-07-04 18:00:00 +0100
-day: "dom 15 dic 2024"
+date:  2022-06-19 18:00:00 +0100
+day: "sab 15 feb 2024"
 meeting: "09:00"
 category: appennino 
 distanza: 10Km
