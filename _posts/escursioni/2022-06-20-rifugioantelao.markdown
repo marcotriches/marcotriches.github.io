@@ -7,7 +7,7 @@ meeting: "08:00"
 category: dolomiti 
 distanza: 12 Km
 difficult: 2
-image: anellodueforcelle1.jpg
+image: rifugioantelao.jpg
 ---
 
 ## Una escursione con i racconti di Giovanna Zangrandi
