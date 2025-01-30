@@ -33,7 +33,7 @@ Grazie alla preziosa collaborazione di **MonteRosa Edizioni**, per la copertina 
 
 **Lunghezza:** 12 Km
 
-**Dislivello in salita:**  800 m. circa
+**Dislivello in salita:**  900 m. circa
 
 **Durata:** 6 ore circa (incluse soste e pranzo al sacco)
 
