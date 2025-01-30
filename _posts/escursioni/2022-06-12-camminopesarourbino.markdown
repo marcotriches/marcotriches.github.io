@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cammino da Pesaro a Urbino (PU)"
-date:  2022-06-15 18:00:00 +0100
+date:  2022-06-12 18:00:00 +0100
 day: "Marzo 2025"
 meeting: "09:30"
 category: appennino 
