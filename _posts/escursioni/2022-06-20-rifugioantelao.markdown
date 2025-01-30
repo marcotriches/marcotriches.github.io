@@ -12,7 +12,7 @@ image: rifugioantelao.jpg
 
 ## Una escursione con i racconti di Giovanna Zangrandi
 
-# Dal libro "Non voglio consigli, non voglio comandi - Racconti di una vita libera", MonteRosa Edizioni
+# Dal libro "Non voglio comandi, non voglio consigli - Racconti di una vita libera", MonteRosa Edizioni
 
 Un'escursione suggestiva in un itinerario classico delle Dolomiti Bellunesi, con un tocco particolare di storie, racconti e letteratura grazie alla raccolta di racconti curata da **Silvia Benetollo** per **MonteRosa Edizioni**.
 
