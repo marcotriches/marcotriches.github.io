@@ -22,7 +22,7 @@ Seguiremo il nostro itinerario di giornata soffermandoci sulle ricchezze natural
 
 Grazie alla preziosa collaborazione di **MonteRosa Edizioni**, per la copertina del libro (ad opera di **Silvia Benetollo**) che compare nel volantino.
 
-**L'itinerario:** Con partenza da Pozzale di Cadore (quota 1100 metri), salita per il sentiero CAI 250 al monte Tranego (1849 m) e, per la Forcella Antracisa al rifugio Antelao (1796 m). Rientro per lo stesso sentiero.
+**L'itinerario:** Con partenza da Pozzale di Cadore (quota 1100 metri), salita per il sentiero CAI 250 al monte Tranego (1849 m) e, per la Forcella Antracisa al rifugio Antelao (1796 m). Possibilità di un rientro ad anello o lungo lo stesso sentiero.
 
 
 **Ritrovo:** Pieve di Cadore - BL ore 08:00
