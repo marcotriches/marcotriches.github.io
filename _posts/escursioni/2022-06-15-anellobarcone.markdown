@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Anello del Barcone (PU)"
-date:  2022-06-18 18:00:00 +0100
-day: "sab, 15 feb 2025"
+date:  2022-06-15 18:00:00 +0100
+day: "dom, 23 feb 2025"
 meeting: "10:00"
 category: appennino 
 distanza: 9Km
 difficult: 2
-image: barcone.jpg
+image: barcone1.jpg
 ---
 
 ## Gruppo del Monte Nerone
