@@ -33,7 +33,7 @@ Grazie alla preziosa collaborazione di **MonteRosa Edizioni**, per la copertina 
 
 **Difficoltà:** E (Escursionisti)
 
-**Lunghezza:** 12 Km
+**Lunghezza:** 15 Km
 
 **Dislivello in salita:**  900 m. circa
 
