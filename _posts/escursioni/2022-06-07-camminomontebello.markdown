@@ -5,9 +5,9 @@ date:  2022-06-07 18:00:00 +0100
 day: "dom, 23 mar 2025"
 meeting: "09:00"
 category: appennino 
-distanza: 12 Km
+distanza: 16 Km
 difficult: 2
-image: pu-ginestreto.jpg
+image: pu-montebello.jpg
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
@@ -19,7 +19,7 @@ Il Cammino da Pesaro a Urbino è un viaggio inedito attraverso quello scrigno di
 Dalla costa dell'Adriatico, lungo le vallate di fiumi e torrenti alle prime alture, mosaico di coltivazioni, frutteti e boschi. Poi i crinali solitari delle colline fra Montefelcino e Isola del Piano, il monastero di Montebello e l'eredità culturale e agricola di Girolomoni. Infine la foresta delle Cesane fino a Urbino.
 
 
-La **seconda tappa** prevede il passaggio in uno dei tratti più selvatici dell'intero percorso. Piccoli boschi, ruscelli, campi aperti e crinali di collina, le atmosfere della campagna solitaria ed intima del primo entroterra. Dal borgo di Ginestreto, le valli del fosso del Gatto e del torrente Arzilla, infine Montemarino e Fontecoriniale.
+La **terza tappa** coincide con la campagna al confine tra il territorio pesarese e quello urbinate. Il paese storico di Montefelcino, Scotaneto, le valli di Isola del Piano e il poggio dove sorge Montebello, luogo simbolo della tradizione agricola biologica della provincia. Un tratto questo del percorso dedicato all'agricoltura che cerca di convivere con la ricchezza naturalistica.
 
 Il percorso è accompagnato dai racconti e alle poesie di **Paolo Volponi**, con suggestioni tratte dall'Appennino Contadino.
 
@@ -39,13 +39,13 @@ Gli itinerari sono previsti come delle singole giornate di viaggio. Il trasferim
 
 **Difficoltà:** Medio / E (Escursionistico)
 
-**Dislivello in salita:** 400 m. circa
+**Dislivello in salita:** 500 m. circa
 
-**Distanza:** 12 Km
+**Distanza:** 16 Km
 
-**Durata:** 5 ore circa
+**Durata:** 6 ore circa
 
-**Rientro:** ore 15:00 circa 
+**Rientro:** ore 16:00 circa 
 
 **Costo cammino Passaporto del cammino:** 80€
 
