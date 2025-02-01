@@ -3,7 +3,7 @@ layout: post
 title:  "Cammino PU: Ginestreto"
 date:  2022-06-11 18:00:00 +0100
 day: "dom, 2 mar 2025"
-meeting: "09:30"
+meeting: "09:00"
 category: appennino 
 distanza: 20 Km
 difficult: 2
@@ -44,6 +44,8 @@ Gli itinerari sono previsti come delle singole giornate di viaggio. Il trasferim
 **Distanza:** 20 Km
 
 **Durata:** 6 ore circa
+
+**Rientro:** ore 16:00 circa 
 
 **Costo cammino Passaporto del cammino:** 80€
 
