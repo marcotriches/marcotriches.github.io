@@ -19,7 +19,7 @@ Il Cammino da Pesaro a Urbino è un viaggio inedito attraverso quello scrigno di
 Dalla costa dell'Adriatico, lungo le vallate di fiumi e torrenti alle prime alture, mosaico di coltivazioni, frutteti e boschi. Poi i crinali solitari delle colline fra Montefelcino e Isola del Piano, il monastero di Montebello e l'eredità culturale e agricola di Girolomoni. Infine la foresta delle Cesane fino a Urbino.
 
 
-La **seconda tappa** prevede il passaggio in uno dei tratti più selvatici dell'intero percorso. Piccoli boschi, ruscelli, campi aperti e crinali di collina, le atmosfere della campagna solitaria ed intima del primo entroterra.
+La **seconda tappa** prevede il passaggio in uno dei tratti più selvatici dell'intero percorso. Piccoli boschi, ruscelli, campi aperti e crinali di collina, le atmosfere della campagna solitaria ed intima del primo entroterra. Dal borgo di Ginestreto, le valli del fosso del Gatto e del torrente Arzilla, infine Montemarino e Fontecoriniale.
 
 Il percorso è accompagnato dai racconti e alle poesie di **Paolo Volponi**, con suggestioni tratte dall'Appennino Contadino.
 
@@ -43,7 +43,7 @@ Gli itinerari sono previsti come delle singole giornate di viaggio. Il trasferim
 
 **Distanza:** 12 Km
 
-**Durata:** 6 ore circa
+**Durata:** 5 ore circa
 
 **Rientro:** ore 15:00 circa 
 
