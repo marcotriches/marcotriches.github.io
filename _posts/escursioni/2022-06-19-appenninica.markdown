@@ -17,7 +17,7 @@ image: traversatastrega.jpg
 Escursione panoramica nell'arco dell'Appennino umbromarchigiano, alle porte del Parco Naturale del Monte Cucco. Un piccolo viaggio al confine tra le province di Ancona, Pesaro Urbino e Gubbio, nel cuore della natura contadina e selvatica della nostra montagna.
 Il monte Strega e tutta la sua cresta (Costarelle - Cilio) sono certamente un luogo unico dove camminare, osservare e adcoltare.
 
-Un'escursione, nel periodo autunnale, che ci può calare negli ambienti intimi del nostro Appennino.
+Un'escursione, nel periodo invernale, che ci può calare negli ambienti intimi del nostro Appennino.
 
 **Appenninica** è un progetto di traversate montuose, con passo lento e conteplativo, e con la possibilità di condividere alcune tecniche base di viaggio. utili in cammini e percorsi di più giorni, zaino in spalla.
 
