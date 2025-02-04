@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sulle tracce (PU)"
-date:  2022-06-15 020:00:00 +0100
+date:  2022-06-17 020:00:00 +0100
 day: "ven 21 feb 2025"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
