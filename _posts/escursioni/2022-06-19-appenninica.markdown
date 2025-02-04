@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 10Km
 difficult: 3
-image: traversatastrega.jpg
+image: traversatastrega1.jpg
 ---
 
 ## Una traversata d'Appennino: il Monte Strega
