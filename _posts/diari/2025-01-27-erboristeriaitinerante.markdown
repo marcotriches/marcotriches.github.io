@@ -3,7 +3,7 @@ layout: post
 title:  "Erboristeria Itinerante 2025"
 date:  2025-01-27 13:00:00 +0100
 category: diari  
-image: erboristeriaitinerante2025.jpg
+image: calendario-erboristeria-itinerante.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici
@@ -14,7 +14,7 @@ Pochi passi, pochi chilometri consentono un viaggio affascinante tra le fioritur
 
 Ecco le date del nostro ciclo di incontri nei colori mutevoli delle fioriture delle Marche:
 
-**Sabato 22 Febbraio    -    Erbe sui tuoi Passi**
+**Domenica 09 Marzo     -    Erbe sui tuoi Passi**
 
 **Domenica 23 Marzo     -    Equinozio di Primavera**
 
