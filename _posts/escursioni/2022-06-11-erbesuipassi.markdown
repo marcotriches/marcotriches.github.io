@@ -1,24 +1,24 @@
 ---
 layout: post
 title:  "Le erbe sui tuoi passi (PU)"
-date:  2022-06-16 06:00:00 +0100
-day: "sab, 22 feb 2025"
+date:  2022-06-11 02:00:00 +0100
+day: "dom, 09 mar 2025"
 meeting: "09:30"
 category: erboristeria
-distanza: 4 Km  
+distanza: 3 Km  
 difficult: 1
-image: erbesuipassi2.jpg
+image: erbesuipassi3.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici con Giulia Maschera, erborista
 
-**Le erbe sui tuoi passi** è una passeggiata tardo invernale nei nostri campi alla ricerca delle erbe commestibili.
+**Le erbe sui tuoi passi** è una mattinata di riconoscimento con raccolta, alle porte della primavera, nei nostri campi alla ricerca delle erbe commestibili.
 
-A fine Febbraio le erbe di campo non mancano. Per chi desidera imparare a riconoscerle, questo appuntamento è l'occasione giusta!
+A inizio Marzo le erbe di campo non mancano. Per chi desidera imparare a riconoscerle, questo appuntamento è l'occasione giusta!
 
 Mostreremo come distinguere le principali specie, ne impareremo nomi, caratteristiche botaniche, storie e proprietà.
 
-L'attività prevede una **passeggiata di riconoscimento copn raccolta**. 
+L'attività prevede una **breve passeggiata di riconoscimento con raccolta**. 
 
 
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
