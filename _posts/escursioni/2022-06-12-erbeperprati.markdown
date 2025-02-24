@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Sulle tracce (PU)"
-date:  2022-06-17 020:00:00 +0100
-day: "ven 21 feb 2025"
+title:  "Erbe per prati prati per bambini (PU)"
+date:  2022-06-12 02:00:00 +0100
+day: "ven 7 mar 2025"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
-distanza: 4 Km
+distanza: 2 Km
 difficult: 1
-image: sulletracce1.jpg
+image: erbeperprati.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -16,13 +16,12 @@ image: sulletracce1.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Sulle tracce** è un'esplorazione, lungo piste di terra, delle tracce che lasciano gli animali.
+**Erbe per prati, prati per bambini** è un'esplorazione floristica, con Giulia Maschera erborista, lungo i nostri prati alle porte della Primavera.
+Giocheremo insieme e impareremo a riconoscere alcune delle erbe mangerecce, da raccogliere e portare a casa per una bella piadina!
 
-Chi passa? Dove va? Quanto è grande? chi è?
+Un percorso divertente e istruttivo per dare qualche strumento in più ai nostri piccoli esploratori.
 
-Queste sono le domande che ci faremo nel nostro percorso e proveremo insieme a rispondere, con qualche tecnica base.
-
-L'incontro è accompagnato da letture e avventure lungo le sponde del torrente Arzilla!
+L'incontro è accompagnato da letture a tema!
 
 Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi dai 4 agli 11 anni.
 
@@ -35,9 +34,9 @@ Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi d
 
 **Difficoltà:** Facilissimo 
 
-**Dislivello in salita:**  150 m. circa
+**Dislivello in salita:**  50 m. circa
 
-**Distanza:** 4 Km
+**Distanza:** 2 Km
 
 **Durata:** 2 ore e 30 circa
 
