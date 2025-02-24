@@ -5,7 +5,7 @@ date:  2022-06-11 18:00:00 +0100
 day: "dom, 2 mar 2025"
 meeting: "09:00"
 category: appennino 
-distanza: 20 Km
+distanza: 20Km
 difficult: 2
 image: pu-ginestreto.jpg
 ---
