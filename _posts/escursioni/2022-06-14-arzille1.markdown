@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arzille: i Profondi (PU)"
+title:  "Arzille/a piedi: Profondi (PU)"
 date:  2022-06-14 04:00:00 +0100
 day: "sab, 1 mar 2025"
 meeting: "15:00"
