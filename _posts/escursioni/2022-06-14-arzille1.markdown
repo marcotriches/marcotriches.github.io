@@ -2,7 +2,7 @@
 layout: post
 title:  "Arzille: i Profondi (PU)"
 date:  2022-06-14 04:00:00 +0100
-day: "Primavera 2025"
+day: "sab, 1 mar 2025"
 meeting: "15:00"
 category: appennino
 distanza: 6 Km  
