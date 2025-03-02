@@ -2,7 +2,7 @@
 layout: post
 title:  "Cammino PU: Ginestreto"
 date:  2022-06-11 05:00:00 +0100
-day: "dom, 2 mar 2025"
+day: "dom, 9 mar 2025"
 meeting: "09:00"
 category: appennino 
 distanza: 20Km
