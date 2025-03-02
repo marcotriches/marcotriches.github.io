@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le erbe sui tuoi passi (PU)"
-date:  2022-06-11 02:00:00 +0100
+date:  2022-06-11 04:00:00 +0100
 day: "dom, 09 mar 2025"
 meeting: "09:30"
 category: erboristeria
