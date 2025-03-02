@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 12 Km
 difficult: 2
-image: pu-fontecorniale.jpg
+image: pu-fontecorniale1.jpg
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
