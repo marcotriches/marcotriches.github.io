@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 20Km
 difficult: 2
-image: pu-ginestreto.jpg
+image: pu-ginestreto1.jpg
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
