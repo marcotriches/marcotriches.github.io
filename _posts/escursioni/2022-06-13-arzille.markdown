@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arzille passeggiate e merenda (PU)"
-date:  2022-06-13 05:00:00 +0100
+date:  2022-06-13 03:00:00 +0100
 day: "Primavera 2025"
 meeting: "15:00"
 category: appennino
