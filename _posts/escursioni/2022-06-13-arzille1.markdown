@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Arzille/a piedi: Salice e promontorio (PU)"
-date:  2022-06-11 04:00:00 +0100
+date:  2022-06-13 04:00:00 +0100
 day: "sab, 15 mar 2025"
 meeting: "15:30"
 category: appennino
 distanza: 5 Km  
 difficult: 2
-image: arzille11.jpg
+image: arzillesalice.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
