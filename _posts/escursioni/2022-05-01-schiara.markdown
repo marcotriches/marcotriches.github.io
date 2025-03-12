@@ -18,7 +18,7 @@ image: schiara_settembre.jpg
 Un progetto in collaborazione con **Welcome Dolomiti** 
 
 Per tutte le informazioni:
-[https://www.welcomedolomiti.it/viaggi/schiara-trekking-dolomit/)]([https://www.welcomedolomiti.it/viaggi/schiara-trekking-dolomit/)
+[https://www.welcomedolomiti.it/viaggi/schiara-trekking-dolomit/](https://www.welcomedolomiti.it/viaggi/schiara-trekking-dolomit/)
 
 Siamo felici di proporre questo viaggio di 3 giorni lungo un percorso classico delle Dolomiti: Il giro intorno all Schiara e parte dell'**Alta Via N.1**.
 
