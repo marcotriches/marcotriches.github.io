@@ -7,7 +7,7 @@ meeting: "09:00"
 category: dolomiti 
 distanza: 3 gg
 difficult: 4
-image: schiara_settembre.jpg
+image: schiara_settembre1.jpg
 ---
 
 ## Un viaggio classico nel Parco Nazionale Dolomiti Bellunesi
