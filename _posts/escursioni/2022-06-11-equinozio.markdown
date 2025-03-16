@@ -2,24 +2,21 @@
 layout: post
 title:  "Le erbe sui tuoi passi (PU)"
 date:  2022-06-11 04:00:00 +0100
-day: "dom, 9 mar 2025"
+day: "dom, 23 mar 2025"
 meeting: "09:30"
 category: erboristeria
-distanza: 3 Km  
+distanza: 5 Km  
 difficult: 1
-image: erbesuipassi3.jpg
+image: equinozio.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici con Giulia Maschera, erborista
 
-**Le erbe sui tuoi passi** è una mattinata di riconoscimento con raccolta, alle porte della primavera, nei nostri campi alla ricerca delle erbe commestibili.
+**Equinozio di Primavera** è una mattinata immersi nei colori, nelle fioriture e nella rinascita della nostra vegetazione, alla scoperta di proprietà, caratteristiche, forme e nomi della flora che ci circonda.
 
-A inizio Marzo le erbe di campo non mancano. Per chi desidera imparare a riconoscerle, questo appuntamento è l'occasione giusta!
+Tra alberi e prati percorreremo i sentieri di una piccola collina dove, lungo i vari versanti, vedremo spuntare i fiori che verranno e quelli che già sono pronti a sbocciare.
 
-Mostreremo come distinguere le principali specie, ne impareremo nomi, caratteristiche botaniche, storie e proprietà.
-
-L'attività prevede una **breve passeggiata di riconoscimento con raccolta**. 
-
+In compagnia di **Giulia Maschera** conosceremo alcune delle caratteristiche erboristiche delle piante incontrate e trascorreremo una domenica nelle atmosfere quiete della nostra campagna.
 
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
 
