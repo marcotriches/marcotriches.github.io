@@ -2,7 +2,7 @@
 layout: post
 title:  "Cammino PU: Urbino"
 date:  2022-06-05 18:00:00 +0100
-day: "dom, 30 mar 2025"
+day: "dom, 6 apr 2025"
 meeting: "09:00"
 category: appennino 
 distanza: 15 Km
