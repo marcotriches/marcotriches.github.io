@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le erbe sui tuoi passi (PU)"
+title:  "Equinozio di Primavera (PU)"
 date:  2022-06-11 04:00:00 +0100
 day: "dom, 23 mar 2025"
 meeting: "09:30"
