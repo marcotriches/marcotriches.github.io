@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 16 Km
 difficult: 2
-image: pu-montebello1.jpg
+image: pu-montebello.jpg
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
