@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 15 Km
 difficult: 2
-image: pu-urbino.jpg
+image: pu-urbino1.jpg
 ---
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
