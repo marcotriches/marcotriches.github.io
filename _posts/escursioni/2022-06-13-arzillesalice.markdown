@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Arzille/a piedi: Salice e promontorio (PU)"
+title:  "Arzille/a piedi: Primavera vista mare (PU)"
 date:  2022-06-13 04:00:00 +0100
-day: "sab, 15 mar 2025"
+day: "sab, 22 mar 2025"
 meeting: "15:30"
 category: appennino
-distanza: 5 Km  
+distanza: 6 Km  
 difficult: 2
 image: arzillesalice.jpg
 ---
@@ -14,9 +14,11 @@ image: arzillesalice.jpg
 
 # + merenda contadina con prodotti del territorio
 
-Salice e promontorio è una passeggiata nelle atmosfere rurali delle nostre colline accompagnati da **Roberto Malavolta** intrecciatore, che ci guiderà alla scoperta di una delle piante più importanti della nostra tradizione contadina: il salice.
+**Primavera vista mare** è una passeggiata tra boschi e stradine di campagna in uno dei luoghi più panoramici del nostro entroterra. 
 
-Percorreremo i sentieri di campagna con ampi panorami verso l'entroterra, sosteremo in ascolto delle storie del salice e parteciperemo a una piccola raccolta dei suoi rami, così importanti per la fabbricazione dei cesti d'uso comune della nostra tradizione rurale.
+Cammineremo esplorando la vegetazione all'inizio della primavera, conoscendone fiori e alberi in un percorso tra colori e scorci panoramici isolato e suggestivo.
+
+Sosteremo in ascolto delle storie del territorio e dei suoni della Natura, per poi rientrare e rifocillarci con una merenda genuina.
 
 Una semplice passeggiata in un luogo storico ed ancor oggi coltivato secondo la tradizione campestre del territorio.
 
