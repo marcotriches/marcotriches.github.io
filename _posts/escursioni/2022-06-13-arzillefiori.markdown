@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Arzille/a piedi: Primavera vista mare (PU)"
+title:  "Arzille/a piedi: fiori di Primavera (PU)"
 date:  2022-06-13 04:00:00 +0100
-day: "sab, 22 mar 2025"
+day: "sab, 29 mar 2025"
 meeting: "15:30"
 category: appennino
-distanza: 6 Km  
+distanza: 5 Km  
 difficult: 2
-image: arzillemare.jpg
+image: arzillefiori.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
 
 # + merenda contadina con prodotti del territorio
 
-**Primavera vista mare** è una passeggiata tra boschi e stradine di campagna in uno dei luoghi più panoramici del nostro entroterra. 
+**Fiori di Primavera** è una passeggiata in compagnia di **Giulia Maschera, erborista** nel nostro piccolo territorio d'entroterra.
 
-Cammineremo esplorando la vegetazione all'inizio della primavera, conoscendone fiori e alberi in un percorso tra colori e scorci panoramici isolato e suggestivo.
+Tra alberi e prati percorreremo i sentieri di una piccola collina dove, lungo i vari versanti, vedremo spuntare i fiori che verranno e quelli che già sono pronti a sbocciare.
 
 Sosteremo in ascolto delle storie del territorio e dei suoni della Natura, per poi rientrare e rifocillarci con una merenda genuina.
 
