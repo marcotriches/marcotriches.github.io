@@ -5,7 +5,7 @@ date:  2022-06-07 18:00:00 +0100
 day: "dom, 30 mar 2025"
 meeting: "09:00"
 category: appennino 
-distanza: 16 Km
+distanza: 16Km
 difficult: 2
 image: pu-montebello.jpg
 ---
