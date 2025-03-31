@@ -1,24 +1,26 @@
 ---
 layout: post
-title:  "Arzille/a piedi: fiori di Primavera (PU)"
-date:  2022-06-13 04:00:00 +0100
-day: "sab, 29 mar 2025"
+title:  "Arzille/a piedi: paesaggi sonori (PU)"
+date:  2022-06-06 01:30:00 +0100
+day: "sab, 5 apr 2025"
 meeting: "15:30"
 category: appennino
 distanza: 5 Km  
 difficult: 2
-image: arzillefiori.jpg
+image: arzillesonore.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
 
 # + merenda contadina con prodotti del territorio
 
-**Fiori di Primavera** è una passeggiata in compagnia di **Giulia Maschera, erborista** nel nostro piccolo territorio d'entroterra.
+**Paesaggi sonori** è una passeggiata in compagnia dei suoni ambientali del nostro piccolo territorio d'entroterra.
 
-Tra alberi e prati percorreremo i sentieri di una piccola collina dove, lungo i vari versanti, vedremo spuntare i fiori che verranno e quelli che già sono pronti a sbocciare.
+Tra alberi e prati percorreremo i sentieri di una piccola collina dove, lungo i vari versanti, vedremo spuntare icolori della Natura pruimaverile e potremo sostare in ascolto dei canti e dei suoni che provengono dal paesaggio.
 
-Sosteremo in ascolto delle storie del territorio e dei suoni della Natura, per poi rientrare e rifocillarci con una merenda genuina.
+Una sorta di cammino meditativo!
+
+Conm un percorso variegato tra piccoli boschi, frutteti e prati potremo poi rientrare per rifocillarci con una merenda genuina.
 
 Una semplice passeggiata in un luogo storico ed ancor oggi coltivato secondo la tradizione campestre del territorio.
 
