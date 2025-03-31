@@ -2,7 +2,7 @@
 layout: post
 title:  "Schiara (BL)"
 date:  2022-05-01 16:00:00 +0100
-day: "Dal 26/09 al 28/09"
+day: "26-27-28/09"
 meeting: "09:00"
 category: dolomiti 
 distanza: 3 gg
