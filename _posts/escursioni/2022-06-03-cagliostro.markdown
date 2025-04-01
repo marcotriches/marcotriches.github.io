@@ -16,7 +16,7 @@ image: cagliostro.jpg
 
 Il 13 Aprile 1791 Giovanni Balsamo, soprattutto noto con il nome di Alessandro conte di Cagliostro, viene imprigionato nella fortezza di San Leo, dove morirà il 26 Agosto 1795.
 
-Ripercorreremo la sua parabola umana, fatta di luci e ombre, magia e inganno, con una panoramica traversata lungo la cresta dei monti Tausani, che conduce proprio alla fortezza di Cagliostri.
+Ripercorreremo la sua parabola umana, fatta di luci e ombre, magia e inganno, con una panoramica traversata lungo la cresta dei monti Tausani, che conduce proprio alla fortezza di San Leo.
 
 Con partenza da Pietracuta per il monte Fotogno, il paese di Tausano e i monti Gregorio e Penna di Gesso, per raggiungere il Valico della Biforca, il convento di Sant'Igne (fondato da San Francesco nel 1231) e infine San Leo.
 
