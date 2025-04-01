@@ -12,7 +12,7 @@ image: pu-urbino1.jpg
 
 **Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
 
-**Pesaro, Parco Miralfiore, fiume Foglia, Ginestreto**
+**Montebello, Cesane, Urbino**
 
 Il Cammino da Pesaro a Urbino è un viaggio inedito attraverso quello scrigno di cultura, natura e socialità che è rappresentato dalla collina marchigiana. 
 
