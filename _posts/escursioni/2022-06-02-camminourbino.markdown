@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Cammino PU: Urbino"
-date:  2022-06-05 18:00:00 +0100
-day: "dom, 6 apr 2025"
+date:  2022-06-02 18:00:00 +0100
+day: "dom, 21 apr 2025"
 meeting: "09:00"
 category: appennino 
 distanza: 15 Km
 difficult: 2
-image: pu-urbino1.jpg
+image: pu-urbino2.jpg
 ---
 
-**Un cammino in quattro tappe dall'Adriatico alla Città Ducale**
+**A Pasquetta l'arrivo alla Città Ducale, possibilità di merenda**
 
 **Montebello, Cesane, Urbino**
 
