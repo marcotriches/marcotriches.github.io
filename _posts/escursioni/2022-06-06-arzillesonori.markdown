@@ -2,12 +2,12 @@
 layout: post
 title:  "Arzille/a piedi: paesaggi sonori (PU)"
 date:  2022-06-06 01:30:00 +0100
-day: "sab, 5 apr 2025"
+day: "sab, 12 apr 2025"
 meeting: "15:30"
 category: appennino
 distanza: 5 Km  
 difficult: 2
-image: arzillesonore.jpg
+image: arzillesonore2.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
