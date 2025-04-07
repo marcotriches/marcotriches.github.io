@@ -7,7 +7,7 @@ meeting: "15:30"
 category: appennino
 distanza: 5 Km  
 difficult: 2
-image: arzillesonore2.jpg
+image: arzillesonore1.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
