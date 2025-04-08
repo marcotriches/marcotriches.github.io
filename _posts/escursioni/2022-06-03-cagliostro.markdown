@@ -3,7 +3,7 @@ layout: post
 title:  "Cagliostro, San Leo (RN)"
 date:  2022-06-03 18:00:00 +0100
 day: "dom 13 apr 2025"
-meeting: "09:00"
+meeting: "10:00"
 category: appennino 
 distanza: 16Km
 difficult: 2
@@ -26,7 +26,7 @@ Il nostro sarà un viaggio accompagnato da letture e momenti di silenzio ed asco
 
 *Percorso di sola andata a piedi! Il rientro dal paese di San Leo a Pietracuta verrà organizzato dalla guida!*
 
-**Ritrovo:** Pietracuta (RN) ore 09:00
+**Ritrovo:** Pietracuta (RN) ore 10:00
 
 **Rientro:** ore 16:00 circa 
 
