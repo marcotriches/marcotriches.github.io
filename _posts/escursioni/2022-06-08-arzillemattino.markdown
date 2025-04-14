@@ -1,41 +1,37 @@
 ---
 layout: post
-title:  "Arzille/a piedi: paesaggi sonori (PU)"
-date:  2022-06-06 01:30:00 +0100
+title:  "Arzille/a piedi: panorami campagna (PU)"
+date:  2022-06-08 01:30:00 +0100
 day: "sab, 12 apr 2025"
-meeting: "15:30"
+meeting: "09:30"
 category: appennino
 distanza: 5 Km  
 difficult: 2
-image: arzillesonore1.jpg
+image: arzillemattina.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
 
 # + merenda contadina con prodotti del territorio
 
-**Paesaggi sonori** è una passeggiata in compagnia dei suoni ambientali del nostro piccolo territorio d'entroterra.
+**Panorami di campagna** è una passeggiata in compagnia lungo boschi e crinali delle nostre campagne, alla scoperta nella Natura e delle storie che la compongono.
 
-Tra alberi e prati percorreremo i sentieri di una piccola collina dove, lungo i vari versanti, vedremo spuntare icolori della Natura pruimaverile e potremo sostare in ascolto dei canti e dei suoni che provengono dal paesaggio.
+Un punto di vista insolito sul territorio del primo entroterra, un viaggio alle porte di casa adatto a tutti e davvero sorprendente.  
 
-Una sorta di cammino meditativo!
-
-Conm un percorso variegato tra piccoli boschi, frutteti e prati potremo poi rientrare per rifocillarci con una merenda genuina.
-
-Una semplice passeggiata in un luogo storico ed ancor oggi coltivato secondo la tradizione campestre del territorio.
+Con un percorso variegato tra piccoli boschi, frutteti e prati potremo poi rientrare per rifocillarci con una merenda genuina.
 
 Arzille è un progetto in collaborazione con la **Proloco di Monteciccardo**. Un'esplorazione in piccoli gruppi nel territorio del **Piccolo Appennino** con un ciclo di camminate e itinerari in bicicletta per andare a esplorare alcuni degli angoli più affascinanti del complesso di valli e colline tra Monteciccardo, Mombaroccio e Fontecorniale.
 
 A seguire **merenda contadina** grazie a  **Forno Mulino Giacomo Nobili**, **Formaggi Manca**, **Paci Cantine**
 
 
-**Ritrovo:** Villa Ugolini (Pesaro - PU) ore 15:30
+**Ritrovo:** Villa Ugolini (Pesaro - PU) ore 09:30
 
 **Difficoltà:** Facile / E (Escursionistico)
 
 **Durata:** 3 ore circa
 
-**Termine:** 19:00
+**Termine:** 12:30
 
 **Costo:** 20€ (complessivo di passeggiata e merenda)
 
