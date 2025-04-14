@@ -5,7 +5,7 @@ date:  2022-06-07 18:00:00 +0100
 day: "dom, 21 apr 2025"
 meeting: "09:00"
 category: appennino 
-distanza: 15 Km
+distanza: 15Km
 difficult: 2
 image: pu-urbino2.jpg
 ---
