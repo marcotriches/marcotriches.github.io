@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 15Km
 difficult: 2
-image: pu-urbino2.jpg
+image: pu-urbino-pasquetta.jpg
 ---
 
 **A Pasquetta l'arrivo alla Città Ducale, possibilità di merenda**
