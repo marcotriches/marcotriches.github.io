@@ -29,7 +29,7 @@ Il percorso è accompagnato dai racconti e alle poesie di **Paolo Volponi**, con
 Ogni partecipante potrà dotarsi del **Passaporto del cammino**, una sorta di diario di viaggio dove timbrare le 4 tappe del percorso, annotare appunti e seguire gli schizzi degli itinerari.
 
 
-**E' possibile accorciare l'itinerario con un ritrovo intermedio lungo il fiume Foglia**
+**E' possibile accorciare l'itinerario con un ritrovo intermedio**
 
 
 **Gli itinerari:** Gli itinerari del Cammino da Pesaro a Urbino sono escursionistici: prevedono una media preparazione e attitudine al cammino così come all’ambiente campestre e naturale. Sono comunque percorsi adatti a quasi tutti, con ritmo lento e molto spazio per le osservazioni e il riposo.
