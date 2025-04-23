@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Una questione privata (PU)"
-date:  2022-06-05 18:00:00 +0100
+date:  2022-06-07 18:00:00 +0100
 day: "ven 25 apr 2025"
 meeting: "09:30"
 category: appennino 
