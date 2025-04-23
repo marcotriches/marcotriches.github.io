@@ -7,7 +7,7 @@ meeting: "09:30"
 category: erboristeria
 distanza: 5 Km  
 difficult: 1
-image: domiteeindomite1.jpg
+image: domiteeindomite2.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici con Giulia Maschera, erborista
