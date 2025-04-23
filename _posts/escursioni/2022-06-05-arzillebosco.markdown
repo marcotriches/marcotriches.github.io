@@ -2,12 +2,12 @@
 layout: post
 title:  "Arzille/a piedi: nel bosco (PU)"
 date:  2022-06-05 01:30:00 +0100
-day: "sab, 26 apr 2025"
-meeting: "15:30"
+day: "dom, 27 apr 2025"
+meeting: "09:30"
 category: appennino
 distanza: 6 Km  
 difficult: 2
-image: arzillebosco.jpg
+image: arzillebosco1.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
@@ -31,7 +31,7 @@ Arzille è un progetto in collaborazione con la **Proloco di Monteciccardo**. Un
 A seguire **merenda contadina** grazie a  **Forno Mulino Giacomo Nobili**, **Formaggi Manca**, **Paci Cantine**
 
 
-**Ritrovo:** Fontecorniale (Montefelcino - PU) ore 15:30
+**Ritrovo:** Fontecorniale (Montefelcino - PU) ore 09:30
 
 **Difficoltà:** Facile / E (Escursionistico)
 
@@ -39,7 +39,7 @@ A seguire **merenda contadina** grazie a  **Forno Mulino Giacomo Nobili**, **For
 
 **Durata:** 3 ore circa
 
-**Termine:** 19:00
+**Termine:** 13:30 circa
 
 **Costo:** 20€ (complessivo di passeggiata e merenda)
 
