@@ -2,8 +2,8 @@
 layout: post
 title:  "Arzille/a piedi: pcollina magica (PU)"
 date:  2022-06-03 01:30:00 +0100
-day: "sab, 3 mag 2025"
-meeting: "15:30"
+day: "sab, 17 mag 2025"
+meeting: "16:00"
 category: appennino
 distanza: 6 Km  
 difficult: 2
@@ -16,6 +16,8 @@ image: collinamagica.jpg
 
 **Collina magica** è una passeggiata davvero selvatica in una delle colline più affascinanti del nostro entroterra: Montemarino.
 
+Un'esperienza suggestiva con il rientro al calare della sera e le luci del tramonto.
+
 Dal fondo valle ombroso e ricco d'acqua ai pendii assolati di arbusti e flora spontanea, fino ai boschi sommitali e le ginestre in fiore.
 
 Un viaggio unico in una collina unica nel suo genere, con un panorama a 360 gradi verso il mare.
@@ -27,13 +29,13 @@ Arzille è un progetto in collaborazione con la **Proloco di Monteciccardo**. Un
 A seguire **merenda contadina** grazie a  **Forno Mulino Giacomo Nobili**, **Formaggi Manca**, **Paci Cantine**
 
 
-**Ritrovo:** Villa Ugolini (Pesaro - PU) ore 15:30
+**Ritrovo:** Villa Ugolini (Pesaro - PU) ore 16:00
 
 **Difficoltà:** Facile / E (Escursionistico)
 
 **Durata:** 4 ore circa (inclusa merenda)
 
-**Termine:** 19:30
+**Termine:** 20:00
 
 **Costo:** 20€ (complessivo di passeggiata e merenda)
 
