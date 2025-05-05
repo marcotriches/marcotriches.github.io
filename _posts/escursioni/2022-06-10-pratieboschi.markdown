@@ -1,38 +1,37 @@
 ---
 layout: post
 title:  "Sul monte Catria (PU)"
-date:  2022-05-30 18:00:00 +0100
-day: "dom 4 mag 2025"
+date:  2022-06-10 18:00:00 +0100
+day: "dom 11 mag 2025"
 meeting: "09:30"
 category: appennino 
-distanza: 10Km
+distanza: 9Km
 difficult: 2
-image: catria.jpg
+image: pratieboschi.jpg
 ---
 
-## Una salita con racconti di viaggio
+## Una cammino alla scoperta delle atmosfere del nostro Appennino
 
-# Da Fonte Luca, Fonte del Faggio e cima monte Catria
+# Da Frontone a Fonte Avellana
 
-Escursione con racconti lungo i pendii del monte Catria per raggiungerne la cima e godere dei suoi ampi panorami.
+Escursione appenninica i pendii del monte Catria per raggiungerne il monastero di Fonte Avellana.
 
 Un viaggio accompagnato da letture e momenti di silenzio ed ascolto, nella contemplazione della natura nel pieno della Primavera.
 
-Percorreremo i sentieri che conducono lungo tutto il versante meridionale del monte Catria: da Fonte Luca, Fonte del Faggio, la Sella dell'Infilatoio, il rifugio della Vernosa.  
+Percorreremo i sentieri che conducono lungo i crinali settentrionali del monte Catria: Monte Roma, Campomiele e la Val Canale.
 
-*Possibilità di accorciare il percorso con termine al rifugio della Vernosa*
 
-**Ritrovo:** Chiaserna, Cantiano (PU) ore 09:30
+**Ritrovo:** Frontone (PU) ore 09:30
 
 **Rientro:** ore 15:30 circa 
 
 **Difficoltà:** Medio / E (Escursionistico)
 
-**Dislivello in salita:**  700 m. circa
+**Dislivello in salita:**  400 m. circa
 
-**Distanza:** 10 Km
+**Distanza:** 9 Km
 
-**Durata:** 5 ore circa (soste e pausa pranzo incluse)
+**Durata:** 6 ore circa (soste e pausa pranzo incluse)
 
 **Costo:** 18€ Adulti, 12€ Minori
 
