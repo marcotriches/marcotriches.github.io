@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sul monte Catria (PU)"
+title:  "Prati e boschi (PU)"
 date:  2022-06-10 18:00:00 +0100
 day: "dom 11 mag 2025"
 meeting: "09:30"
