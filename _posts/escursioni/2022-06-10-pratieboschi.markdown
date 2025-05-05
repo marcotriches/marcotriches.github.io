@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prati e boschi (PU)"
+title:  "Prati e boschi d'Appennino (PU)"
 date:  2022-06-10 18:00:00 +0100
 day: "dom 11 mag 2025"
 meeting: "09:30"
@@ -10,7 +10,7 @@ difficult: 2
 image: pratieboschi.jpg
 ---
 
-## Una cammino alla scoperta delle atmosfere del nostro Appennino
+## Un cammino alla scoperta delle atmosfere del nostro Appennino
 
 # Da Frontone a Fonte Avellana
 
