@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arzille/a piedi: pcollina magica (PU)"
+title:  "Arzille/a piedi: collina magica (PU)"
 date:  2022-06-03 01:30:00 +0100
 day: "sab, 17 mag 2025"
 meeting: "16:00"
