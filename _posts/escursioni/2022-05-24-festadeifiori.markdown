@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Domite e Indomite (PU)"
-date:  2022-06-01 04:00:00 +0100
-day: "gio, 1 mag 2025"
+title:  "Festa dei Fiori (PU)"
+date:  2022-05-24 04:00:00 +0100
+day: "dom, 25 mag 2025"
 meeting: "09:30"
 category: erboristeria
 distanza: 5 Km  
 difficult: 1
-image: domiteeindomite2.jpg
+image: festadeifiori2.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici con Giulia Maschera, erborista
 
-**Domite e Indomite** è una mattinata immersi nei colori e nelle fioriture della nostra flora di Aprile, alla scoperta di proprietà, caratteristiche, forme e nomi di c iò che ci circonda.
+La**Festa dei Fiori** è un saluto alla tarda primavera immersi nei colori e nei profumi delle fioriture che accompagnano i nostri campi in questo periodo: salvie, lavande, elicrisi e piante spontanee.
 
-Tra alberi e prati percorreremo i sentieri di una piccola collina dove, lungo i vari versanti, vedremo spuntare i fiori che verranno e quelli che ci sono già: troveremo specie tipiche, esemplari rari, coltivi e incolti.
+Un percorso sensoriale alla scoperta dei piccoli e grandi giardini che vivono ai margini o nel mezzo dei campi del primo entroterra marchigiano.
 
 In compagnia di **Giulia Maschera** conosceremo alcune delle caratteristiche erboristiche delle piante incontrate e trascorreremo una domenica nelle atmosfere quiete della nostra campagna.
 
