@@ -7,7 +7,7 @@ meeting: "08:00"
 category: dolomiti 
 distanza: 15Km
 difficult: 3
-image: montagnaaltritempi.jpg
+image: montagnefieno.jpg
 ---
 
 ## Traversata del monte Valaraz: una montagna dimenticata
