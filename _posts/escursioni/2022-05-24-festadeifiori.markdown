@@ -2,7 +2,7 @@
 layout: post
 title:  "Festa dei Fiori (PU)"
 date:  2022-05-24 04:00:00 +0100
-day: "dom, 25 mag 2025"
+day: "dom 25 mag 2025"
 meeting: "09:30"
 category: erboristeria
 distanza: 5 Km  
