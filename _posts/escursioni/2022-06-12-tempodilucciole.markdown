@@ -2,12 +2,12 @@
 layout: post
 title:  "Tempo di lucciole (PU)"
 date:  2022-06-12 03:00:00 +0100
-day: "ven 16 mag 2025"
-meeting: "16:30"
+day: "ven 23 mag 2025"
+meeting: "17:30"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: tempodilucciole.jpg
+image: tempodilucciole2.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
