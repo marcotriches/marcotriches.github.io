@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Arzille/a piedi: collina magica (PU)"
-date:  2022-06-03 01:30:00 +0100
-day: "sab, 17 mag 2025"
+date:  2022-05-22 01:30:00 +0100
+day: "sab, 31 mag 2025"
 meeting: "16:00"
 category: appennino
 distanza: 6 Km  
 difficult: 2
-image: collinamagica.jpg
+image: collinamagica3.jpg
 ---
 
 ## Arzille: passeggiate a piedi e in bicicletta nel Piccolo Appennino
