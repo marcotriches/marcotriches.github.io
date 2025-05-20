@@ -30,7 +30,7 @@ Durante il percorso verranno proposte soste di contemplazione, ascolto e lettura
 
 **Distanza:** 6 Km
 
-**Durata:** 7 ore circa (soste e pausa pranzo incluse)
+**Durata:** 5 ore circa (soste e pausa pranzo incluse)
 
 **Costo:** 18€ Adulti, 12€ Minori
 
