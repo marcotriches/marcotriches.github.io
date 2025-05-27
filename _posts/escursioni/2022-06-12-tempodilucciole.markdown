@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Tempo di lucciole (PU)"
+title:  "Accamparsi per la notte (PU)"
 date:  2022-06-12 03:00:00 +0100
-day: "ven 23 mag 2025"
+day: "ven 30 mag 2025"
 meeting: "17:30"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: tempodilucciole2.jpg
+image: accamparsi.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -16,23 +16,22 @@ image: tempodilucciole2.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Tempo di lucciole** è un percorso pomerifiano e serale alla scoperta delle atmosfere primaverili della nostra collina, in attesa dell'arrivo delle lucciole.
+**Accamparsi per la notte** è un'avventura per piccole e piccoli esploratori. Una collina, il buio che sopraggiunge, le storie, le atmosfere di una notte di viaggio. Percorreremo piccoli sentieri tra boschetti e prati, osserveremo la natura e ascolteremo alcuni racconti. Impareremo insieme a piantare una tenda, come se dovessimo dormire all'aperto. Pic nic serale.
 
 Un piccolo viaggio a pochi passi da casa.
 
 **Il programma prevede:**
 
-- Escursione pomerifiana tra sentieri e boschetti
+- Escursione pomeridiana tra sentieri e boschetti
+- Montaggio di una tenda
 - Pic nic serale e attesa del buio e delle lucciole
-
-Percorreremo sentieri di collina, esploreremo l'ambiente che ci circonda, ascolteremo i suoni della natura.
 
 L'incontro, come di consueto, è accompagnato da letture a tema!
 
 Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi dai 5 agli 11 anni.
 
 
-**Ritrovo:** Villa Ugolini (PU) ore 16:30
+**Ritrovo:** Villa Ugolini (PU) ore 17:30
 
 **Termine:** ore 21:00 
 
@@ -40,7 +39,7 @@ Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi d
 
 **Dislivello in salita:**  100 m. circa
 
-**Distanza:** 5 Km
+**Distanza:** 4 Km
 
 **Durata:** 3 ore e 30 circa (cammino, pic nic)
 
