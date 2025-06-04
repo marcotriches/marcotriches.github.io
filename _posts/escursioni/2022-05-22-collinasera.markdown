@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Piccolo appennino + Selvatica (PU)"
+title:  "Piccolo appennino e Selvatica (PU)"
 date:  2022-05-22 01:30:00 +0100
 day: "dom, 08 giu 2025"
 meeting: "17:30"
