@@ -2,7 +2,7 @@
 layout: post
 title:  "Civetta: Tappa 2 (BL)"
 date:  2022-05-03 11:00:00 +0100
-day: "sab, 30 ago 2025"
+day: "dom, 31 ago 2025"
 meeting: "08:00"
 category: dolomiti 
 distanza: 13Km
@@ -14,26 +14,22 @@ image: civetta2.jpg
 
 # Dolomiti di Val di Zoldo
 
-Prima tappa del giro integrale del Monte Civetta lungo il versante agordino del monte: quello delle pareti strapiombanti sugli abitati di Alleghe e Listolade. 
-Un percorso lungo il tracciato dell'Alta Via N.1 che consdente il passaggio lungo le sponde del lago Coldai, il rifugio Tissi, Vazzoler e Carestiato.
+Seconda tappa del giro integrale del Monte Civetta lungo il versante zoldano del monte. Un itinerario in quota sopra la Val di Pécol e le sorgenti del torrente Maè, lungo il Sentiero Angelini. 
 
-Si tratta di una classica delle Dolomiti Bellunesi, affrontata con calma e con vari momenti di sosta per letture, ascolti e contemplazioni.
-
-Con partenza da Palafavera (quota 1507 m), con il sentiero CAI 556 al Rifugio Sonnino al Coldai (2132 m) e il lago Coldai (2143 m). Lunga traversata del fianco Settentrionale e Occidentale del monte Civetta con il sentiero CAI 560 fino al Rifugio Vazzoler (1714 m).
-Termine escursione sotto le pareti meridionali della Moiazza, il rifugio Carestiato e il Passo Duran (1601 m).
+Si tratta di un'escursione lungo pendii, ghiaioni e arbusteti, al cospetto delle pareti Orientali del monte Civetta, con ampi panorami verso i monti della Val di Zoldo e del Cadore.
 
 
 **Ritrovo:** Passo Duran - BL ore 08:00
 
-**Rientro:** ore 16:00 circa 
+**Rientro:** ore 15:00 circa 
 
 **Difficoltà:** E (Escursionisti)
 
 **Lunghezza:** 13 Km
 
-**Dislivello in salita:**  1300 m. circa
+**Dislivello in salita:**  1000 m. circa
 
-**Durata:** 8 ore circa (incluse soste)
+**Durata:** 7 ore circa (incluse soste)
 
 **Costo:** 35€ 
 
