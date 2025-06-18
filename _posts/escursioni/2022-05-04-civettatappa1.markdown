@@ -29,7 +29,7 @@ Termine escursione sotto le pareti meridionali della Moiazza, il rifugio Caresti
 
 **Difficoltà:** E (Escursionisti)
 
-**Lunghezza:** 12 Km
+**Lunghezza:** 20 Km
 
 **Dislivello in salita:**  1300 m. circa
 
