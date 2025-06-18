@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pelmo: Giro ad anello (BL)"
-date:  2022-05-02 11:00:00 +0100
+date:  2022-05-05 11:00:00 +0100
 day: "gio, 14 ago 2025"
 meeting: "08:00"
 category: dolomiti 
