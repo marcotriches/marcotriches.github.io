@@ -2,7 +2,7 @@
 layout: post
 title:  "Civetta: Tappa 2 (BL)"
 date:  2022-05-03 11:00:00 +0100
-day: "dom 31 ago 2025"
+day: "dom 31ago 2025"
 meeting: "08:00"
 category: dolomiti 
 distanza: 13Km
