@@ -28,6 +28,8 @@ Tutti gli incontri, come di consueto, sono accompagnato da letture a tema!
 Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi dai 5 agli 11 anni.
 
 
+**Ritrovo:** Pianello (Cagli) ore 10:00
+
 **Difficoltà:** Facile (Escursionistiche)
 
 **Durata:** 5 ore circa (incluse soste e pausa pranzo)
