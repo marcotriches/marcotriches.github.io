@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notte in tenda (PU)"
-date:  2022-05-17 03:00:00 +0100
+date:  2022-05-14 03:00:00 +0100
 day: "sab, 26 lug 2025"
 meeting: "18:00"
 category: [appennino, educazione-ambientale]
