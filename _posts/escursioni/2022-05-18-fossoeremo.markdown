@@ -2,12 +2,12 @@
 layout: post
 title:  "Fosso dell'Eremo, Monte Nerone (PU)"
 date:  2022-05-18 18:00:00 +0100
-day: "dom, 6 lug 2025"
-meeting: "10:00"
+day: "dom, 13 lug 2025"
+meeting: "09:30"
 category: appennino 
 distanza: 8 Km
 difficult: 2
-image: fossoeremo.jpg
+image: fossoeremo1.jpg
 ---
 
 ## Una valle simbolo del selvaggio Monte Nerone
