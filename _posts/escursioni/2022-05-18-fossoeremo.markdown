@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino 
 distanza: 8 Km
 difficult: 2
-image: fossoeremo1.jpg
+image: fossoeremo.jpg
 ---
 
 ## Una valle simbolo del selvaggio Monte Nerone
