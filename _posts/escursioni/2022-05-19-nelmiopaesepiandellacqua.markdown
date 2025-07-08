@@ -7,7 +7,7 @@ meeting: "10:00"
 category: [appennino, educazione-ambientale]
 distanza: 7 Km
 difficult: 2
-image: nelmiopaesepiandellacqua.jpg
+image: nelmiopaesepiandellacqua1.jpg
 ---
 
 ## Nel mio paese c'è un bosco - Educazione Ambientale  
