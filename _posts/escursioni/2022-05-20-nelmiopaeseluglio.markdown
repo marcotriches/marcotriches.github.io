@@ -7,7 +7,7 @@ meeting: "09:00"
 category: [appennino, educazione-ambientale]
 distanza: 7 Km
 difficult: 2
-image: nelmiopaeseluglio.jpg
+image: nelmiopaeseluglio1.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -31,7 +31,7 @@ Escursione lungo le sponde del fosso di Pian dell'Acqua, un ambiente magico e fr
 **3)** Gli Arcieri (Villa Ugolini - Pesaro), Sabato 19 Luglio 2025
 Esperienza campestre antica con Giovanni Gardini, alla scoperta di come si costruisce e si impara a usare un arco.
 
-**4)** Notte in tenda (Fontecorniale), Sabato 26 Luglio 2025
+**4)** Notte in tenda (Fontecorniale), Sabato 2 Agosto 2025
 Notte di viaggio nelle colline del Piccolo Appennino con la costruzione di un bivacco e l'accamparsi nella Natura.
 
 Tutti gli incontri, come di consueto, sono accompagnato da letture a tema!
