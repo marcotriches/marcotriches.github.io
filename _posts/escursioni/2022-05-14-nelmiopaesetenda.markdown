@@ -2,12 +2,12 @@
 layout: post
 title:  "Notte in tenda (PU)"
 date:  2022-05-14 03:00:00 +0100
-day: "sab, 26 lug 2025"
+day: "sab, 2 ago 2025"
 meeting: "18:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 2
-image: nelmiopaesetenda.jpg
+image: nelmiopaesetenda1.jpg
 ---
 
 ## Nel mio paese c'è un bosco - Educazione Ambientale  
