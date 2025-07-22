@@ -2,12 +2,12 @@
 layout: post
 title:  "Notturna Montemarino (PU)"
 date:  2022-05-15 01:30:00 +0100
-day: "dom 20 lug 2025"
+day: "dom 27 lug 2025"
 meeting: "18:00"
 category: appennino
 distanza: 7 Km  
 difficult: 2
-image: notturnamontemarino .jpg
+image: notturnamontemarino1.jpg
 ---
 
 ## Escursione notturna nel Piccolo Appennino
