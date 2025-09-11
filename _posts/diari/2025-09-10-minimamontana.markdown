@@ -36,6 +36,11 @@ Oppure è possibile **dimorare nella montagna** magari andandoci anche una sola 
 Averne l'aria, l'atmosfera, il respiro.
 Per questo tipo di attività la condizione necessaria è ridurre l'impatto, ridursi a un palmo, togliere gli optional, usare solo lo stretto necessario, aumentare la consapevolezza e le competenze, camminare liberi.
 
+La questione è l'impatto che abbiamo sul mondo.
+**Minima montana** è il nostro modo di ridurre l'impatto.
+Si tratta di un ciclo di appuntamenti teorici ed escursioni dedicate alla filosofia del camminare, la botanica, la cartografia e l'orientamento, la sicurezza in ambiente, il paesaggio sonoro.
+Trascorreremo del tempo insieme, condivideremo delle informazioni e delle tecniche utili, proveremo a metterle in pratica nella Natura.
 
+Primo appuntamento: **Venerdì 3 Ottobre, Villa Ugolini ore 20:30**
 
 
