@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teria cascata del Petrano (PU)"
-date:  2022-05-02 20:00:00 +0100
+date:  2022-05-01 20:00:00 +0100
 day: "dom 21 set 2025"
 meeting: "10:00"
 category: appennino
