@@ -7,7 +7,7 @@ meeting: "10:00"
 category: appennino
 distanza: 10 Km
 difficult: 2
-image: terafosso.jpg
+image: teriafosso.jpg
 ---
 
 ## Cascata alle pendici del monte Petrano
