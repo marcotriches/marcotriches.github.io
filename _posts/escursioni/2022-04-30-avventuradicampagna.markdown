@@ -7,7 +7,7 @@ meeting: "08:30"
 category: [appennino, educazione-ambientale]
 distanza: 6 Km
 difficult: 1
-image: nelmiopaesterenzio.jpg
+image: nelmiopaeseterenzio.jpg
 ---
 
 ## Nel mio paese c'è un bosco
