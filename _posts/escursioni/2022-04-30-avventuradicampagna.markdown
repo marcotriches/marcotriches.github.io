@@ -2,7 +2,7 @@
 layout: post
 title:  "Avventura di Campagna (PU)"
 date:  2022-04-30 19:00:00 +0100
-day: "mer 24 set 2024"
+day: "mer 24 set 2025"
 meeting: "08:30"
 category: [appennino, educazione-ambientale]
 distanza: 6 Km
