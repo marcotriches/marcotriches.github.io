@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Civetta: Tappa 1 (BL)"
-date:  2022-04-04 11:00:00 +0100
+date:  2022-04-28 11:00:00 +0100
 day: "sab 27 set 2025"
 meeting: "08:00"
 category: dolomiti 
