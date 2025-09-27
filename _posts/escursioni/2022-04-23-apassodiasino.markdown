@@ -14,11 +14,11 @@ image: apassodiasino.jpg
 
 # Camminata a ritmo lento con merenda contadina
 
-Proponiamo un'esperienza unioca nelle campagne di Ginestreto: **A passo di asino** è un ciclo di pomeriggi in cammino tra sentieri e piccoli boschi in compagnia degli asini che abitano nella **azienda agricola San Donato.**
+Proponiamo un'esperienza unioca nelle campagne di Ginestreto: **A passo di asino** è un ciclo di pomeriggi in cammino tra sentieri e piccoli boschi in compagnia degli asini che abitano nella **azienda agricola San Donato**: Dora e Cosetta.
 
 Ci dedicheremo all'esplorazione della Natura con passo davvero lento, ricco di pause di lettura, ascolto e contemplazione, con una compagnia davvero speciale.
 
-La breve passeggiata ci condurrà al fosso dell'Acqua Salata per poi risalire a San Donato e dedicarci a un momento di sosta e condivisione con la **merenda contadina** organizzata dall'azienda agricola.
+La passeggiata ci condurrà al fosso dell'Acqua Salata per poi risalire a San Donato e dedicarci a un momento di sosta e condivisione con la **merenda contadina** organizzata dall'azienda agricola.
 
 Durante il cammino suggestioni e racconti tratti da libri dedicati alla natura selvaggia, agli asini e alla storia dei luoghi.
 
