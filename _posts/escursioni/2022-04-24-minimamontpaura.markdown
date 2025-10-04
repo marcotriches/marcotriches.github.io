@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Minima Montana: la paura (PU)"
-date:  2022-04-25 20:00:00 +0100
-day: "ven 03 ott 2025"
+date:  2022-04-24 20:00:00 +0100
+day: "ven 10 ott 2025"
 meeting: "20:30:00"
 category: appennino
 distanza: /
 difficult: /
-image: minimamontanapaura.jpg
+image: minimamontanapaura11.jpg
 ---
 
 ## Ciclo di appuntamenti teorici ed escursioni sul cammino
@@ -19,6 +19,21 @@ Cominciamo con questa serata il nostro ciclo di incontri **Minima montana**, un 
 Lo scopo è quello di costruire insieme un gruppo che condivida un approccio e alcune informazioni base per l'escursionismo montano e non solo.
 
 Qui il manifesto di Minima montagna: [https://www.balzadelsole.com/diari/minimamontana.html](https://www.balzadelsole.com/diari/minimamontana.html)
+
+Questa la struttura del corso (1 appuntamento al mese + 1 escursione abbinata):
+
+- Ottobre    Paura compagna di viaggio / I limiti che scopriamo nell'esplorazione della natura
+- Novembre   Lettura del paesaggio, cartografia e orientamento 
+- Dicembre   Filosofia, tecnica e arte del camminare
+- Gennaio    Senza lasciare tracce / l'impatto dell'escursionismo nell'ambiente
+- Febbraio   Sentieri, tracce, vertigini e sicurezza in montagna
+- Marzo      Cosa portare nello zaino, il ritmo del cammino, il respiro
+- Aprile     Alberi e boschi / riconoscerli assiste e aiuta il cammino e la quotidianità
+- Maggio     Erboristeria Itinerante / Piante, erbe, fiori utili e pericolosi
+- Giugno     Alimentazione, idratazione, zone d'ombra e ristoro / come camminare anche in estate 
+- Luglio     Cammini e bivacchi notturni / la mente e il corpo in un viaggio a tappe
+
+  *E' possibile partecipare anche solo alle serate o alle escursioni*
 
 Ecco il programma di massima per il primo appuntamento:
 
