@@ -2,7 +2,7 @@
 layout: post
 title:  "Tempo di intrecci: avventura e raccolta (PU)"
 date:  2022-04-23 19:00:00 +0100
-day: "ven 03 ott 2025"
+day: "ven 10 ott 2025"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 3 Km
