@@ -18,11 +18,11 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 
 Prosegue **Nel mio paese c'è un bosco** con il nostro **Tempo di intrecci**, un doppio appuntamento dedicato alla tecnica dell'intreccio di materiali naturali con il telaio.
 
-In questa prima parte andremo alla scoperta dei materiali adatti per l'intreccio con un avventuroso giro in campagna, raccoglieremo i materiali necessari e li porteremo a casa.
+In questa seconda parte impareremo ad usare i telai e a realizzare i nostri intrecci con materiali naturali, guidati da **Giulia Maschera**.
 
-Il percorso è tra boschi, campi incolti e fossi, un'avventura!
+L'incontro verrà introdotto e accompagnato da letture a tema ed è previsto un piccolo momento di raccolta prima del laboratorio vero e prorio.
 
-L'incontro verrà introdotto e accompagnato da letture a tema.
+Crediamo che l'intreccio e la manipolazione di materiali naturali siano un'ottimo strumento di consocenza e crescita.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
 
