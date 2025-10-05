@@ -20,7 +20,7 @@ Prosegue **Nel mio paese c'è un bosco** con il nostro **Tempo di intrecci**, un
 
 In questa prima parte andremo alla scoperta dei materiali adatti per l'intreccio con un avventuroso giro in campagna, raccoglieremo i materiali necessari e li porteremo a casa.
 
-Il percorso è tra boschi, campi incolti e fossi, unìavventura!
+Il percorso è tra boschi, campi incolti e fossi, un'avventura!
 
 L'incontro verrà introdotto e accompagnato da letture a tema.
 
