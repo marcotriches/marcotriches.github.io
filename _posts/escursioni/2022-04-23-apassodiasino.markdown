@@ -33,7 +33,9 @@ Durante il cammino suggestioni e racconti tratti da libri dedicati alla natura s
 **Distanza:** 5 Km
 
 **Costo:** 20€ Adulti, 15€ Minori
+**Sconti per famiglie e per gruppi**
 *Per iscrizioni superiori a 3 persone richiesto il pagamento anticipato*
+
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro), frutta secca o snack, cambio vestiti e scarpe in auto, bastoncini (per chi ne facesse uso).
 
