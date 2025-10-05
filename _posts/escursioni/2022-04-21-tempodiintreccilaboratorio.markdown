@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tempo di intrecci: laboratorio (PU)"
-date:  2022-04-22 19:00:00 +0100
+date:  2022-04-21 19:00:00 +0100
 day: "ven 17 ott 2025"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
