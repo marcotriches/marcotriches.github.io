@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A passo di asino (PU)"
-date:  2022-04-23 20:00:00 +0100
+date:  2022-04-22 20:00:00 +0100
 day: "sab 11 ott 2025"
 meeting: "15:00"
 category: appennino
