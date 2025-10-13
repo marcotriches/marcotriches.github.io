@@ -12,7 +12,7 @@ image: montagnavivente.jpg
 
 ## Fonte Luca, Fonte del Faggio, Fonte delle Gorghe
 
-# Camminata con racconti dedicati alla salvaguardia della Natura
+# Camminata con il racconto di Amitac Ghosh, "La montagna vivente"
 
 Un'escursione dedicata e accompoagnata dal racconto di **Amitav Ghosh, "La montagna vivente"**, un viaggio insieme naturalistico e filosofico tra i sentieri del Monte Catria, sotto la veste di una qualunque delle montagna del pianeta Terra, con i limiti che ci pone e gli spazi di quiete e contemplazione che ci offre.
 
