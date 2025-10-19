@@ -38,4 +38,5 @@ Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a C
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica della Regione Marche*
-+ Informazioni: 3281834019    info@balzadelsole.com
+
+**Informazioni e prenotazioni:** 3281834019    info@balzadelsole.com
