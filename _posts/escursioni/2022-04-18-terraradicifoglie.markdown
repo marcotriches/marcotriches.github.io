@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Nel bosco al sicuro (PU)"
-date:  2022-12-08 10:45:00 +0100
-day: "dom, 05 nov 2023"
-meeting: "10:00"
+title:  "Terra radici foglie (PU)"
+date:  2022-04-18 10:45:00 +0100
+day: "dom, 02 nov 2023"
+meeting: "09:30"
 category: appennino 
 difficult: 2
-image: bds-12NOV-tecchie.jpg
+image: boscoditecchie.jpg
 ---
 
 ## Una escursione autunnale nel bosco
@@ -22,19 +22,17 @@ Con partenza da località Cà Balbano, saliremo il sentiero del Serrone fino a C
 *"Che le piante siano dotate di una sensibilità reattiva, in grado di inserirsi in loro sotto forma di ricordi, che possano presentare manifestazioni di benessere o, come ripetuti esperimenti hanno dimostrato, di paura e perciò di memorizzazione non è forse quanto esprimeva, nel suo modo allegorico, il pensiero selvaggio?"*
 (Jacques Brosse, *Mitologia degli alberi*, Rizzoli, 2006).
 
-**Ritrovo:** Cantiano (PU) ore 10:00
+**Ritrovo:** Cantiano (PU) ore 09:30
 
-**Difficoltà:** Facile / E - Escursionistico
+**Difficoltà:** E - Escursionistico
 
-**Dislivello in salita:** 400 m. circa
+**Dislivello in salita:** 450 m. circa
 
 **Durata:** 5 ore
 
 **Rientro:** ore 15:00
 
-**Costo:** 15€ Adulti, 5€ Minori
-
-*Abbonamenti Balza del Sole: 5 escursioni / 65€*
+**Costo:** 18€ Adulti, 12€ Minori
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco, bastoncini (chi li usa), cambio abiti in auto.
 
