@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Tempo di intrecci: laboratorio (PU)"
+title:  "Traversata di collina (PU)"
 date:  2022-04-21 19:00:00 +0100
-day: "ven 17 ott 2025"
+day: "ven 24 ott 2025"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
-distanza: 3 Km
+distanza: 5 Km
 difficult: 1
-image: tempodiintrecci2.jpg
+image: traversatadicollina.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -16,13 +16,9 @@ image: tempodiintrecci2.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-Prosegue **Nel mio paese c'è un bosco** con il nostro **Tempo di intrecci**, un doppio appuntamento dedicato alla tecnica dell'intreccio di materiali naturali con il telaio.
+Prosegue **Nel mio paese c'è un bosco** con la nostra **Traversata di collina**, un percorso tra boschi e sentieri a partire da Montegaudio fino a Villa Ugolini. Sarà per noi come un piccolo viaggio, zaino in spalla e cartina alla mano.   
 
-In questa seconda parte impareremo ad usare i telai e a realizzare i nostri intrecci con materiali naturali, guidati da **Giulia Maschera**.
-
-L'incontro verrà introdotto e accompagnato da letture a tema ed è previsto un piccolo momento di raccolta prima del laboratorio vero e prorio.
-
-Crediamo che l'intreccio e la manipolazione di materiali naturali siano un'ottimo strumento di consocenza e crescita.
+L'incontro verrà accompagnato da letture a tema.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
 
@@ -35,15 +31,15 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Difficoltà:** Facilissimo 
 
-**Dislivello in salita:**  150 m. circa
+**Dislivello in salita:**  100 m. circa
 
-**Distanza:** 3 Km
+**Distanza:** 5 Km
 
 **Durata:** 2 ore circa
 
 **Costo:** 10€ 
 
-**Portare:** Scarpe da campagna, vestiario a strati, Kway, acqua (1 litro), pranzo al sacco, cappello, cambio vestiti e scarpe in auto, blocnotes e matita. 
+**Portare:** Scarpe da campagna, vestiario a strati, Kway, acqua (1 litro), pranzo al sacco, cappello, cambio vestiti e scarpe in auto, blocnotes e matita, bussola e binocolo (chi li ha). 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
