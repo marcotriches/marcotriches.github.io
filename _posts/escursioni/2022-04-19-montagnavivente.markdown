@@ -2,12 +2,12 @@
 layout: post
 title:  "Montagna vivente (PU)"
 date:  2022-04-20 20:00:00 +0100
-day: "dom 19 ott 2025"
-meeting: "09:00"
+day: "sab 1 nov 2025"
+meeting: "09:30"
 category: appennino
 distanza: 12 Km
 difficult: 2
-image: montagnavivente.jpg
+image: montagnavivente1.jpg
 ---
 
 ## Fonte Luca, Fonte del Faggio, Fonte delle Gorghe
