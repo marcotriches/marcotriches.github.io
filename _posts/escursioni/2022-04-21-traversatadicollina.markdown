@@ -7,7 +7,7 @@ meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: traversatadicollina.jpg
+image: traversatacollina.jpg
 ---
 
 ## Nel mio paese c'è un bosco
