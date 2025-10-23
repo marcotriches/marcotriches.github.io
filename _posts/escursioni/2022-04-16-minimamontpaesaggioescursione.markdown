@@ -10,7 +10,7 @@ difficult: 2
 image: minimamontanapaesaggio1.jpg
 ---
 
-## Escursione dedicata aal perdersi e al ritrovarsi nella Natura: lettura del paesaggio
+## Escursione dedicata al perdersi e al ritrovarsi nella Natura: lettura del paesaggio
 
 # Monte Strega, Parco Regionale del Monte Cucco
 
