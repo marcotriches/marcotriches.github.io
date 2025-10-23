@@ -20,6 +20,7 @@ Quali sono i punti di riferimento? Gli elementi che possono "portare fuori" da u
 Ragioneremo su questi temi nel corso di una escursione appenninica al Monte Strega: un itinerario adatto, per la sua varietà, a mettere in campo tutte le tecniche e le risorse per orientarsi al meglio e ritrovare la strada di casa.
 
 **Il percorso sulla carta:** Con partenza da località Montelago (quota 730 m) ruisalita del versante Meridionale del monte La Penna (1100 m). Per crinale panoramico alla croce di vetta del monte Strega (1276 m) e rientro ad anello per Poggio Prato Tondo.
+
 Si tratta della seconda escursione del ciclo **Minima montana**, un momento di condivisione e di pratica di alcune teorie e tecniche dell'escursionismo.
 
 Per tutte le informazione sul nostro progetto: [https://www.balzadelsole.com/diari/minimamontana.html](https://www.balzadelsole.com/diari/minimamontana.html)
