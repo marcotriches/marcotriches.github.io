@@ -7,7 +7,7 @@ meeting: "20:30:00"
 category: appennino
 distanza: /
 difficult: /
-image: minimamontanapaesaggio.jpg
+image: minimamontanapaesaggio2.jpg
 ---
 
 ## Ciclo di appuntamenti teorici ed escursioni sul cammino
