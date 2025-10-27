@@ -2,7 +2,7 @@
 layout: post
 title:  "Minima montana escursione (PU)"
 date:  2022-04-15 20:00:00 +0100
-day: "dom 5 ott 2025"
+day: "dom 9 nov 2025"
 meeting: "06:30"
 category: appennino
 distanza: 10 Km
