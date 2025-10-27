@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Traversata di collina (PU)"
+title:  "Grotta del Diavolo (PU)"
 date:  2022-04-21 19:00:00 +0100
 day: "ven 31 ott 2025"
 meeting: "15:00"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: grottadeldiavolo1.jpg
+image: grottadiavolo1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
