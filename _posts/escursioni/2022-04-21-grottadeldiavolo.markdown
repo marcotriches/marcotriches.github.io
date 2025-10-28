@@ -7,7 +7,7 @@ meeting: "15:00"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: grottadiavolo1.jpg
+image: grottadeldiavolo1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
