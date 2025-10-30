@@ -37,11 +37,12 @@ Questa la struttura del corso (1 appuntamento al mese + 1 escursione abbinata):
 
 Ecco il programma di massima per il primo appuntamento:
 
-**Titolo:**       Lettura cdel paesaggio
+**Titolo:**       Lettura del paesaggio
 
 **Descrizione:**  Come la comprensione dei significati e dei linguaggi del paesaggio possa favorire la conoscenza dei luoghi, l'esplorazione delle sue storie e l'orientamento senza bisogno di cartine, bussole o app tecnologiche.
 
   **Argomenti:** 1) Cosa significa "leggere il paesaggio"?   2) A cosa serve leggere il paesaggio?   3) Toponomastica e tracce del passato caratterizzano i territori.   3) Il sesto senso e il *genius loci*: fidarsi dei segni.   4) Leggere le linee e orientarsi con il terreno.   5) "Sono in un atlante": consapevolezzas geografica e cammino.
+  
 **Ritrovo:** Villa Ugolini (Pesaro) ore 20:30
 
 **Termine:** ore 22:30 
