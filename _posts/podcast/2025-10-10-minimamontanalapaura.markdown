@@ -3,7 +3,7 @@ layout: radio
 title:  "Minima montana: Paura compagna di viaggio"
 date:   2025-10-10 18:20:48 +0100
 category: radio
-audio: minimamontana-lapaura.mp3.mp3
+audio: minimamontana la paura.mp3
 image: minimamontanalapaura.jpg
 ---
 
