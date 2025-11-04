@@ -7,4 +7,4 @@ audio: minimamontana la paura.mp3
 image: minimamontanalapaura.jpg
 ---
 
-Di come la paura, prima di essere un impedimento è in realtà una risorsa e un freno indispensabile nell'esplorazione della Natura. Non sempre devo andare, a volte mi fermo.
+Di come la paura, prima di essere un impedimento è in realtà una risorsa e un freno indispensabile nell'esplorazione della Natura. Non sempre devo andare avanti, a volte mi fermo.
