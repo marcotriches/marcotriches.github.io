@@ -2,7 +2,7 @@
 layout: post
 title:  "Cavalcacolline (PU)"
 date:  2022-04-16 10:45:00 +0100
-day: "sab, 15 nov 2023"
+day: "sab, 15 nov 2025"
 meeting: "08:30"
 category: appennino 
 distanza: 10 Km
