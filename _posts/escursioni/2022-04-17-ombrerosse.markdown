@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Non ci ferma (quasi) niente (PU)"
-date:  2022-04-27 19:00:00 +0100
-day: "ven 7 nov 2025"
+title:  "Ombre rosse (PU)"
+date:  2022-04-17 19:00:00 +0100
+day: "ven 14 nov 2025"
 meeting: "15:00"
 category: [appennino, educazione-ambientale]
-distanza: 5 Km
+distanza: 2 Km
 difficult: 1
-image: noncifermaniente.jpg
+image: ombrerosse.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -16,8 +16,9 @@ image: noncifermaniente.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-Prosegue **Nel mio paese c'è un bosco** con: **Non ci ferma (quasi) niente**, un'avventura nei boschi di Fontecorniale, fuori traccia, al riparo dagli alberi anche in caso di pioggia. Un modo di frequentare la natura anche in una stagione e con un meteo non convenzionale!
-Scopriremo come arraggiarci per tornare a casa, a riconoscere i segni e le tracce, a condividere un'avventura nel cuore dell'Autunno!
+Prosegue **Nel mio paese c'è un bosco** con: **Ombre rosse**, un pomeriggio di fuoco.
+
+Ci avventureremo nella campagna alla ricerca di alcuni luoghi, nascondigli, piccoli rifugi, raccogliendo anche tutto il necessario per accendere un fuoco che illumini l'arrivo della notte. Un modo per stare nella Natura, metterci mano e imparare a rispettarla in libertà.
 
 L'incontro verrà accompagnato da letture a tema.
 
@@ -26,15 +27,15 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Fontecorniale ore 15:00 
+**Ritrovo:** Villa Ugolini ore 15:00 
 
 **Rientro:** ore 17:30
 
 **Difficoltà:** Facilissimo 
 
-**Dislivello in salita:**  150 m. circa
+**Dislivello in salita:**  100 m. circa
 
-**Distanza:** 5 Km
+**Distanza:** 2 Km
 
 **Durata:** 2 ore circa
 
