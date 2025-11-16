@@ -1,20 +1,22 @@
 ---
 layout: post
-title:  "Carpegna, Pianacquadio (PU)"
-date:  2022-06-22 18:00:00 +0100
-day: "dom, 2 feb 2025"
-meeting: "10:00"
+title:  "Scricchiolii in Carpegna (PU)"
+date:  2022-04-14 18:00:00 +0100
+day: "dom, 23 nov 2025"
+meeting: "09:30"
 category: appennino 
 distanza: 8Km
 difficult: 2
-image: carpegnainverno2.jpg
+image: scricchioliicarpegna.jpg
 ---
 
 ## Parco Naturale Sasso Simone e Simoncello
 
 # Cammini e racconti: Percorso naturalistico con racconti dedicati al bosco e ai suoi alberi 
 
-Escursione in un ambiente unico, quello della **faggeta di Pianacquadio** e della cima del monte Carpegna, nella sua veste invernale.
+Scricchiolii in Carpegna è un cammino con racconto dedicato ai suoni della montagna quando ormai è cvompletamente spoglia dalle foglie dei suoi alberi. O meglio, le foglie ne ricoprono il terreno, e il passo scricchiola.
+
+Escursione in un ambiente unico, quello della **faggeta di Pianacquadio** e della cima del monte Carpegna, nella sua veste autunnale.
 
 Un piccolo lembo di bosco composto in prevalenza di faggi, ma anche aceri, tigli e sorbi. 
 
@@ -27,17 +29,17 @@ Il percorso verrà accompagnato da letture e racconti dedicati al bosco e alle l
 Percorreremo i sentieri CAI 102 e 105 con il passaggio al Passo dei Ladri, il rifugio le Fontanelle, il Trabocchino e l'Eremo del Madonna del Faggio.
 
 
-**Ritrovo:** Calvillano (Montecopiolo) - RN ore 10:00
+**Ritrovo:** Villagrande (Montecopiolo) - RN ore 09:30
 
 **Rientro:** ore 14:30 circa 
 
 **Difficoltà:** Facile / E (Escursionistico)
 
-**Dislivello in salita:**  300 m. circa
+**Dislivello in salita:**  400 m. circa
 
 **Distanza:** 8 Km
 
-**Durata:** 4:30 ore circa (soste e pausa pranzo incluse)
+**Durata:** 5 ore circa (soste e pausa pranzo incluse)
 
 **Costo:** 18€ Adulti, 12€ Minori
 
