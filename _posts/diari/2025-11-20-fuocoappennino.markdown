@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fuoco Appennino, Capodanno"
-date:   2025-11-22 18:20:48 +0100
+date:   2025-11-20 18:20:48 +0100
 category: diari
 image: fuocoappennino.jpg
 ---
