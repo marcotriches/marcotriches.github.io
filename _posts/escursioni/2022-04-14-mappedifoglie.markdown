@@ -17,7 +17,7 @@ image: mappedifoglie.jpg
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
 **Nel mio paese c'è un bosco** entra nel bosco del Beato Sante con **Mappe di foglie**, un'attività esplorativa e riconoscimento botanico tra gli alberi di uno dei boschetti di maggior pregio della provincia di Pesaro Urbino.
-Cammineremo lungo i sentierini costruendo una mappa legata agli alberi e alla loro varietà, imparando a orientarci con flgie, rami e radici.
+Cammineremo lungo i sentierini costruendo una mappa legata agli alberi e alla loro varietà, imparando a orientarci con foglie, rami e radici.
 
 L'incontro verrà accompagnato da letture a tema.
 
