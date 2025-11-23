@@ -2,10 +2,10 @@
 layout: post
 title:  "Passeggiata Ghirlandissime (PU)"
 date:  2022-04-12 18:00:00 +0100
-day: "dom, 30 nov 2025"
+day: "dom 30 nov 2025"
 meeting: "09:30"
 category: appennino 
-distanza: 6 Km
+distanza: 6Km
 difficult: 2
 image: ghirlandissime.jpg
 ---
