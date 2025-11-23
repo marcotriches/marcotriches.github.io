@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mappe di foglie (PU)"
-date:  2022-04-13 19:00:00 +0100
+date:  2022-04-14 19:00:00 +0100
 day: "ven 28 nov 2025"
 meeting: "15:00"
 category: [appennino, educazione-ambientale]
