@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dopo la prima neve: Monte Acuto (PU)"
-date:  2022-12-08 18:00:00 +0100
+date:  2022-04-13 18:00:00 +0100
 day: "sab, 29 nov 2025"
 meeting: "09:00"
 category: appennino 
