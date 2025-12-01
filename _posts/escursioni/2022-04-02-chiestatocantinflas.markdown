@@ -23,7 +23,7 @@ Dalla sua fuga da Montelago e il Monte Strega, al lungo viaggio per Fonte Avella
 
 Tutte le puntate del percorso potranno essere ascoltate al link: [https://www.balzadelsole.com/podcast](https://www.balzadelsole.com/podcast)
 
-**L'itinerario:** Da Serravalle di Carda (quota 755 m) con il sentiero CAI 225 per il fosso e la cascata della Cornacchia. Risalita del monte Cambusone con un panoramico sentiero di cresta e giro ad anello del monte Baarcone. Rientro a Pieia e Fondarca con il sentiero CAI 200. Possibilità di prolungare l'escursione fino a Cerreto, alle porte di Pianello di Cagli, con un percorso nel bosco davvero suggestivo.
+**L'itinerario:** Da Serravalle di Carda (quota 755 m) con il sentiero CAI 225 per il fosso e la cascata della Cornacchia e arrivo a Pieia (650 m). Con il sentiero CAI 200 suggestivo passaggio per l'arco di Fondarca (dove sosteremo in ascolto dei suoni e delle gesta di Cantinflas). L'escursione prosegue alla volta di Cerreto, alle porte di Pianello di Cagli, con un percorso nel bosco davvero suggestivo.
 
 **Ritrovo:** Serravalle di Carda - PU ore 09:30
 
@@ -31,7 +31,7 @@ Tutte le puntate del percorso potranno essere ascoltate al link: [https://www.ba
 
 **Difficoltà:** Media / E (Escursionistico)
 
-**Dislivello in salita:**  450 m. circa
+**Dislivello in salita:**  400 m. circa
 
 **Distanza:** 10 Km
 
