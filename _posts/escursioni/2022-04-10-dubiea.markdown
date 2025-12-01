@@ -2,7 +2,7 @@
 layout: post
 title:  "Dubiea: boschi e alberi monumentali (BL)"
 date:  2022-04-10 11:00:00 +0100
-day: "dom, 07 dic 2025"
+day: "dom, 7 dic 2025"
 meeting: "08:00"
 category: dolomiti 
 distanza: 12 Km
