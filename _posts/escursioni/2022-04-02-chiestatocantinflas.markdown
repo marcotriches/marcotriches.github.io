@@ -10,7 +10,7 @@ difficult: 2
 image: cantinflasfine.jpg
 ---
 
-## Monte Nerone, vballi, crinali e percorsi selvaggi
+## Monte Nerone, valli, crinali e percorsi selvaggi
 
 # Cammini e racconti: "Cantinflas, Storia e fine di un contadino appenninico"
 
