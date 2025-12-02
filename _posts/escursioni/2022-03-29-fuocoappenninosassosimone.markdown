@@ -7,26 +7,29 @@ meeting: "09:30"
 category: appennino 
 distanza: 11 Km
 difficult: 2
-image: fuocoappenninopieia.jpg
+image: fuocoappenninosassosimone.jpg
 ---
 
 ## 4 itinerari dedicati a 4 luoghi simbolo dell'Appennino
 
 # Storie in cammino di fuochi, di camini, baite e montanari
 
-Escursione tra i sentieri del versante meridionale del monte Nerone con un percorso tra borghi, boschi e monumenti naturali.
-Itinerario narrativo unico, tra prati e crinali, tratti rocciosi, boschi e la calorosa accoglienza del borgo di Pieia, quasi sospeso nel tempo. Ci dedichiamo un viaggio alla fine dell'anno nel generoso Monte Nerone.
+Escursione in una terra di confine: **Il Sasso Simone e Simoncello** rappresentano da sempre un territorio posto al termine del paesaggio e degli ordini amministrativi storici. Un luogo solitario e ricco di scorci suggestivi. Il bosco alle pendici dei monti, i versanti dirupati lungo i labirinti di calanchi, la rocca del Sasso SImone con i resti della Città del Sole e della vegetazione residua, altrove disboscata.
+Un viaggio in un luogo unico, ricco di biodiversità, racconti e panorami imperdibili!
+
 Lungo il percorso ampi spazi ai racconti ambientati di **Fuoco Appennino**
 
-**L'itinerario:** Con partenza da Cerreto (quota 660 m) salita lungo il sentiero CAI 221a e 221 alla località "Tana Baldina", nei pressi del fosso del Breccione e successivamente a Pieia (650 m). Rientro ad anello lungo il sentiero CAI 200 attraverso l'arco di Fondarca.
+**L'itinerario:** Itinerario ad anello a partire dal Passo della Cantoniera (1004 metri). Con il sentiero CAI 118 alla sorgente del Mutino e al valico tra i due sassi. Percorso ad anello fino al Faggio Solitario e salita al Sasso Simone (1206 metri). Rientro al Passo della Cantoniera con sentiero CAI 119b. Possibilità di salita al Simoncello.
 
-**Difficoltà:** Medio / E (Escursionistico)
+**Ritrovo:** Passo della Cantoniera (PU) ore 09:30
 
-**Dislivello in salita:** 500 m. circa
+**Termine:** 14:30
 
-**Distanza:** 11 Km
+**Dislivello in salita:** 350 m. circa (500 con salita al Simoncello)
 
-**Durata:** 6 ore circa
+**Distanza:** 9 Km
+
+**Durata:** 5 ore circa
 
 **Costo escursione singola:** 20€
 
