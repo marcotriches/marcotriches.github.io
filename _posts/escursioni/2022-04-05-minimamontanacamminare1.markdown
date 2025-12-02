@@ -2,7 +2,7 @@
 layout: post
 title:  "Minima montana, camminare in escursione (PU)"
 date:  2022-04-05 20:00:00 +0100
-day: "dom 14 dic 2025"
+day: "dom 14 dic2025"
 meeting: "06:30"
 category: appennino
 distanza: 10 Km
