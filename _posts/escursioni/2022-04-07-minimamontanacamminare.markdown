@@ -24,8 +24,11 @@ Qui il manifesto di Minima montagna: [https://www.balzadelsole.com/diari/minimam
 Questa la struttura del corso (1 appuntamento al mese + 1 escursione abbinata):
 
 *- Ottobre    Paura compagna di viaggio / I limiti che scopriamo nell'esplorazione della natura*
+
 *- Novembre   Lettura del paesaggio, cartografia e orientamento*
+
 **- Dicembre   Filosofia, tecnica e arte del camminare**
+
 - Gennaio    Senza lasciare tracce / l'impatto dell'escursionismo nell'ambiente
 - Febbraio   Sentieri, tracce, vertigini e sicurezza in montagna
 - Marzo      Cosa portare nello zaino, il ritmo del cammino, il respiro
