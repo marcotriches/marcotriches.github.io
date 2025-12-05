@@ -3,11 +3,11 @@ layout: post
 title:  "Come si accende un fuoco?"
 date:  2022-04-06 18:00:00 +0100
 day: "sab 13 dic 2025"
-meeting: "10:00"
+meeting: "09:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: comeaccenderefuoco.jpg
+image: comeaccenderefuoco1.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
@@ -31,7 +31,7 @@ Questa attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragaz
 
 **Ritrovo:** Villa Ugolini (Pesaro) ore 10:00
 
-**Rientro:** ore 16:30
+**Rientro:** ore 14:30
 
 **Difficoltà:** Facilissimo 
 
