@@ -39,7 +39,7 @@ Questa attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragaz
 
 **Distanza:** 4 Km
 
-**Durata:** 6 ore circa (incluse soste, pausa pranzo e laboratorio)
+**Durata:** 5 ore circa (incluse soste, pausa pranzo e laboratorio)
 
 **Costo:** 15€ a persona (riduzioni per famiglie)
 
