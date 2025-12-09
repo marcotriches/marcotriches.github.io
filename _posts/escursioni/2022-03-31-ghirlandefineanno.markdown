@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ghirlande di fine anno (PU)"
-date:  2022-04-01 19:00:00 +0100
+date:  2022-03-31 19:00:00 +0100
 day: "mar 23 dic 2025"
 meeting: "09:00"
 category: [appennino, educazione-ambientale]
