@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino 
 distanza: 11 Km
 difficult: 2
-image: fuocoappenninopieia.jpg
+image: fuocoappenninotecchie.jpg
 ---
 
 ## 4 itinerari dedicati a 4 luoghi simbolo dell'Appennino
