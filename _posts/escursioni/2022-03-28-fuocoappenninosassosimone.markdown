@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Fuoco/Appennino: Sasso Simone e Simoncello (PU)"
-date:  2022-03-29 18:00:00 +0100
-day: "lun, 29 dic 2025"
+date:  2022-03-28 18:00:00 +0100
+day: "mar, 30 dic 2025"
 meeting: "09:30"
 category: appennino 
 distanza: 11 Km
