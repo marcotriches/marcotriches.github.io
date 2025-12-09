@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Fuoco/Appennino: Monte Nerone (PU)"
+title:  "Fuoco/Appennino: Sasso Simone e Simoncello (PU)"
 date:  2022-03-29 18:00:00 +0100
-day: "dom, 28 dic 2025"
+day: "lun, 29 dic 2025"
 meeting: "09:30"
 category: appennino 
 distanza: 11 Km
