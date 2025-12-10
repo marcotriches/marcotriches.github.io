@@ -35,9 +35,13 @@ Durante il cammino suggestioni e racconti tratti da libri dedicati alla natura s
 **Distanza:** 5 Km
 
 **Costo:** 30€ Adulti, 25€ Minori
+
 **Il costo comprende: accompagnamento guide naturalistiche e pranzo**
+
 **Il menu: Sedanini al ragù al forno o risotto con la zucca, pizze farcite**
+
 **Sconti per famiglie e per gruppi**
+
 *Per iscrizioni superiori a 3 persone richiesto il pagamento anticipato*
 
 
