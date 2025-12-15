@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fuoco/Appennino: Bosco di Tecchie (PU)"
-date:  2022-03-27 18:00:00 +0100
+date:  2022-03-26 18:00:00 +0100
 day: "mer, 31 dic 2025"
 meeting: "09:30"
 category: appennino 
