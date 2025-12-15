@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Come si accende un fuoco?"
-date:  2022-03-30 18:00:00 +0100
+date:  2022-03-30 22:00:00 +0100
 day: "sab 27 dic 2025"
 meeting: "10:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: comeaccenderefuoco1.jpg
+image: comeaccenderefuoco12.jpg
 ---
 
 ## Nel mio paese c'è un bosco  
