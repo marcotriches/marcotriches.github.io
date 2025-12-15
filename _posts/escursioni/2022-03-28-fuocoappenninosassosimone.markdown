@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fuoco/Appennino: Sasso Simone (PU)"
-date:  2022-03-29 18:00:00 +0100
+date:  2022-03-28 18:00:00 +0100
 day: "lun, 29 dic 2025"
 meeting: "09:30"
 category: appennino 
