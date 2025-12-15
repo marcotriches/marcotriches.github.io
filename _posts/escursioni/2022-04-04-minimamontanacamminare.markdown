@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minima Montana: arte e tecnica del cammino (PU)"
-date:  2022-04-05 20:00:00 +0100
+date:  2022-04-04 20:00:00 +0100
 day: "ven 19 dic 2025"
 meeting: "20:30:00"
 category: appennino
