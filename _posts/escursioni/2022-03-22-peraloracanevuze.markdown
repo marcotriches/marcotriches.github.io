@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peralora, Canevuze (BL)"
-date:   2022-04-22 18:20:48 +0100
+date:   2022-03-22 18:20:48 +0100
 day: "mar, 6 gen 2026"
 meeting: "08:30"
 category: dolomiti 
