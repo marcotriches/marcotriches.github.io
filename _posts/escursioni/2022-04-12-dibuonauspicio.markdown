@@ -7,7 +7,7 @@ meeting: "08:30"
 category: dolomiti 
 distanza: 10 Km
 difficult: 3
-image: dibuonauspicio.jpg
+image: dibuonauspicio1.jpg
 ---
 
 
@@ -18,11 +18,12 @@ Per l'inizio del 2026 Balza del Sole ha il piacere di invitarvi a **Di buon ausp
 Un viaggio (a cui partecipare intergralmente oppure in parte) sulle orme della storia umana e naturalistica del territorio, tra cime innevate, baite e casere rustiche sparse tra radure e boschi, sentieri isolati.
 Una prospettiva insolita, lontana dal traffico e dalla ressa, su una delle catene montuose più famose al mondo.
 
-**3 Gennaio:   Foresta del Cansiglio**
-Escursione in un luogo storico e naturalistico di grande rilevanza, con alberi monumentali, fauna del Nord Europa, ombre lunghe e praterie as perdita d'occhio. La catena dei monti dell'Alpago all'orizzonte  
 
-**4 Gennaio:   Pale di San Lucano**
+**3 Gennaio:   Pale di San Lucano**
 In una zona glaciale con pareti a strapiombo ci sono alte selle prative con baite e casere sparse, pendii dove un tempo transitavano le greggi ed oggi luogo dell'Alta Via dei Pastori. Montagna austera.
+
+**4 Gennaio:   Foresta del Cansiglio**
+Escursione in un luogo storico e naturalistico di grande rilevanza, con alberi monumentali, fauna del Nord Europa, ombre lunghe e praterie as perdita d'occhio. La catena dei monti dell'Alpago all'orizzonte  
 
 **5 Gennaio:   Vette feltrine**
 Escursione alle pendici e sui primi versanti delle Vette feltrine, tra folklore, storie, alberi monumentali e sentieri nascosti. Siamo al confine tra la cultura alpina e quella di pianura, un ecotono culturale ricchissimo.
