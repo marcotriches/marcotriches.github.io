@@ -32,13 +32,17 @@ Escursione selvaggia in uno degli angoli più inaccessibili delle Dolomiti. Un v
 
 **L'itinerario:**  Da località Rifugio Sant'Osvaldo (quota 1020 m) a località Pich e Valpiccola (1340 m). Percorso ad anello lungo il tracciato dell'Alta Via N.6 per il Col de la Feda e Vallorch. 
 
+**Ritrovo:** Pian Cansiglio ore 09.00
+
+**Termine:** ore 15:00
+
 **Difficoltà:** Medio / E (Escursionistico)
 
 **Dislivello in salita:** 500 m. circa
 
 **Distanza:** 16 Km
 
-**Durata media:** 5 ore circa (incluse soste e pausa pranzo)
+**Durata:** 5 ore circa (incluse soste e pausa pranzo)
 
 **Costo escursione singola:** 25€
 
