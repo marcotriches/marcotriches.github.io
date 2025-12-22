@@ -38,13 +38,17 @@ Escursione selvaggia in uno degli angoli più inaccessibili delle Dolomiti. Un v
 **L'itinerario:**  Da località Col di Prà (Val di San Lucano, Taibon Agordino, quota 853 m), risalota del sentiero CAI 761 e 764 fino a casera Malgonera (1581 m).Con il sentiero CAI 782 fino Ai Doff (1876 m). Rientro sullo stesso sentiero.
 
 
+**Ritrovo:** Taibon Agordino ore 08.30
+
+**Termine:** ore 15:00
+
 **Difficoltà:** Medio / E (Escursionistico)
 
 **Dislivello in salita:** 900 m. circa
 
 **Distanza:** 11 Km
 
-**Durata media:** 5 ore circa (incluse soste e pausa pranzo)
+**Durata:** 5 ore circa (incluse soste e pausa pranzo)
 
 **Costo escursione singola:** 25€
 
