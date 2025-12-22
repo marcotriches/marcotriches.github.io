@@ -25,13 +25,17 @@ Il percorso verrà accompagnato da letture dedicate ai luoghi e alla Natura.
 **L'itinerario:**  Da località le Rosse Alte (quota 540 m) per sentiero ritracciato dal CSMS, "Cammino Sospirolese" fino a casèra Nusieda (968 m). Salita per sentiero (quasi tracce) fino a forcella Peralora (1456 m).
 
 
+**Ritrovo:** Rosse Alte (Sospirolo) ore 08.30
+
+**Termine:** ore 14:00
+
 **Difficoltà:** Medio / E (Escursionistico)
 
 **Dislivello in salita:** 1000 m. circa
 
 **Distanza:** 10 Km
 
-**Durata media:** 5 ore circa (incluse soste e pausa pranzo)
+**Durata:** 5 ore circa (incluse soste e pausa pranzo)
 
 **Costo escursione singola:** 25€
 
