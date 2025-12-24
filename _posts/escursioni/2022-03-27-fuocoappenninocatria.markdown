@@ -22,6 +22,11 @@ Con passo lento e contemplativo, in ascolto di respiro, pensieri e suoni, raggiu
 Lungo il percorso ampi spazi ai racconti ambientati di **Fuoco Appennino**
 
 **L'itinerario:** Con partenza da Fonte Avellana (quota 660 m) salita con il sentiero 254 e 200 fino alla Vernosa (1500 m). Tratto conclusivo su pendio panoramico fino alla cima di Monte Catria (1701 m). Rientro per Rocca Baiarda e il valico della Forchetta. 
+
+**Ritrovo:** Fonte Avellana (Serra Sant'Abbondio) ore 08:30
+
+**Termine:** ore 15:00
+
 **Difficoltà:** Medio / E (Escursionistico)
 
 **Dislivello in salita:** 1000 m. circa
