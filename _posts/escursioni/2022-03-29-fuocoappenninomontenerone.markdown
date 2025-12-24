@@ -3,7 +3,7 @@ layout: post
 title:  "Fuoco/Appennino: Monte Nerone (PU)"
 date:  2022-03-29 23:00:00 +0100
 day: "dom 28 dic 2025"
-meeting: "09:30"
+meeting: "09:00"
 category: appennino 
 distanza: 11 Km
 difficult: 2
@@ -19,6 +19,10 @@ Itinerario narrativo unico, tra prati e crinali, tratti rocciosi, boschi e la ca
 Lungo il percorso ampi spazi ai racconti ambientati di **Fuoco Appennino**
 
 **L'itinerario:** Con partenza da Cerreto (quota 660 m) salita lungo il sentiero CAI 221a e 221 alla località "Tana Baldina", nei pressi del fosso del Breccione e successivamente a Pieia (650 m). Rientro ad anello lungo il sentiero CAI 200 attraverso l'arco di Fondarca.
+
+**Ritrovo:** Pianello (Cagli) ore 09:00
+
+**Termine:** ore 15:00
 
 **Difficoltà:** Medio / E (Escursionistico)
 
