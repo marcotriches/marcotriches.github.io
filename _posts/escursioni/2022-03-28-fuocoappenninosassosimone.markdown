@@ -25,8 +25,7 @@ Lungo il percorso ampi spazi ai racconti ambientati di **Fuoco Appennino**
 
 **Termine:** 14:30
 
-**Dislivello in salita:** 350 m. circa (500 con salita al Simoncello)
-
+**Dislivello in salita:** 350 m. circa 
 **Distanza:** 9 Km
 
 **Durata:** 5 ore circa
