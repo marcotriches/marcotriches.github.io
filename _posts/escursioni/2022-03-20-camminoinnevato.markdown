@@ -6,7 +6,7 @@ day: "sab, 10 gen 2026"
 meeting: "09:00"
 category: appennino 
 difficult: 3
-image: cammino innevato.jpg
+image: camminoinnevato.jpg
 ---
 
 ## Giro ad anello & cima del Monte Acuto: Fonte Luca, Fonte del Faggio, le Gorghe (PU)
