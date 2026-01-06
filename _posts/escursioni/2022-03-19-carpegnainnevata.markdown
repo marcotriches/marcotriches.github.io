@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 8Km
 difficult: 2
-image: carpegnainnevata.jpg
+image: carpegnainnevata1.jpg
 ---
 
 ## Escursione su neve: Pianacquadio, Eremo del Faggio e cima Monte Carpegna
