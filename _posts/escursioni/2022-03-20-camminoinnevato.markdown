@@ -5,6 +5,7 @@ date:  2022-03-20 18:00:00 +0100
 day: "sab, 10 gen 2026"
 meeting: "09:00"
 category: appennino 
+distanza: 10Km
 difficult: 3
 image: camminoinnevato.jpg
 ---
