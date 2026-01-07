@@ -26,7 +26,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Montegaudio (Pesaro) ore 15:00 
+**Ritrovo:** Villa Ugolini (Pesaro) ore 15:00 
 
 **Rientro:** ore 17:30
 
