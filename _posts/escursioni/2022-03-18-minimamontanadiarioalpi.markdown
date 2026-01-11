@@ -7,7 +7,7 @@ meeting: "20:30:00"
 category: appennino
 distanza: /
 difficult: /
-image: minimamontanadiarioalpi.jpg
+image: minimamontanadiario.jpg
 ---
 
 ## Presentazione del Diario delle alpi, racconti e riflessioni
