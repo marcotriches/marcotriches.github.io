@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Una collina rompicapo (PU)"
-date:  2022-03-21 19:00:00 +0100
-day: "ven 9 gen 2026"
+title:  "Una collina rompicapo"
+date:  2022-03-19 19:00:00 +0100
+day: "ven 23 gen 2026"
 meeting: "15:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: collinarompicapo.jpg
+image: collinarompicapo1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
