@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Una collina rompicapo"
+title:  "Cercatori di suoni"
 date:  2022-03-19 19:00:00 +0100
 day: "ven 16 gen 2026"
 meeting: "15:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: dercatoridisuoni.jpg
+image: cercatoridisuoni.jpg
 ---
 
 ## Nel mio paese c'è un bosco
