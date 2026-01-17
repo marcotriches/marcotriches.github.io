@@ -7,7 +7,7 @@ meeting: "15:00"
 category: dolomiti 
 distanza: 8 Km
 difficult: 2
-image: servanotturna.jpg
+image: servanotturnainverno.jpg
 ---
 
 ## Una notte nel Parco Nazionale Dolomiti Bellunesi
