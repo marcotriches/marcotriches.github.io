@@ -2,7 +2,7 @@
 layout: post
 title:  "Prati di Nocria: Fonte Avellana - Sitria"
 date:  2022-03-20 11:55:00 +0100
-day: "dom, 18 gen 2026"
+day: "dom 18 gen 2026"
 meeting: "09:30"
 category: appennino 
 distanza: 10Km
