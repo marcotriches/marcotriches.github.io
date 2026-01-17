@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "San Mauro traversata (BL)"
-date:   2022-03-11 18:20:48 +0100
+date:   2022-03-10 18:20:48 +0100
 day: "dom, 8 feb 2026"
 meeting: "08:30"
 category: dolomiti 
