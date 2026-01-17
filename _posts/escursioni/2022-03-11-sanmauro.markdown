@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "San Mauro traversata (BL)"
-date:   2022-03-23 18:20:48 +0100
-day: "lun, 5 gen 2026"
+date:   2022-03-11 18:20:48 +0100
+day: "dom, 8 feb 2026"
 meeting: "08:30"
 category: dolomiti 
 distanza: 13 Km
 difficult: 3
-image: dbavettefeltrine.jpg
+image: traversatasanmauro.jpg
 ---
 
 
 **Vette feltrine, percorso tra storie e Natura**
-**Storie in cammino di neve, di montagna, di boschi e piena luce**
+**Valli, valichi e tradizioni della montagna bellunese**
 
 Escursione suggestiva nelle valli che circondano il monte San Mauro, Vette feltrine.
 
@@ -21,14 +21,8 @@ Un itinerario, nella stagione invernale, ricco di momenti di contemplazione e ra
 
 Il percorso verrà accompagnato da letture dedicate ai luoghi e alla Natura.
 
-**Le prossime escursioni "Di buon auspicio":**
-
-**6 Gennaio:   Monti del Sole**
-Escursione selvaggia in uno degli angoli più inaccessibili delle Dolomiti. Un viaggio tra territori che non avremmo mai pensato esistessero così.
-
-
 **L'itinerario:**  Da località Lasén (quota 528 m) con il sentiero CAI 803 per la Val di San Martino. Risalita a Casèra Ramezza alta (1485 m) e forcella Scarnia (1598 m). Con il sentiero CAI 804 traversata della Val di Neva e infine discesa per sentiero 805 in Val Canzoi.
-
+*Trattandosi di un itinerario di traversata la guida in collaborazione con i partecipanti organizza il rientro alle auto*
 
 **Ritrovo:** Lasen di Feltre ore 08.30
 
@@ -42,10 +36,11 @@ Escursione selvaggia in uno degli angoli più inaccessibili delle Dolomiti. Un v
 
 **Durata:** 6 ore circa (incluse soste e pausa pranzo)
 
-**Costo escursione singola:** 25€
+**Costo escursione:** 25€
 
-**Costo pacchetto Di buon auspicio:** 90€
+**Note:** La guida si riserva di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
 
-**Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368) Guida Naturalistica delle Marche
+**Guida:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
+*Guida del Parco Nazionale Dolomiti Bellunesi*
 
 **Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com
