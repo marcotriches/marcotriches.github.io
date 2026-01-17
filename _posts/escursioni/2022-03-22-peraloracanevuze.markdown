@@ -27,7 +27,7 @@ Il percorso verrà accompagnato da letture dedicate ai luoghi e alla Natura, in 
 
 **Ritrovo:** Rosse Alte (Sospirolo) ore 08.30
 
-**Termine:** ore 14:00
+**Termine:** ore 14:30
 
 **Difficoltà:** Medio / E (Escursionistico)
 
@@ -37,10 +37,13 @@ Il percorso verrà accompagnato da letture dedicate ai luoghi e alla Natura, in 
 
 **Durata:** 5 ore circa (incluse soste e pausa pranzo)
 
-**Costo escursione singola:** 25€
+**Costo escursione:** 25€
 
-**Costo pacchetto Di buon auspicio:** 90€
+**Portare:** Scarponi, vestiario a strati, Kway, guscio, cappello, guanti, acqua (1 litro e mezzo), pranzo al sacco + qualcosa da mangiare, frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa). 
 
-**Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368) Guida Naturalistica delle Marche
+**Note:** La guida si riserva di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
+
+**Guida:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
+*Guida del Parco Nazionale Dolomiti Bellunesi*
 
 **Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com
