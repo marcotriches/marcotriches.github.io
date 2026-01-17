@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Monte Serva una notte (BL)"
-date:  2022-07-26 11:00:00 +0100
-day: "sab, 05 ott 2024"
+date:  2022-03-11 11:00:00 +0100
+day: "sab, 7 feb 2026"
 meeting: "15:00"
 category: dolomiti 
 distanza: 8 Km
@@ -29,12 +29,11 @@ Superato il Col Cavalin (1314 m) e il Valon de la Serva, si prosegue in salita f
 
 **Costo:** 25€ 
 
-*Abbonamenti Balza del Sole:* 5 escursioni / 90€
-
 **Portare:** Scarponi, vestiario a strati, Kway, cena al sacco, snack, frutta secca, acqua (almeno 1 litro e mezzo), bastoncini (chi li usa), torcia, cambio abiti in auto.
 
-**Guida:** Marco Triches, Balza del Sole
-GAE LAGAP (tessera n.368) 
-**Guida Parco delle Dolomiti Bellunesi**
+**Note:** La guida si riserva di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
 
-**Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com 
+**Guida:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
+*Guida del Parco Nazionale Dolomiti Bellunesi*
+
+**Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com
