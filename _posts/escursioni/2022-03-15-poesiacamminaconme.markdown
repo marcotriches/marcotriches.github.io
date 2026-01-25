@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino
 distanza: 12 Km
 difficult: 2
-image: posiacamminaconme.jpg
+image: poesiacamminaconme.jpg
 ---
 
 ## In cammino con la posia, dentro e fuori il paesaggio
