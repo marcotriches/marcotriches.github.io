@@ -2,7 +2,7 @@
 layout: post
 title:  "Poesia cammina con me"
 date:  2022-03-15 20:00:00 +0100
-day: "dom 01 feb 2026"
+day: "dom 1 feb 2026"
 meeting: "09:30"
 category: appennino
 distanza: 12 Km
