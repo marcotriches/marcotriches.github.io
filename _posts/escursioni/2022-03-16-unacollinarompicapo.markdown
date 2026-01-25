@@ -3,11 +3,11 @@ layout: post
 title:  "Una collina rompicapo"
 date:  2022-03-16 19:00:00 +0100
 day: "ven 30 gen 2026"
-meeting: "15:00"
+meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: collinarompicapo2.jpg
+image: collinarompicapo3.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -26,7 +26,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 15:00 
+**Ritrovo:** Villa Ugolini (Pesaro) ore 15:30 
 
 **Rientro:** ore 17:30
 
