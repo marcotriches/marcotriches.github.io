@@ -3,11 +3,11 @@ layout: post
 title:  "Il salto! Una sera d'Inverno"
 date:  2022-02-03 19:00:00 +0100
 day: "sab 21 feb 2026"
-meeting: "16:30"
+meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 7 Km
 difficult: 2
-image: ilsalto.jpg
+image: ilsalto2.jpg
 ---
 
 ## Il salto! Attività ambientale per giovanissimi
@@ -23,9 +23,9 @@ In questo appuntamento impareremo a orientarci con cartina, bussola e con le pri
 
 **Età adatta:** Da 13 a 15 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 16:30 
+**Ritrovo:** Villa Ugolini (Pesaro) ore 16:00 
 
-**Rientro:** ore 19:30
+**Rientro:** ore 19:00
 
 **Difficoltà:** Medio
 
