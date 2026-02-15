@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "La Via degli Ospizi"
-date:  2023-01-04 11:00:00 +0100
-day: "dom, 05 feb 2023"
+date:  2023-01-27 11:00:00 +0100
+day: "dom, 8 mar 2026"
 meeting: "07:00"
 category: dolomiti 
 difficult: 3
-image: bds_viaospizi.jpg
+image: viadegliospizi.jpg
 ---
 
 ## A piedi da San Gottardo a Agordo
@@ -18,6 +18,8 @@ L'escursione prevede la risalita del sentiero tematico della Via degli Ospizi fi
 
 *“La valle che si andava sempre più restringendo, disegnava una lista di cielo, tesa sulle cime dei monti a modo di nerissima tela (…) L’oscurissima zona era un trapunto di lucidissime stelle, tremule, luccicanti (…) La gola del Cordevole è angusta, orrida e cupa; ma tagliata a picco in seno a quelle dolomiti di straordinaria bianchezza, sulle quali da tanti secoli si esercita con efficacia sorprendente l’azione multiforme dell’atmosfera, prende aspetti così vari e così bizzarri, e al tempo stesso è così fredda e austera (quasi dicevo implacabile), che i suoi contorni si stampano indelebilmente nella fantasia.”*
 Aldo Stoppani, Il Bel Paese, 1876.
+
+**E' possibile interrompere il percorso a metà intinerario con termine in località Agre. Concordare con la guida la propria scelta.**
 
 **Ritrovo:** San Gottardo (Sospirolo) ore 07:00
 
@@ -31,11 +33,11 @@ Aldo Stoppani, Il Bel Paese, 1876.
 
 **Durata:** 9 ore circa
 
-**Costo:** 20€ Adulti
+**Costo:** 25€ Adulti
 
-*Abbonamenti Balza del Sole:* 5 escursioni / 90€
 
-**Portare:** scarponi, vestiario invernale, kway, pranzo al sacco, acqua (almeno 1 litro), bastoncini (chi li usa), torcia
+**Portare:** Scarponi, vestiario a strati, Kway, guscio, cappello, guanti, acqua (1 litro e mezzo), pranzo al sacco + qualcosa da mangiare, frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa), torcia. 
+
 
 **Guida Parco:** Marco Triches, Balza del Sole GAE LAGAP (Tessera n.368)
 * Informazioni e prenotazioni: 3281834019 info@balzadelsole.com 
