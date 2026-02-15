@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Peralora, Canevuze (BL)"
-date:   2022-03-13 18:20:48 +0100
-day: "sab, 7 feb 2026"
+date:   2022-01-29 18:20:48 +0100
+day: "sab, 7 mar 2026"
 meeting: "08:30"
 category: dolomiti 
 distanza: 10 Km
@@ -12,9 +12,11 @@ image: peraloracanevuze.jpg
 
 
 **Monti del Sole, Parco Nazionale Dolomiti Bellunesi**
-**Storie e viaggio in uno degli angoli più suggestivi delle Dolomiti**
+**Natura, clima e impatto ambientale**
 
 Escursione selvaggia in una delle catene montuose più difficili e isolate delle Dolomiti.
+
+Proponiamo un'escursione con riflessioni lungo il sentiero dedicate a natura, clima e impatto ambientale: alcune delle questioni più importanti degli ambienti in generale che abitiamo e in particolare quelli montani.
 
 Cammineremo sul sentiero che conduce dalle Rosse Alte alla storica casèra Nusieda, dove ci concederemo una sosta per uno spuntino e una lettura dedicata al luogo.
 Su tracce quasi sparite risaliremo l'assolata e ripida val di Nusieda fino alle due forcelle sommitali: l'erbosa forcella delle Canévuze e forcella Peralora. Valutabile in base al meteo e al terreno la traversata per la Val dei Salét.
@@ -37,7 +39,7 @@ Il percorso verrà accompagnato da letture dedicate ai luoghi e alla Natura, in 
 
 **Durata:** 5 ore circa (incluse soste e pausa pranzo)
 
-**Costo escursione:** 25€
+**Costo escursione:** 20€
 
 **Portare:** Scarponi, vestiario a strati, Kway, guscio, cappello, guanti, acqua (1 litro e mezzo), pranzo al sacco + qualcosa da mangiare, frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa). 
 
