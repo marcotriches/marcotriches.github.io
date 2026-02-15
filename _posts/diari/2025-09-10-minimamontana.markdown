@@ -45,13 +45,12 @@ Trascorreremo del tempo insieme, condivideremo delle informazioni e delle tecnic
 
 - Ottobre    Paura compagna di viaggio / I limiti che scopriamo nell'esplorazione della natura
 - Novembre   Lettura del paesaggio, cartografia e orientamento 
-- Dicembre   Filosofia, tecnica e arte del camminare
-- Gennaio    Senza lasciare tracce / l'impatto dell'escursionismo nell'ambiente
-- Febbraio   Sentieri, tracce, vertigini e sicurezza in montagna
-- Marzo      Cosa portare nello zaino, il ritmo del cammino, il respiro
+- Gennaio    Filosofia, tecnica e arte del camminare
+- Febbraio   Senza lasciare tracce / l'impatto dell'escursionismo nell'ambiente   
+- Marzo      Sentieri, tracce, vertigini e sicurezza in montagna 
 - Aprile     Alberi e boschi / riconoscerli assiste e aiuta il cammino e la quotidianità
 - Maggio     Erboristeria Itinerante / Piante, erbe, fiori utili e pericolosi
-- Giugno     Alimentazione, idratazione, zone d'ombra e ristoro / come camminare anche in estate 
+- Giugno     Cosa portare nello zaino, il ritmo del cammino, il respiro, alimentazione e idratazione
 - Luglio     Cammini e bivacchi notturni / la mente e il corpo in un viaggio a tappe
 
 
