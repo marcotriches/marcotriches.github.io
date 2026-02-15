@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Alberi per arrampicare"
-date:  2022-02-01 19:00:00 +0100
-day: "ven 27 feb 2026"
+title:  "Erbe per prati prati per bambini"
+date:  2022-01-26 19:00:00 +0100
+day: "ven 13 mar 2026"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
@@ -16,7 +16,7 @@ image: erbeperprati.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Nel mio paese c'è un bosco** fa tappa su un prato verde. Visto da lontano sembra omogeneo, ma da vicino spuntanto tante, diverse e coloratissime erbe. In compagnia di **Giulia Masdchera** faremo una piccola esplorazione delle varie piante che compongono i nostri prati all'inizio della Primavera, raccogliendo quelle che potremo mangiare. MAagari con una bella piadina al ritorno alle nostre case.
+**Nel mio paese c'è un bosco** fa tappa su un prato verde. Visto da lontano sembra omogeneo, ma da vicino spuntanto tante, diverse e coloratissime erbe. In compagnia di **Giulia Maschera** faremo una piccola esplorazione delle varie piante che compongono i nostri prati all'inizio della Primavera, raccogliendo quelle che potremo mangiare. Magari con una bella piadina al ritorno alle nostre case.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
 
