@@ -31,7 +31,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Rientro:** ore 18:00
 
-**Difficoltà:** Facilissimo 
+**Difficoltà:** Facile
 
 **Dislivello in salita:**  150 m. circa
 
