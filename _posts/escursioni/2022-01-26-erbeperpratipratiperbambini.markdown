@@ -7,7 +7,7 @@ meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: alberiarrampicare1.jpg
+image: erbeperprati.jpg
 ---
 
 ## Nel mio paese c'è un bosco
