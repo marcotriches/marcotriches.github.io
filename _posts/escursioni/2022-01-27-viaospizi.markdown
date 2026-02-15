@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Via degli Ospizi"
-date:  2023-01-27 11:00:00 +0100
+date:  2022-01-27 11:00:00 +0100
 day: "dom, 8 mar 2026"
 meeting: "07:00"
 category: dolomiti 
