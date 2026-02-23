@@ -30,7 +30,7 @@ Per tutti i partecipanti la possibilità di tornare a casa con le erbe mangerecc
 
 **Durata:** 5 ore circa (inclusa la pausa pranzo)
 
-**Costo:** 30€ Adulti, 25€ Minori - *include costo accompagnamento, laboratorio, contributo buffet*
+**Costo:** 30€ Adulti, 10€ fino a 11 anni - *include costo accompagnamento, laboratorio, contributo buffet*
 
 
 **Portare:** Scarpe comode, vestiario a strati, Kway, giacca, acqua (almeno 1 litro), cappello, busta per la raccolta delle erbe e coltello, cambio vestiti e scarpe in auto, blocnotes e penna. 
