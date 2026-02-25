@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Minima Montana: No tracce"
-date:  2022-01-31 20:00:00 +0100
-day: "ven 27 feb 2026"
+date:  2022-01-28 20:00:00 +0100
+day: "ven 6 mar 2026"
 meeting: "20:30:00"
 category: appennino
 distanza: /
 difficult: /
-image: minimamontanaimpatto.jpg
+image: minimamontanaimpatto1.jpg
 ---
 
 ## Il nostro impatto ambientale
