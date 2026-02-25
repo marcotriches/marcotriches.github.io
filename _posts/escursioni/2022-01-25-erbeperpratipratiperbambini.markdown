@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erbe per prati prati per bambini"
-date:  2022-01-26 19:00:00 +0100
+date:  2022-01-25 19:00:00 +0100
 day: "ven 13 mar 2026"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
