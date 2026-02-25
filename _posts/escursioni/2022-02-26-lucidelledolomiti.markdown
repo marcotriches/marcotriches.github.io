@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Monte Serva una notte (BL)"
-date:  2022-03-11 11:00:00 +0100
-day: "sab, 7 feb 2026"
-meeting: "15:00"
+title:  "Luci delle Dolomiti (BL)"
+date:  2022-01-26 11:00:00 +0100
+day: "dom, 8 mar 2026"
+meeting: "15:30"
 category: dolomiti 
 distanza: 8 Km
 difficult: 2
-image: servanotturnainverno.jpg
+image: lucidelledolomiti1.jpg
 ---
 
 ## Una notte nel Parco Nazionale Dolomiti Bellunesi
@@ -17,7 +17,7 @@ Superato il Col Cavalin (1314 m) e il Valon de la Serva, si prosegue in salita f
 **L'escursione verrà accompagnata da racconti ambientati! Un modo per raccogliere le suggestioni dei luoghi visti e ascoltati.**
 
 
-**Ritrovo:** Rifugio Col di Roanza, Belluno (BL) ore 15:00
+**Ritrovo:** Rifugio Col di Roanza, Belluno (BL) ore 15:30
 
 **Rientro:** ore 21:00 circa 
 
