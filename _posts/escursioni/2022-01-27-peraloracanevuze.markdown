@@ -7,7 +7,7 @@ meeting: "08:00"
 category: dolomiti 
 distanza: 10 Km
 difficult: 3
-image: peraloracanevuze.jpg
+image: peraloracanevuze1.jpg
 ---
 
 
