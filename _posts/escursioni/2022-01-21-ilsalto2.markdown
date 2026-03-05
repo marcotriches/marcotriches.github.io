@@ -7,7 +7,7 @@ meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 7 Km
 difficult: 2
-image: ilsalto3.jpg
+image: ilsalto2.jpg
 ---
 
 ## Il salto! Attività ambientale per giovanissimi
