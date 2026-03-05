@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erbe sui tuoi passi"
-date:  2022-01-24 04:00:00 +0100
+date:  2022-01-23 04:00:00 +0100
 day: "dom 15 mar 2026"
 meeting: "10:00"
 category: erboristeria
