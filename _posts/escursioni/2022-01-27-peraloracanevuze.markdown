@@ -2,10 +2,10 @@
 layout: post
 title:  "Peralora, Canevuze (BL)"
 date:   2022-01-27 18:20:48 +0100
-day: "dom 8 mar 2026"
+day: "dom 8mar 2026"
 meeting: "08:00"
 category: dolomiti 
-distanza: 10 Km
+distanza: 10Km
 difficult: 3
 image: peraloracanevuze1.jpg
 ---
