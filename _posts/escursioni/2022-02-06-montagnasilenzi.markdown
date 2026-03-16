@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La montagna chiude le porte"
+title:  "Una montagna di silenzi"
 date:  2022-02-06 20:00:00 +0100
 day: "dom 8 feb 2026"
 meeting: "09:30"
@@ -10,12 +10,15 @@ difficult: 2
 image: montagnachiude.jpg
 ---
 
-## Viaggio e racconto mentre si chiude la montagna
+## Viaggio e racconto nell'Appennino e nel paesaggio sonoro
 # Fonte Avellana Monte Val Canale
 
-L'inverno, la neve, i colori, il silenzio: ogni elemento del paesaggio porta a considerare il mondo della montagna come un mondo che ha chiuso le sue porte. Ed in effetti per chi cammina, a ben guardare, l'esperienza sembra proprio quella.
-C'è qualcosa di unico tuttavia che si sperimenta proprio in questa fase dell'anno: ovvero la solitudine dei campi, dei boschi spogli e dei pochi corvi in volo.
-Ciò che si chiude però è anche intimo, caloroso: un piccolo fuoco, che magari avremo la fortuna di sperimentare, in un angolo senza nome del nostro Appennino. 
+La montagna all'inizio della Primavera sibila e sboccia quasi senza farsi notare, appena prima delle grandi fioriture, i fogliami, il ritorno degli animali migratori. 
+Per chi cammina è come immergersi tra atmosfere che mutano rapidamente, colori, profumi e suoni.
+C'è qualcosa di unico che si sperimenta proprio in questa fase dell'anno: il ritorno sempre sorprendente del vento della vita sulla Terra.
+
+In questa escursione, con partenza da Fonte Avellana, cammineremo per sentieri solitari, all'ascolto del paesaggio sonoro di questo nostro angolo d'Appennino.
+ 
 
 L'escursione verrà accompagnata da racconti e letture.
 
