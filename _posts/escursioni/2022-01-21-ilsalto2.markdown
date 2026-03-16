@@ -3,11 +3,11 @@ layout: post
 title:  "Il salto! Con mani e piedi"
 date:  2022-01-21 19:00:00 +0100
 day: "sab 21 mar 2026"
-meeting: "16:00"
+meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 7 Km
 difficult: 2
-image: ilsalto2.jpg
+image: ilsalto2bis.jpg
 ---
 
 ## Il salto! Attività ambientale per giovanissimi
@@ -25,7 +25,7 @@ Una classica avventura di campagna, selvaggia al punto giusto, e con la giusta c
 
 **Età adatta:** Da 13 a 16 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 16:00 
+**Ritrovo:** Villa Ugolini (Pesaro) ore 15:30 
 
 **Rientro:** ore 19:00
 
