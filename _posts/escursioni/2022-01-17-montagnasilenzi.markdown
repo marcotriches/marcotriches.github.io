@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Una montagna di silenzi"
-date:  2022-02-06 20:00:00 +0100
-day: "dom 8 feb 2026"
+date:  2022-17-06 20:00:00 +0100
+day: "dom 29 mar 2026"
 meeting: "09:30"
 category: appennino
 distanza: 10 Km
 difficult: 2
-image: montagnachiude.jpg
+image: montagnasilenzi.jpg
 ---
 
-## Viaggio e racconto nell'Appennino e nel paesaggio sonoro
+## Soundwalk d'inizio Primavera nell'Appennino
 # Fonte Avellana Monte Val Canale
 
 La montagna all'inizio della Primavera sibila e sboccia quasi senza farsi notare, appena prima delle grandi fioriture, i fogliami, il ritorno degli animali migratori. 
@@ -20,9 +20,11 @@ C'è qualcosa di unico che si sperimenta proprio in questa fase dell'anno: il ri
 In questa escursione, con partenza da Fonte Avellana, cammineremo per sentieri solitari, all'ascolto del paesaggio sonoro di questo nostro angolo d'Appennino.
  
 
-L'escursione verrà accompagnata da racconti e letture.
+L'escursione verrà accompagnata da racconti e letture e soundwalk.
 
-**Il percorso sulla carta:** Con partenza dal monastero di Fonte Avellana (quota 700 m) salita al passo della Forchetta con sentiero 250. Salita al monte Val Canale con sentiewro CAI 273 e rientro nella Val Canale con il sentiero 254.
+**Una soundwalk o “passeggiata sonora”** è un’escursione basata sui suoni dell’ambiente circostante. Si cammina facendo particolare attenzione all’ascolto del paesaggio sonoro.
+
+**Il percorso sulla carta:** Con partenza dal monastero di Fonte Avellana (quota 700 m) salita al passo della Forchetta con sentiero 250. Salita al monte Val Canale con sentiero CAI 273 e rientro nella Val Canale con il sentiero 254.
 
 
 **Ritrovo:** Fonte Avellana (PU) ore 09:30
