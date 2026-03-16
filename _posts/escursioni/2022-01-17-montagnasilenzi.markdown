@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Una montagna di silenzi"
-date:  2022-17-06 20:00:00 +0100
+date:  2022-01-17 20:00:00 +0100
 day: "dom 29 mar 2026"
 meeting: "09:30"
 category: appennino
