@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino
 distanza: 10 Km
 difficult: 2
-image: montagnasilenzi.jpg
+image: montagnadisilenzi.jpg
 ---
 
 ## Soundwalk d'inizio Primavera nell'Appennino
