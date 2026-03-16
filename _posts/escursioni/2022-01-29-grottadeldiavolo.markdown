@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Posti preferiti: grotta del Diavolo"
-date:  2022-01-29 19:00:00 +0100
-day: "ven 6 mar 2026"
-meeting: "15:30"
+date:  2022-01-22 19:00:00 +0100
+day: "ven 20 mar 2026"
+meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: ritornogrottadiavolo.jpg
+image: ritornogrottadiavolo1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -27,9 +27,9 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 15:30 
+**Ritrovo:** Villa Ugolini (Pesaro) ore 16:00 
 
-**Rientro:** ore 18:00
+**Rientro:** ore 18:30
 
 **Difficoltà:** Facile
 
