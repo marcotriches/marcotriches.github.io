@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Cagliostro, San Leo (RN)"
-date:  2022-06-03 18:00:00 +0100
-day: "dom 13 apr 2025"
+title:  "Cagliostro, San Leo"
+date:  2022-01-13 18:00:00 +0100
+day: "dom 12 apr 2026"
 meeting: "10:00"
 category: appennino 
-distanza: 16Km
+distanza: 15 Km
 difficult: 2
-image: cagliostro.jpg
+image: cagliostro26.jpg
 ---
 
 ## Da Pietracuta a San Leo, i monti Tausani
@@ -34,11 +34,11 @@ Il nostro sarà un viaggio accompagnato da letture e momenti di silenzio ed asco
 
 **Dislivello in salita lungo:** 600 m. circa
 
-**Dislivello percorso breve:** 250 m circs 
+**Dislivello percorso breve:** 250 m circa 
 
-**Distanza:** 16 Km *(Percorso breve: 7 Km)*
+**Distanza:** 15 Km *(Percorso breve: 7 Km)*
 
-**Durata:** 7 ore circa (soste e pausa pranzo incluse)
+**Durata:** 6 ore circa (soste e pausa pranzo incluse)
 
 **Costo:** 20€ Adulti, 15€ Minori
 
