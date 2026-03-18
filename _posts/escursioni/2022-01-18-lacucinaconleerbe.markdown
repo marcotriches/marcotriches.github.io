@@ -13,13 +13,9 @@ image: cucinaconleerrbe.jpg
 ## Erboristeria Itinerante: itinerari floristici con Giulia Maschera, erborista
 # Riconoscimento, proprietà e ricette con le erbe dei nostri prati
 
-Lezione riconoscimento erbe spontanee commestibili e loro utilizzo in cucina, degustazione alcuni piatti che si possono realizzare con le erbe, 
-
-Ritorniamo sui nostri passi per una giornata dedicata alle **erbe spontanee e mangerecce**, ovvero a tutte le specie floristiche che possiamo osservare, conoscere e raccogliere con discrezione nei terreni incolti, nei prati delle nostre campagne.
-Un piccolo viaggio per esplorare insieme campi e piante, conoscere forme, sapori e proprietà della vegetazione spontanea autoctona.
-Ci accompagnerà **Giulia Maschera** in un percorso fatto di riconoscimenti, raccolte e letture dedicate al tema delle piante e delle prime fioriture.
-
-Per tutti i partecipanti la possibilità di tornare a casa con le erbe mangerecce raccolte durante la giornata. Basta portare una busta e un coltello!
+Siamo felici di proporvi una giornata davvero speciale dedicata alle **erbe spontanee commestibili**.
+In compagnia di **Giulia Maschera, erborista** e **Stefania Bertoni, biologa nutrizionista** impareremo a riconoscerle e a realizzare alcune semplici e gustose ricette.
+Ci dedicheremo in particolare alle proprietà delle piante osservate e ai modi per cucinarle combinando sapori e caratteristiche nutrizionali.
 
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
 
@@ -30,7 +26,7 @@ Per tutti i partecipanti la possibilità di tornare a casa con le erbe mangerecc
 
 **Durata:** 5 ore circa (incluso il pranzo didattico)
 
-**Costo:** 45€ (il costo comprende ) 
+**Costo:** 40€ (il costo comprende: laboratorio di riconoscimento delle piante + pranzo didattico) 
 
 **Portare:** Scarpe comode, vestiario a strati, Kway, giacca, acqua (almeno 1 litro), pranzo al sacco, cappello, busta per la raccolta delle erbe e coltello, cambio vestiti e scarpe in auto, blocnotes e penna. 
 
