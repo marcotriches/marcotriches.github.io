@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Una questione privata (PU)"
-date:  2022-06-07 18:00:00 +0100
-day: "ven 25 apr 2025"
+title:  "25 Aprile Una questione privata"
+date:  2022-01-10 18:00:00 +0100
+day: "sab 25 apr 2025"
 meeting: "09:30"
 category: appennino 
 distanza: 13Km
 difficult: 2
-image: questioneprivata.jpg
+image: questioneprivata26.jpg
 ---
 
 ## Parchiule, Alpe della Luna
@@ -47,7 +47,7 @@ Ritrovo conclusivo a Parchiule per una merenda o un'opzionale pausa dissetante, 
 **Distanza:** 9 Km 
 
 
-**Costo:** 18€ Adulti, 12€ Minori
+**Costo:** 20€ Adulti, 15€ Minori
 
 **Portare:** Scarponi, giacca impermeabile, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa). 
 
