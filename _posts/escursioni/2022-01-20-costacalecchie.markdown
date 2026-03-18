@@ -4,7 +4,8 @@ title:  "Valichi per viandanti: Calecchie"
 date:  2022-01-20 18:00:00 +0100
 day: "dom 22 mar 2026"
 meeting: "09:30"
-category: appennino 
+category: appennino
+distanza: 10Km
 difficult: 2
 image: valichiperviandanti.jpg
 ---
