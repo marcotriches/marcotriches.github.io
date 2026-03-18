@@ -7,7 +7,7 @@ meeting: "09:00"
 category: appennino 
 distanza: 12 Km
 difficult: 3
-image: balzaforata.jpg
+image: balzaforata26.jpg
 ---
 
 ## Un classico d'Appennino sul Monte Nerone
