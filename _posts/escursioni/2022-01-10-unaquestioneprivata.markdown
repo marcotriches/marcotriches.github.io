@@ -2,7 +2,7 @@
 layout: post
 title:  "25 Aprile Una questione privata"
 date:  2022-01-10 18:00:00 +0100
-day: "sab 25 apr 2025"
+day: "sab 25 apr 2026"
 meeting: "09:30"
 category: appennino 
 distanza: 13Km
