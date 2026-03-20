@@ -28,7 +28,7 @@ Ci dedicheremo in particolare alle proprietà delle piante osservate e ai modi p
 
 **Costo:** 40€ (il costo comprende: laboratorio di riconoscimento delle piante + pranzo didattico) 
 
-**Portare:** Scarpe comode, vestiario a strati, Kway, giacca, acqua (almeno 1 litro), pranzo al sacco, cappello, busta per la raccolta delle erbe e coltello, cambio vestiti e scarpe in auto, blocnotes e penna. 
+**Portare:** Scarpe comode, vestiario a strati, Kway, giacca, acqua (almeno 1 litro), blocnotes e penna. 
 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368) Guida Naturalistica delle Marche
