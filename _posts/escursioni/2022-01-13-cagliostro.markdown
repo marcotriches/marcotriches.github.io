@@ -2,7 +2,7 @@
 layout: post
 title:  "Cagliostro, San Leo"
 date:  2022-01-13 18:00:00 +0100
-day: "dom 12 apr 2026"
+day: "dom 12 apr 26"
 meeting: "10:00"
 category: appennino 
 distanza: 15 Km
