@@ -2,12 +2,12 @@
 layout: post
 title:  "Psicogeografia nel bosco"
 date:  2022-01-19 19:00:00 +0100
-day: "ven 27 mar 2026"
+day: "ven 3 apr 2026"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: psicogeografia.jpg
+image: psicogeografia1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
