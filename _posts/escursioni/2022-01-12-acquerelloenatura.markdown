@@ -7,7 +7,7 @@ meeting: "15:30"
 category: appennino
 distanza: /  
 difficult: /
-image: acuquerellonatura.jpg
+image: acquerellonatura.jpg
 ---
 
 ## Un pomeriggio per imparare divertendosi
