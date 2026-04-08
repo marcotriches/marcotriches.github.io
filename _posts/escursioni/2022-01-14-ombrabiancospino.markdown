@@ -24,7 +24,7 @@ Faremo inoltre uin piccolo viaggio in mezzo alle principali specie floristiche r
 
 **Ritrovo:** Villa Ugolini (Pesaro - PU) ore 09:30
 
-**Termine:** 13:30
+**Termine:** 12:30
 
 **Difficoltà:** Facile / T (Turistico)
 
