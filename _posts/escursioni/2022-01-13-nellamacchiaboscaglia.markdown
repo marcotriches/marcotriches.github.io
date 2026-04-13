@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nella macchia o boscaglia"
-date:  2022-01-11 19:00:00 +0100
+date:  2022-01-13 19:00:00 +0100
 day: "ven 17 apr 2026"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
