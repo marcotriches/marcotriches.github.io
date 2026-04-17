@@ -7,7 +7,7 @@ meeting: "09:30"
 category: appennino 
 distanza: 8 Km
 difficult: 2
-image: 
+image: risveglicarpegna.jpg
 ---
 
 ## Parco Naturale Sasso Simone e Simoncello
