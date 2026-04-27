@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Balza Forata, Monte Nerone (PU)"
-date:  2022-01-09 18:00:00 +0100
+date:  2022-01-03 18:00:00 +0100
 day: "sab, 16 mag 26"
 meeting: "09:00"
 category: appennino 
