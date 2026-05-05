@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Nella macchia o boscaglia"
+title:  "Birdwatching"
 date:  2022-01-13 19:00:00 +0100
-day: "ven 17 apr 2026"
+day: "ven 8 mag 2026"
 meeting: "16:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: macchiaoboscaglia.jpg
+image: birdwatchingnmpb.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -16,9 +16,10 @@ image: macchiaoboscaglia.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-Appuntamento di **Nel mio paese c'è un bosco** dedicato alla Natura e al gioco e alla scoperta degli ambienti naturali: in particolare la macchia o la boscaglia.
+Appuntamento di **Nel mio paese c'è un bosco** dedicato al Birdwatching, ovvero l'osservazione degli uccelli.
+
+Una esplorazione con binocoli alla mano per andare a trovare gli habitat e i posti utilizzati dagli uccelli in questo periodo particolarmente delicato: il corteggiamento, l'accoppiamento, la costruzione del nido e la nascita dei nuovi esemplari della specie.
 Con un percorso tra sentierini e tra gli alberi, raggiungeremo grandi distese di macchia mediterranea, dove conoscere, con rispetto e silenzio, tutta la fauna che ci abita.
-Angoli nascosti, minuscole tracce, grovigli inestricabili: tutto un mondo di suoni, colori e storie che ci circondano misteriori.
 
 Cammineremo tra alberi, arbusti e prati, sceglieremo i nostri riferimenti e impareremo a scegliere la direzione da seguire esercitando il nostro intuito da esploratori.
 
@@ -27,7 +28,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 16:00 
+**Ritrovo:** Montegaudio (Pesaro) ore 16:00 
 
 **Rientro:** ore 18:30
 
@@ -41,7 +42,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Costo:** 10€ 
 
-**Portare:** Scarpe da campagna, vestiario a strati, Kway, acqua (1 litro), merenda, cappello, "diario naturalistico" chi lo ha, blocnotes e matita, torcia, bussola cambio vestiti e scarpe in auto. 
+**Portare:** Scarpe da campagna, vestiario a strati, binocolo, Kway, acqua (1 litro), merenda, cappello, "diario naturalistico" chi lo ha, blocnotes e matita, bussola cambio vestiti e scarpe in auto. 
 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
