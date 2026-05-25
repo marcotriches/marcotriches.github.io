@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Cagliostro, San Leo"
-date:  2022-07-01 18:00:00 +0100
+date:  2022-01-01 18:00:00 +0100
 day: "dom 7 giu 26"
 meeting: "10:00"
 category: appennino 
 distanza: 15 Km
 difficult: 2
-image: cagliostro26.jpg
+image: cagliostro261.jpg
 ---
 
 ## Da Pietracuta a San Leo, i monti Tausani
@@ -44,7 +44,7 @@ Il nostro sarà un viaggio accompagnato da letture e momenti di silenzio ed asco
 
 *Abbonamenti Balza del Sole:* 5 escursioni / 65€
 
-**Portare:** Scarponi, giacca impermeabile, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa). 
+**Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa). 
 
 **Note sull'escursione:** L'uscita verrà confermata al raggiungimento di un minimo di 5 partecipanti. La guida si riserva la possibilità di variare o annullare l'itinerario in base alle condizioni meteo o del terreno.
 
