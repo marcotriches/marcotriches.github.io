@@ -3,7 +3,7 @@ layout: post
 title:  "Bici selvagge"
 date:  2022-01-02 19:00:00 +0100
 day: "sab 30 mag 2026"
-meeting: "16:00"
+meeting: "16:30"
 category: [appennino, educazione-ambientale]
 distanza: 8 Km
 difficult: 1
@@ -25,9 +25,9 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 6 a 11 anni 
 
-**Ritrovo:** Fontecorniale (Montefelcino) ore 16:00 
+**Ritrovo:** Fontecorniale (Montefelcino) ore 16:30 
 
-**Rientro:** ore 18:30
+**Rientro:** ore 19:00
 
 **Difficoltà:** Abbastanza Facile 
 
