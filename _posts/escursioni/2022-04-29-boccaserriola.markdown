@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Verso Bocca Serriola (PU)"
-date:  2022-04-29 20:00:00 +0100
-day: "dom 28 set 2025"
+date:  2022-01-01 20:00:00 +0100
+day: "dom 7 giu 2026"
 meeting: "10:00"
 category: appennino
 distanza: 10 Km
 difficult: 2
-image: boccaserriola.jpg
+image: boccaserriola26.jpg
 ---
 
 ## Cascata della Gorgaccia lungo fosso Tacconi
@@ -27,11 +27,11 @@ Durante il cammino suggestioni e racconti tratti da **John Muir, "Andare in momn
 
 **Difficoltà:** E (Escursionistico)
 
-**Dislivello in salita:**  300 m. circa
+**Dislivello in salita:**  400 m. circa
 
 **Distanza:** 10 Km
 
-**Costo:** 18€ Adulti, 12€ Minori
+**Costo:** 20€ Adulti, 15€ Minori
 *Per iscrizioni superiori a 3 persone richiesto il pagamento anticipato*
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, crema solare, cambio vestiti e scarpe in auto, bastoncini (per chi ne facesse uso).
