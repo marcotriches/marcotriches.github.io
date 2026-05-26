@@ -7,7 +7,7 @@ meeting: "16:30"
 category: [appennino, educazione-ambientale]
 distanza: 8 Km
 difficult: 1
-image: biciselvagge.jpg
+image: biciselvagge1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
