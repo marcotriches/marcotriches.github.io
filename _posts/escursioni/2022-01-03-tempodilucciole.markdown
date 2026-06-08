@@ -7,7 +7,7 @@ meeting: "19:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: termpodilucciole1.jpg
+image: tempodilucciole1.jpg
 ---
 
 ## Nel mio paese c'è un bosco
