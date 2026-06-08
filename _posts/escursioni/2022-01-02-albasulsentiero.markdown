@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "All'alba sul sentiero (PU)"
-date:  2022-08-23 18:00:00 +0100
-day: "dom 23 giu 2024"
-meeting: "05:00"
+date:  2022-01-02 18:00:00 +0100
+day: "dom 14 giu 2024"
+meeting: "04:30"
 category: appennino 
 distanza: 10Km
 difficult: 2
-image: anellomonteciccardo.jpg
+image: sentierialba.jpg
 ---
 
-## Nei Percorsi tematici del Piccolo Appennino
+## Viaggio a cavallo dell'alba "Tra cane e lupo"
 
 # Monteciccardo Monte della Mattera, valli e colli del Piccolo Appennino
 
@@ -32,7 +32,7 @@ Per tutte le informazioni sul percorso:  [https://www.balzadelsole.com/piccolo-a
 [https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/](https://fattidimontagna.it/rubriche/piccolo-appennino-incontri-fatti/)
 
 
-**Ritrovo:** Monteciccardo, Pesaro  (PU) ore 05:00
+**Ritrovo:** Monteciccardo, Pesaro  (PU) ore 04:30
 
 **Rientro:** ore 08:30 circa 
 
@@ -44,7 +44,7 @@ Per tutte le informazioni sul percorso:  [https://www.balzadelsole.com/piccolo-a
 
 **Durata cammino:** 3:30 ore circa 
 
-**Costo:** 15€ Adulti, 10€ Minori
+**Costo:** 15€ 
 
 
 **Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro), frutta secca o snack, cappello, cambio vestiti in auto, bastoncini (chi li usa), binocolo. 
