@@ -26,6 +26,10 @@ Al termine della passeggiata è possibile rinfrescarsi o cenare da **Selvatica, 
 
 **Difficoltà:** Facile / E (Escursionistico)
 
+**Dislivello:** +300 m
+
+**Distanza:** 7 Km
+
 **Durata:** 3 ore circa (incluse soste)
 
 **Termine:** 21:30
