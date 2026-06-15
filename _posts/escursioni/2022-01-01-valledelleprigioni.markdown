@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Valle delle Prigioni (PG)"
-date:  2022-05-03 20:00:00 +0100
-day: "dom 14 set 2025"
+date:  2022-01-01 20:00:00 +0100
+day: "dom 21 giu 2026"
 meeting: "10:00"
 category: appennino
 distanza: 9 Km
 difficult: 2
-image: valledelleprigioni.jpg
+image: valledelleprigioni1.jpg
 ---
 
 ## Una valle, una forra del nostro Appennino
@@ -28,7 +28,7 @@ Durante il cammino suggestioni e racconti tratti da **John Muir, "Andare in momn
 
 **Rientro:** ore 15:00 
 
-**Difficoltà:** Facile / E (Escursionistico)
+**Difficoltà:** Medio / E (Escursionistico)
 
 **Dislivello in salita:**  450 m. circa
 
