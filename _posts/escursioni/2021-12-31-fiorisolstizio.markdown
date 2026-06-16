@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Notte di San Giovanni (PU)"
-date:  2022-08-22 08:00:00 +0100
-day: "dom 23 giu 2024"
-meeting: "17:30"
+title:  "Solstizio, fiori di San Giovanni"
+date:  2021-12-31 08:00:00 +0100
+day: "mar 23 giu 2024"
+meeting: "18:30"
 category: erboristeria
-distanza: 5 Km 
+distanza: 4 Km 
 difficult: 1
-image: sangiovanni.jpg
+image: fiorisolstizio.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici
 
 # In compagnia di Giulia Maschera, erborista
 
-**Un evento in collaborazione con la Proloco di Monteciccardo nell'ambito della nuova Festa di Sant'Eurosia**
+**Con preparazione dell'acqua di San Giovanni e un piccolo fuoco simbolico**
 
 Una serata di festa dedicata alle splendide fioriture del mese di Giugno, nei giorni del Solstizio: ovvero i fiori che tradizionalmente vengono utilizzati nella preparazione dell'acqua di San Giovanni.
 
@@ -26,29 +26,30 @@ Al di là di tutte le spiritualità connesse (e degli eventuali riti magici o pr
 
 **Ogni partecipante potrà portare a casa i fiori raccolti per preparare la propria acqua di San Giovanni.**
 
-L'appuntamento terminerà con la possibilità di partecipare alla cena e agli spettacoli organizzati nel centro del paese di Monteciccardo.
+L'appuntamento terminerà con un piccolo falò propiziatorio e soprattutto simbolico.
 
 
 **Erboristeria itinerante** è un progetto dedicato alla scoperta delle piante spontanee, dei loro luoghi, le proprietà, le tradizioni e gli impieghi medicinali. Si organizzano corsi, giornate di studio, laboratori e passeggiate in compagnia di Giulia Maschera, erborista. Abbiamo idea che sia utile conoscere una pianta, a partire dal luogo dove abita.
 
-**Ritrovo:** Monteciccardo (Pesaro - PU) ore 17:30
+**Ritrovo:** Villa Ugolini (Pesaro) ore 18:30
 
-**Termine:** 20:30
+**Termine:** 22:00
 
 **Difficoltà:** Facile / T (Turistico)
 
 **Dislivello in salita:**  100 m. circa
 
-**Distanza:** 5 Km
+**Distanza:** 4 Km
 
-**Costo:** 10€ 
+**Costo:** 20€ 
+Il costo comprende il servizio di accompagnamento guida natutralistica + erborista
 
-*Il costo comprende anche la degustazione di alcuni prodotti tipici del territorio*
-
-**Portare:** Scarpe da campagna, vestiario a strati, pantaloni lunghi, Kway, acqua (1 litro e mezzo), busta per raccogliere le erbe, cambio vestiti in auto.
+**Portare:** Scarpe da campagna, vestiario a strati, pantaloni lunghi, Kway, acqua (1 litro e mezzo), busta per raccogliere le erbe, cambio vestiti in auto, cena al sacco.
 
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
+
+**Accompagna:** Giulia Maschera, erborista
 
 **Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com
