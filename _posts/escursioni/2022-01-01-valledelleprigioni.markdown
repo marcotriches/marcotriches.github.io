@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Valle delle Prigioni (PG)"
+title:  "Valle delle Prigioni"
 date:  2022-01-01 20:00:00 +0100
 day: "dom 21 giu 2026"
 meeting: "10:00"
