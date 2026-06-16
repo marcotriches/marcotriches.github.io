@@ -7,7 +7,7 @@ meeting: "10:00"
 category: appennino
 distanza: 9 Km
 difficult: 2
-image: valledelleprigioni1.jpg
+image: valledelleprigioni1 .jpg
 ---
 
 ## Una valle, una forra del nostro Appennino
