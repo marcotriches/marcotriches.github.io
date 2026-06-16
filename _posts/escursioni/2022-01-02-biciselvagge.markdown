@@ -2,12 +2,12 @@
 layout: post
 title:  "Bici selvagge"
 date:  2022-01-02 19:00:00 +0100
-day: "ven 19 giu 2026"
+day: "sab 20 giu 2026"
 meeting: "17:30"
 category: [appennino, educazione-ambientale]
 distanza: 8 Km
 difficult: 1
-image: biciselvagge1.jpg
+image: biciselvagge2.jpg
 ---
 
 ## Nel mio paese c'è un bosco
