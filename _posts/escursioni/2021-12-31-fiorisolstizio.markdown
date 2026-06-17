@@ -18,9 +18,9 @@ image: fiorisolstizio.jpg
 
 Una serata di festa dedicata alle splendide fioriture del mese di Giugno, nei giorni del Solstizio: ovvero i fiori che tradizionalmente vengono utilizzati nella preparazione dell'acqua di San Giovanni.
 
-Si tratta di una tradizione di origine pagana, radicata nelle campagne e negli ambienti rurali di molti paesi, assorbita successivamente nella religione Cattolica sotto l'aurea del "Battista", San Giovanni appunto.
+Si tratta di una pratica di origine pagana, radicata nelle campagne e negli ambienti rurali di molti paesi, assorbita successivamente nella religione Cattolica sotto l'aurea del "Battista", San Giovanni appunto.
 
-Al di là di tutte le spiritualità connesse (e degli eventuali riti magici o propiziatori), si tratta comunque di una consuetudine curiosa, degna di essere raccontata e rivissuta,  meglio ancora se nel silenzio delle sere tipiche delle nostre campagne, con una buona compagnia.
+Al di là di tutte le spiritualità connesse (e degli eventuali riti magici o propiziatori), si tratta comunque di una tradizione, degna di essere raccontata e rivissuta,  meglio ancora se nel silenzio delle sere tipiche delle nostre campagne, con una buona compagnia.
 
 **Al termine dell'incontro preparazione dell'acqua di San Giovanni con i fiori raccolti.**
 
