@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "All'alba sul sentiero (PU)"
-date:  2022-01-02 18:00:00 +0100
-day: "dom 14 giu 2024"
+title:  "All'alba sul sentiero"
+date:  2021-12-30 18:00:00 +0100
+day: "dom 28 giu 2024"
 meeting: "04:30"
 category: appennino 
 distanza: 10Km
 difficult: 2
-image: sentierialba.jpg
+image: sentierialba1.jpg
 ---
 
-## Viaggio a cavallo dell'alba "Tra cane e lupo"
+## Viaggio a cavallo dell'alba tra la notte e il giorno, "Tra cane e lupo"
 
 # Monteciccardo Monte della Mattera, valli e colli del Piccolo Appennino
 
