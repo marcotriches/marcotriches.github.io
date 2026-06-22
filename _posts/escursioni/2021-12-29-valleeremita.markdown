@@ -2,7 +2,7 @@
 layout: post
 title:  "Cardamagna e Valle dell'Eremita"
 date:  2021-12-29 20:00:00 +0100
-day: "dom 28 giu 2026"
+day: "dom 28 giu 26"
 meeting: "18:00"
 category: appennino
 distanza: 10 Km
