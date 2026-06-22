@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solstizio, fiori di San Giovanni"
-date:  2021-12-31 08:00:00 +0100
+date:  2022-01-01 08:00:00 +0100
 day: "mar 23 giu 2024"
 meeting: "18:30"
 category: erboristeria
