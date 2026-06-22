@@ -6,7 +6,7 @@ day: "dom 28 giu 2026"
 meeting: "09:30"
 category: appennino
 distanza: 6 Km
-difficult: 1
+difficult: 2
 image: riovitoschio1.jpg
 ---
 
