@@ -7,7 +7,7 @@ meeting: "10:00"
 category: [appennino, educazione-ambientale]
 distanza: 7 Km
 difficult: 2
-image: tecchieluglio.jpg
+image: tecchieluglio .jpg
 ---
 
 ## Nell'Appennino c'è un Bosco
