@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bosco di Tecchie"
-date:  2021-12-29 03:00:00 +0100
+date:  2021-12-28 03:00:00 +0100
 day: "sab 4 lug 2026"
 meeting: "10:00"
 category: [appennino, educazione-ambientale]
