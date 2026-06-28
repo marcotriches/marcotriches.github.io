@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tramonto d'Appennino"
-date:  2022-04-20 20:00:00 +0100
+date:  2021-12-27 20:00:00 +0100
 day: "dom 5 lug 2026"
 meeting: "16:30"
 category: appennino
