@@ -6,7 +6,7 @@ day: "dom 5 lug 2026"
 meeting: "16:30"
 category: appennino
 distanza: 12 Km
-difficult: 2
+difficult: 3
 image: tramontoappennino.jpg
 ---
 
