@@ -34,7 +34,7 @@ Le attività di **Nel mio paese c'è un bosco** è rivolta a bambini e ragazzi d
 
 **Difficoltà:** Facile (Escursionistiche)
 
-**Distanza:** 7ì5 Km
+**Distanza:** 5 Km
 
 **Dislivello:** + 150 metri
 
