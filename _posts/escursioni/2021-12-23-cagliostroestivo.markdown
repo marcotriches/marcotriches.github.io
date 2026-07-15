@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Cagliostro San Leo notturna"
+date:  2021-12-23 18:00:00 +0100
+day: "dom 26 lug 26"
+meeting: "10:00"
+category: appennino 
+distanza: 15 Km
+difficult: 2
+image: cagliostroestivonotturna.jpg
+---
+
+## Da Pietracuta a San Leo, i monti Tausani
+
+# Un percorso serale e un racconto per rivivere la storia ambigua e magica del Gran Cofto 
+
+Il 13 Aprile 1791 Giovanni Balsamo, soprattutto noto con il nome di Alessandro conte di Cagliostro, viene imprigionato nella fortezza di San Leo, dove morirà il 26 Agosto 1795.
+
+Ripercorreremo la sua parabola umana, fatta di luci e ombre, magia e inganno, con una panoramica traversata lungo la cresta dei monti Tausani, che conduce proprio alla fortezza di San Leo.
+
+Con partenza da Pietracuta per il monte Fotogno, il paese di Tausano e i monti Gregorio e Penna di Gesso, per raggiungere il Valico della Biforca, il convento di Sant'Igne (fondato da San Francesco nel 1231) e infine San Leo.
+
+Il nostro sarà un viaggio accompagnato da letture e momenti di silenzio ed ascolto, nella contemplazione della natura di una sera di mezza estate.
+
+*Possibilità di accorciare il percorso con partenza posticipata dal paese di Tausano*
+
+*Percorso di sola andata a piedi! Il rientro dal paese di San Leo a Pietracuta verrà organizzato dalla guida in collaborazione con i partecipanti!*
+
+**Ritrovo:** Pietracuta (RN) ore 17:00
+
+**Rientro:** ore 22:00 circa 
+
+**Difficoltà:** Medio / E (Escursionistico)
+
+**Dislivello in salita lungo:** 600 m. circa
+
+**Dislivello percorso breve:** 250 m circa 
+
+**Distanza:** 15 Km *(Percorso breve: 7 Km)*
+
+**Durata:** 5 ore circa (soste e pausa cena incluse)
+
+**Costo:** 20€ Adulti, 15€ Minori
+
+
+**Portare:** Scarponi, vestiario a strati, Kway, acqua (1 litro e mezzo), cena al sacco + frutta secca o snack, cambio vestiti in auto, bastoncini (chi li usa), torcia. 
+
+**Note sull'escursione:** L'uscita verrà confermata al raggiungimento di un minimo di 5 partecipanti. La guida si riserva la possibilità di variare o annullare l'itinerario in base alle condizioni meteo o del terreno.
+
+**Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
+*Guida Naturalistica delle Marche*
+
+**Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com
