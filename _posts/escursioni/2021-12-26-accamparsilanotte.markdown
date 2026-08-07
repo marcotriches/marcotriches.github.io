@@ -2,12 +2,12 @@
 layout: post
 title:  "Accamparsi la notte"
 date:  2021-12-26 03:00:00 +0100
-day: "sab 18 lug 2026"
+day: "sab 29 ago 2026"
 meeting: "17:30"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 2
-image: accamparsinotte.jpg
+image: accamparsinotte1.jpg
 ---
 
 ## Nell'Appennino c'è un Bosco
@@ -16,7 +16,7 @@ image: accamparsinotte.jpg
  
 **Nell'Appennino c'è un bosco** si fionda nei boschi di Fontecorniale per una notte d'accampamento!
 
-Una vera e proria **Notte in tenda** è un'attività notturna dedicata a tutti i bambini che desiderano trascorrere la notte nella Natura.
+Una vera e proria **Notte in tenda**: un'attività notturna dedicata a tutti i bambini che desiderano trascorrere la notte nella Natura.
 
 I suoni, le atmosfere, la preparazione del bivacco e la cena sotto un cielo stellato. Una piccola avventura come l'inizio di un grande viaggio.
 
