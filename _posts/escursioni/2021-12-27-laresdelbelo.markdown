@@ -1,37 +1,42 @@
 ---
 layout: post
-title:  "Anello di Bosconero (BL)"
+title:  "Lares del Belo, Bosconero"
 date:  2022-05-05 11:00:00 +0100
-day: "sab, 30 ago 2025"
+day: "mer, 26 ago 2026"
 meeting: "08:00"
 category: dolomiti 
 distanza: 8 Km
 difficult: 3
-image: bosconero.jpg
+image: laresdelbelo.jpg
 ---
 
 ## Boschi e valloni nelle Dolomiti di Zoldo 
 
 # Un itinerario storico alla scoperta del Bosconero
 
+Una camminata per ubna visita: andiamo a trovare l'albero censito più antico della provincia di Belluno, il **Lares del Belo**
+
+Montagna, cammino ma anche contermplazione, silenzio e racconti.
+
 Giro ad anello in una delle zone più affascinanti e selvatiche delle Dolomiti Bellunesi con un percorso non difficile alla scoperta dei boschi, della fauna e della cultura delle Dolomiti di Zoldo meno frequentate.
 
 Come di consueto la nostra escursione verrà accompagnata da letture e racconti a tema ambientati nel territorio.
 
-Il sentiero CAI 485 parte da località Lago di Pontesei (825m) e risale il colle delle Susinère (1016m) fino Casera di Zot (1142m) e il rifugio Bosconero (1457m). Rientro con il sentiero CAI 490 per la Val di Bosconero e Casera del Mugon.
+Il sentiero CAI 485 parte da località Lago di Pontesei (825m) e risale il colle delle Susinère (1016m) fino Casera di Zot (1142m) e il rifugio Bosconero (1457m). *Salita fino al Lares* 
+Rientro con il sentiero CAI 490 per la Val di Bosconero e Casera del Mugon.
 
 
 **Ritrovo:** Lago di Pontesei (Val di Zoldo) - BL ore 08:00
 
-**Rientro:** ore 15:00 circa 
+**Rientro:** ore 16:00 circa 
 
 **Difficoltà:** E (Escursionisti)
 
-**Lunghezza:** 8 Km
+**Lunghezza:** 11 Km
 
-**Dislivello in salita:**  650 m. circa
+**Dislivello in salita:**  900 m. circa
 
-**Durata:** 7 ore circa (incluse soste e pausa pranzo)
+**Durata:** 8 ore circa (incluse soste e pausa pranzo)
 
 **Costo:** 25€ 
 
