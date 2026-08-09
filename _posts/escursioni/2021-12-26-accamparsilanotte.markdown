@@ -6,7 +6,7 @@ day: "sab 29 ago 2026"
 meeting: "17:30"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
-difficult: 2
+difficult: 1
 image: accamparsinotte1.jpg
 ---
 
