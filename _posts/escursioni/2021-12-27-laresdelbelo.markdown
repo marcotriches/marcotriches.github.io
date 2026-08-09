@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lares del Belo, Bosconero"
-date:  2022-05-05 11:00:00 +0100
+date:  2021-12-27 11:00:00 +0100
 day: "mer, 26 ago 2026"
 meeting: "08:00"
 category: dolomiti 
