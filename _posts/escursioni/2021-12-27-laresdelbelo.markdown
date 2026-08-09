@@ -5,7 +5,7 @@ date:  2021-12-27 11:00:00 +0100
 day: "mer, 26 ago 2026"
 meeting: "08:00"
 category: dolomiti 
-distanza: 8 Km
+distanza: 11 Km
 difficult: 3
 image: laresdelbelo.jpg
 ---
@@ -14,7 +14,7 @@ image: laresdelbelo.jpg
 
 # Un itinerario storico alla scoperta del Bosconero
 
-Una camminata per ubna visita: andiamo a trovare l'albero censito più antico della provincia di Belluno, il **Lares del Belo**
+Una camminata per una visita: andiamo a trovare l'albero censito più antico della provincia di Belluno, il **Lares del Belo**
 
 Montagna, cammino ma anche contermplazione, silenzio e racconti.
 
