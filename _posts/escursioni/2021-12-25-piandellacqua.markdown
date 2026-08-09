@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pian dell'Acqua, Monte Nerone"
-date:  2022-05-21 18:00:00 +0100
+date:  2021-12-25 18:00:00 +0100
 day: "dom 30 ago 2026"
 meeting: "10:00"
 category: appennino 
