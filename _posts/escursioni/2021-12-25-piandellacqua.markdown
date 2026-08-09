@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Pian dell'Acqua, Monte Nerone (PU)"
+title:  "Pian dell'Acqua, Monte Nerone"
 date:  2022-05-21 18:00:00 +0100
-day: "dom, 1 giu 2025"
+day: "dom 30 ago 2026"
 meeting: "10:00"
 category: appennino 
-distanza: 6 Km
+distanza: 7 Km
 difficult: 2
-image: piandellacqua.jpg
+image: piandellacqua30.jpg
 ---
 
 ## Una valle simbolo del selvaggio Monte Nerone
 
 # Giro ad anello da Pianello per la Valle Pian dell'Acqua e Cupi di Fiamma
 
-Escursione ad anello in uno dei luoghi classici del Monte Nerone: Pian dell'Acqua. Nel cuore della primavera e nel cuore di una valle appenninica, passeremo una giornata sui versanti di un torrente unico per il nostro territorio.
+Escursione ad anello in uno dei luoghi classici del Monte Nerone: Pian dell'Acqua. Una domenica di fine estate nel cuore di una valle appenninica, passeremo una giornata sui versanti di un torrente unico per il nostro territorio.
 
 I suoni della natura, i sentieri suggestivi del monte Nerone, un ecosistema da vivere in punta di piedi e con il silenzio tipico delle nostre escursioni,
 
@@ -32,7 +32,7 @@ Durante il percorso verranno proposte soste di contemplazione, ascolto e lettura
 
 **Durata:** 5 ore circa (soste e pausa pranzo incluse)
 
-**Costo:** 18€ Adulti, 12€ Minori
+**Costo:** 20€ Adulti, 15€ Minori
 
 *Abbonamenti escursioni lunghe Balza del Sole:* 5 escursioni / 65€
 
