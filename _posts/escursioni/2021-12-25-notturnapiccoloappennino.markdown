@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "Notturna Piccolo Appennino"
-date:  2022-01-01 01:30:00 +0100
-day: "dom 14 giu 2026"
+date:  2021-12-25 01:30:00 +0100
+day: "dom 6 set 2026"
 meeting: "18:00"
 category: appennino
-distanza: 7 Km  
+distanza: 8 Km  
 difficult: 2
-image: notturna1.jpg
+image: notturnafontecorniale.jpg
 ---
 
 ## Escursione notturna nel Piccolo Appennino
 
 # Con possibilità di ristoro finale da Selvatica, Osteria di Strada
 
-Cosa accade la sera nella nostra campagna? Quali atmosfere, colori, suoni e sapori? Andiamo a scoprirlo insieme con una escursione notturna in una luminosa sera di tardissima Primavera a partire da Villa Ugolini.
+Cosa accade la sera nella nostra campagna? Quali atmosfere, colori, suoni e sapori? Andiamo a scoprirlo insieme con una escursione notturna in una luminosa sera di fine Estate a partire da Fontecorniale.
 
 Scopriremo le atmosfere e i soni delle nostre campagne percorrendo facili sentieri e stradine, tra alberi solitari, prati fioriti e boschetti, fino a raggiungere alcune delle cime delle colline del territorio, luoghi dal fascino e dai panorami davvero particolari.
 
@@ -28,7 +28,7 @@ Al termine della passeggiata è possibile rinfrescarsi o cenare da **Selvatica, 
 
 **Dislivello:** +300 m
 
-**Distanza:** 7 Km
+**Distanza:** 8 Km
 
 **Durata:** 3 ore circa (incluse soste)
 
@@ -36,7 +36,7 @@ Al termine della passeggiata è possibile rinfrescarsi o cenare da **Selvatica, 
 
 **Costo:** 15€ 
 
-**Portare:** Scarponcini o scarpe da campagna, vestiario a strati, Kway, acqua (1 litro), qualcosa da mangiare, cambio vestiti e scarpe in auto, bastoncini chi li usa, torcia.
+**Portare:** Scarponcini o scarpe da campagna, vestiario a strati, Kway, acqua (1 litro e mezzo), qualcosa da mangiare, cambio vestiti e scarpe in auto, bastoncini chi li usa, torcia.
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
