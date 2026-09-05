@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creste dell'Alpago (BL)"
-date:  2022-08-03 11:30 +0100
-day: "dom 15 set 2024"
+title:  "Creste dell'Alpago"
+date:  2021-12-24 11:30 +0100
+day: "sab 12 set 2026"
 meeting: "08:00"
 category: dolomiti 
 distanza: 14 Km
