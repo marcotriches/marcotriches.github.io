@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ripartiamo in bicicletta!"
-date:  2021-12-22 19:00:00 +0100
+date:  2021-12-24 19:00:00 +0100
 day: "ven 18 set 2026"
 meeting: "16:30"
 category: [appennino, educazione-ambientale]
