@@ -7,9 +7,9 @@ excursions:
  - nome: Educazione Ambientale
    category: educazione-ambientale
 ---
-# Nel mio paese c’è un bosco, educazione ambientale fuori porta! Quasi tutti i venerdì pomeriggio Pesaro e campagna.
+# Nel mio paese c’è un bosco, educazione ambientale fuori porta! Tutti i venerdì pomeriggio Pesaro e campagna.
 
-Educazione Ambientale fuori porta. Un percorso lungo i sentieri, i luoghi naturali del primo entroterra pesarese per esplorare la vegetazione, gli animali, i paesaggi e le storie del territorio. Appuntamenti del venerdì pomeriggio, a pochi passi da casa, per crescere insieme immersi nella natura.
+Educazione Ambientale fuori porta. Un percorso lungo i sentieri, i luoghi naturali del primo entroterra pesarese per esplorare la vegetazione, gli animali, i paesaggi e le storie del territorio. Appuntamenti del venerdì pomeriggio, a pochi passi da casa, per crescere insieme immersi nella natura. **A piedi o in bicicletta, o con i laboratori** ci avventuriamo alla scoperta della Natura del nostro territorio!
 
 *"I bambini che crescono in una foresta, anche nelle vicinanze di piccoli appezzamenti intorno alle loro case, possono a volte allontanarsi nella zona più selvaggia. Di tanto in tanto essi si voltano, per guardarsi alle spalle. La mamma è ancora in vista? C'è ancora il fratello maggiore? Quando si fidano abbastanza per spingersi più oltre nel bosco, i bambini o le bambine, riescono a percepire la grandezza o l'indipendenza della natura selvaggia, l'indipendenza persino dal potere dei genitori e del fratello maggiore. Non hanno - ma non sanno di non averlo - alcun controllo sul vasto mondo che li circonda. Non sottovalutate i bambini!"*
 
