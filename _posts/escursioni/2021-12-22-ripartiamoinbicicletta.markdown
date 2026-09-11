@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Ripartiamo in bicicletta!"
-date:  2021-12-26 19:00:00 +0100
-day: "ven 4 set 2026"
-meeting: "18:00"
+date:  2021-12-22 19:00:00 +0100
+day: "ven 18 set 2026"
+meeting: "16:30"
 category: [appennino, educazione-ambientale]
-distanza: 8 Km
+distanza: 6 Km
 difficult: 1
-image: biciselvagge4.jpg
+image: ripartiamoinbicicletta.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -16,24 +16,27 @@ image: biciselvagge4.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-**Nel mio paese c'è un bosco** viaggia in bicicletta!
-Riproponiamo un percorso con le nostre bici nelle colline con partenza dal paese di Fontecorniale. Salite, discese, curve: un'avventura da vivere insieme, circondati dal verde e verso la notte.
+Nuovo anno in compagnia di **Nel mio paese c'è un bosco**!
+Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vicina alle nostre case andando a esplorare sentieri, boschetti, fossi e colline.
+
+Ripartiamo con un percorso con le nostre bici nelle colline con partenza da Montemarino. 
+Stradine bianche, sentierini, discese su sassi e radici: un'avventura da vivere insieme, grandi e piccoli.
 Proveremo anche a riflettere sull'impatto che hanno i mezzi (incluse le biciclette) negli ambienti naturali e l'importanza della biodiversità per l'essere umano.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
 
 
-**Età adatta:** Da 6 a 11 anni 
+**Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Fontecorniale (Montefelcino) ore 18:00 
+**Ritrovo:** Montemarino (Mombaroccio) ore 16:30 
 
-**Rientro:** ore 21:00
+**Rientro:** ore 19:00
 
 **Difficoltà:** Abbastanza Facile 
 
-**Dislivello in salita:**  200 m. circa
+**Dislivello in salita:**  100 m. circa
 
-**Distanza:** 8 Km
+**Distanza:** 6 Km
 
 **Durata:** 2 ore circa
 
