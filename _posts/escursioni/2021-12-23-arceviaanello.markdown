@@ -34,7 +34,7 @@ Al termine della passeggiata visiteremo a Serra de' Conti il mercatino tematico 
 
 **Termine:** 13:30
 
-**Costo:** 15€ 
+**Costo:** Adulti 15€   Minori 10€ 
 
 **Portare:** Scarponcini o scarpe da campagna, vestiario a strati, Kway, acqua (1 litro e mezzo), qualcosa da mangiare, cambio vestiti e scarpe in auto, bastoncini chi li usa.
 
