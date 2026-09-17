@@ -5,7 +5,7 @@ date:  2021-12-20 01:30:00 +0100
 day: "dom 27 set 2026"
 meeting: "09:00"
 category: appennino
-distanza: 16 Km  
+distanza: 16Km  
 difficult: 3
 image: pennabillicarpegna.jpg
 ---
