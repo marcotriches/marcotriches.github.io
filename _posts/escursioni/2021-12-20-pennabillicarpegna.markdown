@@ -10,7 +10,7 @@ difficult: 3
 image: pennabillicarpegna.jpg
 ---
 
-## Escursione sui sentieri di Arcevia
+## Parco Naturale del Sasso Simone e Simoncello
 
 # Con visita a seguire alla fiera "Gli antichi frutti d'Italia si incontrano a Pennabilli"
 
