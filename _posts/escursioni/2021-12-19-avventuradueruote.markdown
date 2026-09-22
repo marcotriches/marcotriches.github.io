@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Ripartiamo in bicicletta!"
-date:  2021-12-24 19:00:00 +0100
-day: "ven 18 set 2026"
+title:  "Avventura a due ruote"
+date:  2021-12-19 19:00:00 +0100
+day: "ven 25 set 2026"
 meeting: "16:30"
 category: [appennino, educazione-ambientale]
 distanza: 6 Km
 difficult: 1
-image: ripartiamoinbicicletta.jpg
+image: avventuradueruote.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -19,8 +19,8 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 Nuovo anno in compagnia di **Nel mio paese c'è un bosco**!
 Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vicina alle nostre case andando a esplorare sentieri, boschetti, fossi e colline.
 
-Ripartiamo con un percorso con le nostre bici nelle colline con partenza da Montemarino. 
-Stradine bianche, sentierini, discese su sassi e radici: un'avventura da vivere insieme, grandi e piccoli.
+Proseguiamo con un'**Avventura a due ruote** con le nostre bici nelle colline con partenza da Fontecorniale. 
+Stradine bianche, sentierini, discese su sassi e radici: un'esperienza da vivere insieme, grandi e piccoli.
 Proveremo anche a riflettere sull'impatto che hanno i mezzi (incluse le biciclette) negli ambienti naturali e l'importanza della biodiversità per l'essere umano.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
@@ -28,7 +28,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Montemarino (Mombaroccio) ore 16:30 
+**Ritrovo:** Fontecorniale (Montefelcino) ore 16:30 
 
 **Rientro:** ore 19:00
 
