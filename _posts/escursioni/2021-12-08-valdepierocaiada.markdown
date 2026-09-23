@@ -32,7 +32,7 @@ A seguire, con il sentiero C.A.I. 505, l’itinerario percorre in salita il cana
 
 **Rientro:** ore 16:00 circa 
 
-**Difficoltà:** EE -. Escursionisti Esperti
+**Difficoltà:** EEA -. Escursionisti Esperti Attrezzati
 
 **Dislivello in salita:**  1800 m. circa
 
@@ -42,7 +42,7 @@ A seguire, con il sentiero C.A.I. 505, l’itinerario percorre in salita il cana
 
 *Il costo prevede la presenza di due guide*
 
-**Portare:** Scarponcini, vestiario a strati, Kway, acqua (2 litri), snack e cibi energetici, pranzo al sacco, cambio vestiti e scarpe in auto, bastoncini chi li usa.
+**Portare:** Scarponi, casco, imbraco, kit ferrata, vestiario a strati, Kway, acqua (2 litri), snack e cibi energetici, pranzo al sacco, cambio vestiti e scarpe in auto, bastoncini chi li usa.
 
 **Note:** Le guide si riservano di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
 
