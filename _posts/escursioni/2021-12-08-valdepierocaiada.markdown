@@ -6,7 +6,7 @@ day: "sab, 31 ott 2026"
 meeting: "07:00"
 category: dolomiti 
 difficult: 5
-image: valdepierocajada.jpg
+image: valdepierocajada111.jpg
 ---
 
 ## Parco Nazionale Dolomiti Bellunesi
