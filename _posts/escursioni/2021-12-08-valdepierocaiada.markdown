@@ -5,6 +5,7 @@ date:  2021-12-08 18:00:00 +0100
 day: "sab, 31 ott 2026"
 meeting: "07:00"
 category: dolomiti 
+distanza: 22Km  
 difficult: 5
 image: valdepierocajada111.jpg
 ---
@@ -33,7 +34,7 @@ A seguire, con il sentiero C.A.I. 505, l’itinerario percorre in salita il cana
 
 **Difficoltà:** EE -. Escursionisti Esperti
 
-**Dislivello in salita:**  1600 m. circa
+**Dislivello in salita:**  1800 m. circa
 
 **Durata:** 9 ore circa
 
