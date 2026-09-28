@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Verso Bocca Serriola (PU)"
-date:  2022-01-01 20:00:00 +0100
-day: "dom 7 giu 2026"
+date:  2021-12-19 20:00:00 +0100
+day: "dom 4 ott 2026"
 meeting: "10:00"
 category: appennino
 distanza: 10 Km
 difficult: 2
-image: boccaserriola26.jpg
+image: boccaserriola2.jpg
 ---
 
 ## Cascata della Gorgaccia lungo fosso Tacconi
@@ -15,7 +15,7 @@ image: boccaserriola26.jpg
 # Camminata con racconti dedicati alla salvaguardia della Natura
 
 Escursione lungo la valle del fosso Tacconi nel cuore dell'Appennino umbromarchigiano alla scoperta della cascata della Gorgaccia.
-Percorreremo i sentieri ombreggiati e boschivi che costeggiano il corso d'acqua in direzione del valico di Bocca Seriola andando alla scoperta degli habitat fluviali, dei loro angoli nascosti e delle loro atmosfere tardo estive.
+Percorreremo i sentieri ombreggiati e boschivi che costeggiano il corso d'acqua in direzione del valico di Bocca Seriola andando alla scoperta degli habitat fluviali, dei loro angoli nascosti e delle loro atmosfere d'inizio Autunno.
 
 Una valle storica, dalle acque utilizzate per il funzionamento di un mulino, immersa nella vegetazione. 
 
