@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Monte dei Frati Monte Maggiore"
-date:  2021-12-18 20:00:00 +0100
-day: "dom 04 ott 2026"
+date:  2021-12-11 20:00:00 +0100
+day: "dom 18 ott 2026"
 meeting: "09:00"
 category: appennino
 distanza: 18Km
 difficult: 3
-image: montefratimontemaggiore.jpg
+image: montefratimontemaggiore1.jpg
 ---
 
 ## Giro ad anello della Ripa della Luna
