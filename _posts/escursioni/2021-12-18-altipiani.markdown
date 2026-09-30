@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Altipiani di bacche frutti e semi"
+title:  "Altipiani di drupe, coccole e falsi frutti"
 date:  2021-12-18 08:00:00 +0100
 day: "dom 11 ott 2026"
 meeting: "10:00"
@@ -14,9 +14,9 @@ image: altipiani.jpg
 
 # In compagnia di Giulia Maschera, erborista
 
-Una giornata dedicata a bacche, frutti e semi delle piante selvatiche del nostro Appennino. Biancospini, ginepri, rose canine e prugnoli: sono queste alcune delle specie che in questo momento dell'anno, riempiono i monti e le campagne di colori brillanti.
+Una giornata dedicata ai frutti autunnali delle piante selvatiche del nostro Appennino. Biancospini, ginepri, rose canine e prugnoli: sono queste alcune delle specie che in questo momento dell'anno, riempiono i monti e le campagne di colori brillanti.
 
-Percorreremo alcuni sentieri degli altipiani che salgono verso la cima del monte Carpegna per seguire le storie di questi arbusti e scoprirne proprietà, usi e ridi con **Giulia Maschera**-
+Percorreremo alcuni sentieri degli altipiani che salgono verso la cima del monte Carpegna per seguire le storie di questi arbusti e scoprire come poterli impiegare per creare utili rimedi erboristici con **Giulia Maschera**-
 
 Allungheremo poi il nostro percorso per ammirare la faggeta di Pianacquadio e i prati panoramici che volgono verso la Val Marecchia.
 
