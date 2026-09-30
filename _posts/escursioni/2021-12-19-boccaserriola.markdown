@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Verso Bocca Serriola (PU)"
+title:  "Verso Bocca Serriola"
 date:  2021-12-19 20:00:00 +0100
 day: "dom 4 ott 2026"
 meeting: "10:00"
