@@ -7,7 +7,7 @@ meeting: "10:00"
 category: erboristeria
 distanza: 5 Km 
 difficult: 1
-image: altipiani.jpg
+image: altipiani1.jpg
 ---
 
 ## Erboristeria Itinerante: itinerari floristici
