@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Scorribande"
+title:  "Paesaggi e pedalate"
 date:  2021-12-22 19:00:00 +0100
-day: "ven 2 ott 2026"
+day: "ven 9 ott 2026"
 meeting: "16:30"
 category: [appennino, educazione-ambientale]
 distanza: 6 Km
