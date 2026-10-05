@@ -5,9 +5,9 @@ date:  2021-12-22 19:00:00 +0100
 day: "ven 9 ott 2026"
 meeting: "16:30"
 category: [appennino, educazione-ambientale]
-distanza: 6 Km
+distanza: 7 Km
 difficult: 1
-image: scorribande.jpg
+image: paesaggiepedalate.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -19,8 +19,8 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 Nuovo anno in compagnia di **Nel mio paese c'è un bosco**!
 Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vicina alle nostre case andando a esplorare sentieri, boschetti, fossi e colline.
 
-Viaggio, mappa alla mano, e in bicicletta, per esplorare le stradine che conducono da Montegaudio a Villa Ugolini.
-Stradine bianche, sentierini, discese su sassi e radici: un'esperienza da vivere insieme, grandi e piccoli.
+Escursione in bicicletta per esplorare le stradine che conducono da Montegaudio a Villa Ugolini.
+Stradine bianche, sentierini, discese su sassi e radici: un'esperienza da vivere insieme, grandi e piccoli. Ci avventureremo con le nostre biciclette tra salite e lunghe discese!
 Proveremo anche a riflettere sull'impatto che hanno i mezzi (incluse le biciclette) negli ambienti naturali e l'importanza della biodiversità per l'essere umano.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
@@ -30,13 +30,13 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Ritrovo:** Montegaudio (Pesaro) ore 16:30 
 
-**Rientro:** ore 19:00
+**Rientro:** Villa Ugolini ore 19:00
 
 **Difficoltà:** Abbastanza Facile 
 
-**Dislivello in salita:**  100 m. circa
+**Dislivello in salita:**  150 m. circa
 
-**Distanza:** 6 Km
+**Distanza:** 7 Km
 
 **Durata:** 2 ore circa
 
