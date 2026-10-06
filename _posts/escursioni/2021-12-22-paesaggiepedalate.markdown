@@ -47,5 +47,8 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Guida:** Marco Triches, Balza del Sole GAE LAGAP (tessera n.368)
 *Guida Naturalistica delle Marche*
+*Guida del Parco Nazionale Dolomiti Bellunesi*
 
-**Informazioni e prenotazioni:** 3281834019 info@balzadelsole.com
+**Informazioni e prenotazioni:** 
+3281834019 
+info@balzadelsole.com
