@@ -27,9 +27,9 @@ Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vi
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Montegaudio (Pesaro) ore 16:30 
+**Ritrovo:** Fontecorniale ore 16:30 
 
-**Rientro:** Villa Ugolini ore 19:00
+**Rientro:** Montegaudio ore 19:00
 
 **Difficoltà:** Abbastanza Facile 
 
