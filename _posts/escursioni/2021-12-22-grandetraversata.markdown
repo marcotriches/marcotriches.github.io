@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Paesaggi e pedalate"
+title:  "La grande traversata"
 date:  2021-12-22 19:00:00 +0100
-day: "ven 9 ott 2026"
+day: "ven 16 ott 2026"
 meeting: "16:30"
 category: [appennino, educazione-ambientale]
-distanza: 7 Km
+distanza: 8 Km
 difficult: 1
-image: paesaggiepedalate.jpg
+image: grandetraversata.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -16,15 +16,14 @@ image: paesaggiepedalate.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-Nuovo anno in compagnia di **Nel mio paese c'è un bosco**!
-Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vicina alle nostre case andando a esplorare sentieri, boschetti, fossi e colline.
-
-Escursione in bicicletta per esplorare le stradine che conducono da Montegaudio a Villa Ugolini.
-Stradine bianche, sentierini, discese su sassi e radici: un'esperienza da vivere insieme, grandi e piccoli. Ci avventureremo con le nostre biciclette tra salite e lunghe discese!
-Proveremo anche a riflettere sull'impatto che hanno i mezzi (incluse le biciclette) negli ambienti naturali e l'importanza della biodiversità per l'essere umano.
+Quasi ci siamo! Il buio arriva sempre prima e siamo pronti ad avventurarci con le torce tra boschi e stradine. In questa fase autunnale ancora sfruttiamo la luce del giorno per andare in gita con le nostre biciclette.
+Come se fossimo in partenza per un lungo viaggio su due ruote, saliremo i colli di Fontecorniale per poi tuffarci in discesa tra sentierini e mulattiere sassose.
+Il bosco tutto intorno a noi.
+Quest'avventura terminerà a Montegaudio poco dopo l'orario del tramonto.
+Durante questa gita proveremo anche a riflettere sull'impatto che hanno i mezzi (incluse le biciclette) negli ambienti naturali e l'importanza della biodiversità per l'essere umano.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
-
+Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vicina alle nostre case andando a esplorare sentieri, boschetti, fossi e colline.
 
 **Età adatta:** Da 5 a 11 anni 
 
@@ -36,7 +35,7 @@ Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agl
 
 **Dislivello in salita:**  150 m. circa
 
-**Distanza:** 7 Km
+**Distanza:** 8 Km
 
 **Durata:** 2 ore circa
 
