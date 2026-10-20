@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "La grande traversata"
-date:  2021-12-22 19:00:00 +0100
-day: "ven 16 ott 2026"
+title:  "Montemarino in bici"
+date:  2021-12-11 19:00:00 +0100
+day: "ven 23 ott 2026"
 meeting: "16:30"
 category: [appennino, educazione-ambientale]
 distanza: 8 Km
 difficult: 1
-image: grandetraversata.jpg
+image: montemarinobici.jpg
 ---
 
 ## Nel mio paese c'è un bosco
@@ -16,10 +16,11 @@ image: grandetraversata.jpg
 
 Attività di educazione ambientale e di esplorazione della natura e dei suoi abitanti.
 
-Quasi ci siamo! Il buio arriva sempre prima e siamo pronti ad avventurarci con le torce tra boschi e stradine. In questa fase autunnale ancora sfruttiamo la luce del giorno per andare in gita con le nostre biciclette.
-Come se fossimo in partenza per un lungo viaggio su due ruote, saliremo i colli di Fontecorniale per poi tuffarci in discesa tra sentierini e mulattiere sassose.
+Ultima biciclettata per quest'anno con una discesa lunga un pomneriggio da Montemarino a Villa Ugolini!
+
+Come se fossimo in partenza per un lungo viaggio su due ruote, saliremo i colli di per poi tuffarci in discesa tra sentierini e mulattiere sassose.
 Il bosco tutto intorno a noi.
-Quest'avventura terminerà a Montegaudio poco dopo l'orario del tramonto.
+
 Durante questa gita proveremo anche a riflettere sull'impatto che hanno i mezzi (incluse le biciclette) negli ambienti naturali e l'importanza della biodiversità per l'essere umano.
 
 Le attività di **Nel mio paese c'è un bosco** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
@@ -33,7 +34,7 @@ Tutti i venerdì pomeriggio ci occuperemo di alcuni aspetti della Natura più vi
 
 **Difficoltà:** Abbastanza Facile 
 
-**Dislivello in salita:**  150 m. circa
+**Dislivello in salita:**  100 m. circa
 
 **Distanza:** 8 Km
 
