@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Erbario, boschi caldi"
-date:  2022-01-04 19:00:00 +0100
-day: "ven 15 mag 2026"
-meeting: "16:00"
+title:  "Fungo lì fungo là"
+date:  2021-12-06 19:00:00 +0100
+day: "ven 6 nov 2026"
+meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
@@ -18,7 +18,7 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 
 **Nel mio paese c'è un bosco** riparte con i percorsi a piedi e lo fa con un viaggio nel mondo dei funghi.
 
-In compagnoia di **Lorenzo Pizzorno** andremo per vari boschi alla ricerca delle specie più conosciute, cercando di capire dove abitano e come comportarsi davanti al ritrovamento di un fungo.
+In compagnia di **Lorenzo Pizzorno** andremo per vari boschi alla ricerca delle specie più conosciute, cercando di capire dove abitano e come comportarsi davanti al ritrovamento di un fungo.
 Non solo cibo molto speciale ma, soprattutto, segnali di un ecosistema da preservare.
 
 Alberi e funghi viaggiano insieme, e noi sulle loro tracce!
