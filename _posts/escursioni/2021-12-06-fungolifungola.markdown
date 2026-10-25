@@ -7,7 +7,7 @@ meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: boschicaldi.jpg
+image: fungolifungola.jpg
 ---
 
 ## Nel mio paese c'è un bosco
