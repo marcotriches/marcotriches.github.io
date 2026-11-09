@@ -2,12 +2,12 @@
 layout: post
 title:  "Fungo lì fungo là"
 date:  2021-12-06 19:00:00 +0100
-day: "ven 6 nov 2026"
+day: "ven 13 nov 2026"
 meeting: "15:30"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
-image: fungolifungola1.jpg
+image: fungolifungola2.jpg
 ---
 
 ## Nel mio paese c'è un bosco
