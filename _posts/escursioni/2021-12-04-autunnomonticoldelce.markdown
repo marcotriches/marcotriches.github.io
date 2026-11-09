@@ -2,12 +2,12 @@
 layout: post
 title:  "Autunno sui monti di Coldelce"
 date:  2021-12-04 20:00:00 +0100
-day: "dom 8 nov 2026"
+day: "dom 15 nov 2026"
 meeting: "09:00"
 category: appennino
 distanza: 8Km
 difficult: 2
-image: autunnocoldelce.jpg
+image: autunnocoldelce1.jpg
 ---
 
 ## Cammino tra boschi e sentieri di confine
