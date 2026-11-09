@@ -19,7 +19,7 @@ Il percorso verrà accompagnato da racconti e storie dedicate al **Piccolo Appen
 
 **Ritrovo:** Montegaudio (Pesaro) ore 09:00
 
-**Rientro:** ore 13:00 
+**Rientro:** ore 14:00 
 
 **Durata:** 4 ore circa (incluse soste)
 
@@ -31,7 +31,7 @@ Il percorso verrà accompagnato da racconti e storie dedicate al **Piccolo Appen
 
 **Costo:** Adulti 15€   Minori 10€ 
 
-**Portare:** Scarponcini o scarpe da campagna, vestiario a strati, Kway, acqua (1 litro e mezzo), qualcosa da mangiare, cambio vestiti e scarpe in auto, bastoncini chi li usa.
+**Portare:** Scarponcini o scarpe da campagna, vestiario a strati, Kway, acqua (1 litro e mezzo), pranzo al sacco, cambio vestiti e scarpe in auto, bastoncini chi li usa.
 
 **Note:** Le guide si riservano di modificare l'itinerario in base alle condizioni ambientali di giornata. L'escursione verrà confermata con un minimo di 5 iscritti
 
