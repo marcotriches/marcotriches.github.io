@@ -5,7 +5,7 @@ date:  2021-12-04 20:00:00 +0100
 day: "dom 22nov 2026"
 meeting: "09:30"
 category: appennino
-distanza: 12 Km
+distanza: 12Km
 difficult: 3
 image: sulsentieroitalia1.jpg
 ---
