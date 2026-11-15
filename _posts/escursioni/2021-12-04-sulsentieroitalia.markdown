@@ -2,7 +2,7 @@
 layout: post
 title:  "Sul Sentiero Italia"
 date:  2021-12-04 20:00:00 +0100
-day: "dom 22 nov 2026"
+day: "dom 22nov 2026"
 meeting: "09:30"
 category: appennino
 distanza: 12 Km
