@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campagna selvagge"
+title:  "Campagne selvagge"
 date:  2021-12-06 19:00:00 +0100
 day: "ven 20 nov 2026"
 meeting: "15:30"
