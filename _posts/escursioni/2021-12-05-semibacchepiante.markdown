@@ -7,7 +7,7 @@ meeting: "10:00"
 category: [appennino, educazione-ambientale]
 distanza: 5 Km
 difficult: 1
-image: semibacchepoante.jpg
+image: semibacchepoiante.jpg
 ---
 
 ## Scarponi ruggenti
