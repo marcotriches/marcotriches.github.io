@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Fogliame e tronchi scuri"
+title:  "Semi bacche e piante"
 date:  2021-12-05 19:00:00 +0100
-day: "sab 14 nov 2026"
+day: "sab 21 nov 2026"
 meeting: "10:00"
 category: [appennino, educazione-ambientale]
-distanza: 4 Km
+distanza: 5 Km
 difficult: 1
-image: fogliame.jpg
+image: semibacchepoante.jpg
 ---
 
 ## Scarponi ruggenti
@@ -19,7 +19,7 @@ Attività di educazione ambientale e di esplorazione della natura e dei suoi abi
 **Scarponi ruggenti** è la nostra proposta di escursioni, avventure ed educazione ambientale del sabato mattina.
  Un percorso lungo i sentieri, i luoghi naturali del primo entroterra pesarese per esplorare la vegetazione, gli animali, i paesaggi e le storie del territorio. Appuntamenti del sabato mattina, a pochi passi da casa, per crescere insieme immersi nella natura. A piedi o in bicicletta, o con i laboratori ci avventuriamo alla scoperta della Natura del nostro territorio!
 
-Per questo appuntamento andiamo alla scoperta del fogliame, ovvero le forme e i colori che assumono alberi e arbusti nelle nostre campagne in questo peripdp dell'anno! 
+In questo appuntamento andiamo alla ricerca delle coloratissime bacche, drupe e altri frutti al termine di quest'Autunno, tra rami secchi, flglie e nascondigli.
 L'atttività è accompagnata da letture a tema.
  
 Le attività di **Scarponi ruggenti** sono rivolte a bambini dai 5 agli 11 anni, accompagnati o meno dai genitori.
@@ -27,7 +27,7 @@ Le attività di **Scarponi ruggenti** sono rivolte a bambini dai 5 agli 11 anni,
 
 **Età adatta:** Da 5 a 11 anni 
 
-**Ritrovo:** Villa Ugolini (Pesaro) ore 10:00 
+**Ritrovo:** Montegaudio (Pesaro) ore 10:00 
 
 **Rientro:** ore 12:00
 
@@ -35,7 +35,7 @@ Le attività di **Scarponi ruggenti** sono rivolte a bambini dai 5 agli 11 anni,
 
 **Dislivello in salita:**  150 m. circa
 
-**Distanza:** 4 Km
+**Distanza:** 5 Km
 
 **Durata:** 2 ore circa
 
