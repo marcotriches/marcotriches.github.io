@@ -26,7 +26,7 @@ A seguire, in sequenza, attraversamento delle forcelle Palughet e Zervoi (1685 m
 
 **Rientro:** ore 16:00 circa 
 
-**Difficoltà:** EE -. Escursionisti Esperti 
+**Difficoltà:** E - Escursionisti  
 
 **Dislivello in salita:**  1300 m. circa
 
