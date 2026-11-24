@@ -12,7 +12,7 @@ image: traversataronch.jpg
 
 ## Parco Nazionale Dolomiti Bellunesi
 
-# Da Faà a Bellunbo per Becola, Palughet e Rui Fret
+# Da Faè a Bellunbo per Becola, Palughet e Rui Fret
 
 Per un viaggio solitario nel Parco Nazionale delle Dolomiti Bellunesi, in questo periodo dell'anno, proponiamo una traversatasul fianco Orientale del gruppo della Schiara. 
 Con partenza da località Faè, quota 430 m si risale il promontorio di Fortignasi con il sentiero C.A.I. 571 per raggiungere Casera Becola (1430 m) e Cima delle Saline (1610 m).
