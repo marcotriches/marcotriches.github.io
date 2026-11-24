@@ -7,7 +7,7 @@ meeting: "08:00"
 category: dolomiti 
 distanza: 16Km  
 difficult: 3
-image: traversatadeironch.jpg
+image: traversataronch.jpg
 ---
 
 ## Parco Nazionale Dolomiti Bellunesi
