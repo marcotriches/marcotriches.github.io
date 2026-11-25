@@ -28,7 +28,7 @@ Il vento, le nubi, le perturbazioni portano colori e atmosfere nuove, luogo idea
 
 **Durata:** 5 ore circa (pausa pranzo e soste incluse)
 
-**Costo:** 18€
+**Costo:** 20€
 
 **Portare:** Scarponi, vestiario a strati, Kway, guscio o giacca, acqua (1 litro e mezzo), pranzo al sacco + frutta secca o snack, cappello, guanti, torcia, cambio vestiti e scarpe in auto, bastoncini e binocolo (per chi ne facesse uso). 
 
