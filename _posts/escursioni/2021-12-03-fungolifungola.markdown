@@ -3,7 +3,7 @@ layout: post
 title:  "Fungo lì fungo là"
 date:  2021-12-03 19:00:00 +0100
 day: "sab 28 nov 2026"
-meeting: "10🕥0"
+meeting: "10:00"
 category: [appennino, educazione-ambientale]
 distanza: 4 Km
 difficult: 1
